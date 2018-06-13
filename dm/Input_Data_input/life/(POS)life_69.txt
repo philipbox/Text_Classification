@@ -1,0 +1,89 @@
+서울	서울/NNP
+장애인콜택시	장애인콜택시/NNG
+전기차	전기차/NNG
+기본료	기본/NNG+료/XSN
+1천500원	1/SN+천/NR+500/SN+원/NNB
+
+(서울=연합뉴스)	(/SS+서울/NNP+=/SW+연합뉴스/NNP+)/SS
+국기헌	국기헌/NNG
+기자	기자/NNG
+=	=/SW
+서울지역에서	서울/NNP+지역/NNG+에서/JKB
+운행하는	운행하/VV+는/ETM
+장애인콜택시	장애인콜택시/NNG
+전기차의	전기차/NNG+의/JKG
+기본요금이	기본요금/NNG+이/JKS
+1천500원으로	1/SN+천/NR+500/SN+원/NNB+으로/JKB
+정해졌다	정하/VV+여/EC+지/VX+었/EP+다/EF
+
+서울시는	서울시/NNP+는/JX
+`교통	`/SW+교통/NNG
+약자의	약자/NNG+의/JKG
+이동편의	이동편/NNG+의/JKG
+증진에	증진/NNG+에/JKB
+관한	관하/VV+ㄴ/ETM
+조례'에	조례/NNG+'/SS+에/JKB
+따라	따르/VV+아/EC
+장애인콜택시	장애인콜택시/NNG
+전기차의	전기차/NNG+의/JKG
+기본요금을	기본요금/NNG+을/JKO
+1천500원(5㎞	1/SN+천/NR+500/SN+원/NNB+(/SS+5/SN+㎞/SW
+까지)으로	까지/JX+)/SS+으로/JKB
+정하고	정하/VV+고/EC
+다음달	다음달/NNG
+5일부터	5/SN+일/NNB+부터/JX
+시행한다고	시행하/VV+ㄴ다고/EC
+29일	29/SN+일/NNB
+밝혔다	밝히/VV+었/EP+다/EC
+
+5㎞	5/SN+㎞/SW
+이상	이상/NNG
+10㎞	10/SN+㎞/SW
+미만의	미만/NNG+의/JKG
+거리는	거리/NNG+는/JX
+㎞마다	㎞/SW+마다/JX
+300원의	300/SN+원/NNB+의/JKG
+추가	추가/NNG
+요금이	요금/NNG+이/JKS
+붙는다	붙/VV+는다/EF
+
+10㎞를	10/SN+㎞/SW+를/JKO
+초과하면	초과하/VV+면/EC
+㎞마다	㎞/SW+마다/JX
+35원의	35/SN+원/NNB+의/JKG
+요금을	요금/NNG+을/JKO
+더	더/MAG
+내야	내/VV+어야/EC
+한다	하/VX+ㄴ다/EF
+
+단,	단/NNG+,/SP
+최종	최종/NNG
+요금에서	요금/NNG+에서/JKB
+100원	100/SN+원/NNB
+단위	단위/NNG
+미만의	미만/NNG+의/JKG
+요금은	요금/NNG+은/JX
+깎아준다	깎/VV+아/EC+주/VX+ㄴ다/EF
+
+penpia21@yna	penpia/SL+21/SN+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

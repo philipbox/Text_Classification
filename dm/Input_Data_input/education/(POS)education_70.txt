@@ -1,0 +1,261 @@
+장애인	장애인/NNG
+약	약/MM
+900명	900/SN+명/NNB
+‘2013학년	‘2013/SN+학년/NNG
+수능’	수능/NNG+’/SN
+응시	응시/NNG
+
+‘2013학년도	‘/SL+2013/SN+학년도/NNG
+대학수학능력시험’(11월	대학수학능력시험/NNG+’/SN+(/SS+11/SN+월/NNB
+8일)이	8/SN+일/NNB+)/SS+이/JKS
+얼마	얼마/NNG
+남지	남/VV+지/EC
+않았다	않/VX+았/EP+다/EF
+
+올해	올해/NNG
+수능에	수능/NNG+에/JKB
+응시하는	응시하/VV+는/ETM
+장애	장애/NNG
+수험생은	수험생/NNG+은/JX
+얼마나	얼마나/MAG
+될까?한국교육과정평가원의	되/VV+ㄹ까/EF+?/SF+한국교육과정평가원/NNP+의/JKG
+‘2013학년도	‘/SL+2013/SN+학년도/NNG
+대학수학능력시험(이하	대학수학능력시험/NNG+(/SS+이하/NNG
+수능)	수능/NNG+)/SS
+특별관리대상자	특별관리대상자/NNG
+현황’에	현황/NNG+’/SL+에/JKB
+따르면	따르/VV+면/EC
+장애수험생을	장애수험생/NNG+을/JKO
+포함한	포함하/VV+ㄴ/ETM
+시험특별관리대상자가	시험특별관리대상자/NNG+가/JKS
+총	총/MM
+935명인	935/SN+명/NNB+이/VCP+ㄴ/ETM
+것을	것/NNB+을/JKO
+집계됐다	집계되/VV+었/EP+다/EF
+
+장애유형별	장애유형별/NNP
+응시	응시/NNG
+현황을	현황/NNG+을/JKO
+살펴보면	살펴보/VV+면/EC
+청각장애	청각장애/NNG
+수험생이	수험생/NNG+이/JKS
+285명으로	285/SN+명/NNB+으로/JKB
+가장	가장/MAG
+많이	많이/MAG
+수능을	수능/NNG+을/JKO
+치른다	치르/VV+ㄴ다/EC
+
+이어	이어/MAG
+기타(정신장애·틱장애,	기타/NNG+(/SS+정신장애/NNG+·/SP+틱장애/NNG+,/SP
+재소자	재소자/NNG
+등)	등/NNB+)/SS
+203명,	203/SN+명/NNB+,/SP
+시각장애(저시력	시각장애/NNG+(/SS+저시력/NNG
+포함)	포함/NNG+)/SS
+162명,	162/SN+명/NNB+,/SP
+뇌병변장애	뇌병변장애/NNG
+143명,	143/SN+명/NNB+,/SP
+지체부자유(지체장애)	지체부자유/NNG+(/SS+지체장애/NNG+)/SS
+142명	142/SN+명/NNB
+순이었다	순/XSN+이/VCP+었/EP+다/EF
+
+장애수험생이	장애수험생/NNG+이/JKS
+수능원서	수능원/NNG+서/JKB
+제출	제출/NNG
+시	시/NNB
+증빙서류를	증빙서류/NNG+를/JKO
+첨부·확인받아야	첨부/NNG+·/SP+확인/NNG+받/VV+아야/EC
+지원	지원/NNG
+받을	받/VV+을/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+시험편의는	시험편의/NNG+는/JX
+‘2012학년도	‘/SL+2012/SN+학년도/NNG
+수능’과	수능/NNG+’/SL+과/JKB
+달라진	달라지/VV+ㄴ/ETM
+게	것/NNB+이/JKS
+없다	없/VA+다/EC
+
+시각장애(전맹)	시각장애/NNG+(/SS+전맹/NNG+)/SS
+수험생에게는	수험생/NNG+에게/JKB+는/JX
+점자문제지	점자/MAG+문제지/NNG
+및	및/MAG
+음성평가자료(1,3,4교시	음성평가자료/NNG+(/SS+1,3,4/SN+교시/NNB
+문제가	문제/NNG+가/JKS
+녹음된	녹음되/VV+ㄴ/ETM
+테이프:1,3교시	테이프/NNG+:/SP+1,3/SN+교시/NNB
+듣기평가	듣기평가/NNG
+문제	문제/NNG
+제외)가	제외/NNG+)/SS+가/JKS
+배부되고,	배부되/VV+고/EC+,/SP
+매	매/MM
+교시별	교시별/NNG
+시험시간이	시험시간/NNG+이/JKS
+1	1/SN
+
+7배	7/SN+배/NNG
+연장된다	연장되/VV+ㄴ다/EF
+
+유의할	유의하/VV+ㄹ/ETM
+점은	점/NNG+은/JX
+점자판,	점자판/NNG+,/SP
+점필,	점필/NNG+,/SP
+테이프	테이프/NNG
+플레이어기(1,3,4교시	플레이어기/NNG+(/SS+1,3,4/SN+교시/NNB
+문제	문제/NNG
+듣기용)는	듣/VV+기/ETN+용/XSN+)/SS+는/JX
+수험생	수험생/NNG
+본인이	본인/NNG+이/JKS
+지참해야	지참하/VV+여야/EC
+사용할	사용하/VV+ㄹ/ETM
+수	수/NNB
+있다는	있/VA+다는/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+저시력	저시력/NNG
+수험생(두	수험생/NNG+(/SS+두/MM
+눈의	눈/NNG+의/JKG
+교정시력이	교정시력/NNG+이/JKS
+0	0/SN
+
+04이상	04/SN+이상/NNG
+0	0/SN
+
+3미만인	3/SN+미/NR+만/NNB+이/VCP+ㄴ/ETM
+자)은	자/NNB+)/SS+은/JX
+확대독서기를	확대독서기/NNG+를/JKO
+사용(개인	사용/NNG+(/SS+개인/NNG
+지참)할	지참/NNG+)/SS+하/XSV+ㄹ/ETM
+수	수/NNB
+있고,	있/VA+고/EC+,/SP
+수험생이	수험생/NNG+이/JKS
+원할	원하/VV+ㄹ/ETM
+경우	경우/NNG
+확대문제지(118%,	확대문제지/NNG+(/SS+118/SN+%/SW+,/SP
+200%,	200/SN+%/SW+,/SP
+350%	350/SN+%/SW
+중	중/NNB
+택	택/NNG
+1)가	1/SN+)/SS+가/JKS
+주어진다	주어지/VV+ㄴ다/EC
+
+시험시간은	시험시간/NNG+은/JX
+매	매/MM
+교시별	교시별/NNG
+1	1/SN
+
+5배	5/SN+배/NNG
+연장된다	연장되/VV+ㄴ다/EF
+
+뇌병변장애	뇌병변장애/NNG
+수험생도	수험생/NNG+도/JX
+매	매/MM
+교시별	교시별/NNG
+1	1/SN
+
+5배의	5/SN+배/NNG+의/JKG
+시험시간을	시험시간/NNG+을/JKO
+연장	연장/NNG
+받는다	받/VV+는다/EC
+
+원하는	원하/VV+는/ETM
+수험생에	수험생/NNG+에/JKB
+한해	한하/VV+여/EC
+답안지	답안지/NNG
+작성시	작성/NNG+시/NNB
+이기요원의	이기요원/NNG+의/JKG
+도움을	도움/NNG+을/JKO
+받을	받/VV+을/ETM
+수	수/NNB
+있다	있/VA+다/EC
+
+청각장애	청각장애/NNG
+수험생은	수험생/NNG+은/JX
+청력의	청력/NNG+의/JKG
+손실	손실/NNG
+정도에	정도/NNG+에/JKB
+따라	따르/VV+아/EC
+지필검사	지필검사/NNG
+대상자와	대상자/NNG+와/JC
+보청기	보청기/NNG
+사용	사용/NNG
+대상자로	대상자/NNG+로/JKB
+나눠진다	나누/VV+어/EC+지/VX+ㄴ다/EF
+
+지필검사를	지필/NNP+검사/NNG+를/JKO
+희망하는	희망하/VV+는/ETM
+학생은	학생/NNG+은/JX
+듣기	듣/VV+기/ETN
+평가	평가/NNG
+문항을	문항/NNG+을/JKO
+대본으로	대본/NNG+으로/JKB
+받아	받/VV+아/EC
+문제를	문제/NNG+를/JKO
+풀게	풀/VV+게/EC
+되고,	되/VV+고/EC+,/SP
+보청기	보청기/NNG
+사용	사용/NNG
+대상자는	대상자/NNG+는/JX
+보청기를	보청기/NNG+를/JKO
+사용해	사용하/VV+여/EC
+듣기평가를	듣기평가/NNG+를/JKO
+치른다	치르/VV+ㄴ다/EC
+
+시험시간은	시험시간/NNG+은/JX
+비장애인수험생과	비장애인수험생/NNG+과/JKB
+동일하다	동일하/VA+다/EC
+
+이번	이번/NNG
+수능	수능/NNG
+성적통지표는	성적통지표/NNG+는/JX
+11월	11/SN+월/NNB
+28일까지	28/SN+일/NNB+까지/JX
+수험생에게	수험생/NNG+에게/JKB
+배부될	배부되/VV+ㄹ/ETM
+예정이다	예정/NNG+이/VCP+다/EC
+
+재학생은	재학생/NNG+은/JX
+재학	재학/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+학교,	학교/NNG+,/SP
+졸업생	졸업생/NNG
+및	및/MAG
+검정고시	검정고시/NNG
+수험생	수험생/NNG
+등은	등/NNB+은/JX
+원서를	원서/NNG+를/JKO
+접수한	접수하/VV+ㄴ/ETM
+기관에서	기관/NNG+에서/JKB
+받을	받/VV+을/ETM
+수	수/NNB
+있다	있/VA+다/EF
+
+수능	수능/NNG
+문제와	문제/NNG+와/JC
+정답은	정답/NNG+은/JX
+수능	수능/NNG
+당일	당일/NNG
+시각장애	시각장애/NNG
+수험생의	수험생/NNG+의/JKG
+매	매/MM
+교시	교시/NNG
+시험	시험/NNG
+종료	종료/NNG
+후	후/NNG
+한국교육과정평가원	한국교육과정평가원/NNP
+홈페이지(www	홈페이지/NNG+(/SS+www/SL
+
+kice	kice/SL
+
+re	re/SL
+
+kr)에	kr/SL+)/SS+에/JKB
+공개된다	공개되/VV+ㄴ다/EF
+
+한편	한편/MAG
+지난	지나/VV+ㄴ/ETM
+2012학년도	2012/SN+학년도/NNG
+수능에는	수능/NNG+에/JKB+는/JX
+960명의	960/SN+명/NNB+의/JKG
+시험특별관리대상자들이	시험특별관리대상자/NNG+들/XSN+이/JKS
+응시했다	응시하/VV+였/EP+다/EC

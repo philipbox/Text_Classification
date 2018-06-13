@@ -1,0 +1,126 @@
+서울	서울/NNP
+중구,	중구/NNG+,/SP
+장애인전용주차	장애인전용주차/NNG
+위반	위반/NNG
+집중단속	집중단속/NNG
+
+(서울=연합뉴스)	(/SS+서울/NNP+=/SW+연합뉴스/NNP+)/SS
+이슬기	이슬기/NNG
+기자	기자/NNG
+=	=/SW
+서울	서울/NNP
+중구(구청장	중구/NNG+(/SS+구청장/NNG
+최창식)는	최창식/NNP+)/SS+는/JX
+장애인전용주차구역의	장애인전용주차구역/NNG+의/JKG
+위반	위반/NNG
+차량을	차량/NNG+을/JKO
+집중단속한다고	집중단속하/VV+ㄴ다고/EC
+23일	23/SN+일/NNB
+밝혔다	밝히/VV+었/EP+다/EC
+
+구는	구/NNG+는/JX
+올	올/NNG
+1월부터	1/SN+월/NNB+부터/JX
+10월까지	10/SN+월/NNB+까지/JX
+총	총/MM
+194건을	194/SN+건/NNB+을/JKO
+단속하고	단속하/VV+고/EC
+과태료	과태료/NNG
+1천940만원을	1/SN+천/NR+940/SN+만/NR+원/NNB+을/JKO
+부과했다	부과하/VV+였/EP+다/EF
+
+단속	단속/NNG
+건수는	건수/NNG+는/JX
+지난해	지난해/NNG
+88건보다	88/SN+건/NNB+보다/JKB
+120%,	120/SN+%/SW+,/SP
+과태료	과태료/NNG
+부과	부과/NNG
+금액은	금액/NNG+은/JX
+지난해	지난해/NNG
+880만원에	880/SN+만/NR+원/NNB+에/JKB
+비해	비하/VV+여/EC
+1천60만원	1/SN+천/NR+60/SN+만/NR+원/NNB
+늘어난	늘어나/VV+ㄴ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+구는	구/NNG+는/JX
+장애인	장애인/NNG
+자동차	자동차/NNG
+표지를	표지/NNG+를/JKO
+부착하지	부착하/VV+지/EC
+않은	않/VX+은/ETM
+차량이나	차량/NNG+이나/JC
+표지를	표지/NNG+를/JKO
+부착했더라도	부착하/VV+였/EP+더라도/EC
+보행상	보행/NNG+상/XSN
+장애가	장애/NNG+가/JKS
+있는	있/VA+는/ETM
+자가	자/NNB+가/JKS
+탑승하지	탑승하/VV+지/EC
+않은	않/VX+은/ETM
+자동차를	자동차/NNG+를/JKO
+장애인전용주차구역에	장애인전용주차구역/NNG+에/JKB
+주차한	주차하/VV+ㄴ/ETM
+경우	경우/NNG
+등을	등/NNB+을/JKO
+단속한다	단속하/VV+ㄴ다/EF
+
+아파트,	아파트/NNG+,/SP
+대형마트,	대형마트/NNG+,/SP
+병원,	병원/NNG+,/SP
+공공건물	공공건물/NNG
+등의	등/NNB+의/JKG
+장애인전용주차구역에서	장애인전용주차구역/NNG+에서/JKB
+불법	불법/NNG
+주정차한	주정차하/VV+ㄴ/ETM
+차량에	차량/NNG+에/JKB
+대해	대하/VV+여/EC
+일반	일반/NNG
+주정차	주정차/NNG
+위반	위반/NNG
+과태료의	과태료/NNG+의/JKG
+2배인	2/SN+배/NNG+이/VCP+ㄴ/ETM
+10만원을	10/SN+만/NR+원/NNB+을/JKO
+부과하고	부과하/VV+고/EC
+있다	있/VX+다/EC
+
+최창식	최창식/NNP
+구청장은	구청장/NNG+은/JX
+"장애인들의	"/SS+장애인/NNG+들/XSN+의/JKG
+사회참여를	사회참여/NNG+를/JKO
+위해	위하/VV+여/EC
+운영하는	운영하/VV+는/ETM
+장애인전용주차구역이	장애인전용주차구역/NNG+이/JKS
+원래	원래/NNG
+취지대로	취지/NNG+대로/JX
+운영될	운영되/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+단속을	단속/NNG+을/JKO
+강화할	강화하/VV+ㄹ/ETM
+계획"이라고	계획/NNG+"/SS+이라고/JKQ
+말했다	말하/VV+였/EP+다/EC
+
+wise@yna	wise/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

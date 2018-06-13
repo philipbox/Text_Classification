@@ -1,0 +1,78 @@
+'제32회	'/SS+제/XPN+32/SN+회/NNB
+전국장애인체전'	전/MM+국장애인체전/NNG+'/SS
+8일	8/SN+일/NNB
+개막	개막/NNG
+
+'제32회	'/SS+제/XPN+32/SN+회/NNB
+전국장애인체육대회'가	전/MM+국장애인체육대회/NNG+'/SS+가/JKS
+오는	오/VV+는/ETM
+8일부터	8/SN+일/NNB+부터/JX
+12일까지	12/SN+일/NNB+까지/JX
+5일	5/SN+일/NNB
+동안	동안/NNG
+전국	전국/NNG
+16개	16/SN+개/NNB
+시·도	시/NNG+·/SP+도/NNG
+선수	선수/NNG
+및	및/MAG
+임원	임원/NNG
+6900여명이	6900/SN+여/XSN+명/NNB+이/JKS
+참가한	참가하/VV+ㄴ/ETM
+가운데	가운데/NNG
+고양시	고양시/NNP
+등	등/NNB
+경기도	경기도/NNP
+일원에서	일원/NNG+에서/JKB
+열린다	열리/VV+ㄴ다/EF
+
+대한장애인체육회가	대한/NNP+장애인체육회/NNG+가/JKS
+주최하고	주최하/VV+고/EC
+경기도,	경기도/NNP+,/SP
+경기도교육청,	경기도교육청/NNP+,/SP
+경기도장애인체육회가	경기도/NNP+장애인체육회/NNG+가/JKS
+주관하는	주관하/VV+는/ETM
+이번	이번/NNG
+대회는	대회/NNG+는/JX
+8일	8/SN+일/NNB
+오후	오후/NNG
+6시	6/SN+시/NNB
+고양시종합운동장에서	고양시종합/NNP+운동장/NNG+에서/JKB
+'마음에서	'/SS+마음/NNG+에서/JKB
+마음으로	마음/NNG+으로/JKB
+이어지는	이어지/VV+는/ETM
+세상'이라는	세상/NNG+'/SS+이/VCP+라는/ETM
+주제의	주제/NNG+의/JKG
+개회식을	개회식/NNG+을/JKO
+시작으로	시작/NNG+으로/JKB
+열전에	열전/NNG+에/JKB
+돌입한다	돌입하/VV+ㄴ다/EF
+
+경기는	경기/NNP+는/JX
+골볼,	골볼/NNG+,/SP
+농구	농구/NNG
+당구,	당구/NNG+,/SP
+댄스스포츠,	댄스스포츠/NNP+,/SP
+배드민턴	배드민턴/NNG
+등	등/NNB
+25개	25/SN+개/NNB
+정식종목을	정식종목/NNG+을/JKO
+비롯해	비롯하/VV+여/EC
+전시종목으로	전시종목/NNG+으로/JKB
+바둑,	바둑/NNG+,/SP
+게이트볼이	게이트볼/NNG+이/JKS
+진행된다	진행되/VV+ㄴ다/EC
+
+경기일정과	경기일정/NNG+과/JC
+결과는	결과/NNG+는/JX
+대회공식	대/XPN+회공식/NNG
+홈페이지	홈페이지/NNG
+(http://national	(/SS+http/SL+:///SP+national/SL
+
+kosad	kosad/SL
+
+or	or/SL
+
+kr)에서	kr/SL+)/SS+에서/JKB
+확인할	확인하/VV+ㄹ/ETM
+수	수/NNB
+있다	있/VA+다/EC

@@ -1,0 +1,393 @@
+치매	치매/NNG
+노인	노인/NNG
+외래환자	외래환자/NNG
+11년새	11/SN+년/NNB+새/NNG
+8배로	8/SN+배/NNG+로/JKB
+
+(서울=연합뉴스)	(/SS+서울/NNP+=/SW+연합뉴스/NNP+)/SS
+신호경	신호경/NNP
+기자	기자/NNG
+=	=/SW
+치매	치매/NNG
+노인	노인/NNG
+가족들의	가족/NNG+들/XSN+의/JKG
+부양	부양/NNG
+부담이	부담/NNG+이/JKS
+사회문제로	사회문제/NNG+로/JKB
+부각되는	부각되/VV+는/ETM
+가운데	가운데/NNG
+지난	지나/VV+ㄴ/ETM
+10여년동안	10/SN+여/XSN+년/NNB+동안/NNG
+주요	주요/NNG
+질환	질환/NNG
+가운데	가운데/NNG
+치매가	치매/NNG+가/JKS
+노인들	노인/NNG+들/XSN
+사이에서	사이/NNG+에서/JKB
+가장	가장/MAG
+빠른	빠르/VA+ㄴ/ETM
+속도로	속도/NNG+로/JKB
+늘었다는	늘/VV+었/EP+다는/ETM
+분석	분석/NNG
+결과가	결과/NNG+가/JKS
+나왔다	나오/VV+았/EP+다/EF
+
+16일	16/SN+일/NNB
+보건사회연구원의	보건사회연구원/NNG+의/JKG
+'노인	'/SS+노인/NNG
+의료이용	의료이용/NNG
+증가와	증가/NNG+와/JC
+시사점'	시사점/NNG+'/SS
+보고서에	보고서/NNG+에/JKB
+따르면	따르/VV+면/EC
+보건당국의	보건당국/NNG+의/JKG
+'환자조사'	'/SS+환자조사/NNG+'/SS
+결과	결과/NNG
+하루에	하루/NNG+에/JKB
+병원에서	병원/NNG+에서/JKB
+치매(질병코드	치매/NNG+(/SS+질병코드/NNG
+F00~03)로	F/SL+00/SN+~/SO+03/SN+)/SS+로/JKB
+외래진료를	외래진료/NNG+를/JKO
+받은	받/VV+은/ETM
+65세이상	65/SN+세/NNB+이상/NNG
+노인은	노인/NNG+은/JX
+1999년	1999/SN+년/NNB
+10만명당	10/SN+만/NR+명/NNB+당/XSN
+평균	평균/NNG
+8	8/SN
+
+2명에서	2/SN+명/NNB+에서/JKB
+2010년	2010/SN+년/NNB
+약	약/MM
+8배인	8/SN+배인/NNG
+66	66/SN
+
+4명으로	4/SN+명/NNB+으로/JKB
+늘었다	늘/VV+었/EP+다/EF
+
+환자조사는	환자조사/NNG+는/JX
+해마다	해마다/MAG
+전국	전국/NNG
+의료기관을	의료기관/NNG+을/JKO
+대상으로	대상/NNG+으로/JKB
+외래·입원	외래/NNG+·/SP+입원/NNG
+환자의	환자/NNG+의/JKG
+질병·상해	질병/NNG+·/SP+상해/NNG
+종류와	종류/NNG+와/JC
+의료이용	의료이용/NNG
+실태	실태/NNG
+등을	등/NNB+을/JKO
+파악하는	파악하/VV+는/ETM
+작업으로,	작업/NNG+으로/JKB+,/SP
+모든	모든/MM
+병원급	병원급/NNG
+기관이	기관/NNG+이/JKS
+조사	조사/NNG
+대상이며	대상/NNG+이/VCP+며/EC
+의원급의	의원급/NNG+의/JKG
+경우	경우/NNG
+표본	표본/NNG
+조사가	조사/NNG+가/JKS
+이뤄진다	이루어지/VV+ㄴ다/EC
+
+11년	11/SN+년/NNB
+동안	동안/NNG
+노인	노인/NNG
+치매	치매/NNG
+외래환자의	외래환자/NNG+의/JKG
+연평균	연평균/NNG
+증가율은	증가율/NNG+은/JX
+25	25/SN
+
+4%에	4/SN+%/SW+에/JKB
+달해	달하/VV+여/EC
+20개	20/SN+개/NNB
+주요질환	주요질환/NNG
+가운데	가운데/NNG
+가장	가장/MAG
+높았다	높/VA+았/EP+다/EC
+
+이어	이어/MAG
+치매와	치매/NNG+와/JC
+연관이	연관/NNG+이/JKS
+있는	있/VA+는/ETM
+파킨슨병(14	파킨슨병/NNG+(/SS+14/SN
+
+6%),	6/SN+%/SW+)/SS+,/SP
+결장·직장암(9	결장/NNG+·/SP+직장암/NNG+(/SS+9/SN
+
+0%),	0/SN+%/SW+)/SS+,/SP
+간암(8	간암/NNG+(/SS+8/SN
+
+3%),	3/SN+%/SW+)/SS+,/SP
+요추·추간판	요추/NNG+·/SP+추간판/NNG
+장애(6	장애/NNG+(/SS+6/SN
+
+6%),	6/SN+%/SW+)/SS+,/SP
+당뇨병(6	당뇨병/NNG+(/SS+6/SN
+
+4%)	4/SN+%/SW+)/SS
+등이	등/NNB+이/JKS
+연평균	연평균/NNG
+증가율	증가율/NNG
+2~4위를	2/SN+~/SO+4/SN+위/NNB+를/JKO
+차지했다	차지하/VV+었/EP+다/EC
+
+반면	반면/NNG
+같은	같/VA+은/ETM
+기간	기간/NNG
+기관지염·만성	기관지염/NNG+·/SP+만성/NNG
+폐질환(연평균	폐질환/NNG+(/SS+연평균/NNG
+-4	-/SO+4/SN
+
+1%),	1/SN+%/SW+)/SS+,/SP
+결핵(-3	결핵/NNG+(/SS+-/SO+3/SN
+
+9%),	9/SN+%/SW+)/SS+,/SP
+천식(-2	천식/NNG+(/SS+-/SO+2/SN
+
+0%)	0/SN+%/SW+)/SS
+등은	등/NNB+은/JX
+오히려	오히려/MAG
+환자가	환자/NNG+가/JKS
+줄어드는	줄어들/VV+는/ETM
+추세를	추세/NNG+를/JKO
+보였다	보이/VV+었/EP+다/EF
+
+치매는	치매/NNG+는/JX
+질환별	질환/NNG+별/XSN
+노인	노인/NNG
+입원환자	입원환자/NNG
+증가율에서도	증가율/NNG+에서/JKB+도/JX
+1위에	1/SN+위/NNB+에/JKB
+올랐다	오르/VV+았/EP+다/EC
+
+치매로	치매/NNG+로/JKB
+입원했다가	입원하/VV+였/EP+다가/EC
+퇴원한	퇴원하/VV+ㄴ/ETM
+환자는	환자/NNG+는/JX
+1999년	1999/SN+년/NNB
+인구	인구/NNG
+10만명당	10/SN+만/NR+명/NNB+당/XSN
+137명에	137/SN+명/NNB+에/JKB
+불과했으나	불과하/VA+였/EP+으나/EC
+2010년에는	2010/SN+년/NNB+에/JKB+는/JX
+6배인	6/SN+배/NNG+이/VCP+ㄴ/ETM
+841	841/SN
+
+5명으로	5/SN+명/NNB+으로/JKB
+급증했다	급증하/VV+였/EP+다/EF
+
+11년	11/SN+년/NNB
+동안	동안/NNG
+한해	한/MM+해/NNB
+평균	평균/NNG
+24	24/SN
+
+6%씩	6/SN+%/SW+씩/XSN
+빠르게	빠르/VA+게/EC
+늘어난	늘어나/VV+ㄴ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+그다음으로	그다음/NNG+으로/JKB
+노인	노인/NNG
+입원환자	입원환자/NNG
+연평균	연평균/NNG
+증가율이	증가율/NNG+이/JKS
+높은	높/VA+은/ETM
+질환은	질환/NNG+은/JX
+파킨슨병(22	파킨슨병/NNG+(/SS+22/SN
+
+1%)이었고,	1/SN+%/SW+)/SS+이/VCP+었/EP+고/EC+,/SP
+관절증(21	관절증/NNG+(/SS+21/SN
+
+0%)과	0/SN+%/SW+)/SS+과/JC
+결장·직장암(12	결장/NNG+·/SP+직장암/NNG+(/SS+12/SN
+
+5%),	5/SN+%/SW+)/SS+,/SP
+급성	급성/NNG
+상기도	상기/NNP+도/JX
+감염(11	감염/NNG+(/SS+11/SN
+
+0%)이	0/SN+%/SW+)/SS+이/JKS
+3~5위를	3/SN+~/SO+5/SN+위/NNB+를/JKO
+기록했다	기록하/VV+였/EP+다/EC
+
+20개	20/SN+개/NNB
+질환	질환/NNG
+가운데	가운데/NNG
+노인들이	노인/NNG+들/XSN+이/JKS
+가장	가장/MAG
+오래	오래/MAG
+병원에	병원/NNG+에/JKB
+머무르는	머무르/VV+는/ETM
+병도	병/NNG+도/JX
+치매와	치매/NNG+와/JC
+파킨슨병이었다	파킨슨병/NNG+이/VCP+었/EP+다/EF
+
+2010년	2010/SN+년/NNB
+기준	기준/NNG
+65~74세	65/SN+~/SO+74/SN+세/NNB
+치매	치매/NNG
+노인	노인/NNG
+환자의	환자/NNG+의/JKG
+평균	평균/NNG
+재원일	재원/NNG+이/VCP+ㄹ/ETM
+수는	수/NNG+는/JX
+120일,	120/SN+일/NNB+,/SP
+즉	즉/MAG
+4개월에	4/SN+개월/NNB+에/JKB
+달했고	달하/VV+였/EP+고/EC
+특히	특히/MAG
+75세	75/SN+세/NNB
+이상의	이상/NNG+의/JKG
+경우	경우/NNG
+치매로	치매/NNG+로/JKB
+평균	평균/NNG
+약	약/MM
+5개월(149	5/SN+개월/NNB+(/SS+149/SN
+
+3일)	3/SN+일/NNB+)/SS
+동안이나	동안/NNG+이나/JC
+병원에서	병원/NNG+에서/JKB
+치료받는	치료/NNG+받/VV+는/ETM
+것으로	것/NNB+으로/JKB
+조사됐다	조사되/VV+었/EP+다/EF
+
+이어	이어/MAG
+파킨슨병(65~74세	파킨슨병/NNG+(/SS+65/SN+~/SO+74/SN+세/NNB
+35	35/SN
+
+5일,	5/SN+일/NNB+,/SP
+75세이상	75/SN+세/NNB+이상/NNG
+82	82/SN
+
+1일),	1/SN+일/NNB+)/SS+,/SP
+대뇌혈관질환(43	대뇌혈관질환/NNG+(/SS+43/SN
+
+5일,	5/SN+일/NNB+,/SP
+65	65/SN
+
+9일),	9/SN+일/NNB+)/SS+,/SP
+당뇨(20	당뇨/NNG+(/SS+20/SN
+
+8일,	8/SN+일/NNB+,/SP
+38	38/SN
+
+5일)	5/SN+일/NNB+)/SS
+순으로	순/XSN+으로/JKB
+재원일	재원/NNG+이/VCP+ㄹ/ETM
+수가	수/NNB+가/JKS
+많았다	많/VA+았/EP+다/EC
+
+한편	한편/MAG
+전체	전체/NNG
+외래	외래/NNG
+환자	환자/NNG
+중	중/NNB
+노인의	노인/NNG+의/JKG
+비중은	비중/NNG+은/JX
+1999년	1999/SN+년/NNB
+6	6/SN
+
+8%에서	8/SN+%/SW+에서/JKB
+2010년	2010/SN+년/NNB
+3	3/SN
+
+8배인	8/SN+배인/NNG
+25	25/SN
+
+7%로	7/SN+%/SW+로/JKB
+늘었고,	늘/VV+었/EP+고/EC+,/SP
+1999년	1999/SN+년/NNB
+8	8/SN
+
+8%였던	8/SN+%/SW+이/VCP+었/EP+던/ETM
+노인	노인/NNG
+입원환자	입원환자/NNG
+비중도	비중/NNG+도/JX
+2010년에는	2010/SN+년/NNB+에/JKB+는/JX
+2	2/SN
+
+9배인	9/SN+배인/NNG
+25	25/SN
+
+4%에	4/SN+%/SW+에/JKB
+이르렀다	이르/VV+었/EP+다/EC
+
+결국	결국/NNG
+우리나라	우리나라/NNG
+의료서비스	의료서비스/NNG
+수요의	수요/NNG+의/JKG
+약	약/MM
+4분의	4/SN+분/XSN+의/JKG
+1	1/SN
+정도가	정도/NNG+가/JKS
+노인층에	노인/NNG+층/XSN+에/JKB
+집중되고	집중되/VV+고/EC
+있는	있/VX+는/ETM
+셈이다	셈/NNB+이/VCP+다/EC
+
+도세록	도세록/NNP
+보건사회연구원	보건사회연구원/NNG
+연구위원은	연구위원/NNG+은/JX
+"노인은	"/SS+노인/NNG+은/JX
+만성질환과	만성질환/NNG+과/JC
+각종	각종/NNG
+사고로	사고/NNG+로/JKB
+의료서비스를	의료서비스/NNG+를/JKO
+찾고	찾/VV+고/EC
+특히	특히/MAG
+노인	노인/NNG
+후기(75세이상)에	후기/NNG+(/SS+75/SN+세/NNB+이상/NNG+)/SS+에/JKB
+의료	의료/NNG
+이용이	이용/NNG+이/JKS
+급격히	급격히/MAG
+늘어난다"며	늘어나/VV+ㄴ다/EF+"/SS+며/EC
+"운동	"/SS+운동/NNG
+실천과	실천/NNG+과/JC
+건강한	건강하/VA+ㄴ/ETM
+생활습관을	생활습관/NNG+을/JKO
+통해	통하/VV+여/EC
+노인의	노인/NNG+의/JKG
+의료이용을	의료이용/NNG+을/JKO
+줄이는	줄이/VV+는/ETM
+정책	정책/NNG
+뿐	뿐/JX
+아니라	아니/VCN+라/EC
+특히	특히/MAG
+치매나	치매/NNG+나/JC
+파킨슨병	파킨슨병/NNG
+등	등/NNB
+노인성	노인성/NNG
+질환에	질환/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+정책적	정책적/NNG
+예방과	예방/NNG+과/JC
+검진,	검진/NNG+,/SP
+치료가	치료/NNG+가/JKS
+시급하다"고	시급하/VA+다/EF+"/SS+고/JKQ
+조언했다	조언하/VV+였/EP+다/EF
+
+shk999@yna	shk/SL+999/SN+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

@@ -1,0 +1,347 @@
+다운	답/VA+ㄴ/ETM
+신드롬,	신드롬/NNG+,/SP
+장애아	장애아/NNG
+모델	모델/NNG
+라이안	라이안/NNP
+랭스톤	랭스톤/NNG
+
+귀엽다	귀엽/VA+다/EC
+
+정말	정말/MAG
+귀엽다	귀엽/VA+다/EC
+
+미국	미국/NNP
+대형	대형/NNG
+매점	매점/NNG
+'타겟'의	'/SS+타/MM+겟/SN+'/SS+의/JKG
+광고에	광고/NNG+에/JKB
+등장한	등장하/VV+ㄴ/ETM
+라이안	라이안/NNP
+랭스톤,	랭스톤/NNG+,/SP
+이제	이제/MAG
+여섯살인	여섯/NR+살/NNB+이/VCP+ㄴ/ETM
+그는	그/NP+는/JX
+다른	다른/MM
+네	네/MM
+꼬마들과	꼬마/NNG+들/XSN+과/JKB
+함께	함께/MAG
+살인적인	살인적/NNG+이/VCP+ㄴ/ETM
+미소로	미소/NNG+로/JKB
+사람의	사람/NNG+의/JKG
+마음을	마음/NNG+을/JKO
+홀리고	홀리/VV+고/EC
+있다	있/VX+다/EC
+
+다운	답/VA+ㄴ/ETM
+신드롬,	신드롬/NNG+,/SP
+그의	그/NP+의/JKG
+얼굴을	얼굴/NNG+을/JKO
+보면	보/VV+면/EC
+금방	금방/MAG
+알	알/VV+ㄹ/ETM
+수	수/NNB
+있다	있/VA+다/EC
+
+그는	그/NP+는/JX
+동화	동화/NNG
+속	속/NNG
+왕자처럼	왕자/NNG+처럼/JKB
+금발을	금발/NNG+을/JKO
+단발로	단발/NNG+로/JKB
+길러내렸다	기르/VV+어/EC+내리/VX+었/EP+다/EF
+
+그의	그/NP+의/JKG
+얼굴과	얼굴/NNG+과/JKB
+무척	무척/MAG
+잘	잘/MAG
+어울린다	어울리/VV+ㄴ다/EC
+
+그는	그/NP+는/JX
+타겟	타/MM+겟/SN
+뿐만이	뿐/NNB+만/JX+이/JKC
+아니라	아니/VCN+라/EC
+고급	고급/NNG
+백화점	백화점/NNG
+'노쓰럼'의	'/SS+노쓰럼/NNG+'/SS+의/JKG
+광고지에도	광고지/NNG+에/JKB+도/JX
+등장했다	등장하/VV+였/EP+다/EC
+
+여섯살	여섯/NR+살/NNB
+살인	살인/NNG
+미소로	미소/NNG+로/JKB
+미국	미국/NNP
+뿐만이	뿐/NNB+만/JX+이/JKC
+아니라	아니/VCN+라/EC
+런던	런던/NNP
+매스컴까지	매스컴/NNG+까지/JX
+등장해	등장하/VV+여/EC
+사람들의	사람/NNG+들/XSN+의/JKG
+마음까지	마음/NNG+까지/JX
+녹이고	녹이/VV+고/EC
+있다	있/VX+다/EC
+
+그의	그/NP+의/JKG
+유명세는	유명세/NNG+는/JX
+광고지	광고지/NNG
+뿐만이	뿐/NNB+만/JX+이/JKC
+아니다	아니/VCN+다/EC
+
+NBC	NBC/SL
+TV까지	TV/SL+까지/JX
+등장해	등장하/VV+여/EC
+명실공히	명실공히/MAG
+유명인의	유명/NNG+인/XSN+의/JKG
+자리를	자리/NNG+를/JKO
+굳혀가고	굳히/VV+어/EC+가/VX+고/EC
+있다	있/VX+다/EC
+
+각종	각종/NNG
+매스컴에서도	매스컴/NNG+에서/JKB+도/JX
+앞다퉈	앞다투/VV+어/EC
+그의	그/NP+의/JKG
+이야기를	이야기/NNG+를/JKO
+다루고	다루/VV+고/EC
+있다	있/VX+다/EC
+
+아빠	아빠/NNG
+짐과	짐/NNG+과/JC
+엄마	엄마/NNG
+아만다는	아만/MM+다는/ETM
+텔레비젼과의	텔레비젼/NNG+과/JKB+의/JKG
+인터뷰에서	인터뷰/NNG+에서/JKB
+유명해진	유명하/VA+여/EC+지/VX+ㄴ/ETM
+라이안이	라이안/NNP+이/JKS
+자랑스럽기	자랑스럽/VA+기/ETN
+그지	그지/NNG
+없다는	없/VA+다는/ETM
+표정으로	표정/NNG+으로/JKB
+싱글벙글이다	싱글벙글/NNG+이/VCP+다/EC
+
+장애아를	장애아/NNG+를/JKO
+둔	두/VV+ㄴ/ETM
+부모의	부모/NNG+의/JKG
+아픔	아픔/NNG
+같은	같/VA+은/ETM
+것은	것/NNB+은/JX
+찾아볼	찾아보/VV+ㄹ/ETM
+수가	수/NNB+가/JKS
+없다	없/VA+다/EC
+
+그에게는	그/NP+에게/JKB+는/JX
+쌍둥이	쌍둥이/NNG
+형제가	형제/NNG+가/JKS
+있다	있/VA+다/EF
+
+몇	몇/MM
+시간	시간/NNG
+차이로	차이/NNG+로/JKB
+태어난	태어나/VV+ㄴ/ETM
+그와	그/NP+와/JKB
+쉴	쉬/VV+ㄹ/ETM
+새	새/NNG
+없이	없이/MAG
+뛰어	뛰/VV+어/EC
+노는	놀/VV+는/ETM
+장난	장난/NNG
+꾸러기다	꾸러/VV+기/EP+다/EC
+
+"너	"/SS+너/NP
+스타니?"텔레비젼	스타/VV+니/EF+?/SF+"/SS+텔레비젼/NNG
+리포터가	리포터/NNG+가/JKC
+묻는다	묻/VV+는다/EC
+
+"오,	"/SS+오/IC+,/SP
+예"대답하는	예/NNG+"/SS+대답하/VV+는/ETM
+포스가	포스/NNP+가/JKS
+여간이	여간/MAG+이/JKC
+아니다	아니/VCN+다/EC
+
+어떻게	어떻/VA+게/EC
+어린	어리/VA+ㄴ/ETM
+꼬마에게서	꼬마/NNG+에게서/JKB
+저런	저런/MM
+카리스마가	카리스마/NNG+가/JKS
+나오는지	나오/VV+는지/EC
+
+그래서	그래서/MAJ
+그가	그/NP+가/JKS
+나오면	나오/VV+면/EC
+사람들이	사람/NNG+들/XSN+이/JKS
+혀를	혀/NNG+를/JKO
+찬다	차/VV+ㄴ다/EC
+
+"우리	"/SS+우리/NP
+아들은	아들/NNG+은/JX
+프로페셔널입니다	프로페셔널/NNG+이/VCP+ㅂ니다/EC
+
+촬영장에	촬영장/NNG+에/JKB
+임하면	임하/VV+면/EC
+그는	그/NP+는/JX
+정말	정말/MAG
+잘합니다	잘합니/VV+다/EC
+
+"	"/SS
+엄마의	엄마/NNG+의/JKG
+자랑이	자랑이/NNG
+침이	침/NNG+이/JKS
+마른다	마르/VV+ㄴ다/EF
+
+그의	그/NP+의/JKG
+유명세	유명세/NNG
+덕에	덕/NNG+에/JKB
+많은	많/VA+은/ETM
+곳으로부터	곳/NNG+으로부터/JKB
+러브콜을	러브콜/NNG+을/JKO
+받는다	받/VV+는다/EC
+
+그러나	그러나/MAJ
+부모는	부모/NNG+는/JX
+공부	공부/NNG
+먼저라며	먼저/NNG+이/VCP+라며/EC
+모두	모두/MAG
+거절하고	거절하/VV+고/EC
+있는	있/VX+는/ETM
+실정이다	실정/NNG+이/VCP+다/EC
+
+대부분	대부분/NNG
+장애인이	장애인/NNG+이/JKS
+광고에	광고/NNG+에/JKB
+출연하면	출연하/VV+면/EC
+장애	장애/NNG
+자체를	자체/NNG+를/JKO
+부각시키는	부각/NNG+시키/XSV+는/ETM
+경우가	경우/NNG+가/JKS
+많다	많/VA+다/EC
+
+그러나	그러나/MAJ
+타겟은	타겟/NNG+은/JX
+그렇지	그렇/VA+지/EC
+않다	않/VX+다/EC
+
+그는	그/NP+는/JX
+네명의	네/MM+명/NNB+의/JKG
+친구들과	친구/NNG+들/XSN+과/JKB
+똑	똑/MAG
+같이	같이/MAG
+자연스럽게	자연스럽/VA+게/EC
+촬영에	촬영/NNG+에/JKB
+임한	임하/VV+ㄴ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+타겟의	타겟/NNG+의/JKG
+대변인	대변인/NNG
+제시카	제시카/NNP
+칼슨은	칼슨/NNP+은/JX
+"우리는	"/SS+우리/NP+는/JX
+그동안	그동안/NNG
+많은	많/VA+은/ETM
+장애인들을	장애인/NNG+들/XSN+을/JKO
+광고에	광고/NNG+에/JKB
+올렸고	올리/VV+었/EP+고/EC
+앞으로도	앞/NNG+으로/JKB+도/JX
+계속해서	계속하/VV+여서/EC
+올릴	올리/VV+ㄹ/ETM
+계획이다	계획/NNG+이/VCP+다/EC
+
+"	"/SS
+라고	라고/JKQ
+말했다	말하/VV+였/EP+다/EC
+
+방송에서	방송/NNG+에서/JKB
+쌍둥이	쌍둥이/NNG
+형제와	형제/NNG+와/JKB
+뛰어노는	뛰어놀/VV+는/ETM
+라이안의	라이안/NNG+의/JKG
+모습은	모습/NNG+은/JX
+여늬	여늬/MM
+아이와	아이/NNG+와/JKB
+다를	다르/VA+ㄹ/ETM
+바가	바/NNB+가/JKS
+없다	없/VA+다/EF
+
+이제	이제/MAG
+그는	그/NP+는/JX
+더	더/MAG
+이상의	이상/NNG+의/JKG
+유명인이	유명인/NNG+이/JKC
+되려	되/VV+려/EC
+하지	하/VX+지/EC
+않는다	않/VX+는다/EF
+
+조용히	조용히/MAG
+학교로	학교/NNG+로/JKB
+돌아가서	돌아가/VV+아서/EC
+학업에만	학업/NNG+에/JKB+만/JX
+전념한다	전념하/VV+ㄴ다/EF
+
+명예나	명예/NNG+나/JC
+부에	부/NNG+에/JKB
+연연하지	연연하/VV+지/EC
+않고	않/VX+고/EC
+조용히	조용히/MAG
+자기	자기/NP
+자리를	자리/NNG+를/JKO
+지키려는	지키/VV+려는/ETM
+훌륭한	훌륭하/VA+ㄴ/ETM
+부모	부모/NNG
+밑에서	밑/NNG+에서/JKB
+그는	그/NP+는/JX
+바르게	바르/VA+게/EC
+자라	자르/VV+아/EC
+나중에	나중/NNG+에/JKB
+더	더/MAG
+자랑스러운	자랑스럽/VA+ㄴ/ETM
+사람이	사람/NNG+이/JKC
+될	되/VV+ㄹ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+미국	미국/NNP
+대형	대형/NNG
+백화점	백화점/NNG
+타겟의	타겟/NNG+의/JKG
+광고	광고/NNG
+모델(출처:	모델/NNG+(/SS+출처/NNG+:/SP
+디스에빌리티	디스에빌리티/NNG
+스쿱	스쿱/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SN+샘/NNG
+고급	고급/NNG
+백화점	백화점/NNG
+노쓰럼	노쓰럼/NNG
+광고	광고/NNG
+모델(출처	모델/NNG+(/SS+출처/NNG
+페디아	페디아/NNG
+스탭	스탭/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+쌍둥이	쌍둥이/NNG
+형재와	형재/NNG+와/JKB
+함께(출처:	함께/MAG+(/SS+출처/NNG+:/SP
+NBC	NBC/SL
+TV	TV/SL
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ샘/SN
+*	*/SW
+샘	샘/NNG
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNP
+객원기자로	객원기자/NNG+로/JKB
+캘리포니아	캘리포니아/NNP
+버클리대학	버클리대학/NNP
+사회학과를	사회학과/NNG+를/JKO
+졸업하고,	졸업하/VV+고/EC+,/SP
+전	전/MM
+미상원	미/NNP+상원/NNG
+장애인국	장애인국/NNG
+인턴을	인턴/NNG+을/JKO
+지냈다	지내/VV+었/EP+다/EC
+
+현재	현재/MAG
+TEC	TEC/SL
+대표를	대표/NNG+를/JKO
+맡고	맡/VV+고/EC
+있다	있/VX+다/EC

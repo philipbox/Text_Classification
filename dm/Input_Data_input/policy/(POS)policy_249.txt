@@ -1,0 +1,155 @@
+대선	대선/NNG
+투표율	투표율/NNG
+오후	오후/NNG
+1시	1/SN+시/NNB
+현재	현재/MAG
+45.3%	45.3/SN+%/SW
+기록	기록/NNG
+
+‘18대	‘/SL+18/SN+대/NNG
+대통령선거’의	대통령선거’/NNG+의/JKG
+투표율이	투표율/NNG+이/JKS
+19일	19/SN+일/NNB
+오후	오후/NNG
+1시	1/SN+시/NNB
+현재	현재/MAG
+45	45/SN
+
+3%인	3/SN+%/SW+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+집계됐다	집계되/VV+었/EP+다/EF
+
+중앙선거관리위원회에	중앙선거관리위원회/NNG+에/JKB
+따르면	따르/VV+면/EC
+오후	오후/NNG
+1시	1/SN+시/NNB
+현재	현재/MAG
+선거인수	선거인수/NNG
+4050만7842명	4050/SN+만/NR+7842/SN+명/NNB
+중	중/NNB
+1836만7715명이	1836/SN+만/NR+7715/SN+명/NNB+이/JKS
+투표를	투표/NNG+를/JKO
+마쳐	마치/VV+어/EC
+45	45/SN
+
+3%의	3/SN+%/SW+의/JKG
+투표율을	투표율/NNG+을/JKO
+기록했다	기록하/VV+였/EP+다/EC
+
+이는	이/NP+는/JX
+지난	지나/VV+ㄴ/ETM
+2002년	2002/SN+년/NNB
+제	제/XPN
+16대	16/SN+대/NNB
+대선의	대선/NNG+의/JKG
+같은	같/VA+은/ETM
+시간대	시간대/NNG
+투표율	투표율/NNG
+41	41/SN
+
+9%,	9/SN+%/SW+,/SP
+2007년	2007/SN+년/NNB
+제17대	제/XPN+17/SN+대/NNB
+대선	대선/NNG
+36	36/SN
+
+7%보다	7/SN+%/SW+보다/JKB
+높고,	높/VA+고/EC+,/SP
+47	47/SN
+
+3%를	3/SN+%/SW+를/JKO
+기록한	기록하/VV+ㄴ/ETM
+1997년	1997/SN+년/NNB
+제15대	제/XPN+15/SN+대/NNB
+대선과	대선/NNG+과/JKB
+비슷한	비슷하/VA+ㄴ/ETM
+투표율이다	투표율/NNG+이/VCP+다/EC
+
+지역별	지역/NNG+별/XSN
+투표율은	투표율/NNG+은/JX
+서울	서울/NNP
+41%	41/SN+%/SW
+부산	부산/NNP
+44	44/SN
+
+9%	9/SN+%/SW
+대구	대구/NNP
+49	49/SN
+
+5%	5/SN+%/SW
+인천	인천/NNP
+43	43/SN
+
+2%	2/SN+%/SW
+광주	광주/NNP
+50	50/SN
+
+7%	7/SN+%/SW
+대전	대전/NNP
+46	46/SN
+
+7%	7/SN+%/SW
+울산	울산/NNP
+45	45/SN
+
+2%	2/SN+%/SW
+세종	세종/NNP
+46	46/SN
+
+3%	3/SN+%/SW
+경기	경기/NNP
+43	43/SN
+
+8%	8/SN+%/SW
+강원	강원/NNP
+48	48/SN
+
+3%	3/SN+%/SW
+충북	충북/NNP
+47	47/SN
+
+5%	5/SN+%/SW
+충남	충남/NNP
+47	47/SN
+
+5%	5/SN+%/SW
+전북	전북/NNP
+49	49/SN
+
+9%	9/SN+%/SW
+전남	전남/NNP
+50	50/SN
+
+9%	9/SN+%/SW
+경북	경북/NNP
+50	50/SN
+
+7%	7/SN+%/SW
+경남	경남/NNP
+46	46/SN
+
+7%	7/SN+%/SW
+제주	제주/NNP
+48	48/SN
+
+8%인	8/SN+%/SW+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+집계됐다	집계되/VV+었/EP+다/EF
+
+이	이/NP
+같은	같/VA+은/ETM
+추세라면	추세/NNG+이/VCP+라면/EC
+최종	최종/NNG
+투표율이	투표율/NNG+이/JKS
+제16대	제/XPN+16/SN+대/NNB
+대선	대선/NNG
+때	때/NNG
+기록한	기록하/VV+ㄴ/ETM
+70	70/SN
+
+8%를	8/SN+%/SW+를/JKO
+넘어설	넘어서/VV+ㄹ/ETM
+것이라는	것/NNB+이/VCP+라는/ETM
+전망이	전망/NNG+이/JKS
+나오고	나오/VV+고/EC
+있다	있/VX+다/EC

@@ -1,0 +1,129 @@
+공단·영등포구,	공단/NNG+·/SP+영등포구/NNP+,/SP
+발달장애인	발달장애인/NNG
+고용	고용/NNG
+프로젝트	프로젝트/NNG
+실시	실시/NNG
+
+한국장애인고용공단(이사장	한국장애인고용공단/NNP+(/SS+이사장/NNG
+이성규,	이성규/NNP+,/SP
+이하	이하/NNG
+공단)과	공단/NNG+)/SS+과/JC
+영등포구(구청장	영등포구/NNP+(/SS+구청장/NNG
+조길형)는	조길형/NNP+)/SS+는/JX
+취업이	취업/NNG+이/JKS
+어려운	어렵/VA+ㄴ/ETM
+발달장애인의	발달장애인/NNG+의/JKG
+고용	고용/NNG
+창출을	창출/NNG+을/JKO
+위해	위하/VV+여/EC
+발달장애인	발달장애인/NNG
+고용	고용/NNG
+창출	창출/NNG
+프로젝트를	프로젝트/NNG+를/JKO
+실시한다	실시하/VV+ㄴ다/EF
+
+이를	이/NP+를/JKO
+위해	위하/VV+여/EC
+공단과	공단/NNG+과/JC
+영등포구는	영등포구/NNP+는/JX
+구청	구청/NNG
+직무분석을	직무분석/NNG+을/JKO
+실시해	실시하/VV+여/EC
+목련쉼터	목련/NNG+쉼터/JKB
+관리,	관리/NNG+,/SP
+행복나눔가게	행복/NNG+나누/VV+ㅁ/ETN+가/VX+게/EC
+관리,	관리/NNG+,/SP
+자료관리실,	자료관리실/NNG+,/SP
+공원	공원/NNG
+환경미화,	환경미화/NNG+,/SP
+사회복지과	사회복지/NNG+과/XSN
+사무보조	사무보조/NNG
+등	등/NNB
+총	총/MM
+5개의	5/SN+개/NNB+의/JKG
+발달장애인	발달장애인/NNG
+적합직무를	적합직무/NNG+를/JKO
+발굴했다	발굴하/VV+였/EP+다/EF
+
+이번	이번/NNG
+일자리	일자리/NNG
+창출	창출/NNG
+시범사업은	시범사업/NNG+은/JX
+영등포구에	영등포구/NNP+에/JKB
+거주하는	거주하/VV+는/ETM
+발달장애인(지적·자폐성	발달장애인/NNG+(/SS+지적/NNG+·/SP+자폐성/NNG
+장애인)이라면	장애인/NNG+)/SS+이/VCP+라면/EC
+누구나	누구/NP+나/JX
+지원	지원/NNG
+가능하며,	가능하/VA+며/EC+,/SP
+오는	오/VV+는/ETM
+29일까지	29/SN+일/NNB+까지/JX
+한국장애인고용공단	한국장애인고용공단/NNP
+서울남부지사를	서울/NNP+남부지사/NNG+를/JKO
+방문하거나	방문하/VV+거나/EC
+이메일(dios823@kead	이메일/NNG+(/SS+dios/SL+823/SN+@/SW+kead/SL
+
+or	or/SL
+
+kr)로	kr/SL+)/SS+로/JKB
+응시원서를	응시원서/NNG+를/JKO
+접수하면	접수하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+선발예정	선발예정/NNG
+인원은	인원/NNG+은/JX
+5명이다	5/SN+명/NNB+이/VCP+다/EC
+
+선발된	선발되/VV+ㄴ/ETM
+발달장애인들은	발달장애인/NNG+들/XSN+은/JX
+사전교육	사전교육/NNG
+및	및/MAG
+현장훈련을	현장훈련/NNG+을/JKO
+거쳐	거치/VV+어/EC
+7주간	7/SN+주간/NNG
+영등포구청에서	영등포구청/NNP+에서/JKB
+현장훈련을	현장훈련/NNG+을/JKO
+받게	받/VV+게/EC
+된다	되/VV+ㄴ다/EF
+
+이후	이후/NNG
+채용적격성	채용적격성/NNG
+평가를	평가/NNG+를/JKO
+거쳐	거치/VV+어/EC
+오는	오/VV+는/ETM
+2013년	2013/SN+년/NNB
+1월부터	1/SN+월/NNB+부터/JX
+영등포구	영등포구/NNP
+공무원이	공무원/NNG+이/JKC
+아닌	아니/VCN+ㄴ/ETM
+근로자로	근로자/NNG+로/JKB
+근무하게	근무하/VV+게/EC
+된다	되/VV+ㄴ다/EF
+
+이들은	이/NP+들/XSN+은/JX
+1일	1/SN+일/NNB
+6시간	6/SN+시간/NNB
+근무(주5일)하며	근무/NNG+(/SS+주/MM+5/SN+일/NNB+)/SS+하/XSV+며/EC
+월	월/NNG
+76만	76/SN+만/NR
+7,800원(세전)을	7,800/SN+원/NNB+(/SS+세전/NNG+)/SS+을/JKO
+받게	받/VV+게/EC
+되며,	되/VV+며/EC+,/SP
+교통·급식비,	교통/NNG+·/SP+급식비/NNG+,/SP
+퇴직금은	퇴직금/NNG+은/JX
+별도	별도/NNG
+지급	지급/NNG
+받는다	받/VV+는다/EC
+
+자세한	자세하/VA+ㄴ/ETM
+내용은	내용/NNG+은/JX
+한국장애인고용공단	한국/NNP+장애인고용공단/NNG
+홈페이지(www	홈페이지/NNG+(/SS+www/SL
+
+kead	kead/SL
+
+or	or/SL
+
+kr)를	kr/SL+)/SS+를/JKO
+참조하면	참조하/VV+면/EC
+된다	되/VV+ㄴ다/EF

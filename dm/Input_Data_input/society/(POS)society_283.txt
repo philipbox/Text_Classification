@@ -1,0 +1,96 @@
+독일	독일/NNP
+장애인	장애인/NNG
+작업장서	작업장/NNG+서/JKB
+화재로	화재/NNG+로/JKB
+14명	14/SN+명/NNB
+숨져(종합)	숨지/VV+어/EC+(/SS+종합/NNG+)/SS
+
+(베를린=연합뉴스)	(/SS+베를린/NNP+=/SW+연합뉴스/NNP+)/SS
+박창욱	박창욱/NNP
+특파원	특파원/NNG
+=	=/SW
+독일	독일/NNP
+남부	남부/NNG
+산림	산림/NNG
+휴양지인	휴양지/NNG+이/VCP+ㄴ/ETM
+`슈바르츠발트(흑림)'내	`/SW+슈바르츠발트/NNP+(/SS+흑림/NNP+)'/SS+내/NNB
+장애인	장애인/NNG
+작업장에서	작업장/NNG+에서/JKB
+26일(현지시간)	26/SN+일/NNB+(/SS+현지시간/NNG+)/SS
+화재가	화재/NNG+가/JKS
+발생해	발생하/VV+여/EC
+14명이	14/SN+명/NNB+이/JKS
+목숨을	목숨/NNG+을/JKO
+잃었다	잃/VV+었/EP+다/EC
+
+사고	사고/NNG
+장소는	장소/NNG+는/JX
+프라이부르크시에서	프라이부르크시/NNP+에서/JKB
+50㎞	50/SN+㎞/SW
+동쪽에	동쪽/NNG+에/JKB
+위치한	위치하/VV+ㄴ/ETM
+곳으로	곳/NNG+으로/JKB
+장애인	장애인/NNG
+근로자	근로자/NNG
+120여명이	120/SN+여/XSN+명/NNB+이/JKS
+일하고	일하/VV+고/EC
+있으며,	있/VX+으며/EC+,/SP
+사망자	사망자/NNG
+외에	외/NNB+에/JKB
+7명이	7/SN+명/NNB+이/JKS
+다쳤다	다치/VV+었/EP+다/EC
+
+이날	이날/NNG
+화재는	화재/NNG+는/JX
+오후	오후/NNG
+2시께	2/SN+시/NNB+께/XSN
+작업장	작업장/NNG
+내	내/NNB
+창고에서	창고/NNG+에서/JKB
+화학물질이	화학물질/NNG+이/JKS
+폭발해	폭발하/VV+여/EC
+발생한	발생하/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+추정됐다	추정되/VV+었/EP+다/EF
+
+경찰과	경찰/NNG+과/JC
+소방대원들이	소방대원/NNG+들/XSN+이/JKS
+헬리콥터를	헬리콥터/NNG+를/JKO
+동원해	동원하/VV+여/EC
+구조작업을	구조작업/NNG+을/JKO
+벌였으나,	벌이/VV+었/EP+으나/EC+,/SP
+일부	일부/NNG
+근로자들이	근로자/NNG+들/XSN+이/JKS
+작업장	작업장/NNG
+건물에	건물/NNG+에/JKB
+갇혀서	갇히/VV+어서/EC
+사망자나	사망자/NNG+나/JC
+부상자가	부상자/NNG+가/JKS
+늘어날	늘어나/VV+ㄹ/ETM
+가능성이	가능성/NNG+이/JKS
+있는	있/VA+는/ETM
+것으로	것/NNB+으로/JKB
+알려졌다	알려지/VV+었/EP+다/EF
+
+pcw@yna	pcw/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

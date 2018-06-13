@@ -1,0 +1,312 @@
+10명	10/SN+명/NNB
+중	중/NNB
+6명	6/SN+명/NNB
+“현재	“/SL+현재/NNG
+거주공간	거주공간/NNG
+불편”	불편/NNG+”/SN
+
+장애인	장애인/NNG
+10명	10/SN+명/NNB
+중	중/NNB
+6명	6/SN+명/NNB
+이상이	이상/NNG+이/JKS
+현재	현재/MAG
+거주공간에	거주공간/NNG+에/JKB
+대해	대하/VV+여/EC
+불편함을	불편하/VA+ㅁ/ETN+을/JKO
+느끼고	느끼/VV+고/EC
+있어	있/VX+어/EC
+장애인전용주거시설의	장애인전용주거시설/NNG+의/JKG
+지원이	지원/NNG+이/JKS
+시급한	시급하/VA+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+조사됐다	조사되/VV+었/EP+다/EF
+
+한국장애인주거지원연대	한국/NNP+장애인주거지원연대/NNG
+강현석	강현석/NNP
+전북지부장은	전북/NNP+지부/NNG+장/XSN+은/JX
+지난	지나/VV+ㄴ/ETM
+2월부터	2/SN+월/NNB+부터/JX
+3월까지	3/SN+월/NNB+까지/JX
+한	한/MM
+달간	달/NNB+간/XSN
+서울,	서울/NNP+,/SP
+인천,	인천/NNP+,/SP
+경기,	경기/NNP+,/SP
+울산,	울산/NNP+,/SP
+전북,	전북/NNP+,/SP
+경남	경남/NNP
+등	등/NNB
+6개	6/SN+개/NNB
+지역	지역/NNG
+198명	198/SN+명/NNB
+장애인을	장애인/NNG+을/JKO
+대상으로	대상/NNG+으로/JKB
+실시한	실시하/VV+ㄴ/ETM
+주거실태조사	주거실태조사/NNG
+결과를	결과/NNG+를/JKO
+6일	6/SN+일/NNB
+발표했다	발표하/VV+였/EP+다/EC
+
+주거실태조사	주거실태조사/NNG
+결과에	결과/NNG+에/JKB
+따르면,	따르/VV+면/EC+,/SP
+응답자의	응답자/NNG+의/JKG
+25	25/SN
+
+3%가	3/SN+%/SW+가/JKS
+현	현/MM
+주거공간이	주거공간/NNG+이/JKS
+매우	매우/MAG
+불편하다고	불편하/VA+다고/EC
+호소했다	호소하/VV+었/EP+다/EC
+
+약간	약간/MAG
+불편하다는	불편하/VA+다는/ETM
+응답자도	응답자/NNG+도/JX
+25	25/SN
+
+3%에	3/SN+%/SW+에/JKB
+달해	달하/VV+여/EC
+과반을	과반/NNG+을/JKO
+넘는	넘/VV+는/ETM
+50	50/SN
+
+6%가	6/SN+%/SW+가/JKS
+불편함을	불편하/VA+ㅁ/ETN+을/JKO
+느끼고	느끼/VV+고/EC
+있었다	있/VX+었/EP+다/EF
+
+이런	이런/MM
+불편함을	불편하/VA+ㅁ/ETN+을/JKO
+개선하고자	개선하/VV+고자/EC
+수리를	수리/NNG+를/JKO
+요구하는	요구하/VV+는/ETM
+가구	가구/NNG
+또한	또한/MAG
+높게	높/VA+게/EC
+나타났다	나타나/VV+았/EP+다/EC
+
+가급적	가급적/MAG
+고치고	고치/VV+고/EC
+싶다	싶/VX+다/ETM
+는	는/ETM
+응답은	응답/NNG+은/JX
+40	40/SN
+
+4%,	4/SN+%/SW+,/SP
+반드시	반드시/MAG
+고치고	고치/VV+고/EC
+싶다는	싶/VX+다는/ETM
+응답은	응답/NNG+은/JX
+29	29/SN
+
+8%로	8/SN+%/SW+로/JKB
+70%에	70/SN+%/SW+에/JKB
+가까운	가깝/VA+ㄴ/ETM
+가구가	가구/NNG+가/JKS
+수리를	수리/NNG+를/JKO
+희망했다	희망하/VV+였/EP+다/EC
+
+이미	이미/MAG
+개조했다는	개조하/VV+였/EP+다는/ETM
+응답도	응답/NNG+도/JX
+6	6/SN
+
+6%나	6/SN+%/SW+나/JX
+됐다	되/VV+었/EP+다/EC
+
+반면,	반면/NNG+,/SP
+별로	별로/MAG
+고치고	고치/VV+고/EC
+싶지	싶/VX+지/EC
+않다는	않/VX+다는/ETM
+응답은	응답/NNG+은/JX
+14	14/SN
+
+1%,	1/SN+%/SW+,/SP
+전혀	전혀/MAG
+고치고	고치/VV+고/EC
+싶지	싶/VX+지/EC
+않다는	않/VX+다는/ETM
+응답은	응답/NNG+은/JX
+9	9/SN
+
+1%로	1/SN+%/SW+로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+장애인들이	장애인/NNG+들/XSN+이/JKS
+주로	주로/MAG
+개조하고	개조하/VV+고/EC
+싶은	싶/VX+은/ETM
+공간으로는	공간/NNG+으로/JKB+는/JX
+현관슬로프(19	현관슬로프/NNP+(/SS+19/SN
+
+7%),	7/SN+%/SW+)/SS+,/SP
+미끄럼방지	미끄럼방지/NNG
+바닥(11	바닥/NNG+(/SS+11/SN
+
+1%),	1/SN+%/SW+)/SS+,/SP
+방문형태(9	방문형태/NNG+(/SS+9/SN
+
+6%),	6/SN+%/SW+)/SS+,/SP
+화장실	화장실/NNG
+손잡이(8	손잡이/NNG+(/SS+8/SN
+
+6%),	6/SN+%/SW+)/SS+,/SP
+욕조	욕조/NNG
+옆	옆/NNG
+앉는	앉/VV+는/ETM
+공간(8	공간/NNG+(/SS+8/SN
+
+6%),	6/SN+%/SW+)/SS+,/SP
+기타	기타/NNG
+(24	(/SS+24/SN
+
+7%)	7/SN+%/SW+)/SS
+등으로	등/NNB+으로/JKB
+조사됐다	조사되/VV+었/EP+다/EF
+
+주택을	주택/NNG+을/JKO
+소유하고	소유하/VV+고/EC
+싶은	싶/VX+은/ETM
+욕구도	욕구/NNG+도/JX
+높았다	높/VA+았/EP+다/EC
+
+희망주거형태로	희망주거형태/NNG+로/JKB
+응답자의	응답자/NNG+의/JKG
+34	34/SN
+
+8%가	8/SN+%/SW+가/JKS
+본인소유	본인소유/NNG
+주택을	주택/NNG+을/JKO
+원한다고	원하/VV+ㄴ다고/EC
+답했으며,	답하/VV+였/EP+으며/EC+,/SP
+아파트(32	아파트/NNG+(/SS+32/SN
+
+8%),	8/SN+%/SW+)/SS+,/SP
+장애인주거시설(14	장애인주거시설/NNG+(/SS+14/SN
+
+1%),	1/SN+%/SW+)/SS+,/SP
+현재주택	현재주택/NNG
+(6	(/SS+6/SN
+
+1%)이	1/SN+%/SW+)/SS+이/JKS
+뒤를	뒤/NNG+를/JKO
+이었다	잇/VV+었/EP+다/EF
+
+특히	특히/MAG
+장애인들의	장애인/NNG+들/XSN+의/JKG
+52	52/SN
+
+5%는	5/SN+%/SW+는/JX
+주거비	주거비/NNG
+걱정	걱정/NNG
+없는	없/VA+는/ETM
+주택을	주택/NNG+을/JKO
+최고의	최고/NNG+의/JKG
+희망주거환경으로	희망주거환경/NNG+으로/JKB
+꼽았다	꼽/VV+았/EP+다/EF
+
+이어	이어/MAG
+편의시설	편의시설/NNG
+확충(설치가	확충/NNG+(/SS+설치/NNG+가/JKS
+잘된	잘되/VV+ㄴ/ETM
+곳,	곳/NNG+,/SP
+24	24/SN
+
+2%),	2/SN+%/SW+)/SS+,/SP
+교통편리	교통편리/NNG
+및	및/MAG
+접근성용이(9	접근성용/NNG+이/JKS+(/SS+9/SN
+
+6%),	6/SN+%/SW+)/SS+,/SP
+여가문화	여가문화/NNG
+활동용이(3%)	활동용이/NNG+(/SS+3/SN+%/SW+)/SS
+순으로	순/XSN+으로/JKB
+조사됐다	조사되/VV+었/EP+다/EF
+
+원하는	원하/VV+는/ETM
+주거지원서비스로는	주거지원서비스/NNG+로/JKB+는/JX
+33	33/SN
+
+3%가	3/SN+%/SW+가/JKS
+임대주택공급을	임대주택공급/NNG+을/JKO
+꼽아	꼽/VV+아/EC
+가장	가장/MAG
+높았으며,	높/VA+았/EP+으며/EC+,/SP
+장애인전용주거시설도	장애인전용주거시설/NNG+도/JX
+23	23/SN
+
+7%가	7/SN+%/SW+가/JKS
+선호했다	선호하/VV+였/EP+다/EF
+
+이어	이어/MAG
+주거연계지원(16	주거연계지원/NNG+(/SS+16/SN
+
+2%),	2/SN+%/SW+)/SS+,/SP
+주택구입	주택구입/NNG
+자금지원(8	자금지원/NNG+(/SS+8/SN
+
+6%),	6/SN+%/SW+)/SS+,/SP
+주택	주택/NNG
+개량(7	개량/NNG+(/SS+7/SN
+
+1%)	1/SN+%/SW+)/SS
+등이었다	등/NNB+이/VCP+었/EP+다/EF
+
+김현석	김현석/NNP
+지부장은	지부장/NNG+은/JX
+“조사결과	“/SN+조사결과/NNG
+주거	주거/NNG
+내	내/NNB
+편의시설에	편의시설/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+요구가	요구/NNG+가/JKS
+많고	많/VA+고/EC
+장애인전용주거시설에	장애인전용주거시설/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+관심이	관심/NNG+이/JKS
+상대적으로	상대적/NNG+으로/JKB
+높아	높/VA+아/EC
+향후	향후/NNG
+주택개조	주택개조/NNG
+및	및/MAG
+장애인전용주거시설확대를	장애인전용주거시설확대/NNG+를/JKO
+제도적으로	제도적/NNG+으로/JKB
+보장해야	보장하/VV+여야/EC
+한다”고	하/VX+ㄴ다”고/EC
+제언했다	제언하/VV+였/EP+다/EF
+
+이어	이어/MAG
+김	김/NNP
+지부장은	지부장/NNG+은/JX
+“임대아파트에	“/SN+임대아파트/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+높은	높/VA+은/ETM
+욕구	욕구/NNG
+등을	등/NNB+을/JKO
+고려해	고려하/VV+여/EC
+향후	향후/NNG
+임대아파트	임대아파트/NNG
+공급	공급/NNG
+시	시/NNG
+일정부분	일정부분/NNG
+우선권	우선권/NNG
+부여	부여/NNG
+등의	등/NNB+의/JKG
+정책이	정책/NNG+이/JKS
+요구되며	요구되/VV+며/EC
+장애인	장애인/NNG
+1인	1/SN+인/NNG
+가구로만	가구/NNG+로/JKB+만/JX
+구성된	구성되/VV+ㄴ/ETM
+가구가	가구/NNG+가/JKS
+많아	많/VA+아/EC
+주거복지와	주거복지/NNG+와/JKB
+함께	함께/MAG
+개별화된	개별/NNG+화/XSN+되/XSV+ㄴ/ETM
+복지서비스도	복지서비스/NNG+도/JX
+지원돼야	지원되/VV+어야/EC
+한다”고	하/VX+ㄴ다/EC+”/VV+고/EC
+덧붙였다	덧붙이/VV+었/EP+다/EF

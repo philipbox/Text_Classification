@@ -1,0 +1,197 @@
+휠체어장애인,	휠체어장애인/NNG+,/SP
+'시	'/SS+시/NNG
+트랙'	트랙/NNG+'/SS
+타고	타/VV+고/EC
+바다로	바다/NNG+로/JKB
+간다	가/VV+ㄴ다/EF
+
+바다,	바다/NNG+,/SP
+휠체어	휠체어/NNG
+장애인에게는	장애인/NNG+에게/JKB+는/JX
+접근하기	접근하/VV+기/ETN
+힘든	힘들/VA+ㄴ/ETM
+곳이다	곳/NNG+이/VCP+다/EC
+
+푹푹	푹푹/MAG
+빠지는	빠지/VV+는/ETM
+모래	모래/NNG
+사장은	사장/NNG+은/JX
+아예	아예/MAG
+휠체어의	휠체어/NNG+의/JKG
+접근을	접근/NNG+을/JKO
+원천	원천/NNG
+봉쇄해	봉쇄하/VV+여/EC
+버린다	버리/VX+ㄴ다/EF
+
+그리스인	그리스인/NNG
+마키스는	마키스/NNP+는/JX
+아무	아무/MM
+때나	때/NNG+나/JX
+바다에	바다/NNG+에/JKB
+들어갈	들어가/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+건강한	건강하/VA+ㄴ/ETM
+남자였다	남자/NNG+이/VCP+었/EP+다/EF
+
+그러나	그러나/MAJ
+사고를	사고/NNG+를/JKO
+당해	당하/VV+여/EC
+더	더/MAG
+이상	이상/NNG
+혼자	혼자/NNG
+바다로	바다/NNG+로/JKB
+들어가	들어가/VV+아/EC
+수영을	수영/NNG+을/JKO
+할	하/VV+ㄹ/ETM
+수	수/NNB
+없게된	없/VA+게/EC+되/VV+ㄴ/ETM
+그는	그/NP+는/JX
+바다의	바다/NNG+의/JKG
+유혹을	유혹/NNG+을/JKO
+거절할	거절하/VV+ㄹ/ETM
+수가	수/NNB+가/JKS
+없었다	없/VA+었/EP+다/EF
+
+그는	그/NP+는/JX
+그리스의	그리스/NNP+의/JKG
+파트라스	파트라스/NNP
+대학	대학/NNG
+연구	연구/NNG
+엔지니어인	엔지니어/NNG+이/VCP+ㄴ/ETM
+이그나티오	이그나티오/NNG
+포타우를	포타우/NNG+를/JKO
+찾았다	찾/VV+았/EP+다/EC
+
+자기	자기/NP
+뿐만이	뿐만/JX+이/JKC
+아니라	아니/VCN+라/EC
+바다에	바다/NNG+에/JKB
+들어가고	들어가/VV+고/EC
+싶어도	싶/VX+어도/EC
+혼자	혼자/NNG
+들어가지	들어가/VV+지/EC
+못하는	못하/VX+는/ETM
+모든	모든/MM
+장애인들을	장애인/NNG+들/XSN+을/JKO
+위해서	위하/VV+여서/EC
+무언가를	무엇/NP+이/VCP+ㄴ가/EC+를/JKO
+만들어	만들/VV+어/EC
+놓고	놓/VX+고/EC
+싶었기	싶/VX+었/EP+기/ETN
+때문이다	때문/NNB+이/VCP+다/EC
+
+이그나티오는	이그나티오/NNP+는/JX
+거절하지	거절하/VV+지/EC
+않았다	않/VX+았/EP+다/EF
+
+컴퓨터로	컴퓨터/NNG+로/JKB
+정밀하게	정밀하/VA+게/EC
+설계해	설계하/VV+여/EC
+마침내	마침내/MAG
+모래	모래/NNG
+사장을	사장/NNG+을/JKO
+지나	지나/VV+아/EC
+바닷속까지	바닷속/NNG+까지/JX
+닿는	닿/VV+는/ETM
+트랙을	트랙/NNG+을/JKO
+만들어	만들/VV+어/EC
+낸	내/VX+ㄴ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+이제	이제/MAG
+그리스의	그리스/NNP+의/JKG
+바다는	바다/NNG+는/JX
+장애인에게	장애인/NNG+에게/JKB
+더	더/MAG
+이상	이상/NNG
+장애가	장애/NNG+가/JKC
+아니다	아니/VCN+다/EC
+
+영상	영상/NNG
+전문가	전문가/NNG
+카스타스	카스타스/NNP
+파소울라스는	파소울라스/NNP+는/JX
+이를	이/NP+를/JKO
+영상에	영상/NNG+에/JKB
+담아	담/VV+아/EC
+영상	영상/NNG
+대회에	대회/NNG+에/JKB
+출전했다	출전하/VV+였/EP+다/EF
+
+현재	현재/MAG
+최종	최종/NNG
+결선에	결선/NNG+에/JKB
+올랐다	오르/VV+았/EP+다/EC
+
+적어도	적어도/MAG
+20만	20/SN+만/NR
+달러의	달러/NNB+의/JKG
+상금을	상금/NNG+을/JKO
+받게	받/VV+게/EC
+된다	되/VV+ㄴ다/EF
+
+시트랙으로	시트랙/NNG+으로/JKB
+바다로	바다/NNG+로/JKB
+가서	가/VV+아서/EC
+물속에	물속/NNG+에/JKB
+들어가고	들어가/VV+고/EC
+있다(출처:	있/VX+다/EF+(/SS+출처/NNG+:/SP
+디스에이블	디스에이블/NNG
+월드	월드/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+시트랙에서	시트랙/NNG+에서/JKB
+내려	내리/VV+어/EC
+수영을	수영/NNG+을/JKO
+즐기고	즐기/VV+고/EC
+있다(출처:	있/VX+다/EF+(/SS+출처/NNG+:/SP
+디스에이블	디스에이블/NNG
+월드	월드/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SN+샘/NNG
+사람들이	사람/NNG+들/XSN+이/JKS
+신기한	신기하/VA+ㄴ/ETM
+듯	듯/NNB
+보고	보/VV+고/EC
+있다(출처:	있/VX+다/EF+(/SS+출처/NNG+:/SP
+디스에이블	디스에이블/NNG
+월드	월드/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SN+샘/NNG
+시트랙을	시트랙/NNG+을/JKO
+제조하고	제조하/VV+고/EC
+있는	있/VX+는/ETM
+아그나티오(출처:	아그나티오/NNG+(/SS+출처/NNG+:/SP
+디스에이블	디스에이블/NNG
+월드	월드/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ샘/SN
+*	*/SW
+샘	샘/NNG
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNP
+객원기자로	객원기자/NNG+로/JKB
+캘리포니아	캘리포니아/NNP
+버클리대학	버클리대학/NNP
+사회학과를	사회학과/NNG+를/JKO
+졸업하고,	졸업하/VV+고/EC+,/SP
+전	전/MM
+미상원	미/NNP+상원/NNG
+장애인국	장애인국/NNG
+인턴을	인턴/NNG+을/JKO
+지냈다	지내/VV+었/EP+다/EC
+
+현재	현재/MAG
+TEC	TEC/SL
+대표를	대표/NNG+를/JKO
+맡고	맡/VV+고/EC
+있다	있/VX+다/EC

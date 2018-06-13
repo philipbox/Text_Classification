@@ -1,0 +1,2009 @@
+안철수,	안철수/NNP+,/SP
+부양의무자	부양의무자/NNG
+기준	기준/NNG
+폐지	폐지/NNG
+입장	입장/NNG
+
+무소속	무소속/NNG
+안철수	안철수/NNP
+후보가	후보/NNG+가/JKS
+부양의무자	부양의무자/NNG
+기준에	기준/NNG+에/JKB
+대해	대하/VV+여/EC
+장기적으로	장기적/NNG+으로/JKB
+폐지해야	폐지하/VV+여야/EC
+된다는	되/VV+ㄴ다는/ETM
+입장을	입장/NNG+을/JKO
+내비쳤다	내비치/VV+었/EP+다/EF
+
+안	안/NNP
+후보는	후보/NNG+는/JX
+7일	7/SN+일/NNB
+7대	7/SN+대/NNB
+비전	비전/NNG
+선언문을	선언문/NNG+을/JKO
+발표하며,	발표하/VV+며/EC+,/SP
+지난	지나/VV+ㄴ/ETM
+8월	8/SN+월/NNB
+거제에서	거제/NNG+에서/JKB
+부양의무자	부양의무자/NNG
+기준으로	기준/NNG+으로/JKB
+인해	인하/VV+여/EC
+기초수급	기초수급/NNG
+탈락통보를	탈락통보/NNG+를/JKO
+받은	받/VV+은/ETM
+70대	70/SN+대/NNB
+할머니의	할머니/NNG+의/JKG
+음독자살	음독자살/NNG
+사건에	사건/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+내용을	내용/NNG+을/JKO
+언급했다	언급하/VV+였/EP+다/EC
+
+이날	이날/NNG
+안	안/NNP
+후보가	후보/NNG+가/JKS
+제시한	제시하/VV+ㄴ/ETM
+7대	7/SN+대/NNB
+비전	비전/NNG
+선언문에는	선언문/NNG+에/JKB+는/JX
+정치와	정치/NNG+와/JC
+경제	경제/NNG
+교육	교육/NNG
+결혼과	결혼/NNG+과/JC
+출산	출산/NNG
+노후와	노후/NNG+와/JC
+질병	질병/NNG
+환경·에너지·개발	환경/NNG+·/SP+에너지/NNG+·/SP+개발/NNG
+남북관계	남북/NNP+관계/NNG
+등의	등/NNB+의/JKG
+분야가	분야/NNG+가/JKS
+담겨있다	담기/VV+어/EC+있/VX+다/EC
+
+안	안/NNP
+후보는	후보/NNG+는/JX
+“지난	“/SL+지나/VV+ㄴ/ETM
+8월,	8/SN+월/NNB+,/SP
+일흔	일흔/NR
+여덟의	여덟/NR+의/JKG
+이모	이/NNP+모/NP
+할머니가	할머니/NNG+가/JKS
+기초생활수급	기초생활수급/NNG
+대상에서	대상/NNG+에서/JKB
+제외됐다	제외되/VV+었/EP+다/EF
+
+부양의무자인	부양의무자/NNG+이/VCP+ㄴ/ETM
+사위가	사위/NNG+가/JKS
+취직을	취직/NNG+을/JKO
+했기	하/VV+였/EP+기/ETN
+때문”이라면서	때문/NNB+”/SL+이/VCP+라면서/EC
+“사위는	“/SN+사위/NNG+는/JX
+취직했지만,	취직하/VV+였/EP+지만/EC+,/SP
+할머니를	할머니/NNG+를/JKO
+돌볼	돌보/VV+ㄹ/ETM
+수	수/NNB
+없었고,	없/VA+었/EP+고/EC+,/SP
+결국	결국/NNG
+할머니	할머니/NNG
+스스로	스스로/MAG
+목숨을	목숨/NNG+을/JKO
+끊었다”고	끊/VV+었/EP+다”고/EC
+말문을	말문/NNG+을/JKO
+열었다	열/VV+었/EP+다/EC
+
+이어	이어/MAG
+“정치와	“/SN+정치/NNG+와/JC
+정부가	정부/NNG+가/JKS
+할	하/VV+ㄹ/ETM
+일을	일/NNG+을/JKO
+하지	하/VV+지/EC
+않고	않/VX+고/EC
+하지	하/VV+지/EC
+말아야	말/VX+아야/EC
+할	하/VX+ㄹ/ETM
+일을	일/NNG+을/JKO
+했기	하/VV+였/EP+기/ETN
+때문에	때문/NNB+에/JKB
+기댈	기대/VV+ㄹ/ETM
+데	데/NNB
+없는	없/VA+는/ETM
+어르신이	어르신/NNG+이/JKS
+세상을	세상/NNG+을/JKO
+떠났다”면서	떠나/VV+았/EP+다/EC+”/VX+면서/EC
+“보건복지부가	“/SL+보건복지부/NNG+가/JKS
+국세청	국세청/NNG
+일용근로소득	일용근로소득/NNG
+자료를	자료/NNG+를/JKO
+근거로	근거/NNG+로/JKB
+기초생활보장수급자	기초생활보장수급/NNG+자/XSN
+중	중/NNB
+상당수의	상당수/NNG+의/JKG
+자격을	자격/NNG+을/JKO
+기계적으로	기계적/NNG+으로/JKB
+박탈한	박탈하/VV+ㄴ/ETM
+결과”라고	결과”/NNG+이/VCP+라고/EC
+지적했다	지적하/VV+였/EP+다/EF
+
+안	안/NNP
+후보는	후보/NNG+는/JX
+“자식들은	“/SL+자식/NNG+들/XSN+은/JX
+자기	자기/NP
+앞가림하기도	앞가림하/VV+기/ETN+도/JX
+어렵고,	어렵/VA+고/EC+,/SP
+어르신들을	어르신/NNG+들/XSN+을/JKO
+생계를	생계/NNG+를/JKO
+이어가기가	잇/VV+어/EC+가/VX+기/ETN+가/JKS
+어렵다	어렵/VA+다/EF
+
+사회가	사회/NNG+가/JKS
+정부가	정부/NNG+가/JKS
+국가가	국가/NNG+가/JKS
+이렇게	이렇/VA+게/EC
+비정해도	비정하/VV+여도/EC
+되는	되/VV+는/ETM
+것인지	것/NNB+이/VCP+ㄴ지/EC
+묻고	묻/VV+고/EC
+싶다”며	싶/VX+다/EC+”/VV+며/EC
+“국민을	“/SL+국민/NNG+을/JKO
+보듬는	보듬/VV+는/ETM
+따뜻한	따뜻하/VA+ㄴ/ETM
+정부가	정부/NNG+가/JKS
+꿈이고,	꿈/NNG+이/VCP+고/EC+,/SP
+얼마든지	얼마/NNG+든지/JX
+가능하다고	가능하/VA+다고/EC
+믿는다”고	믿/VV+는다/EC+”/VV+고/EC
+강조했다	강조하/VV+였/EP+다/EC
+
+안	안/NNP
+후보는	후보/NNG+는/JX
+“사람에	“/SN+사람/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+예의와	예의/NNG+와/JC
+정성만	정성/NNG+만/JX
+있으면,	있/VA+으면/EC+,/SP
+예산을	예산/NNG+을/JKO
+알뜰하게	알뜰하/VA+게/EC
+쓰면서	쓰/VV+면서/EC
+이	이/MM
+분들을	분/NNB+들/XSN+을/JKO
+돌볼	돌보/VV+ㄹ/ETM
+수	수/NNB
+있다고	있/VA+다고/EC
+믿는다”면서도	믿/VV+는다/EC+”/VV+면서/EC+도/JX
+“꼼꼼하게	“/SN+꼼꼼하/VA+게/EC
+현실적인	현실적/NNG+이/VCP+ㄴ/ETM
+계획을	계획/NNG+을/JKO
+세운다면,	세울/VV+ㄴ다면/EC+,/SP
+노인빈곤을	노인빈곤/NNG+을/JKO
+제로로	제로/NNG+로/JKB
+만드는	만들/VV+는/ETM
+시대를	시대/NNG+를/JKO
+열	열/VV+ㄹ/ETM
+수	수/NNB
+있다	있/VA+다/EC
+
+최소한	최소한/NNG
+10년은	10/SN+년/NNB+은/JX
+걸릴	걸리/VV+ㄹ/ETM
+것”이라고	것/NNB+”/SL+이/VCP+라고/EC
+밝혔다	밝히/VV+었/EP+다/EC
+
+안철수	안철수/NNP
+후보	후보/NNG
+7대	7/SN+대/NNG
+비전제시문	비전제시문/NNG
+전문안녕하십니까	전문안녕하/VA+시/EP+ㅂ니까/EF
+
+안철수입니다	안철수/NNP+이/VCP+ㅂ니다/EC
+
+18대	18/SN+대/NNB
+대통령	대통령/NNG
+선거에	선거/NNG+에/JKB
+출마하겠다는	출마하/VV+겠/EP+다는/ETM
+말씀을	말씀/NNG+을/JKO
+드린지	드리/VV+ㄴ/ETM+지/NNB
+보름이	보름/NNG+이/JKS
+지났습니다	지나/VV+았/EP+습니다/EF
+
+그동안	그동안/NNG
+많은	많/VA+은/ETM
+현장과	현장/NNG+과/JC
+지역을	지역/NNG+을/JKO
+찾아뵈었습니다	찾아뵈/VV+어/EC+었/EP+습니다/EF
+
+명절도	명절/NNG+도/JX
+잊고	잊/VV+고/EC
+근무하던	근무하/VV+던/ETM
+소방서와	소방서/NNG+와/JC
+지구대의	지구대/NNG+의/JKG
+고마운	고맙/VA+ㄴ/ETM
+손,	손/NNG+,/SP
+시장에서	시장/NNG+에서/JKB
+앞치마에	앞치마/NNG+에/JKB
+물기	물기/NNG
+닦아	닦/VV+아/EC
+잡아주신	잡/VV+아/EC+주/VX+시/EP+ㄴ/ETM
+따뜻한	따뜻하/VA+ㄴ/ETM
+손,	손/NNG+,/SP
+광주항쟁	광주/NNP+항쟁/NNG
+때	때/NNG
+아들을	아들/NNG+을/JKO
+잃은	잃/VV+은/ETM
+아버지의	아버지/NNG+의/JKG
+무거운	무겁/VA+ㄴ/ETM
+손,	손/NNG+,/SP
+그	그/MM
+손을	손/NNG+을/JKO
+잊지	잊/VV+지/EC
+않겠습니다	않/VX+겠/EP+습니다/EF
+
+그	그/MM
+마음을	마음/NNG+을/JKO
+잊지	잊/VV+지/EC
+않겠습니다	않/VX+겠/EP+습니다/EF
+
+그	그/MM
+분들	분/NNB+들/XSN
+앞에,	앞/NNG+에/JKB+,/SP
+무거운	무겁/VA+ㄴ/ETM
+책임과	책임/NNG+과/JC
+부끄러움을	부끄러움/NNG+을/JKO
+느꼈던	느끼/VV+었/EP+던/ETM
+이	이/MM
+마음을	마음/NNG+을/JKO
+갖고	갖/VV+고/EC
+가겠습니다	가/VV+겠/EP+습니다/EF
+
+정치를	정치/NNG+를/JKO
+바꾸고,	바꾸/VV+고/EC+,/SP
+경제를	경제/NNG+를/JKO
+바꾸고	바꾸/VV+고/EC
+대한민국을	대한민국/NNP+을/JKO
+바꾸라는	바꾸/VV+라는/ETM
+그	그/MM
+간절한	간절하/VA+ㄴ/ETM
+바람을	바람/NNG+을/JKO
+실천하겠습니다	실천하/VV+겠/EP+습니다/EF
+
+낡은	낡/VA+은/ETM
+체제를	체제/NNG+를/JKO
+극복하고	극복하/VV+고/EC
+새로운	새롭/VA+ㄴ/ETM
+미래로	미래/NNG+로/JKB
+가겠습니다	가/VV+겠/EP+습니다/EF
+
+제가	제/NP+가/JKS
+그	그/MM
+앞에	앞/NNG+에/JKB
+서겠습니다	서/VV+어/EC+겠/EP+습니다/EF
+
+변화와	변화/NNG+와/JC
+개혁을	개혁/NNG+을/JKO
+바라는	바라/VV+는/ETM
+모든	모든/MM
+국민과	국민/NNG+과/JKB
+함께	함께/MAG
+가겠습니다	가/VV+겠/EP+습니다/EF
+
+수십년	수십/NR+년/NNB
+동안	동안/NNG
+정치와	정치/NNG+와/JC
+경제	경제/NNG
+시스템을	시스템/NNG+을/JKO
+장악하고,	장악하/VV+고/EC+,/SP
+소수	소수/NNG
+기득권의	기득권/NNG+의/JKG
+편만	편만/NNG
+들던	들/VV+던/ETM
+낡은	낡/VA+은/ETM
+체제를	체제/NNG+를/JKO
+끝내겠습니다	끝내/VV+겠/EP+습니다/EF
+
+정권교체는	정권교체/NNG+는/JX
+그	그/MM
+시작입니다	시작/NNG+이/VCP+ㅂ니다/EC
+
+정치개혁이	정치개혁/NNG+이/JKS
+필요합니다	필요하/VA+ㅂ니다/EC
+
+지금	지금/MAG
+저의	저/NP+의/JKG
+앞에는	앞/NNG+에/JKB+는/JX
+커다란	커다랗/VA+ㄴ/ETM
+성벽이	성벽/NNG+이/JKS
+있습니다	있/VA+습니다/EF
+
+철조망을	철조망/NNG+을/JKO
+만들어	만들/VV+어/EC
+놓고,	놓/VX+고/EC+,/SP
+흙탕물을	흙탕물/NNG+을/JKO
+끼얹고	끼얹/VV+고/EC
+있습니다	있/VX+습니다/EF
+
+그러나	그러나/MAJ
+저는	저/NP+는/JX
+끝까지	끝/NNG+까지/JX
+정정당당하게	정정당당하/VA+게/EC
+싸우겠습니다	싸우/VV+겠/EP+습니다/EF
+
+저는	저/NP+는/JX
+모두가	모두/NNG+가/JKS
+안	안/MAG
+된다고	되/VV+ㄴ다고/EC
+말할	말하/VV+ㄹ/ETM
+때	때/NNG
+주저앉지	주저앉/VV+지/EC
+않았습니다	않/VX+았/EP+습니다/EF
+
+밤새워	밤새우/VV+어/EC
+v3를	v/SL+3/SN+를/JKO
+만들	만들/VV+ㄹ/ETM
+때의	때/NNG+의/JKG
+그	그/MM
+열의로	열의/NNG+로/JKB
+부정과	부정/NNG+과/JC
+불의,	불의/NNG+,/SP
+부패한	부패하/VV+ㄴ/ETM
+낡은	낡/VA+은/ETM
+체제와	체제/NNG+와/JKB
+싸울	싸우/VV+ㄹ/ETM
+것입니다	것/NNB+이/VCP+ㅂ니다/EC
+
+국민이	국민/NNG+이/JKS
+선택하는	선택하/VV+는/ETM
+새로운	새롭/VA+ㄴ/ETM
+변화는	변화/NNG+는/JX
+이미	이미/MAG
+시작되었습니다	시작되/VV+었/EP+습니다/EF
+
+저	저/MM
+안철수,	안철수/NNP+,/SP
+오로지	오로지/MAG
+저만이	저/NP+만/JX+이/JKS
+정권교체와	정권교체/NNG+와/JC
+정치개혁이라는	정치개혁/NNG+이/VCP+라는/ETM
+두가지	두/MM+가지/NNB
+과제를	과제/NNG+를/JKO
+모두	모두/MAG
+이룰	이루/VV+ㄹ/ETM
+수	수/NNB
+있습니다	있/VA+습니다/EF
+
+과거를	과거/NNG+를/JKO
+극복하고	극복하/VV+고/EC
+미래를	미래/NNG+를/JKO
+열겠습니다	열/VV+겠/EP+습니다/EF
+
+민의를	민의/NNG+를/JKO
+반영하지	반영하/VV+지/EC
+못하는	못하/VX+는/ETM
+정치	정치/NNG
+시스템,	시스템/NNG+,/SP
+정치혁신으로	정치혁신/NNG+으로/JKB
+바꾸겠습니다	바꾸/VV+겠/EP+습니다/EF
+
+대통령은	대통령/NNG+은/JX
+국민의	국민/NNG+의/JKG
+목소리를	목소리/NNG+를/JKO
+더	더/MAG
+들어야하고	듣/VV+어야/EC+하/VX+고/EC
+청와대는	청와대/NNP+는/JX
+더	더/MAG
+낮아져야합니다	낮/VA+아/EC+지/VX+어야/EC+하/VX+ㅂ니다/EF
+
+또	또/MAG
+국회는	국회/NNG+는/JX
+특권을	특권/NNG+을/JKO
+버리고,	버리/VV+고/EC+,/SP
+일하는	일하/VV+는/ETM
+국회가	국회/NNG+가/JKC
+되어야	되/VV+어야/EC
+합니다	하/VX+ㅂ니다/EF
+
+국민이	국민/NNG+이/JKS
+제일	제일/MAG
+위에	위/NNG+에/JKB
+계십니다	계십니/VV+다/EF
+
+그	그/MM
+다음이	다음/NNG+이/JKS
+국회입니다	국회/NNG+이/VCP+ㅂ니다/EF
+
+제일	제일/MAG
+낮은	낮/VA+은/ETM
+곳에	곳/NNG+에/JKB
+대통령과	대통령/NNG+과/JC
+정부가	정부/NNG+가/JKS
+있어야합니다	있/VA+어야/EC+하/VX+ㅂ니다/EF
+
+그것이	그것/NP+이/JKS
+헌법의	헌법/NNG+의/JKG
+정신입니다	정신/NNG+이/VCP+ㅂ니다/EF
+
+국민주권,	국민주권/NNG+,/SP
+3권	3/SN+권/NNB
+분립의	분립/NNG+의/JKG
+정신입니다	정신/NNG+이/VCP+ㅂ니다/EF
+
+저는	저/NP+는/JX
+정치가	정치/NNG+가/JKS
+근본으로	근본/NNG+으로/JKB
+돌아가야	돌아가/VV+아야/EC
+한다고	하/VX+ㄴ다고/EC
+믿습니다	믿/VV+습니다/EC
+
+정치인은	정치인/NNG+은/JX
+모든	모든/MM
+이권과	이권/NNG+과/JC
+단절해야	단절하/VV+여야/EC
+합니다	하/VX+ㅂ니다/EF
+
+또	또/MAG
+모두에게	모두/NNG+에게/JKB
+공정해야	공정하/VA+여야/EC
+합니다	하/VX+ㅂ니다/EF
+
+조직화된	조직화되/VV+ㄴ/ETM
+소수보다	소수/NNG+보다/JKB
+힘없는	힘없/VA+는/ETM
+다수의	다수/NNG+의/JKG
+편에	편/NNG+에/JKB
+서야	서/VV+어야/EC
+합니다	하/VX+ㅂ니다/EF
+
+공직자의	공직자/NNG+의/JKG
+독직과	독직/NNG+과/JC
+부패에	부패/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+처벌을	처벌/NNG+을/JKO
+획기적으로	획기적/NNG+으로/JKB
+강화하고,	강화하/VV+고/EC+,/SP
+감사원장은	감사원장/NNG+은/JX
+의회의	의회/NNG+의/JKG
+추천을	추천/NNG+을/JKO
+받겠습니다	받/VV+겠/EP+습니다/EF
+
+아울러	아울러/MAG
+대통령의	대통령/NNG+의/JKG
+사면권은	사면권/NNG+은/JX
+국회의	국회/NNG+의/JKG
+동의를	동의/NNG+를/JKO
+거쳐서	거치/VV+어서/EC
+행사되도록	행사되/VV+도록/EC
+하겠습니다	하/VX+겠/EP+습니다/EF
+
+국회도	국회/NNG+도/JX
+개혁안을	개혁안/NNG+을/JKO
+만들어	만들/VV+어/EC
+주십시오	주/VX+시/EP+ㅂ시오/EC
+
+이대로	이대로/MAG
+가면	가/VV+면/EC
+안됩니다	안됩니/VV+다/EC
+
+방향을	방향/NNG+을/JKO
+바꾸어야	바꾸/VV+어야/EC
+합니다	하/VX+ㅂ니다/EF
+
+특권과	특권/NNG+과/JC
+반칙으로	반칙/NNG+으로/JKB
+부가	부/NNG+가/JKS
+집중되고,	집중되/VV+고/EC+,/SP
+기회가	기회/NNG+가/JKS
+박탈되는	박탈되/VV+는/ETM
+낡은	낡/VA+은/ETM
+경제에는	경제/NNG+에/JKB+는/JX
+미래가	미래/NNG+가/JKS
+없습니다	없/VA+습니다/EF
+
+중산층이	중산층/NNG+이/JKS
+무너지고	무너지/VV+고/EC
+서민들이	서민/NNG+들/XSN+이/JKS
+벼랑	벼랑/NNG
+끝에	끝/NNG+에/JKB
+내몰리는데,	내몰리/VV+는데/EC+,/SP
+우리아이들의	우리/NP+아이/NNG+들/XSN+의/JKG
+미래가	미래/NNG+가/JKS
+어떻게	어떻/VA+게/EC
+되겠습니까?	되/VV+겠/EP+습니까/EF+?/SF
+중산층과	중산층/NNG+과/JC
+서민을	서민/NNG+을/JKO
+떠받치는	떠받치/VV+는/ETM
+데	데/NNB
+정부의	정부/NNG+의/JKG
+재원을	재원/NNG+을/JKO
+우선	우선/MAG
+쓰겠습니다	쓰/VV+겠/EP+습니다/EF
+
+토목공사보다	토목공사/NNG+보다/JKB
+사람에게	사람/NNG+에게/JKB
+먼저	먼저/MAG
+투자하겠습니다	투자하/VV+겠/EP+습니다/EF
+
+특권이	특권/NNG+이/JKS
+끊임없이	끊임없이/MAG
+확대되는	확대되/VV+는/ETM
+불공정한	불공정하/VA+ㄴ/ETM
+기득권구조를	기득권구조/NNG+를/JKO
+바꾸겠습니다	바꾸/VV+겠/EP+습니다/EF
+
+저는	저/NP+는/JX
+그것이	그것/NP+이/JKS
+새로운	새롭/VA+ㄴ/ETM
+성장동력이라고	성장동력/NNG+이/VCP+라고/EC
+생각합니다	생각하/VV+ㅂ니다/EF
+
+계층간의	계층/NNG+간/NNB+의/JKG
+이동이	이동/NNG+이/JKS
+차단된	차단되/VV+ㄴ/ETM
+사회시스템을	사회시스템/NNG+을/JKO
+선순환하는	선순환하/VV+는/ETM
+복지로	복지/NNG+로/JKB
+바꾸겠습니다	바꾸/VV+겠/EP+습니다/EF
+
+동일가치노동	동일가치노동/NNP
+동일임금을	동일임금/NNG+을/JKO
+목표로	목표/NNG+로/JKB
+정부와	정부/NNG+와/JC
+공공기관들부터	공공기관/NNG+들/XSN+부터/JX
+원칙을	원칙/NNG+을/JKO
+지키겠습니다	지키/VV+겠/EP+습니다/EF
+
+힘을	힘/NNG+을/JKO
+앞세워	앞세우/VV+어/EC
+하도급업체에	하도급업체/NNG+에/JKB
+희생을	희생/NNG+을/JKO
+강요하는	강요하/VV+는/ETM
+기업,	기업/NNG+,/SP
+고용의	고용/NNG+의/JKG
+기본을	기본/NNG+을/JKO
+지키지	지키/VV+지/EC
+않는	않/VX+는/ETM
+기업들이	기업/NNG+들/XSN+이/JKS
+승승장구하는	승승장구하/VV+는/ETM
+경제는	경제/NNG+는/JX
+미래가	미래/NNG+가/JKS
+없습니다	없/VA+습니다/EF
+
+바로	바로/MAG
+지금이	지금/NNG+이/JKS
+바꿀	바꾸/VV+ㄹ/ETM
+때입니다	때/NNG+이/VCP+ㅂ니다/EF
+
+공정한	공정하/VA+ㄴ/ETM
+기회가	기회/NNG+가/JKS
+부여되지	부여되/VV+지/EC
+않는	않/VX+는/ETM
+기득권	기득권/NNG
+과보호구조는	과보호구조/NNG+는/JX
+우리의	우리/NP+의/JKG
+법과	법/NNG+과/JC
+정책	정책/NNG
+곳곳에	곳곳/NNG+에/JKB
+숨어	숨/VV+어/EC
+있습니다	있/VX+습니다/EF
+
+제가	제/NP+가/JKS
+정부를	정부/NNG+를/JKO
+맡으면	맡/VV+으면/EC
+특권과	특권/NNG+과/JC
+독점을	독점/NNG+을/JKO
+묵인하고	묵인하/VV+고/EC
+조장하는	조장하/VV+는/ETM
+정책은	정책/NNG+은/JX
+폐기하거나	폐기하/VV+거나/EC
+조정하겠습니다	조정하/VV+겠/EP+습니다/EF
+
+국회에서도	국회/NNG+에서/JKB+도/JX
+우리	우리/NP
+법	법/NNG
+곳곳에	곳곳/NNG+에/JKB
+숨어	숨/VV+어/EC
+있는	있/VX+는/ETM
+특권과	특권/NNG+과/JC
+독점체제를	독점체제/NNG+를/JKO
+바꿔주십시오	바꾸/VV+어/EC+주/VX+십시오/EC
+
+또	또/MAG
+반칙이	반칙/NNG+이/JKS
+통하지	통하/VV+지/EC
+않는,	않/VX+는/ETM+,/SP
+상식적인	상식적/NNG+이/VCP+ㄴ/ETM
+사법체계를	사법체계/NNG+를/JKO
+만들겠습니다	만들/VV+겠/EP+습니다/EF
+
+검찰이	검찰/NNG+이/JKS
+무소불위의	무소불위/NNG+의/JKG
+권력을	권력/NNG+을/JKO
+휘두르는	휘두르/VV+는/ETM
+검찰공화국에	검찰공화국/NNG+에/JKB
+정의는	정의/NNG+는/JX
+없습니다	없/VA+습니다/EF
+
+권력의	권력/NNG+의/JKG
+분산과	분산/NNG+과/JC
+상호	상호/NNG
+견제,	견제/NNG+,/SP
+민주주의의	민주주의/NNG+의/JKG
+기본요건입니다	기본요건/NNG+이/VCP+ㅂ니다/EF
+
+그	그/MM
+원칙에	원칙/NNG+에/JKB
+따라	따르/VV+아/EC
+검찰을	검찰/NNG+을/JKO
+개혁하겠습니다	개혁하/VV+겠/EP+습니다/EF
+
+대통령으로부터	대통령/NNG+으로부터/JKB
+독립된	독립되/VV+ㄴ/ETM
+공직비리	공직비리/NNG
+수사처를	수사처/NNG+를/JKO
+만들겠습니다	만들/VV+겠/EP+습니다/EF
+
+전쟁과	전쟁/NNG+과/JC
+가난의	가난/NNG+의/JKG
+고통	고통/NNG
+속에서도	속/NNG+에서/JKB+도/JX
+우리는	우리/NP+는/JX
+일어났습니다	일어나/VV+았/EP+습니다/EF
+
+독재	독재/NNG
+하에서도	하/XSN+에서/JKB+도/JX
+우리	우리/NP
+국민은	국민/NNG+은/JX
+스스로의	스스로/NNG+의/JKG
+힘으로	힘/NNG+으로/JKB
+민주주의를	민주주의/NNG+를/JKO
+지켜냈습니다	지키/VV+어/EC+내/VX+었/EP+습니다/EF
+
+그	그/MM
+희생과	희생/NNG+과/JC
+헌신	헌신/NNG
+위에	위/NNG+에/JKB
+오늘의	오늘/NNG+의/JKG
+대한민국이	대/XPN+한민국/NNP+이/JKS
+있습니다	있/VA+습니다/EF
+
+이제는	이제/NNG+는/JX
+대통령	대통령/NNG
+한	한/MM
+사람이나,	사람/NNG+이나/JC+,/SP
+정권에	정권/NNG+에/JKB
+따라	따르/VV+아/EC
+흔들리는	흔들리/VV+는/ETM
+민주주의,	민주주의/NNG+,/SP
+아직도	아직/MAG+도/JX
+허약한	허약하/VA+ㄴ/ETM
+우리의	우리/NP+의/JKG
+민주주의를	민주주의/NNG+를/JKO
+다시금	다시금/MAG
+굳건히	굳건히/MAG
+세워야	세우/VV+어야/EC
+할	하/VX+ㄹ/ETM
+때입니다	때/NNG+이/VCP+ㅂ니다/EF
+
+권력기관이	권력기관/NNG+이/JKS
+국민의	국민/NNG+의/JKG
+권리를	권리/NNG+를/JKO
+함부로	함부로/MAG
+침해하지	침해하/VV+지/EC
+못하도록	못하/VX+도록/EC
+법령들을	법령/NNG+들/XSN+을/JKO
+정비하고,	정비하/VV+고/EC+,/SP
+누구라도	누구/NP+라도/JX
+권한을	권한/NNG+을/JKO
+남용하고	남용하/VV+고/EC
+국민의	국민/NNG+의/JKG
+권익을	권익/NNG+을/JKO
+침해하면	침해하/VV+면/EC
+반드시	반드시/MAG
+그	그/MM
+책임을	책임/NNG+을/JKO
+지도록	지/VV+도록/EC
+하겠습니다	하/VX+겠/EP+습니다/EF
+
+이제는	이제/NNG+는/JX
+정부가	정부/NNG+가/JKS
+바뀔	바뀌/VV+ㄹ/ETM
+때마다	때/NNG+마다/JX
+흔들리는	흔들리/VV+는/ETM
+대북정책과	대북정책/NNG+과/JC
+남북관계도	남북/NNP+관계/NNG+도/JX
+더	더/MAG
+단단하게	단단하/VA+게/EC
+만들어야	만들/VV+어야/EC
+합니다	하/VX+ㅂ니다/EF
+
+굳건한	굳건하/VA+ㄴ/ETM
+안보를	안보/NNG+를/JKO
+바탕으로	바탕/NNG+으로/JKB
+남북간의	남북/NNP+간/NNB+의/JKG
+대화와	대화/NNG+와/JC
+협력을	협력/NNG+을/JKO
+통해,	통하/VV+여/EC+,/SP
+한반도에	한반도/NNP+에/JKB
+평화를	평화/NNG+를/JKO
+만들어가겠습니다	만들/VV+어/EC+가/VX+겠/EP+습니다/EF
+
+앞으로	앞/NNG+으로/JKB
+남북한의	남북한/NNP+의/JKG
+중요한	중요하/VA+ㄴ/ETM
+합의는	합의/NNG+는/JX
+국회의	국회/NNG+의/JKG
+동의를	동의/NNG+를/JKO
+거쳐	거치/VV+어/EC
+법적	법적/NNG
+효력을	효력/NNG+을/JKO
+갖도록	갖/VV+도록/EC
+하겠습니다	하/VX+겠/EP+습니다/EF
+
+그래야	그리하/VV+여야/EC
+정권이	정권/NNG+이/JKS
+바뀔	바뀌/VV+ㄹ/ETM
+때마다	때/NNG+마다/JX
+정책이	정책/NNG+이/JKS
+바뀌고	바뀌/VV+고/EC
+남북관계가	남북/NNP+관계/NNG+가/JKS
+오락가락하는	오락가락하/VV+는/ETM
+일이	일/NNG+이/JKS
+없을	없/VA+을/ETM
+것입니다	것/NNB+이/VCP+ㅂ니다/EC
+
+북한은	북한/NNP+은/JX
+핵무기를	핵무기/NNG+를/JKO
+폐기해야	폐기하/VV+여야/EC
+합니다	하/VX+ㅂ니다/EF
+
+남북한의	남북한/NNP+의/JKG
+대화와	대화/NNG+와/JC
+협력,	협력/NNG+,/SP
+미국을	미국/NNP+을/JKO
+포함한	포함하/VV+ㄴ/ETM
+주변국과의	주변/NNG+국/XSN+과/JKB+의/JKG
+관계정상화를	관계정상화/NNG+를/JKO
+통해	통하/VV+여/EC
+함께	함께/MAG
+사는	살/VV+는/ETM
+길로	길/NNG+로/JKB
+나아가야	나아가/VV+아야/EC
+합니다	하/VX+ㅂ니다/EF
+
+한반도와	한반도/NNP+와/JC
+동북아의	동북아/NNP+의/JKG
+평화체제를	평화체제/NNG+를/JKO
+만들어가기	만들/VV+어/EC+가/VX+기/ETN
+위해	위하/VV+여/EC
+함께	함께/MAG
+노력해야	노력하/VV+여야/EC
+합니다	하/VX+ㅂ니다/EF
+
+그것이	그것/NP+이/JKS
+남북기본합의서로부터	남북/NNP+기본합의서/NNG+로부터/JKB
+6	6/SN
+
+15선언,	15/SN+선언/NNG+,/SP
+10	10/SN
+
+4선언	4/SN+선언/NNG
+그리고	그리고/MAJ
+남북한	남북한/NNP
+미,일,중,러가	미/NNP+,/SP+일/NNP+,/SP+중/NNG+,/SP+러/NNP+가/JKS
+함께	함께/MAG
+합의한	합의하/VV+ㄴ/ETM
+9	9/SN
+
+19공동선언의	19/SN+공동선언/NNG+의/JKG
+합의정신입니다	합의정신/NNG+이/VCP+ㅂ니다/EC
+
+진심의	진심/NNG+의/JKG
+정치를	정치/NNG+를/JKO
+하겠습니다	하/VV+겠/EP+습니다/EF
+
+약속을	약속/NNG+을/JKO
+지키는	지키/VV+는/ETM
+정치를	정치/NNG+를/JKO
+하겠습니다	하/VV+겠/EP+습니다/EF
+
+모두가	모두/NNG+가/JKS
+경제민주화를	경제민주화/NNG+를/JKO
+이야기합니다	이야기합니/VV+다/EC
+
+그렇다면	그렇/VA+다면/EC
+지금	지금/MAG
+당장이라도	당장/NNG+이라도/JX
+여야의	여야/NNG+의/JKG
+합의로	합의/NNG+로/JKB
+법을	법/NNG+을/JKO
+만들어	만들/VV+어/EC
+주십시오	주/VX+시/EP+ㅂ시오/EC
+
+작은	작/VA+은/ETM
+차이라면	차이/NNG+이/VCP+라면/EC
+서로	서로/MAG
+양보하고	양보하/VV+고/EC
+합의하는	합의하/VV+는/ETM
+것이	것/NNB+이/JKS
+정치가	정치/NNG+가/JKC
+아니겠습니까?	아니/VCN+겠/EP+습니까/EF+?/SF
+합의하지	합의하/VV+지/EC
+못하는	못하/VX+는/ETM
+정치는	정치/NNG+는/JX
+전쟁과	전쟁/NNG+과/JKB
+다름없습니다	다름없/VA+습니다/EF
+
+국민을	국민/NNG+을/JKO
+기준으로	기준/NNG+으로/JKB
+하면,	하/VV+면/EC+,/SP
+합의할	합의하/VV+ㄹ/ETM
+수	수/NNB
+있다고	있/VA+다고/EC
+저는	저/NP+는/JX
+믿습니다	믿/VV+습니다/EC
+
+그것이	그것/NP+이/JKS
+전쟁과	전쟁/NNG+과/JC
+정치의	정치/NNG+의/JKG
+차이라고	차이/NNG+이/VCP+라고/EC
+저는	저/NP+는/JX
+믿습니다	믿/VV+습니다/EC
+
+정치가	정치/NNG+가/JKS
+아무	아무/MM
+짝에도	짝/NNB+에/JKB+도/JX
+쓸모가	쓸모/NNG+가/JKS
+없다고	없/VA+다고/EC
+탄식하는	탄식하/VV+는/ETM
+국민들의	국민/NNG+들/XSN+의/JKG
+한숨이	한숨/NNG+이/JKS
+들리지	들리/VV+지/EC
+않습니까?	않/VX+습니까/EF+?/SF
+자신들의	자신/NNG+들/XSN+의/JKG
+주의	주의/NNG
+주장이	주장/NNG+이/JKS
+아무리	아무리/MAG
+소중하다고	소중하/VA+다고/EC
+해도	하/VV+여도/EC
+국민의	국민/NNG+의/JKG
+눈물과	눈물/NNG+과/JC
+고통	고통/NNG
+앞에	앞/NNG+에/JKB
+하찮은	하찮/VA+은/ETM
+것에	것/NNB+에/JKB
+지나지	지나/VV+지/EC
+않습니다	않/VX+습니다/EF
+
+자기	자기/NP
+세력의	세력/NNG+의/JKG
+이익이	이익/NNG+이/JKS
+그렇게	그렇/VA+게/EC
+소중하다면,	소중하/VA+다면/EC+,/SP
+정치가	정치/NNG+가/JKC
+아니라	아니/VCN+라/EC
+차라리	차라리/MAG
+이익이	이익/NNG+이/JKC
+남는	남/VV+는/ETM
+장사를	장사/NNG+를/JKO
+하거나	하/VV+거나/EC
+사업을	사업/NNG+을/JKO
+해야	하/VV+여야/EC
+하지	하/VX+지/EC
+않습니까?	않/VX+습니까/EF+?/SF
+말은	말/NNG+은/JX
+무성하고,	무성하/VA+고/EC+,/SP
+실천하지	실천하/VV+지/EC
+않는	않/VX+는/ETM
+정치	정치/NNG
+그런	그런/MM
+정치는	정치/NNG+는/JX
+더	더/MAG
+이상	이상/NNG
+안	안/MAG
+된다는	되/VV+ㄴ다는/ETM
+국민의	국민/NNG+의/JKG
+결심이	결심/NNG+이/JKS
+저를	저/NP+를/JKO
+여기	여기/NP
+세워주셨습니다	세우/VV+어/EC+주/VX+시었/EP+습니다/EF
+
+선거	선거/NNG
+때	때/NNG
+급조한	급조하/VV+ㄴ/ETM
+무상보육정책을	무상보육정책/NNG+을/JKO
+몇	몇/MM
+달	달/NNB
+만에	만/NNB+에/JKB
+뒤엎는	뒤엎/VV+는/ETM
+대한민국에	대한민국/NNP+에/JKB
+미래가	미래/NNG+가/JKS
+있겠습니까?	있/VA+겠/EP+습니까/EF+?/SF
+정치는,	정치/NNG+는/JX+,/SP
+정부는	정부/NNG+는/JX
+지킬	지키/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+약속을	약속/NNG+을/JKO
+하고,	하/VV+고/EC+,/SP
+약속을	약속/NNG+을/JKO
+했으면	하/VV+였/EP+으면/EC
+반드시	반드시/MAG
+지켜야	지키/VV+어야/EC
+한다고	하/VX+ㄴ다고/EC
+저는	저/NP+는/JX
+믿습니다	믿/VV+습니다/EC
+
+그래서	그래서/MAJ
+저는	저/NP+는/JX
+이번	이번/NNG
+선거의	선거/NNG+의/JKG
+과정에서	과정/NNG+에서/JKB
+거창한	거창하/VA+ㄴ/ETM
+약속을	약속/NNG+을/JKO
+드릴	드리/VV+ㄹ/ETM
+수	수/NNB
+없습니다	없/VA+습니다/EF
+
+대신	대신/NNG
+정치의	정치/NNG+의/JKG
+과정을	과정/NNG+을/JKO
+공유하겠습니다	공유하/VV+겠/EP+습니다/EF
+
+솔직히	솔직히/MAG
+말씀드리고	말씀/NNG+드리/XSV+고/EC
+국민	국민/NNG
+여러분의	여러분/NP+의/JKG
+이해를	이해/NNG+를/JKO
+구하겠습니다	구하/VV+겠/EP+습니다/EF
+
+정책	정책/NNG
+실행이	실행/NNG+이/JKS
+위험하면	위험하/VA+면/EC
+위험하다고,	위험하/VA+다고/EC+,/SP
+안전하면	안전하/VA+면/EC
+안전하다고	안전하/VA+다고/EC
+솔직히	솔직히/MAG
+말씀드리겠습니다	말씀/NNG+드리/XSV+겠/EP+습니다/EC
+
+공약과	공약/NNG+과/JC
+정책은	정책/NNG+은/JX
+진심일	진심/NNG+이/VCP+ㄹ/ETM
+때,	때/NNG+,/SP
+삶을	삶/NNG+을/JKO
+변화시킵니다	변화시킵니/VV+다/EC
+
+신중하게	신중하/VA+게/EC
+생각해서	생각하/VV+여서/EC
+지킬	지키/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+공약을	공약/NNG+을/JKO
+내놓겠습니다	내놓/VV+겠/EP+습니다/EF
+
+진심의	진심/NNG+의/JKG
+정치가	정치/NNG+가/JKS
+새로운	새롭/VA+ㄴ/ETM
+변화를	변화/NNG+를/JKO
+만듭니다	만듭/VV+니다/EF
+
+안철수의	안철수/NNP+의/JKG
+진심캠프는	진심캠프/NNG+는/JX
+국민들의	국민/NNG+들/XSN+의/JKG
+제안을	제안/NNG+을/JKO
+받고	받/VV+고/EC
+있습니다	있/VX+습니다/EF
+
+대한민국	대한민국/NNP
+국민이면	국민/NNG+이/VCP+면/EC
+누구나	누구/NP+나/JX
+정책을	정책/NNG+을/JKO
+만들고,	만들/VV+고/EC+,/SP
+참여할	참여하/VV+ㄹ/ETM
+수	수/NNB
+있습니다	있/VA+습니다/EF
+
+벌써	벌써/MAG
+500여개의	500/SN+여/XSN+개/NNB+의/JKG
+포럼	포럼/NNG
+개설	개설/NNG
+신청이	신청/NNG+이/JKS
+들어왔습니다	들어오/VV+았/EP+습니다/EF
+
+다듬고	다듬/VV+고/EC
+반영하는데	반영하/VV+는/ETM+데/NNB
+다소	다소/MAG
+시간이	시간/NNG+이/JKS
+걸릴	걸리/VV+ㄹ/ETM
+것입니다	것/NNB+이/VCP+ㅂ니다/EC
+
+하지만	하지만/MAJ
+이런	이런/MM
+국민참여의	국민참여/NNG+의/JKG
+과정이	과정/NNG+이/JKS
+바로	바로/MAG
+변화의	변화/NNG+의/JKG
+시작입니다	시작/NNG+이/VCP+ㅂ니다/EC
+
+문제	문제/NNG
+해결	해결/NNG
+중심의	중심/NNG+의/JKG
+정책을	정책/NNG+을/JKO
+펼치겠습니다	펼치/VV+겠/EP+습니다/EF
+
+부처	부처/NNG
+간	간/NNB
+칸막이를	칸막이/NNG+를/JKO
+세워	세우/VV+어/EC
+둔	두/VX+ㄴ/ETM
+지금의	지금/NNG+의/JKG
+정부	정부/NNG
+시스템은	시스템/NNG+은/JX
+새로운	새롭/VA+ㄴ/ETM
+시대에	시대/NNG+에/JKB
+맞지	맞/VV+지/EC
+않습니다	않/VX+습니다/EF
+
+지난	지나/VV+ㄴ/ETM
+8월,	8/SN+월/NNB+,/SP
+일흔	일흔/NR
+여덟의	여덟/NR+의/JKG
+이모	이/NNP+모/NP
+할머니가	할머니/NNG+가/JKS
+기초생활수급	기초생활수급/NNG
+대상에서	대상/NNG+에서/JKB
+제외됐습니다	제외되/VV+었/EP+습니다/EF
+
+부양의무자인	부양의무자/NNG+이/VCP+ㄴ/ETM
+사위가	사위/NNG+가/JKS
+취직을	취직/NNG+을/JKO
+했기	하/VV+였/EP+기/ETN
+때문입니다	때문/NNB+이/VCP+ㅂ니다/EF
+
+사위는	사위/NNG+는/JX
+취직했지만,	취직하/VV+였/EP+지만/EC+,/SP
+할머니를	할머니/NNG+를/JKO
+돌볼	돌보/VV+ㄹ/ETM
+수	수/NNB
+없었습니다	없/VA+었/EP+습니다/EF
+
+결국	결국/NNG
+할머니는	할머니/NNG+는/JX
+스스로	스스로/MAG
+목숨을	목숨/NNG+을/JKO
+끊으셨습니다	끊으하/VV+시었/EP+습니다/EF
+
+이런	이런/MM
+일	일/NNG
+앞에서	앞/NNG+에서/JKB
+저는	저/NP+는/JX
+정말	정말/MAG
+화가	화가/NNG
+납니다	나/VV+ㅂ니다/EF
+
+분노하지	분노하/VV+지/EC
+않을	않/VX+을/ETM
+수	수/NNB
+없습니다	없/VA+습니다/EF
+
+정치와	정치/NNG+와/JC
+정부가	정부/NNG+가/JKS
+할	하/VV+ㄹ/ETM
+일을	일/NNG+을/JKO
+하지	하/VV+지/EC
+않고	않/VX+고/EC
+하지	하/VV+지/EC
+말아야	말/VX+아야/EC
+할	하/VX+ㄹ/ETM
+일을	일/NNG+을/JKO
+했기	하/VV+였/EP+기/ETN
+때문에	때문/NNB+에/JKB
+기댈	기대/VV+ㄹ/ETM
+데	데/NNB
+없는	없/VA+는/ETM
+어르신이	어르신이/NNG
+세상을	세상/NNG+을/JKO
+떠나셨습니다	떠나하/VV+시었/EP+습니다/EF
+
+보건복지부가	보건복지부/NNG+가/JKS
+국세청	국세청/NNG
+일용근로소득	일용근로소득/NNG
+자료를	자료/NNG+를/JKO
+근거로	근거/NNG+로/JKB
+기초생활보장수급자	기초생활보장수급/NNG+자/XSN
+중	중/NNB
+상당수의	상당수/NNG+의/JKG
+자격을	자격/NNG+을/JKO
+기계적으로	기계적/NNG+으로/JKB
+박탈한	박탈하/VV+ㄴ/ETM
+결과입니다	결과/NNG+이/VCP+ㅂ니다/EF
+
+자식들은	자식/NNG+들/XSN+은/JX
+자기	자기/NP
+앞가림하기도	앞가림하/VV+기/ETN+도/JX
+어렵고,	어렵/VA+고/EC+,/SP
+어르신들을	어르신/NNG+들/XSN+을/JKO
+생계를	생계/NNG+를/JKO
+이어가기가	잇/VV+어/EC+가/VX+기/ETN+가/JKS
+어렵습니다	어렵/VA+습니다/EF
+
+사회가,	사회/NNG+가/JKS+,/SP
+정부가	정부/NNG+가/JKS
+국가가	국가/NNG+가/JKS
+이렇게	이렇/VA+게/EC
+비정해도	비정하/VV+여도/EC
+되는	되/VV+는/ETM
+것인지,	것/NNB+이/VCP+ㄴ지/EC+,/SP
+저는	저/NP+는/JX
+묻고	묻/VV+고/EC
+싶습니다	싶/VX+습니다/EC
+
+국민을	국민/NNG+을/JKO
+보듬는	보듬/VV+는/ETM
+따뜻한	따뜻하/VA+ㄴ/ETM
+정부,	정부/NNG+,/SP
+저의	저/NP+의/JKG
+꿈입니다	꿈/NNG+이/VCP+ㅂ니다/EF
+
+저는	저/NP+는/JX
+얼마든지	얼마/NNG+든지/JX
+가능하다고	가능하/VA+다고/EC
+믿습니다	믿/VV+습니다/EC
+
+사람에	사람/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+예의와	예의/NNG+와/JC
+정성만	정성/NNG+만/JX
+있으면,	있/VA+으면/EC+,/SP
+예산을	예산/NNG+을/JKO
+알뜰하게	알뜰하/VA+게/EC
+쓰면서	쓰/VV+면서/EC
+이	이/MM
+분들을	분/NNB+들/XSN+을/JKO
+돌볼	돌보/VV+ㄹ/ETM
+수	수/NNB
+있다고	있/VA+다고/EC
+믿습니다	믿/VV+습니다/EC
+
+그리고	그리고/MAJ
+꼼꼼하게	꼼꼼하/VA+게/EC
+현실적인	현실적/NNG+이/VCP+ㄴ/ETM
+계획을	계획/NNG+을/JKO
+세운다면,	세울/VV+ㄴ다면/EC+,/SP
+노인빈곤을	노인빈곤/NNG+을/JKO
+제로로	제로/NNG+로/JKB
+만드는	만들/VV+는/ETM
+시대를	시대/NNG+를/JKO
+열	열/VV+ㄹ/ETM
+수	수/NNB
+있다고	있/VA+다고/EC
+믿습니다	믿/VV+습니다/EC
+
+물론	물론/MAG
+시간이	시간/NNG+이/JKS
+많이	많이/MAG
+걸릴	걸리/VV+ㄹ/ETM
+것입니다	것/NNB+이/VCP+ㅂ니다/EC
+
+최소한	최소한/NNG
+10년은	10/SN+년/NNB+은/JX
+걸릴	걸리/VV+ㄹ/ETM
+겁니다	것/NNB+이/VCP+ㅂ니다/EF
+
+하지만	하지만/MAJ
+지금	지금/MAG
+시작해야	시작하/VV+여야/EC
+합니다	하/VX+ㅂ니다/EF
+
+지금	지금/MAG
+대한민국은	대한민국/NNP+은/JX
+궤도를	궤도/NNG+를/JKO
+벗어난	벗어나/VV+ㄴ/ETM
+아폴로	아폴로/NNP
+13호입니다	13/SN+호/NNB+이/VCP+ㅂ니다/EF
+
+아폴로	아폴로/NNP
+13호가	13/SN+호/NNB+가/JKS
+나사를	나사/NNG+를/JKO
+떠나	떠나/VV+아/EC
+우주에	우주/NNG+에/JKB
+발사된	발사되/VV+ㄴ/ETM
+뒤	뒤/NNG
+문제가	문제/NNG+가/JKS
+생기자,	생기/VV+자/EC+,/SP
+나사는	나사/NNP+는/JX
+자기들이	자기/NP+들/XSN+이/JKS
+해결할	해결하/VV+ㄹ/ETM
+수	수/NNB
+있다고	있/VA+다고/EC
+고집부리지	고집/NNG+부리/VV+지/EC
+않았습니다	않/VX+았/EP+습니다/EF
+
+각계의	각계/NNG+의/JKG
+다양한	다양하/VA+ㄴ/ETM
+전문가들을	전문가/NNG+들/XSN+을/JKO
+불러	부르/VV+어/EC
+모았습니다	모으/VV+았/EP+습니다/EF
+
+그래서	그래서/MAJ
+복합적	복합적/NNG
+사고원인을	사고원인/NNG+을/JKO
+분석해냈고,	분석하/VV+여/EC+내/VX+었/EP+고/EC+,/SP
+아폴로13호는	아폴로/NNP+13/SN+호/NNB+는/JX
+무사히	무사히/MAG
+귀환할	귀환하/VV+ㄹ/ETM
+수	수/NNB
+있었습니다	있/VX+었/EP+습니다/EF
+
+지금	지금/MAG
+대한민국의	대한민국/NNP+의/JKG
+사회	사회/NNG
+문제는	문제/NNG+는/JX
+서로	서로/MAG
+뒤얽혀	뒤얽히/VV+어/EC
+복잡합니다	복잡하/VA+ㅂ니다/EC
+
+문제	문제/NNG
+해결을	해결/NNG+을/JKO
+중심에	중심/NNG+에/JKB
+놓고,	놓/VV+고/EC+,/SP
+각	각/MM
+부처와	부처/NNG+와/JC
+전문가,	전문가/NNG+,/SP
+그리고	그리고/MAJ
+국민들의	국민/NNG+들/XSN+의/JKG
+현장의	현장/NNG+의/JKG
+목소리가	목소리/NNG+가/JKS
+함께	함께/MAG
+반영될	반영되/VV+ㄹ/ETM
+때	때/NNG
+비로소	비로소/MAG
+문제를	문제/NNG+를/JKO
+풀어낼	풀어내/VV+ㄹ/ETM
+수	수/NNB
+있을	있/VA+을/ETM
+것입니다	것/NNB+이/VCP+ㅂ니다/EC
+
+제가	제/NP+가/JKS
+대한민국의	대한민국/NNP+의/JKG
+궤도를	궤도/NNG+를/JKO
+바로	바로/MAG
+잡겠습니다	잡/VV+겠/EP+습니다/EC
+
+함께	함께/MAG
+문제를	문제/NNG+를/JKO
+풀어가겠습니다	풀/VV+어/EC+가/VX+겠/EP+습니다/EF
+
+대통령	대통령/NNG
+혼자	혼자/NNG
+나라를	나라/NNG+를/JKO
+끌고	끌/VV+고/EC
+가는	가/VV+는/ETM
+시대는	시대/NNG+는/JX
+끝났습니다	끝나/VV+았/EP+습니다/EF
+
+전국	전국/NNG
+각	각/MM
+분야	분야/NNG
+전문가들과	전문가/NNG+들/XSN+과/JC
+국민들이	국민/NNG+들/XSN+이/JKS
+대통령과	대통령/NNG+과/JKB
+함께	함께/MAG
+답을	답/NNG+을/JKO
+찾는	찾/VV+는/ETM
+대화와	대화/NNG+와/JC
+소통의	소통/NNG+의/JKG
+구조를	구조/NNG+를/JKO
+만들어내겠습니다	만들/VV+어/EC+내/VX+겠/EP+습니다/EF
+
+대통령이	대통령/NNG+이/JKS
+군림하고	군림하/VV+고/EC
+통치하는	통치하/VV+는/ETM
+시대는	시대/NNG+는/JX
+이미	이미/MAG
+지났습니다	지나/VV+았/EP+습니다/EF
+
+대통령이	대통령/NNG+이/JKS
+국민과	국민/NNG+과/JKB
+대화하고	대화하/VV+고/EC
+협력하는	협력하/VV+는/ETM
+협치의	협치/NNG+의/JKG
+시대를	시대/NNG+를/JKO
+열겠습니다	열/VV+겠/EP+습니다/EF
+
+함께	함께/MAG
+해주셔야	하/VV+여/EC+주시/VX+어야/EC
+국민	국민/NNG
+여러분의	여러분/NP+의/JKG
+삶이	삶/NNG+이/JKS
+바뀝니다	바뀝니/VV+다/EC
+
+그동안	그동안/NNG
+저는	저/NP+는/JX
+민심을	민심/NNG+을/JKO
+전달하는	전달하/VV+는/ETM
+사람이었습니다	사람/NNG+이/VCP+었/EP+습니다/EF
+
+이제부터	이제/NNG+부터/JX
+저는	저/NP+는/JX
+국민의	국민/NNG+의/JKG
+뜻을	뜻/NNG+을/JKO
+실천하는	실천하/VV+는/ETM
+사람이	사람/NNG+이/JKC
+되겠습니다	되/VV+겠/EP+습니다/EF
+
+저	저/MM
+안철수와	안철수/NNP+와/JC
+국민	국민/NNG
+여러분이	여러분/NP+이/JKS
+함께	함께/MAG
+만들어가는	만들/VV+어/EC+가/VX+는/ETM
+미래는	미래/NNG+는/JX
+이미	이미/MAG
+우리	우리/NP
+곁에	곁/NNG+에/JKB
+와	오/VV+아/EC
+있습니다	있/VX+습니다/EF
+
+1	1/SN
+
+문제가	문제/NNG+가/JKC
+아니라	아니/VCN+라/EC
+답을	답/NNG+을/JKO
+주는	주/VV+는/ETM
+정치	정치/NNG
+정치가	정치/NNG+가/JKS
+문제입니다	문제/NNG+이/VCP+ㅂ니다/EC
+
+국민과	국민/NNG+과/JKB
+함께	함께/MAG
+정치를	정치/NNG+를/JKO
+바꾸겠습니다	바꾸/VV+겠/EP+습니다/EF
+
+정치혁신은	정치혁신/NNG+은/JX
+모든	모든/MM
+문제를	문제/NNG+를/JKO
+푸는	풀/VV+는/ETM
+출발점입니다	출발점/NNG+이/VCP+ㅂ니다/EF
+
+고인	고인/NNG
+물은	물/NNG+은/JX
+썩기	썩/VV+기/ETN
+마련이고,	마련/NNB+이/VCP+고/EC+,/SP
+한번	한/MM+번/NNB
+만들어진	만들/VV+어/EC+지/VX+ㄴ/ETM
+집단은	집단/NNG+은/JX
+자기중심으로	자기중심/NNG+으로/JKB
+돌아갑니다	돌아가/VV+ㅂ니다/EC
+
+사람을	사람/NNG+을/JKO
+바꾸고	바꾸/VV+고/EC
+조직을	조직/NNG+을/JKO
+바꿔야	바꾸/VV+어야/EC
+정치가	정치/NNG+가/JKS
+바뀝니다	바뀝니/VV+다/EC
+
+정부와	정부/NNG+와/JC
+국회는	국회/NNG+는/JX
+국민에게	국민/NNG+에게/JKB
+고용된	고용되/VV+ㄴ/ETM
+기관입니다	기관/NNG+이/VCP+ㅂ니다/EF
+
+대통령과	대통령/NNG+과/JC
+정부는	정부/NNG+는/JX
+국회를	국회/NNG+를/JKO
+존중해야	존중하/VV+여야/EC
+합니다	하/VX+ㅂ니다/EF
+
+대신	대신/NNG
+국회는	국회/NNG+는/JX
+국민의	국민/NNG+의/JKG
+뜻을	뜻/NNG+을/JKO
+반영하기	반영하/VV+기/ETN
+위해	위하/VV+여/EC
+함께	함께/MAG
+노력해야	노력하/VV+여야/EC
+합니다	하/VX+ㅂ니다/EF
+
+국민의	국민/NNG+의/JKG
+뜻이	뜻/NNG+이/JKS
+행정과	행정/NNG+과/JC
+의회에	의회/NNG+에/JKB
+반영될	반영되/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+대화의	대화/NNG+의/JKG
+마당을	마당/NNG+을/JKO
+만들겠습니다	만들/VV+겠/EP+습니다/EF
+
+2	2/SN
+
+개인과	개인/NNG+과/JC
+기업이	기업/NNG+이/JKS
+함께	함께/MAG
+성공하는	성공하/VV+는/ETM
+경제	경제/NNG
+일하고	일하/VV+고/EC
+싶은	싶/VX+은/ETM
+사람은	사람/NNG+은/JX
+누구나	누구/NP+나/JX
+일할	일하/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+경제를	경제/NNG+를/JKO
+만들겠습니다	만들/VV+겠/EP+습니다/EF
+
+청년과	청년/NNG+과/JC
+여성,	여성/NNG+,/SP
+어르신의	어르신/NNG+의/JKG
+경제	경제/NNG
+참여가	참여/NNG+가/JKS
+늘어야	늘/VV+어야/EC
+합니다	하/VX+ㅂ니다/EF
+
+내수시장도	내수시장/NNG+도/JX
+늘어나야	늘어나/VV+아야/EC
+합니다	하/VX+ㅂ니다/EF
+
+서비스	서비스/NNG
+산업의	산업/NNG+의/JKG
+생산성도	생산성/NNG+도/JX
+늘려야	늘리/VV+어야/EC
+합니다	하/VX+ㅂ니다/EF
+
+새로운	새롭/VA+ㄴ/ETM
+성장	성장/NNG
+동력을	동력/NNG+을/JKO
+만들어야	만들/VV+어야/EC
+이	이/MM
+모든	모든/MM
+것이	것/NNB+이/JKS
+가능합니다	가능하/VA+ㅂ니다/EC
+
+그러기위해서는	그러/VV+기/ETN+위하/VV+여서/EC+는/JX
+중소기업과	중소기업/NNG+과/JC
+중견기업을	중견기업/NNG+을/JKO
+뒷받침하고	뒷받침하/VV+고/EC
+공정한	공정하/VA+ㄴ/ETM
+거래가	거래/NNG+가/JKS
+이뤄질	이루어지/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+해야	하/VX+여야/EC
+합니다	하/VX+ㅂ니다/EF
+
+중소기업청을	중소기업청/NNG+을/JKO
+확대개편하여,	확대/NNG+개편하/VV+여/EC+,/SP
+창업과	창업/NNG+과/JC
+사회적기업을	사회적기업/NNG+을/JKO
+대폭	대폭/MAG
+지원하겠습니다	지원하/VV+겠/EP+습니다/EF
+
+한번	한/MM+번/NNB
+실패해도	실패하/VV+여도/EC
+두	두/MM
+번째	번째/NNB
+기회가	기회/NNG+가/JKS
+주어져야	주어지/VV+어야/EC
+새로운	새롭/VA+ㄴ/ETM
+도전의	도전/NNG+의/JKG
+에너지가	에너지/NNG+가/JKS
+만들어집니다	만들/VV+어/EC+지/VV+ㅂ니다/EF
+
+3	3/SN
+
+모든	모든/MM
+가능성이	가능성/NNG+이/JKS
+발휘되는	발휘되/VV+는/ETM
+사회	사회/NNG
+교육이	교육/NNG+이/JKS
+문제입니다	문제/NNG+이/VCP+ㅂ니다/EC
+
+공부만	공부/NNG+만/JX
+열심히	열심히/MAG
+하면	하/VV+면/EC
+좀	좀/MAG
+더	더/MAG
+나은	낫/VA+은/ETM
+내일이	내일/NNG+이/JKS
+온다고	오/VV+ㄴ다고/EC
+믿던	믿/VV+던/ETM
+그	그/MM
+시대가	시대/NNG+가/JKS
+옛날이야기가	옛날이야기/NNG+가/JKC
+되었습니다	되/VV+었/EP+습니다/EC
+
+아이들은	아이/NNG+들/XSN+은/JX
+아무리	아무리/MAG
+공부해도	공부하/VV+여도/EC
+미래가	미래/NNG+가/JKS
+보이지	보이/VV+지/EC
+않습니다	않/VX+습니다/EF
+
+이대로는	이대로/MAG+는/JX
+안	안/MAG
+됩니다	되/VV+ㅂ니다/EC
+
+산업화시대에는	산업화시대/NNG+에/JKB+는/JX
+획일적인	획일적/NNG+이/VCP+ㄴ/ETM
+교육이	교육/NNG+이/JKS
+통했습니다	통하/VV+였/EP+습니다/EF
+
+하지만	하지만/MAJ
+창의의	창의/NNG+의/JKG
+시대에는	시대/NNG+에/JKB+는/JX
+그런	그런/MM
+교육은	교육/NNG+은/JX
+더	더/MAG
+이상	이상/NNG
+통하지	통하/VV+지/EC
+않습니다	않/VX+습니다/EF
+
+누구나	누구/NP+나/JX
+자기가	자기/NP+가/JKS
+무엇을	무엇/NP+을/JKO
+잘	잘/MAG
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있는지	있/VA+는지/EC
+찾아낼	찾아내/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+교육이	교육/NNG+이/JKS
+시대에	시대/NNG+에/JKB
+맞게	맞/VV+게/EC
+바뀌어야	바뀌/VV+어야/EC
+합니다	하/VX+ㅂ니다/EF
+
+끝이	끝/NNG+이/JKS
+보이지	보이/VV+지/EC
+않는	않/VX+는/ETM
+입시지옥	입시지옥/NNG
+속에서	속/NNG+에서/JKB
+우리	우리/NP
+아이들이	아이/NNG+들/XSN+이/JKS
+꿈을	꿈/NNG+을/JKO
+잃고	잃/VV+고/EC
+있습니다	있/VX+습니다/EF
+
+이제	이제/MAG
+교육과	교육/NNG+과/JC
+우리	우리/NP
+아이들의	아이/NNG+들/XSN+의/JKG
+미래에	미래/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+근본적인	근본적/NNG+이/VCP+ㄴ/ETM
+처방이	처방/NNG+이/JKS
+필요합니다	필요하/VA+ㅂ니다/EC
+
+교육은	교육/NNG+은/JX
+실험이	실험/NNG+이/JKC
+아닙니다	아니/VCN+ㅂ니다/EC
+
+새로운	새롭/VA+ㄴ/ETM
+시대에	시대/NNG+에/JKB
+맞는	맞/VV+는/ETM
+새로운	새롭/VA+ㄴ/ETM
+교육이	교육/NNG+이/JKS
+우리	우리/NP
+아이들을	아이/NNG+들/XSN+을/JKO
+살릴	살리/VV+ㄹ/ETM
+수	수/NNB
+있습니다	있/VA+습니다/EF
+
+학부모와	학부모/NNG+와/JC
+교사가	교사/NNG+가/JKS
+중심이되는	중심이되/VV+는/ETM
+대통령직속	대통령직속/NNG
+교육개혁위원회를	교육개혁위원회/NNG+를/JKO
+신설해서	신설하/VV+여서/EC
+정부와	정부/NNG+와/JC
+머리를	머리/NNG+를/JKO
+맞대도록	맞대/VV+도록/EC
+하겠습니다	하/VX+겠/EP+습니다/EF
+
+4	4/SN
+
+부담	부담/NNG
+없이	없이/MAG
+결혼할	결혼하/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+나라	나라/NNG
+결혼과	결혼/NNG+과/JC
+출산이	출산/NNG+이/JKS
+문제입니다	문제/NNG+이/VCP+ㅂ니다/EC
+
+미래가	미래/NNG+가/JKS
+보이지	보이/VV+지/EC
+않아서	않/VX+아서/EC
+결혼도	결혼/NNG+도/JX
+출산도	출산/NNG+도/JX
+포기하는	포기하/VV+는/ETM
+사회,	사회/NNG+,/SP
+그런	그런/MM
+대한민국에는	대한민국/NNP+에/JKB+는/JX
+미래가	미래/NNG+가/JKS
+없습니다	없/VA+습니다/EF
+
+등록금,	등록금/NNG+,/SP
+취직,	취직/NNG+,/SP
+내집마련,	내집마련/NNG+,/SP
+출산과	출산/NNG+과/JC
+육아에	육아/NNG+에/JKB
+대해	대하/VV+여/EC
+지킬	지키/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+답을	답/NNG+을/JKO
+낼	내/VV+ㄹ/ETM
+것입니다	것/NNB+이/VCP+ㅂ니다/EF
+
+우리	우리/NP
+젊은이들에게	젊은이/NNG+들/XSN+에게/JKB
+꿈을	꿈/NNG+을/JKO
+돌려주고	돌려주/VV+고/EC
+싶습니다	싶/VX+습니다/EC
+
+5	5/SN
+
+인간	인간/NNG
+존엄성을	존엄성/NNG+을/JKO
+지켜주는	지키/VV+어/EC+주/VX+는/ETM
+나라	나라/NNG
+노후와	노후/NNG+와/JC
+질병	질병/NNG
+걱정이	걱정/NNG+이/JKS
+사라져야	사라지/VV+어야/EC
+합니다	하/VX+ㅂ니다/EF
+
+노인이	노인/NNG+이/JKS
+겪는	겪/VV+는/ETM
+절망은	절망/NNG+은/JX
+청년이	청년/NNG+이/JKS
+겪을	겪/VV+을/ETM
+절망입니다	절망/NNG+이/VCP+ㅂ니다/EC
+
+노인가난	노인가난/NNG
+제로계획이	제로계획/NNG+이/JKS
+필요한	필요하/VA+ㄴ/ETM
+이유입니다	이유/NNG+이/VCP+ㅂ니다/EC
+
+대한민국	대한민국/NNP
+국민은	국민/NNG+은/JX
+누구던	누구/NP+이/VCP+던/EC
+돈	돈/NNG
+때문에	때문/NNB+에/JKB
+치료받지	치료/NNG+받/VV+지/EC
+못하는	못하/VX+는/ETM
+일은	일/NNG+은/JX
+없어야	없/VA+어야/EC
+합니다	하/VX+ㅂ니다/EF
+
+성별,	성별/NNG+,/SP
+장애나	장애/NNG+나/JC
+학벌이	학벌/NNG+이/JKS
+어떤	어떤/MM
+일을	일/NNG+을/JKO
+하는	하/VV+는/ETM
+데	데/NNB
+걸림돌이	걸림돌/NNG+이/JKC
+되는	되/VV+는/ETM
+일은	일/NNG+은/JX
+없어야	없/VA+어야/EC
+합니다	하/VX+ㅂ니다/EF
+
+다문화시대,	다문화시대/NNG+,/SP
+우리나라에서	우리나라/NNG+에서/JKB
+살고	살/VV+고/EC
+일하는	일하/VV+는/ETM
+모든	모든/MM
+이들은	이/NP+들/XSN+은/JX
+우리의	우리/NP+의/JKG
+이웃입니다	이웃/NNG+이/VCP+ㅂ니다/EC
+
+6	6/SN
+
+다음	다음/NNG
+세대를	세대/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+사회	사회/NNG
+다음	다음/NNG
+세대에	세대/NNG+에/JKB
+짐을	짐/NNG+을/JKO
+넘겨주어서는	넘겨주/VV+어서/EC+는/JX
+안됩니다	안됩니/VV+다/EC
+
+환경,	환경/NNG+,/SP
+에너지,	에너지/NNG+,/SP
+개발	개발/NNG
+문제가	문제/NNG+가/JKS
+모두	모두/MAG
+다음	다음/NNG
+세대에	세대/NNG+에/JKB
+빚을	빚/NNG+을/JKO
+지는	지/VV+는/ETM
+것입니다	것/NNB+이/VCP+ㅂ니다/EC
+
+사람과	사람/NNG+과/JC
+사회와	사회/NNG+와/JC
+환경이	환경/NNG+이/JKS
+공생하는	공생하/VV+는/ETM
+지속가능한	지속/NNG+가능하/VA+ㄴ/ETM
+사회를	사회/NNG+를/JKO
+만들어가겠습니다	만들/VV+어/EC+가/VX+겠/EP+습니다/EF
+
+원전	원전/NNG
+불안은	불안/NNG+은/JX
+점점	점점/MAG
+심각해집니다	심각하/VA+여/EC+지/VX+ㅂ니다/EC
+
+깨끗하고	깨끗하/VA+고/EC
+안전한	안전하/VA+ㄴ/ETM
+에너지로	에너지/NNG+로/JKB
+근본적인	근본적/NNG+이/VCP+ㄴ/ETM
+전환이	전환/NNG+이/JKS
+필요합니다	필요하/VA+ㅂ니다/EC
+
+공동체와	공동체/NNG+와/JC
+협력을	협력/NNG+을/JKO
+원리로	원리/NNG+로/JKB
+하는	하/VV+는/ETM
+사회적기업과	사회적기업/NNG+과/JC
+협동조합을	협동조합/NNG+을/JKO
+지원하여	지원하/VV+여/EC
+새로운	새롭/VA+ㄴ/ETM
+생태계를	생태계/NNG+를/JKO
+조성하겠습니다	조성하/VV+겠/EP+습니다/EF
+
+정직한	정직하/VA+ㄴ/ETM
+기업,	기업/NNG+,/SP
+사회적으로	사회적/NNG+으로/JKB
+책임있는	책임/NNG+있/VA+는/ETM
+기업이	기업/NNG+이/JKS
+성공하는	성공하/VV+는/ETM
+나라를	나라/NNG+를/JKO
+만들겠습니다	만들/VV+겠/EP+습니다/EF
+
+7	7/SN
+
+강하고	강하/VA+고/EC
+당당하고	당당하/VA+고/EC
+평화로운	평화롭/VA+ㄴ/ETM
+한반도	한반도/NNP
+튼튼한	튼튼하/VA+ㄴ/ETM
+안보와	안보/NNG+와/JC
+유능한	유능하/VA+ㄴ/ETM
+외교	외교/NNG
+위에	위/NNG+에/JKB
+남북	남북/NNP
+간의	간/NNB+의/JKG
+대화와	대화/NNG+와/JC
+협력이	협력/NNG+이/JKS
+진행되어야	진행되/VV+어야/EC
+합니다	하/VX+ㅂ니다/EF
+
+그래야	그리하/VV+여야/EC
+국민의	국민/NNG+의/JKG
+안전과	안전/NNG+과/JC
+재산을	재산/NNG+을/JKO
+지킬	지키/VV+ㄹ/ETM
+수	수/NNB
+있고	있/VA+고/EC
+국민이	국민/NNG+이/JKS
+편안해집니다	편안하/VA+여/EC+지/VX+ㅂ니다/EC
+
+남북관계-북핵문제-한반도	남북/NNP+관계/NNG+-/SO+북/NNP+핵문제/NNG+-/SO+한반도/NNP
+평화체제의	평화체제/NNG+의/JKG
+선순환을	선순환/NNG+을/JKO
+이루겠습니다	이루/VV+겠/EP+습니다/EF
+
+북방경제의	북방경제/NNG+의/JKG
+블루오션을	블루오션/NNG+을/JKO
+열겠습니다	열/VV+겠/EP+습니다/EF
+
+과거와	과거/NNG+와/JKB
+단절하는	단절하/VV+는/ETM
+일은	일/NNG+은/JX
+쉽지	쉽/VA+지/EC
+않습니다	않/VX+습니다/EF
+
+미래를	미래/NNG+를/JKO
+여는	열/VV+는/ETM
+일도	일/NNG+도/JX
+쉽지	쉽/VA+지/EC
+않습니다	않/VX+습니다/EF
+
+방법을	방법/NNG+을/JKO
+몰라서가	모르/VV+아서/EC+가/JKC
+아닙니다	아니/VCN+ㅂ니다/EC
+
+정책이	정책/NNG+이/JKS
+없어서가	없/VA+어서/EC+가/JKC
+아닙니다	아니/VCN+ㅂ니다/EC
+
+가던	가/VV+던/ETM
+길을	길/NNG+을/JKO
+그대로	그대로/MAG
+가는	가/VV+는/ETM
+게	것/NNB+이/JKS
+쉽기	쉽/VA+기/ETN
+때문입니다	때문/NNB+이/VCP+ㅂ니다/EF
+
+낡은	낡/VA+은/ETM
+정치는	정치/NNG+는/JX
+복잡한	복잡하/VA+ㄴ/ETM
+이해관계로	이해관계/NNG+로/JKB
+얽혀	얽히/VV+어/EC
+있습니다	있/VX+습니다/EF
+
+저는	저/NP+는/JX
+빚진	빚지/VV+ㄴ/ETM
+게	것/NNB+이/JKS
+없습니다	없/VA+습니다/EF
+
+그러니	그러/VV+니/EC
+갚아야	갚/VV+아야/EC
+할	하/VX+ㄹ/ETM
+것도	것/NNB+도/JX
+없습니다	없/VA+습니다/EF
+
+그래서	그래서/MAJ
+오로지	오로지/MAG
+국민만	국민/NNG+만/JX
+보고	보/VV+고/EC
+갈	가/VV+ㄹ/ETM
+수	수/NNB
+있습니다	있/VA+습니다/EF
+
+능력만	능력/NNG+만/JX
+보고	보/VV+고/EC
+공평한	공평하/VA+ㄴ/ETM
+인사를	인사/NNG+를/JKO
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있습니다	있/VA+습니다/EF
+
+공직은	공직/NNG+은/JX
+전리품이	전리품/NNG+이/JKC
+아닙니다	아니/VCN+ㅂ니다/EC
+
+대표적	대표적/NNG
+사례로	사례/NNG+로/JKB
+국민의	국민/NNG+의/JKG
+소중한	소중하/VA+ㄴ/ETM
+재산을	재산/NNG+을/JKO
+감시해야	감시하/VV+여야/EC
+할	하/VX+ㄹ/ETM
+공기업	공기업/NNG
+감사가	감사/NNG+가/JKS
+왜	왜/MAG
+논공행상의	논공행상/NNG+의/JKG
+대상이	대상/NNG+이/JKC
+되어야	되/VV+어야/EC
+하는지	하/VX+는지/EC
+국민도	국민/NNG+도/JX
+저도	저/NP+도/JX
+납득	납득/NNG
+할	하/VV+ㄹ/ETM
+수	수/NNB
+없습니다	없/VA+습니다/EF
+
+전	전/MM
+공직에	공직/NNG+에/JKB
+걸쳐	걸치/VV+어/EC
+전관예우나	전관예우/NNG+나/JC
+낙하산	낙하산/NNG
+인사라는	인사/NNG+이/VCP+라는/ETM
+말이	말/NNG+이/JKS
+사라지도록	사라지/VV+도록/EC
+하겠습니다	하/VX+겠/EP+습니다/EF
+
+직간접적으로	직간접/NNG+적/XSN+으로/JKB
+청와대가	청와대/NNP+가/JKS
+임명하는	임명하/VV+는/ETM
+자리가	자리/NNG+가/JKS
+만개가	만/NR+개/NNB+가/JKS
+넘는다고	넘/VV+는다고/EC
+합니다	하/VV+ㅂ니다/EF
+
+저는	저/NP+는/JX
+그것을	그것/NP+을/JKO
+1/10	1/SN+//SP+10/SN
+이하로	이하/NNG+로/JKB
+줄이겠습니다	줄이/VV+겠/EP+습니다/EF
+
+제	저/NP+의/JKG
+선거를	선거/NNG+를/JKO
+도와주셨다고	도와주하/VV+시었/EP+다고/EC
+공직을	공직/NNG+을/JKO
+나누지	나누/VV+지/EC
+않겠습니다	않/VX+겠/EP+습니다/EF
+
+만약	만약/NNG
+그런	그런/MM
+생각으로	생각/NNG+으로/JKB
+저를	저/NP+를/JKO
+도와주신다면	도와주하/VV+시/EP+ㄴ다면/EC
+정중히	정중히/MAG
+사양하겠습니다	사양하/VV+겠/EP+습니다/EF
+
+국민의	국민/NNG+의/JKG
+소중한	소중하/VA+ㄴ/ETM
+세금인	세금/NNG+이/VCP+ㄴ/ETM
+예산	예산/NNG
+역시	역시/MAG
+꼭	꼭/MAG
+써야	쓰/VV+어야/EC
+할	하/VX+ㄹ/ETM
+곳에만	곳/NNG+에/JKB+만/JX
+쓸	쓰/VV+ㄹ/ETM
+것입니다	것/NNB+이/VCP+ㅂ니다/EC
+
+국민들이	국민/NNG+들/XSN+이/JKS
+제게	저/NP+에게/JKB
+기대하는	기대하/VV+는/ETM
+새로운	새롭/VA+ㄴ/ETM
+정치가	정치/NNG+가/JKS
+그런	그런/MM
+것이라고	것/NNB+이/VCP+라고/EC
+저는	저/NP+는/JX
+생각합니다	생각하/VV+ㅂ니다/EF
+
+다음	다음/NNG
+대통령은	대통령/NNG+은/JX
+다가오는	다가오/VV+는/ETM
+국제적인	국제적/NNG+이/VCP+ㄴ/ETM
+경제위기와	경제위기/NNG+와/JC
+우리	우리/NP
+내부의	내부/NNG+의/JKG
+문제를	문제/NNG+를/JKO
+한꺼번에	한꺼번에/MAG
+풀어내야	풀어내/VV+어야/EC
+합니다	하/VX+ㅂ니다/EF
+
+하지만	하지만/MAJ
+저는	저/NP+는/JX
+위기는	위기/NNG+는/JX
+곧	곧/MAG
+기회라고	기회/NNG+이/VCP+라고/EC
+생각합니다	생각하/VV+ㅂ니다/EF
+
+위기와	위기/NNG+와/JC
+갈등을	갈등/NNG+을/JKO
+풀어내고,	풀어내/VV+고/EC+,/SP
+그	그/MM
+자리에	자리/NNG+에/JKB
+새로운	새롭/VA+ㄴ/ETM
+시대의	시대/NNG+의/JKG
+기반을	기반/NNG+을/JKO
+다지겠습니다	다지/VV+겠/EP+습니다/EF
+
+저는	저/NP+는/JX
+정치를	정치/NNG+를/JKO
+근본적으로	근본적/NNG+으로/JKB
+바꾸는	바꾸/VV+는/ETM
+대통령이	대통령/NNG+이/JKC
+되겠습니다	되/VV+겠/EP+습니다/EF
+
+더불어	더불/VV+어/EC
+함께	함께/MAG
+잘사는	잘살/VV+는/ETM
+경제를	경제/NNG+를/JKO
+만드는	만들/VV+는/ETM
+대통령이	대통령/NNG+이/JKC
+되겠습니다	되/VV+겠/EP+습니다/EF
+
+이	이/MM
+모두가	모두/NNG+가/JKS
+저	저/MM
+혼자의	혼자/NNG+의/JKG
+힘으로는	힘/NNG+으로/JKB+는/JX
+가능하지	가능하/VA+지/EC
+않습니다	않/VX+습니다/EF
+
+변화는	변화/NNG+는/JX
+이미	이미/MAG
+시작되었습니다	시작되/VV+었/EP+습니다/EF
+
+국민	국민/NNG
+여러분의	여러분/NP+의/JKG
+참여가	참여/NNG+가/JKS
+세상을	세상/NNG+을/JKO
+바꿉니다	바꾸/VV+ㅂ니다/EF

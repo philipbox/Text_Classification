@@ -1,0 +1,86 @@
+부산직업능력개발원,	부산직업능력개발원/NNP+,/SP
+장애인	장애인/NNG
+맞춤훈련생	맞춤훈/VV+련생/NNG
+모집	모집/NNG
+
+한국장애인고용공단	한국장애인고용공단/NNP
+부산직업능력개발원(원장	부산직업능력개발원/NNP+(/SS+원장/NNG
+정재규)은	정재규/NNP+)/SS+은/JX
+씨에스커뮤니케이션	씨에스커뮤니케이션/NNG
+주식회사와	주식회사/NNG+와/JC
+연계,	연계/NNG+,/SP
+고객상담직	고객상담직/NNG
+및	및/MAG
+웹디자이너로	웹디자이너/NNG+로/JKB
+근무할	근무하/VV+ㄹ/ETM
+장애인	장애인/NNG
+맞춤훈련생을	맞춤훈련생/NNG+을/JKO
+모집한다	모집하/VV+ㄴ다/EF
+
+모집대상은	모집대상/NNG+은/JX
+고객상담	고객상담/NNG
+직무	직무/NNG
+4명과	4/SN+명/NNB+과/JC
+웹디자인	웹디자인/NNG
+직무	직무/NNG
+2명으로	2/SN+명/NNB+으로/JKB
+훈련기간은	훈련기간/NNG+은/JX
+9월	9/SN+월/NNB
+7일부터	7/SN+일/NNB+부터/JX
+약	약/MM
+1개월이다	1/SN+개월/NNB+이/VCP+다/EC
+
+성별과	성별/NNG+과/JC
+나이,	나이/NNG+,/SP
+학력,	학력/NNG+,/SP
+경력에	경력/NNG+에/JKB
+제한은	제한/NNG+은/JX
+없지만	없/VA+지만/EC
+기본적인	기본적/NNG+이/VCP+ㄴ/ETM
+컴퓨터	컴퓨터/NNG
+활용능력을	활용능력/NNG+을/JKO
+갖춰야	갖추/VV+어야/EC
+한다	하/VX+ㄴ다/EF
+
+희망자는	희망자/NNG+는/JX
+공단	공단/NNG
+홈페이지(http://www	홈페이지/NNG+(/SS+http/SL+:///SP+www/SL
+
+kead	kead/SL
+
+or	or/SL
+
+kr	kr/SL
+또는http://campus	또는/MAG+http/SL+:///SP+campus/SL
+
+kead	kead/SL
+
+or	or/SL
+
+kr/busan)에서	kr/SL+//SP+busan/SL+)/SS+에서/JKB
+지원서를	지원서/NNG+를/JKO
+내려	내리/VV+어/EC
+받아	받/VV+아/EC
+작성한	작성하/VV+ㄴ/ETM
+후	후/NNG
+오는	오/VV+는/ETM
+27일부터	27/SN+일/NNB+부터/JX
+내달	내달/NNG
+4일	4/SN+일/NNB
+오후	오후/NNG
+5시까지	5/SN+시/NNB+까지/JX
+이메일(ct2@kead	이메일/NNG+(/SS+ct/SL+2/SN+@/SW+kead/SL
+
+or	or/SL
+
+kr)로	kr/SL+)/SS+로/JKB
+제출하면	제출하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+보다	보다/MAG
+제세한	제세하/VA+ㄴ/ETM
+사항은	사항/NNG+은/JX
+한국장애인고용공단	한국장애인고용공단/NNP
+부산직업능력개발원(051-726-0321)으로	부산직업능력개발원/NNP+(/SS+051/SN+-/SO+726/SN+-/SO+0321/SN+)/SS+으로/JKB
+문의하면	문의하/VV+면/EC
+된다	되/VV+ㄴ다/EF

@@ -1,0 +1,117 @@
+롯데,	롯데/NNP+,/SP
+하반기	하반기/NNG
+장애인	장애인/NNG
+공채	공채/NNG
+뽑는다	뽑/VV+는다/EF
+
+롯데그룹이	롯데그룹/NNP+이/JKS
+오는	오/VV+는/ETM
+30일부터	30/SN+일/NNB+부터/JX
+하반기	하반기/NNG
+장애인	장애인/NNG
+공개채용을	공개채용/NNG+을/JKO
+실시한다	실시하/VV+ㄴ다/EF
+
+이번	이번/NNG
+공채에서는	공채/NNG+에서/JKB+는/JX
+롯데백화점·롯데칠성음료·롯데정보통신	롯데/NNP+백화점/NNG+·/SP+롯데칠성음료/NNP+·/SP+롯데정보통신/NNP
+등	등/NNB
+11개사에서	11/SN+개/NNB+사/NNG+에서/JKB
+70여명의	70/SN+여/XSN+명/NNB+의/JKG
+장애인	장애인/NNG
+사원을	사원/NNG+을/JKO
+선발할	선발하/VV+ㄹ/ETM
+예정이다	예정/NNG+이/VCP+다/EC
+
+지원서는	지원서/NNG+는/JX
+다음달	다음달/NNG
+8일까지	8/SN+일/NNB+까지/JX
+열흘간	열흘/NNG+간/XSN
+롯데그룹	롯데그룹/NNP
+채용	채용/NNG
+홈페이지(http://job	홈페이지/NNG+(/SS+http/SL+:///SP+job/SL
+
+lotte	lotte/SL
+
+co	co/SL
+
+kr)를	kr/SL+)/SS+를/JKO
+통해	통하/VV+여/EC
+온라인으로	온라인/NNG+으로/JKB
+접수	접수/NNG
+받는다	받/VV+는다/EC
+
+고졸	고졸/NNG
+이상의	이상/NNG+의/JKG
+학력으로	학력/NNG+으로/JKB
+장애인복지법에	장애인복지법/NNG+에/JKB
+의한	의하/VV+ㄴ/ETM
+등록	등록/NNG
+장애인이면	장애인/NNG+이/VCP+면/EC
+지원이	지원/NNG+이/JKS
+가능하다	가능하/VA+다/EC
+
+롯데는	롯데/NNP+는/JX
+장애인	장애인/NNG
+공채	공채/NNG
+지원서에	지원서/NNG+에/JKB
+장애	장애/NNG
+유형	유형/NNG
+및	및/MAG
+장애	장애/NNG
+등급을	등급/NNG+을/JKO
+기재하지	기재하/VV+지/EC
+않도록	않/VX+도록/EC
+했으며,	하/VX+였/EP+으며/EC+,/SP
+블라인드	블라인드/NNG
+면접을	면접/NNG+을/JKO
+실시해	실시하/VV+여/EC
+지원자의	지원자/NNG+의/JKG
+장애	장애/NNG
+정도	정도/NNG
+및	및/MAG
+유형을	유형/NNG+을/JKO
+면접관들이	면접관/NNG+들/XSN+이/JKS
+볼	보/VV+ㄹ/ETM
+수	수/NNB
+없도록	없/VA+도록/EC
+하고	하/VX+고/EC
+있다	있/VX+다/EC
+
+이는	이/NP+는/JX
+의학적	의학적/NNG
+판단이나	판단/NNG+이나/JC
+외형적인	외형적/NNG+이/VCP+ㄴ/ETM
+선입견으로부터	선입견/NNG+으로부터/JKB
+벗어나	벗어나/VV+아/EC
+직무능력만을	직무능력/NNG+만/JX+을/JKO
+고려한	고려하/VV+ㄴ/ETM
+채용이	채용/NNG+이/JKS
+이루어	이루/VV+어/EC
+질	지/VX+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+하기	하/VX+기/ETN
+위한	위하/VV+ㄴ/ETM
+조치이다	조치/NNG+이/VCP+다/EC
+
+한편,	한편/NNG+,/SP
+롯데그룹은	롯데그룹/NNP+은/JX
+지난해	지난해/NNG
+하반기에	하반기/NNG+에/JKB
+처음으로	처음/NNG+으로/JKB
+그룹	그룹/NNG
+차원의	차원/NNG+의/JKG
+장애인	장애인/NNG
+공개채용을	공개채용/NNG+을/JKO
+시작했으며,	시작하/VV+였/EP+으며/EC+,/SP
+지난해와	지난해/NNG+와/JC
+올	올/NNG
+상반기	상반기/NNG
+장애인	장애인/NNG
+공채를	공채/NNG+를/JKO
+통해	통하/VV+여/EC
+70여명의	70/SN+여/XSN+명/NNB+의/JKG
+장애인	장애인/NNG
+사원을	사원/NNG+을/JKO
+채용했다	채용하/VV+였/EP+다/EF

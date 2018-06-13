@@ -1,0 +1,250 @@
+운전석으로	운전석/NNG+으로/JKB
+휠체어	휠체어/NNG
+가져다주는	가져다주/VV+는/ETM
+기기	기기/NNG
+
+팔에	팔/NNG+에/JKB
+힘이	힘/NNG+이/JKS
+있고	있/VA+고/EC
+운전이	운전/NNG+이/JKS
+가능한	가능하/VA+ㄴ/ETM
+장애인은	장애인/NNG+은/JX
+차에	차/NNG+에/JKB
+앉아	앉/VV+아/EC
+휠체어를	휠체어/NNG+를/JKO
+분리해	분리하/VV+여/EC
+손수	손수/MAG
+뒤에	뒤/NNG+에/JKB
+싣는다	싣/VV+는다/EF
+
+여간	여간/MAG
+불편한	불편하/VA+ㄴ/ETM
+게	것/NNB+이/JKC
+아니다	아니/VCN+다/EC
+
+이런	이런/MM
+때	때/NNG
+누군가	누구/NP+이/VCP+ㄴ가/EC
+척척	척척/MAG
+휠체어를	휠체어/NNG+를/JKO
+차에	차/NNG+에/JKB
+실어	싣/VV+어/EC
+준다면	주/VX+ㄴ다면/EC
+얼마나	얼마나/MAG
+좋을까?여기	좋/VA+을까/EC+?/SF+여기/NP
+‘에빌리큅’에서	‘/SN+에빌리/NNG+큅/SN+’/SL+에서/JKB
+휠체어를	휠체어/NNG+를/JKO
+차에	차/NNG+에/JKB
+실어주는	싣/VV+어/EC+주/VX+는/ETM
+기기를	기기/NNG+를/JKO
+만들어	만들/VV+어/EC
+판매	판매/NNG
+중이다	중/NNB+이/VCP+다/EC
+
+장애인	장애인/NNG
+자립에	자립/NNG+에/JKB
+큰	크/VA+ㄴ/ETM
+힘이	힘/NNG+이/JKC
+되어	되/VV+어/EC
+주고	주/VX+고/EC
+있다	있/VX+다/EC
+
+보면	보/VV+면/EC
+그냥	그냥/MAG
+평범한	평범하/VA+ㄴ/ETM
+밴이다	밴/NNG+이/VCP+다/EC
+
+그런데	그런데/MAJ
+왜	왜/MAG
+하필	하필/MAG
+앞이나	앞/NNG+이나/JC
+옆이	옆/NNG+이/JKC
+아닌	아니/VCN+ㄴ/ETM
+차의	차/NNG+의/JKG
+뒤꽁무니를	뒤꽁무니/NNG+를/JKO
+찍었을까?	찍/VV+었/EP+을까/EF+?/SF
+이제	이제/MAG
+왜	왜/MAG
+뒤에서	뒤/NNG+에서/JKB
+사진을	사진/NNG+을/JKO
+찍었는지	찍/VV+었/EP+는지/EC
+알	알/VV+ㄹ/ETM
+것	것/NNB
+같다	같/VA+다/EC
+
+트렁크	트렁크/NNG
+문이	문/NNG+이/JKS
+열리고	열리/VV+고/EC
+휠체어	휠체어/NNG
+로더가	로더/NNG+가/JKS
+휠체어를	휠체어/NNG+를/JKO
+들고	들/VV+고/EC
+나오기	나오/VV+기/ETN
+시작한다	시작하/VV+ㄴ다/EC
+
+휠체어를	휠체어/NNG+를/JKO
+앞좌석이	앞좌석/NNG+이/JKS
+있는	있/VA+는/ETM
+곳	곳/NNG
+까지	까지/JX
+길게	길/VA+게/EC
+팔(?)을	팔/NNG+(/SS+?/SF+)/SS+을/JKO
+뻗어	뻗/VV+어/EC
+가져간다	가져가/VV+ㄴ다/EF
+
+운전석	운전석/NNG
+바로	바로/MAG
+전까지	전/NNG+까지/JX
+가져다	가지/VV+어다/EC
+준다	주/VV+ㄴ다/EF
+
+드디어	드디어/MAG
+들고	들/VX+고/EC
+간	가/VV+ㄴ/ETM
+휠체어를	휠체어/NNG+를/JKO
+좌석	좌석/NNG
+바로	바로/MAG
+앞에	앞/NNG+에/JKB
+안착	안착/NNG
+시킨다	시키/VV+ㄴ다/EC
+
+이제	이제/MAG
+로더가	로더/NNP+가/JKS
+휠체어를	휠체어/NNG+를/JKO
+분리시킨다	분리/NNG+시키/XSV+ㄴ다/EF
+
+휠체어를	휠체어/NNG+를/JKO
+주인	주인/NNG
+앞에까지	앞/NNG+에/JKB+까지/JX
+가져다	가지/VV+어다/EC
+준	주/VV+ㄴ/ETM
+후	후/NNG
+로더는	로더/NNP+는/JX
+다시	다시/MAG
+돌아가기	돌아가/VV+기/ETN
+시작한다	시작하/VV+ㄴ다/EC
+
+이런	이런/MM
+자세로	자세/NNG+로/JKB
+대기하고	대기하/VV+고/EC
+있다가	있/VX+다가/EC
+주인이	주인/NNG+이/JKS
+명령을	명령/NNG+을/JKO
+내리면(?)	내리/VV+면/EF+(/SS+?/SF+)/SS
+즉시	즉시/NNG
+달려간다	달려가/VV+ㄴ다/EF
+
+차종이	차종/NNG+이/JKS
+한국의	한국/NNP+의/JKG
+기아	기아/NNP
+그랜드	그랜드/NNG
+카니발이어서	카니발/NNG+이/VCP+어서/EC
+더	더/MAG
+눈이	눈/NNG+이/JKS
+간다	가/VV+ㄴ다/EC
+
+나처럼	나/NP+처럼/JKB
+장애가	장애/NNG+가/JKS
+심해	심하/VA+여/EC
+수동	수동/NNG
+휠체어가	휠체어/NNG+가/JKS
+굴리기	굴리/VV+기/ETN
+어려운	어렵/VA+ㄴ/ETM
+사람에게는	사람/NNG+에게/JKB+는/JX
+꿈같은	꿈같/VA+은/ETM
+이야기지만,	이야기/NNG+이/VCP+지만/EC+,/SP
+팔을	팔/NNG+을/JKO
+자유롭게	자유롭/VA+게/EC
+움직일	움직이/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+장애인들에게는	장애인/NNG+들/XSN+에게/JKB+는/JX
+더	더/MAG
+없이	없이/MAG
+좋은	좋/VA+은/ETM
+기기다	기기/NNG+이/VCP+다/EF
+
+밴의	밴/NNG+의/JKG
+뒷부분(에빌리큅	뒷부분/NNG+(/SS+에빌리/NNP+큅/SL
+유튜브	유튜브/NNP
+동영상	동영상/NNG
+캡쳐)	캡치/VV+어/EC+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+밴에서	밴/NNG+에서/JKB
+휠체어	휠체어/NNG
+나오기	나오/VV+기/ETN
+시작(에빌리큅	시작/NNG+(/SS+에빌리/NNP+큅/SL
+유튜브	유튜브/NNP
+동영상	동영상/NNG
+캡쳐)	캡치/VV+어/EC+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+앞자리로	앞자리/NNG+로/JKB
+가는	가/VV+는/ETM
+휠체어(에빌리큅	휠체어/NNG+(/SS+에빌리/NNP+큅/SL
+유튜브	유튜브/NNP
+동영상	동영상/NNG
+캡쳐)	캡치/VV+어/EC+)/SS
+
+ⓒ샘	ⓒ/SN+샘/NNG
+앞자리까지(에빌리큅	앞자리/NNG+까지/JX+(/SS+에빌리/NNP+큅/SL
+유튜브	유튜브/NNP
+동영상	동영상/NNG
+캡쳐)	캡치/VV+어/EC+)/SS
+
+ⓒ샘	ⓒ/SN+샘/NNG
+휠체어	휠체어/NNG
+안착(에빌리큅	안착/NNG+(/SS+에빌리/NNP+큅/SL
+유튜브	유튜브/NNP
+동영상	동영상/NNG
+캡쳐)	캡치/VV+어/EC+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+분리(에빌리큅	분리/NNG+(/SS+에빌리/NNP+큅/SL
+유튜브	유튜브/NNP
+동영상	동영상/NNG
+캡쳐)	캡치/VV+어/EC+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+되돌아가는	되돌아가/VV+는/ETM
+로더(에빌리큅	로더/NNP+(/SS+에빌리/NNP+큅/SL
+유튜브	유튜브/NNP
+동영상	동영상/NNG
+캡쳐)	캡치/VV+어/EC+)/SS
+
+ⓒ샘	ⓒ/SN+샘/NNB
+들어가는	들어가/VV+는/ETM
+로더(에빌리큅	로더/NNP+(/SS+에빌리/NNP+큅/SL
+유튜브	유튜브/NNP
+동영상	동영상/NNG
+캡쳐)	캡치/VV+어/EC+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+트렁크	트렁크/NNG
+내부(에빌리큅	내부/NNG+(/SS+에빌리/NNP+큅/SL
+유튜브	유튜브/NNP
+동영상	동영상/NNG
+캡쳐)	캡치/VV+어/EC+)/SS
+
+ⓒ샘	ⓒ샘/SN
+*	*/SW
+샘	샘/NNG
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNP
+객원기자로	객원기자/NNG+로/JKB
+캘리포니아	캘리포니아/NNP
+버클리대학	버클리대학/NNP
+사회학과를	사회학과/NNG+를/JKO
+졸업하고,	졸업하/VV+고/EC+,/SP
+전	전/MM
+미상원	미/NNP+상원/NNG
+장애인국	장애인국/NNG
+인턴을	인턴/NNG+을/JKO
+지냈다	지내/VV+었/EP+다/EC
+
+현재	현재/MAG
+TEC	TEC/SL
+대표를	대표/NNG+를/JKO
+맡고	맡/VV+고/EC
+있다	있/VX+다/EC

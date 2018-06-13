@@ -1,0 +1,126 @@
+성폭력	성폭력/NNG
+경험,	경험/NNG+,/SP
+세상에	세상/NNG+에/JKB
+외치다	외치/VV+다/EC
+
+한국성폭력상담소가	한국성폭력상담소/NNP+가/JKS
+오는	오/VV+는/ETM
+28일까지	28/SN+일/NNB+까지/JX
+'제9회	'/SS+제/XPN+9/SN+회/NNB
+성폭력생존자말하기대회'	성폭력생/NNG+존자말하/VV+기/ETN+대회/NNG+'/SS
+말하기	말하/VV+기/ETN
+참여자를	참여/NNG+자/XSN+를/JKO
+모집하고	모집하/VV+고/EC
+있다	있/VX+다/EC
+
+지난	지나/VV+ㄴ/ETM
+2003년부터	2003/SN+년/NNB+부터/JX
+진행된	진행되/VV+ㄴ/ETM
+성폭력생존자말하기대회는	성폭력생존자말하기대회/NNG+는/JX
+성폭력	성폭력/NNG
+생존자를	생존자/NNG+를/JKO
+비난하는	비난하/VV+는/ETM
+사회의	사회/NNG+의/JKG
+편견으로	편견/NNG+으로/JKB
+인해	인하/VV+여/EC
+드러내기	드러내/VV+기/ETN
+어려웠던	어렵/VA+었/EP+던/ETM
+성폭력	성폭력/NNG
+경험을	경험/NNG+을/JKO
+많은	많/VA+은/ETM
+사람들과	사람/NNG+들/XSN+과/JKB
+나누는	나누/VV+는/ETM
+자리다	자리/NNG+이/VCP+다/EF
+
+올해는	올해/NNG+는/JX
+성폭력	성폭력/NNG
+생존자(대회	생존자/NNG+(/SS+대회/NNG
+참가자)가	참가자/NNG+)/SS+가/JKS
+제작한	제작하/VV+ㄴ/ETM
+영상	영상/NNG
+작품을	작품/NNG+을/JKO
+온·오프라인을	온/NNG+·/SP+오프라인/NNG+을/JKO
+통해	통하/VV+여/EC
+상영할	상영하/VV+ㄹ/ETM
+예정이다	예정/NNG+이/VCP+다/EC
+
+더불어	더불/VV+어/EC
+청중	청중/NNG
+앞에서	앞/NNG+에서/JKB
+직접	직접/MAG
+나와	나오/VV+아/EC
+경험을	경험/NNG+을/JKO
+말하는	말하/VV+는/ETM
+무대	무대/NNG
+행사도	행사/NNG+도/JX
+마련된다	마련되/VV+ㄴ다/EC
+
+참여대상은	참여대상/NNP+은/JX
+성폭력	성폭력/NNG
+경험이	경험/NNG+이/JKS
+있는	있/VA+는/ETM
+사람이다	사람/NNG+이/VCP+다/EC
+
+또한	또한/MAG
+대회에	대회/NNG+에/JKB
+참여하는	참여하/VV+는/ETM
+자는	자/NNB+는/JX
+오는	오/VV+는/ETM
+30일부터	30/SN+일/NNB+부터/JX
+10월까지	10/SN+월/NNB+까지/JX
+진행되는	진행되/VV+는/ETM
+사전	사전/NNG
+워크숍에	워크숍/NNG+에/JKB
+참석해야	참석하/VV+여야/EC
+한다	하/VX+ㄴ다/EF
+
+워크숍은	워크숍/NNG+은/JX
+몸과	몸/NNG+과/JC
+마음의	마음/NNG+의/JKG
+평안을	평안/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+치유	치유/NNG
+워크숍,	워크숍/NNG+,/SP
+인터넷과	인터넷/NNG+과/JC
+갤러리에서	갤러리/NNG+에서/JKB
+상영될	상영되/VV+ㄹ/ETM
+영상을	영상/NNG+을/JKO
+제작하는	제작하/VV+는/ETM
+영상	영상/NNG
+제작	제작/NNG
+워크숍,	워크숍/NNG+,/SP
+대중	대중/NNG
+앞에서	앞/NNG+에서/JKB
+경험을	경험/NNG+을/JKO
+이야기하기	이야기하/VV+기/ETN
+위한	위하/VV+ㄴ/ETM
+준비	준비/NNG
+등으로	등/NNB+으로/JKB
+구성되어	구성되/VV+어/EC
+있다	있/VX+다/EC
+
+자세한	자세하/VA+ㄴ/ETM
+사항은	사항/NNG+은/JX
+홈페이지(www	홈페이지/NNG+(/SS+www/SL
+
+sisters	sisters/SL
+
+or	or/SL
+
+kr)를	kr/SL+)/SS+를/JKO
+참고하면	참고하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+한편	한편/MAG
+제9회	제/XPN+9/SN+회/NNB
+성폭력생존자말하기대회는	성폭력생존자말하기대회/NNG+는/JX
+오는	오/VV+는/ETM
+10월	10/SN+월/NNB
+말에	말/NNB+에/JKB
+개최될	개최되/VV+ㄹ/ETM
+예정이다	예정/NNG+이/VCP+다/EC
+
+*	*/SW
+문의	문의/NNG
+:	:/SP
+한국성폭력상담소(02-338-2890~2)	한국성폭력상담소/NNP+(/SS+02/SN+-/SO+338/SN+-/SO+2890/SN+~/SO+2/SN+)/SS

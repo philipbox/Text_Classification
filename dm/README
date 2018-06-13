@@ -1,0 +1,51 @@
+< Implemenation1 >
+1. 본인 계정 폴더에 'Input_Data' 라는 폴더 'Test_Feature_Data'폴더를 추가
+2. 아래의 명령어를 실행하면, 본인이 만든 TF-IDF Feature들이 모델 학습에
+   적합한 형태로 저장이 된다.
+   정상적으로 수행이 완료되었다는 메세지가 뜨면 상관이 없지만,
+   그렇지 않다면, 오류 메세지에 발생하는 문제점을 해결하도록
+   다시 TF-IDF Feature를 만드는 과정을 점검하도록 한다.
+
+   python preprocessing.py
+
+   이 명령어는 본인계정의 루트폴더에서 실행시킬것!
+
+< Implementation2 >
+
+1. Implementation1이 정확히 수행되었다면, 모델을 학습 및 평가하기 위한
+   사전 준비가 끝났음.
+
+2. 아래의 명령어를 실행하면, Test 데이터 각각이 9개의 뉴스 카테고리에 속할것으로   예측된 확률값이 기록된 결과 파일(output.txt)과, 실제 테스트 데이터가 속하는
+   카테고리의 Index가 기록된 파일(answer.txt)이 생성됨.
+
+   python main.py
+
+   이 명령어는 본인 계정의 루트폴더에서 실행시킬 것!
+
+3. output.txt의 결과를 읽어드려 각각의 뉴스 데이터가 어떤 뉴스 카테고리로
+   분류될지를 결정
+
+4. 3의 결과와 answer.txt의 실제 정답 카테고리를 비교하여 Micro-F1, Macro-F1
+   성능을 계산할 것.
+
+< 주의사항 >
+
+1. 본인 계정의 루트폴더에 Pickle, save 폴더가 있을 것임.
+   처음에는 빈 폴더이지만, Implementation1/2를 수행하면 자동으로 어떤 파일들이
+   생성되기 때문에, 절대로 Pickle과 save 폴더는 삭제하지 말것!
+
+2. 만약 모델 및 학습에 사용하는 Hyperparameter를 수정하고 싶은 경우에는
+   parameters.ini 에 들어가서 그 값을 수정하면 됨.
+   Hyperparameter를 좀 더 최적화된 값으로 수정하면 남들보다
+   좋은 성능을 얻을 수 있을 것임.
+
+3. 만약 Implementation2를 진행하는 도중
+   parameters.ini를 수정한 경우에는
+   반드시 python preprocessing.py 명령어를 실행한 후
+   python main.py를 실행해야함.
+   그렇게 해야 데이터 변경사항이 모델에 반영됨.
+
+4. 만약 Implementation2를 진행하는 도중
+   Input_Data폴더의 내용 또는 Test_Feature_Data의 내용이 변경되는 경우에도
+   python preprocessing.py 명령어를 실행한 후 python main.py를 실행해야함.
+   그렇게 해야 데이터 변경사항이 모델에 반영됨.

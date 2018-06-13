@@ -1,0 +1,386 @@
+<패럴림픽>	</SS+패럴림픽/NNG+>/SS
+銀	銀/SL
+손병준	손병준/NNP
+"생각나는	"/SS+생각나/VV+는/ETM
+사람?	사람/NNG+?/SF
+아이유요"	아이유/NNG+요/JX+"/SS
+
+(런던=연합뉴스)	(/SS+런던/NNP+=/SW+연합뉴스/NNP+)/SS
+전명훈	전명훈/NNP
+기자	기자/NNG
+=	=/SW
+2012	2012/SN
+런던	런던/NNP
+패럴림픽에서	패럴림픽/NNG+에서/JKB
+은메달을	은메달/NNG+을/JKO
+따낸	따/VV+아/EC+내/VX+ㄴ/ETM
+지적장애인	지적장애인/NNG
+탁구선수	탁구선수/NNG
+손병준(18)은	손병준/NNP+(/SS+18/SN+)/SS+은/JX
+결승전을	결승전/NNG+을/JKO
+마치고	마치/VV+고/EC
+시무룩한	시무룩하/VA+ㄴ/ETM
+표정을	표정/NNG+을/JKO
+좀처럼	좀처럼/MAG
+감추지	감추/VV+지/EC
+못했다	못하/VX+였/EP+다/EC
+
+손병준의	손병준/NNP+의/JKG
+결승	결승/NNG
+상대였던	상대/NNG+이/VCP+었/EP+던/ETM
+헝가리의	헝가리/NNP+의/JKG
+페테르	페테르/NNP
+팔로스는	팔로스/NNP+는/JX
+손병준의	손병준/NNP+의/JKG
+맞수다	맞수/VV+다/EC
+
+올해	올해/NNG
+초	초/NNB
+슬로베니아에서	슬로베니아/NNP+에서/JKB
+열린	열리/VV+ㄴ/ETM
+국제	국제/NNG
+대회에서도	대회/NNG+에서/JKB+도/JX
+팔로스와	팔로스/NNP+와/JKB
+만났지만	만나/VV+았/EP+지만/EC
+손병준이	손병준/NNP+이/JKS
+졌다	지/VV+었/EP+다/EF
+
+이를	이/NP+를/JKO
+갈던	갈/VV+던/ETM
+손병준은	손병준/NNP+은/JX
+2012	2012/SN
+런던	런던/NNP
+패럴림픽	패럴림픽/NNG
+무대에서	무대/NNG+에서/JKB
+다시	다시/MAG
+만난	만나/VV+ㄴ/ETM
+그의	그/NP+의/JKG
+코를	코/NNG+를/JKO
+납작하게	납작하/VA+게/EC
+했다	하/VX+였/EP+다/EF
+
+예선에서	예선/NNG+에서/JKB
+팔로스를	팔로스/NNG+를/JKO
+3-1로	3/SN+-/SO+1/SN+로/JKB
+누른	누르/VV+ㄴ/ETM
+것	것/NNB
+
+하지만	하지만/MAJ
+외나무다리에서	외나무다리/NNG+에서/JKB
+원수를	원수/NNG+를/JKO
+다시	다시/MAG
+만났다	만나/VV+았/EP+다/EC
+
+이번에는	이번/NNG+에/JKB+는/JX
+패럴림픽	패럴림픽/NNG
+금메달을	금메달/NNG+을/JKO
+놓고	놓/VV+고/EC
+피할	피하/VV+ㄹ/ETM
+수	수/NNB
+없는	없/VA+는/ETM
+승부를	승부/NNG+를/JKO
+벌이는	벌이/VV+는/ETM
+처지가	처지/NNG+가/JKC
+됐다	되/VV+었/EP+다/EC
+
+대표팀	대표팀/NNG
+동료들은	동료/NNG+들/XSN+은/JX
+손병준에게	손병준/NNP+에게/JKB
+"한	"/SS+한/MM
+번	번/NNB
+이겼으니	이기/VV+었/EP+으니/EC
+이번에도	이번/NNG+에/JKB+도/JX
+이길	이기/VV+ㄹ/ETM
+수	수/NNB
+있을	있/VA+을/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+힘을	힘/NNG+을/JKO
+불어	불/VV+어/EC
+넣었다	넣/VV+었/EP+다/EC
+
+손병준도	손병준/NNG+도/JX
+그렇게	그렇/VA+게/EC
+생각했다	생각하/VV+였/EP+다/EC
+
+하지만	하지만/MAJ
+결승에서	결승/NNG+에서/JKB
+1-3으로	1/SN+-/SO+3/SN+으로/JKB
+지고	지/VV+고/EC
+은메달을	은메달/NNG+을/JKO
+목에	목/NNG+에/JKB
+거는	걸/VV+는/ETM
+것으로	것/NNB+으로/JKB
+만족해야	만족하/VA+여야/EC
+했다	하/VX+였/EP+다/EC
+
+좀처럼	좀처럼/MAG
+기분이	기분/NNG+이/JKS
+나아지지	나아지/VV+지/EC
+않았다	않/VX+았/EP+다/EF
+
+그렇지만	그렇지만/MAJ
+질문에	질문/NNG+에/JKB
+짧고	짧/VA+고/EC
+간결한	간결하/VA+ㄴ/ETM
+문장으로	문장/NNG+으로/JKB
+대답하는	대답하/VV+는/ETM
+그의	그/NP+의/JKG
+말솜씨만은	말솜씨/NNG+만은/JX
+막힘이	막히/VV+ㅁ/ETN+이/JKS
+없었다	없/VA+었/EP+다/EF
+
+그러다	그러/VV+다/EC
+질문	질문/NNG
+하나에	하나/NR+에/JKB
+그만	그만/MAG
+한동안	한동안/NNG
+말문을	말문/NNG+을/JKO
+잇지	잇/VV+지/EC
+못했다	못하/VX+였/EP+다/EC
+
+'지금	'/SS+지금/MAG
+가장	가장/MAG
+많이	많이/MAG
+생각나는	생각나/VV+는/ETM
+사람이	사람/NNG+이/JKS
+누구냐'는	누구/NP+이/VCP+냐/EC+'/SS+는/JX
+질문이었다	질문/NNG+이/VCP+었/EP+다/EF
+
+함께	함께/MAG
+인터뷰하던	인터뷰하/VV+던/ETM
+김소연	김소연/NNP
+코치는	코치/NNG+는/JX
+미리	미리/MAG
+손병준의	손병준/NNP+의/JKG
+대답을	대답/NNG+을/JKO
+짐작하고	짐작하/VV+고/EC
+웃음짓기	웃음/NNG+짓/VV+기/ETN
+시작했다	시작하/VV+였/EP+다/EF
+
+한동안	한동안/NNG
+주저하던	주저하/VV+던/ETM
+손병준은	손병준/NNP+은/JX
+"연예인"이라고	"/SS+연예인/NNG+"/SS+이라고/JKQ
+답했다	답하/VV+였/EP+다/EF
+
+그	그/MM
+연예인이	연예인/NNG+이/JKS
+누구냐고	누구/NP+이/VCP+냐고/EC
+재차	재차/MAG
+묻자	묻/VV+자/EC
+그는	그/NP+는/JX
+인기	인기/NNG
+가수	가수/NNG
+아이유의	아이유/NNG+의/JKG
+이름을	이름/NNG+을/JKO
+꺼냈다	꺼내/VV+었/EP+다/EC
+
+김소연	김소연/NNP
+코치가	코치/NNG+가/JKS
+웃으며	웃/VV+으며/EC
+'발언의	'/SS+발언/NNG+의/JKG
+배경'을	배경/NNG+'/SS+을/JKO
+설명했다	설명하/VV+었/EP+다/EC
+
+지적장애인	지적장애/NNG+이/VCP+ㄴ/ETM
+탁구선수	탁구선수/NNG
+손병준의	손병준/NNP+의/JKG
+신체	신체/NNG
+조건은	조건/NNG+은/JX
+비장애인과	비장애인/NNG+과/JKB
+다를	다르/VA+ㄹ/ETM
+것이	것/NNB+이/JKS
+없다	없/VA+다/EF
+
+오히려	오히려/MAG
+월등한	월등하/VA+ㄴ/ETM
+수준이다	수준/NNG+이/VCP+다/EC
+
+하지만	하지만/MAJ
+장애인	장애인/NNG
+탁구	탁구/NNG
+대표팀의	대표팀/NNG+의/JKG
+동료들은	동료/NNG+들/XSN+은/JX
+대부분	대부분/NNG
+휠체어에	휠체어/NNG+에/JKB
+앉아	앉/VV+아/EC
+있는	있/VX+는/ETM
+경우가	경우/NNG+가/JKS
+많다	많/VA+다/EC
+
+함께	함께/MAG
+훈련하기에는	훈련하/VV+기/ETN+에/JKB+는/JX
+어려움이	어려움/NNG+이/JKS
+있는	있/VA+는/ETM
+것이	것/NNB+이/JKS
+사실이다	사실/NNG+이/VCP+다/EC
+
+다른	다른/MM
+탁구	탁구/NNG
+대표팀	대표팀/NNG
+동료와	동료/NNG+와/JC
+체력	체력/NNG
+훈련	훈련/NNG
+메뉴가	메뉴/NNG+가/JKS
+다르다	다르/VA+다/EC
+보니	보/VX+니/EC
+손병준은	손병준/NNP+은/JX
+유도	유도/NNG
+대표팀과	대표팀/NNG+과/JKB
+함께	함께/MAG
+체력	체력/NNG
+훈련을	훈련/NNG+을/JKO
+진행해야	진행하/VV+여야/EC
+했다	하/VX+였/EP+다/EC
+
+손병준이	손병준/NNP+이/JKS
+보기에는	보/VV+기/ETN+에/JKB+는/JX
+다른	다르/VA+ㄴ/ETM
+동료들은	동료/NNG+들/XSN+은/JX
+앉아서	앉/VV+아서/EC
+편하게	편하/VA+게/EC
+훈련하는데	훈련하/VV+는데/EC
+자기만	자기/NP+만/JX
+힘들게	힘들/VA+게/EC
+훈련하는	훈련하/VV+는/ETM
+것	것/NNB
+같이	같이/MAG
+느꼈을	느끼/VV+었/EP+을/ETM
+거라는	것/NNB+이/VCP+라는/ETM
+것이	것/NNB+이/JKS
+김	김/NNP
+코치의	코치/NNG+의/JKG
+설명이다	설명/NNG+이/VCP+다/EC
+
+김	김/NNP
+코치는	코치/NNG+는/JX
+힘든	힘들/VA+ㄴ/ETM
+훈련에	훈련/NNG+에/JKB
+불만을	불만/NNG+을/JKO
+털어놓는	털어놓/VV+는/ETM
+손병준에게	손병준/NNP+에게/JKB
+"금메달을	"/SS+금메달/NNG+을/JKO
+따면	따/VV+면/EC
+네가	네/NP+가/JKS
+좋아하는	좋아하/VV+는/ETM
+아이유를	아이유/NNG+를/JKO
+만날	만나/VV+ㄹ/ETM
+수도	수/NNB+도/JX
+있을	있/VA+을/ETM
+것"이라는	것/NNB+"/SS+이/VCP+라는/ETM
+희망을	희망/NNG+을/JKO
+불어	불/VV+어/EC
+넣었다	넣/VV+었/EP+다/EC
+
+그런	그런/MM
+이야기를	이야기/NNG+를/JKO
+들을	듣/VV+을/ETM
+때면	때/NNG+이/VCP+면/EC
+손병준은	손병준/NNG+은/JX
+불평불만을	불평불만/NNG+을/JKO
+잊고	잊/VV+고/EC
+힘을	힘/NNG+을/JKO
+냈다	내/VV+었/EP+다/EF
+
+하지만	하지만/MAJ
+결승에서	결승/NNG+에서/JKB
+금메달을	금메달/NNG+을/JKO
+놓치고	놓치/VV+고/EC
+말았다	말/VX+았/EP+다/EF
+
+손병준이	손병준/NNP+이/JKS
+시무룩해질	시무룩하/VA+여/EC+지/VX+ㄹ/ETM
+수밖에	수/NNB+밖에/JX
+없었던	없/VA+었/EP+던/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+하지만	하지만/MAJ
+다음을	다음/NNG+을/JKO
+기약하는	기약하/VV+는/ETM
+것을	것/NNB+을/JKO
+잊지	잊/VV+지/EC
+않았다	않/VX+았/EP+다/EF
+
+손병준은	손병준/NNP+은/JX
+"이번에는	"/SS+이번/NNG+에/JKB+는/JX
+금메달을	금메달/NNG+을/JKO
+못	못/MAG
+따서	따/VV+아서/EC
+아이유를	아이유/NNG+를/JKO
+못	못/MAG
+만나게	만나/VV+게/EC
+됐지만	되/VV+었/EP+지만/EC
+다음	다음/NNG
+패럴림픽에	패럴림픽/NNG+에/JKB
+꼭	꼭/MAG
+쿼터를	쿼터/NNG+를/JKO
+따고	따/VV+고/EC
+출전해서	출전하/VV+여서/EC
+금메달을	금메달/NNG+을/JKO
+따겠다"고	따/VV+겠/EP+다/EF+"/SS+고/JKQ
+당찬	당차/VA+ㄴ/ETM
+각오를	각오/NNG+를/JKO
+밝혔다	밝히/VV+었/EP+다/EC
+
+손병준은	손병준/NNP+은/JX
+부모님께	부모님/NNG+께/JKB
+하고	하/VV+고/EC
+싶은	싶/VX+은/ETM
+말이	말/NNG+이/JKS
+있냐는	있/VA+냐는/ETM
+질문에	질문/NNG+에/JKB
+"다음	"/SS+다음/NNG
+올림픽에서	올림픽/NNG+에서/JKB
+금메달을	금메달/NNG+을/JKO
+꼭	꼭/MAG
+따겠다"고	따/VV+겠/EP+다/EF+"/SS+고/JKQ
+대답했다	대답하/VV+였/EP+다/EC
+
+아이유에게	아이유/NNP+에게/JKB
+하고	하/VV+고/EC
+싶은	싶/VX+은/ETM
+말이	말/NNG+이/JKS
+있느냐는	있/VA+느냐는/ETM
+질문에	질문/NNG+에/JKB
+그는	그/NP+는/JX
+다소	다소/MAG
+경직된	경직되/VV+ㄴ/ETM
+표정으로	표정/NNG+으로/JKB
+말했다	말하/VV+였/EP+다/EC
+
+"금메달	"/SS+금메달/NNG
+따면	따/VV+면/EC
+만날	만나/VV+ㄹ/ETM
+수	수/NNB
+있었을	있/VA+었/EP+을/ETM
+텐데	터/NNB+이/VCP+ㄴ데/EC
+금메달	금메달/NNG
+못따	못따/MAG
+미안해!	미안해/VA+!/SF
+다음엔	다음/NNG+에/JKB+ㄴ/JX
+금메달	금메달/NNG
+따서	따/VV+아서/EC
+꼭	꼭/MAG
+만나고	만나/VV+고/EC
+싶어!"junmk@yna	싶/VX+어/EF+!/SF+"/SS+junmk/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

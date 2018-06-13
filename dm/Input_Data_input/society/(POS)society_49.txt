@@ -1,0 +1,102 @@
+장애여성	장애여성/NNG
+성폭행	성폭행/NNG
+후	후/NNG
+나체사진	나체사진/NNG
+찍은	찍/VV+은/ETM
+50대	50/SN+대/NNB
+검거	검거/NNG
+
+(부산=연합뉴스)	(/SS+부산/NNP+=/SW+연합뉴스/NNP+)/SS
+김선호	김선호/NNP
+기자	기자/NNG
+=	=/SW
+부산	부산/NNP
+연제경찰서는	연제경찰서/NNG+는/JX
+13일	13/SN+일/NNB
+정신지체장애	정신지체장애/NNG
+여성을	여성/NNG+을/JKO
+성폭행하고	성폭행하/VV+고/EC
+나체사진을	나체사진/NNG+을/JKO
+찍은	찍/VV+은/ETM
+혐의(장애인	혐의/NNG+(/SS+장애인/NNG
+준강간	준강간/NNG
+등)로	등/NNB+)/SS+로/JKB
+김모(55)씨에	김/NNP+모/NP+(/SS+55/SN+)/SS+씨/NNB+에/JKB
+대해	대하/VV+여/EC
+사전구속영장을	사전구속영장/NNG+을/JKO
+신청했다	신청하/VV+였/EP+다/EC
+
+김씨는	김/NNP+씨/NNB+는/JX
+지난달	지난달/NNG
+2일	2/SN+일/NNB
+새벽	새벽/NNG
+1시께	1/SN+시/NNB+께/XSN
+부산도시철도	부산/NNP+도시철도/NNG
+1호선	1/SN+호/NNB+선/XSN
+신평역	신평역/NNP
+인근	인근/NNG
+벤치에서	벤치/NNG+에서/JKB
+만난	만나/VV+ㄴ/ETM
+정신지체장애	정신지체장애/NNG
+3급인	3/SN+급/NNG+이/VCP+ㄴ/ETM
+A(36ㆍ여)씨를	A/SL+(/SS+36/SN+ㆍ/SP+여/NNG+)/SS+씨/NNB+를/JKO
+자신의	자신/NNG+의/JKG
+집으로	집/NNG+으로/JKB
+유인해	유인하/VV+여/EC
+강간하고	강간하/VV+고/EC
+휴대전화로	휴대전화/NNG+로/JKB
+나체	나체/NNG
+사진을	사진/NNG+을/JKO
+찍은	찍/VV+은/ETM
+혐의를	혐의/NNG+를/JKO
+받고	받/VV+고/EC
+있다	있/VX+다/EC
+
+이날	이날/NNG
+A씨는	A/SL+씨/NNB+는/JX
+어머니와	어머니/NNG+와/JC
+도시철도를	도시철도/NNG+를/JKO
+탔다가	타/VV+았/EP+다가/EC
+길을	길/NNG+을/JKO
+잃어버리는	잃어버리/VV+는/ETM
+바람에	바람/NNB+에/JKB
+종점인	종점/NNG+이/VCP+ㄴ/ETM
+신평역까지	신/XPN+평역/NNG+까지/JX
+왔던	오/VV+았/EP+던/ETM
+것으로	것/NNB+으로/JKB
+드러났다	드러나/VV+았/EP+다/EC
+
+경찰은	경찰/NNG+은/JX
+피해사실을	피해사실/NNG+을/JKO
+알게된	알/VV+게/EC+되/VV+ㄴ/ETM
+A씨	A/SL+씨/NNB
+가족들의	가족/NNG+들/XSN+의/JKG
+신고를	신고/NNG+를/JKO
+받고	받/VV+고/EC
+수사에	수사/NNG+에/JKB
+착수,	착수/NNG+,/SP
+김씨를	김/NNP+씨/NNB+를/JKO
+붙잡았다	붙잡/VV+았/EP+다/EC
+
+wink@yna	wink/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

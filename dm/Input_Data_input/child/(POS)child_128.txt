@@ -1,0 +1,103 @@
+'하트뮤직스쿨'	'/SS+하트뮤직스쿨/NNG+'/SS
+참여	참여/NNG
+발달장애	발달장애/NNG
+청소년	청소년/NNG
+모집	모집/NNG
+
+하트하트재단(이사장	하트하트재단/NNP+(/SS+이사장/NNG
+신인숙)이	신인숙/NNP+)/SS+이/JKS
+오는	오/VV+는/ETM
+9월부터	9/SN+월/NNB+부터/JX
+발달장애	발달장애/NNG
+청소년들을	청소년/NNG+들/XSN+을/JKO
+대상으로	대상/NNG+으로/JKB
+전문	전문/NNG
+클래식	클래식/NNG
+악기	악기/NNG
+교육	교육/NNG
+‘하트뮤직스쿨	‘/SL+하트뮤직스쿨/NNG
+(HEART	(/SS+HEART/SL
+MUSIC	MUSIC/SL
+SCHOOL)'을	SCHOOL/SL+)'/SS+을/JKO
+진행한다	진행하/VV+ㄴ다/EC
+
+이에	이/NP+에/JKB
+따라	따르/VV+아/EC
+하트뮤직스쿨에	하트뮤직스쿨/NNG+에/JKB
+참여할	참여하/VV+ㄹ/ETM
+클래식	클래식/NNG
+악기교육에	악기교육/NNG+에/JKB
+관심	관심/NNG
+있는	있/VA+는/ETM
+만	만/MM
+10세	10/SN+세/NNB
+이상	이상/NNG
+발달장애	발달장애/NNG
+아동	아동/NNG
+및	및/MAG
+청소년을	청소년/NNG+을/JKO
+모집하고	모집하/VV+고/EC
+있다	있/VX+다/EC
+
+‘하트뮤직스쿨'은	‘/SN+하트뮤직스쿨/NNG+'/SS+은/JX
+그동안	그동안/NNG
+문화예술에	문화예술/NNG+에/JKB
+소외되어	소외되/VV+어/EC
+있던	있/VX+던/ETM
+발달장애청소년들에게	발달장애청소년/NNG+들/XSN+에게/JKB
+전문	전문/NNG
+음악강사의	음악강사/NNG+의/JKG
+가르침을	가르침/NNG+을/JKO
+통해	통하/VV+여/EC
+현악기	현악기/NNG
+기초과정	기초과정/NNG
+교육을	교육/NNG+을/JKO
+제공하는	제공하/VV+는/ETM
+음악교육	음악교육/NNG
+프로그램이다	프로그램/NNG+이/VCP+다/EC
+
+특히	특히/MAG
+발달장애	발달장애/NNG
+아동	아동/NNG
+2명	2/SN+명/NNB
+당	당/NNG
+지도강사	지도강사/NNG
+1명의	1/SN+명/NNB+의/JKG
+‘2인	‘/SL+2/SN+인/NNG
+1	1/SN
+클래스’	클래스/NNG+’/SL
+교육	교육/NNG
+시스템으로	시스템/NNG+으로/JKB
+진행되며,	진행되/VV+며/EC+,/SP
+도시근로자	도시근로자/NNG
+월	월/NNG
+평균소득	평균소득/NNG
+이하	이하/NNG
+가정의	가정/NNG+의/JKG
+자녀일	자녀/NNG+이/VCP+ㄹ/ETM
+경우	경우/NNG
+교육비도	교육비/NNG+도/JX
+지원된다	지원되/VV+ㄴ다/EF
+
+신청	신청/NNG
+희망자는	희망자/NNG+는/JX
+오는	오/VV+는/ETM
+10일까지	10/SN+일/NNB+까지/JX
+하트하트재단	하트하트재단/NNP
+이메일(yesheart@hanmail	이메일/NNG+(/SS+yesheart/SL+@/SW+hanmail/SL
+
+net)이나	net/SL+)/SS+이나/JC
+유선(070-8145-7910)으로	유선/NNG+(/SS+070/SN+-/SO+8145/SN+-/SO+7910/SN+)/SS+으로/JKB
+신청하면	신청하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+자세한	자세하/VA+ㄴ/ETM
+사항은	사항/NNG+은/JX
+홈페이지(http://www	홈페이지/NNG+(/SS+http/SL+:///SP+www/SL
+
+heart-heart	heart/SL+-/SO+heart/SL
+
+org)를	org/SL+)/SS+를/JKO
+통해	통하/VV+여/EC
+참조하면	참조하/VV+면/EC
+된다	되/VV+ㄴ다/EF

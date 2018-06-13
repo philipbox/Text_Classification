@@ -1,0 +1,71 @@
+'한복·소품	'/SS+한복/NNG+·/SP+소품/NNG
+제작'	제작/NNG+'/SS
+장애여성	장애여성/NNG
+훈련생	훈련생/NNG
+모집	모집/NNG
+
+서울시장애여성인력개발센터	서울/NNP+시장애여성인력개발센터/NNG
+강남여성새로일하기센터는	강남여성새로일하기센터/NNP+는/JX
+장애여성을	장애여성/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+직업능력개발과	직업능력개발/NNG+과/JC
+취업지원	취업지원/NNG
+강화를	강화/NNG+를/JKO
+위해	위하/VV+여/EC
+맞춤형	맞춤/NNG+형/XSN
+직업교육	직업교육/NNG
+훈련과정을	훈련과정/NNG+을/JKO
+운영한다	운영하/VV+ㄴ다/EF
+
+이에	이/NP+에/JKB
+내달	내달/NNG
+6일부터	6/SN+일/NNB+부터/JX
+무료로	무료/NNG+로/JKB
+‘한복제작	‘/SL+한복제작/NNG
+및	및/MAG
+소품제작	소품제작/NNG
+교육과정’을	교육과정’/NNG+을/JKO
+진행하고,	진행하/VV+고/EC+,/SP
+교육	교육/NNG
+훈련에	훈련/NNG+에/JKB
+참여할	참여하/VV+ㄹ/ETM
+장애여성을	장애여성/NNG+을/JKO
+선착순	선착순/NNG
+모집한다	모집하/VV+ㄴ다/EF
+
+교육은	교육/NNG+은/JX
+직무소양	직무소양/NNG
+및	및/MAG
+취업대비교육과	취업대비교육/NNG+과/JC
+이론	이론/NNG
+및	및/MAG
+실습교육(한복과	실습교육/NNG+(/SS+한복/NNG+과/JC
+소품의	소품/NNG+의/JKG
+재봉	재봉/NNG
+및	및/MAG
+제작,	제작/NNG+,/SP
+관리	관리/NNG
+방법)으로	방법/NNG+)/SS+으로/JKB
+이뤄지며	이루어지/VV+며/EC
+교육	교육/NNG
+일정에	일정/NNG+에/JKB
+따라	따르/VV+아/EC
+강의시간이	강의시간/NNG+이/JKS
+다르다	다르/VA+다/EC
+
+보다	보다/MAG
+자세한	자세하/VA+ㄴ/ETM
+내용은	내용/NNG+은/JX
+서울시장애여성인력개발센터	서울/NNP+시장애여성인력개발센터/NNG
+홈페이지(kangnam	홈페이지/NNG+(/SS+kangnam/SL
+
+seoulwomen	seoulwomen/SL
+
+or	or/SL
+
+kr)를	kr/SL+)/SS+를/JKO
+참조하면	참조하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+*문의:	*/SW+문의/NNG+:/SP
+070-4603-1753	070/SN+-/SO+4603/SN+-/SO+1753/SN

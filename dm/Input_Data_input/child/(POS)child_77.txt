@@ -1,0 +1,114 @@
+'제10회	'/SS+제/XPN+10/SN+회/NNB
+국제장애어린이축제'	국제장애어린이축제/NNG+'/SS
+개최	개최/NNG
+
+‘제10회	‘/SL+제/XPN+10/SN+회/NNB
+국제장애어린이축제-극장으로	국제장애어린이축제/NNG+-/SO+극장/NNG+으로/JKB
+가는길’이	가/VV+는/ETM+길’/NNG+이/JKS
+오는	오/VV+는/ETM
+14일부터	14/SN+일/NNB+부터/JX
+15일까지	15/SN+일/NNB+까지/JX
+충무아트홀에서	충무아트홀/NNP+에서/JKB
+열린다	열리/VV+ㄴ다/EF
+
+이번	이번/NNG
+축제를	축제/NNG+를/JKO
+주최하는	주최하/VV+는/ETM
+문화예술교육	문화예술교육/NNG
+더베프는	더베프/NNP+는/JX
+문화예술체험을	문화예술체험/NNG+을/JKO
+통해	통하/VV+여/EC
+장애어린이와	장애어린이/NNG+와/JC
+비장애어린이의	비장애어린이/NNG+의/JKG
+자연스러운	자연스럽/VA+ㄴ/ETM
+만남을	만남/NNG+을/JKO
+통해	통하/VV+여/EC
+장애인식	장애인식/NNG
+개선	개선/NNG
+등의	등/NNB+의/JKG
+교육적	교육적/NNG
+효과를	효과/NNG+를/JKO
+제공할	제공하/VV+ㄹ/ETM
+것이라고	것/NNB+이/VCP+라고/EC
+기대하고	기대하/VV+고/EC
+있다	있/VX+다/EC
+
+축제	축제/NNG
+기간동안	기간동안/NNG
+이탈리아극단	이탈리아/NNP+극단/NNG
+티에트로	티에트/NNP+로/JKB
+디스틴토의	디스틴토/NNG+의/JKG
+'키시쿠시(Kish-Kush)'	'/SS+키시쿠시/NNP+(/SS+Kish/SL+-/SO+Kush/SL+)'/SS
+,	,/SP
+극단	극단/NNG
+성시어터라인의	성시어터라인/NNP+의/JKG
+'명랑토끼	'/SS+명랑토끼/NNG
+만만세',	만만세/NNG+'/SS+,/SP
+창작공동체	창작공동체/NNG
+얼굴의	얼굴/NNG+의/JKG
+'얼굴우물쭈물	'/SS+얼굴우물쭈물/NNG
+거울'	거울/NNG+'/SS
+등	등/NNB
+다양한	다양하/VA+ㄴ/ETM
+전시·공연·체험	전시/NNG+·/SP+공연/NNG+·/SP+체험/NNG
+등이	등/NNB+이/JKS
+진행된다	진행되/VV+ㄴ다/EC
+
+또한	또한/MAG
+행복한성문화센터	행복하/VA+ㄴ/ETM+성문화센터/NNG
+배정원	배정원/NNP
+씨가	씨/NNB+가/JKS
+'장애를	'/SS+장애/NNG+를/JKO
+가진	가지/VV+ㄴ/ETM
+자녀를	자녀/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+올바른	올바르/VA+ㄴ/ETM
+성교육'의	성교육/NNG+'/SS+의/JKG
+강연자로	강연자/NNG+로/JKB
+나선다	나서/VV+ㄴ다/EF
+
+일부	일부/NNG
+프로그램은	프로그램/NNG+은/JX
+사전예약으로	사전예약/NNG+으로/JKB
+진행되며,	진행되/VV+며/EC+,/SP
+극장공연의	극장공연/NNG+의/JKG
+경우	경우/NNG
+최대	최대/NNG
+2,000원의	2,000/SN+원/NNB+의/JKG
+입장료를	입장료/NNG+를/JKO
+받는다	받/VV+는다/EC
+
+이	이/MM
+외	외/NNB
+프로그램은	프로그램/NNG+은/JX
+무료로	무료/NNG+로/JKB
+제공된다	제공되/VV+ㄴ다/EF
+
+자세한	자세하/VA+ㄴ/ETM
+일정은	일정/NNG+은/JX
+제10회	제/XPN+10/SN+회/NNB
+국제장애어린이축제	국제장애어린이축제/NNG
+홈페이지	홈페이지/NNG
+(http://club	(/SS+http/SL+:///SP+club/SL
+
+cyworld	cyworld/SL
+
+com/TTfestival)	com/SL+//SP+TTfestival/SL+)/SS
+를	를/JKO
+통해	통하/VV+여/EC
+확인하면	확인하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+한편	한편/MAG
+극장	극장/NNG
+공연의	공연/NNG+의/JKG
+수익금은	수익금/NNG+은/JX
+'제11회	'/SS+제/XPN+11/SN+회/NNB
+국제장애어린이축제'를	국제장애어린이축제/NNG+'/SS+를/JKO
+위해	위하/VV+여/EC
+쓰여질	쓰이/VV+어/EC+지/VX+ㄹ/ETM
+예정이다	예정/NNG+이/VCP+다/EC
+
+*문의:	*/SW+문의/NNG+:/SP
+문화예술교육	문화예술교육/NNG
+더베프(02-2234-4036)	더베프/NNP+(/SS+02/SN+-/SO+2234/SN+-/SO+4036/SN+)/SS

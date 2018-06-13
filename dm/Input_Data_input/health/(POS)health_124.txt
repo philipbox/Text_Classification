@@ -1,0 +1,83 @@
+장애여성	장애여성/NNG
+무료	무료/NNG
+한방의료상담	한방의료상담/NNG
+신청하세요	신청하/VV+시/EP+어요/EC
+
+장애여성공감	장애여성공감/NNG
+부설	부설/NNG
+장애여성독립생활센터	장애여성독립생활센터/NNG
+‘숨’이	‘/SN+숨/NNG+’/SL+이/JKS
+한방의료	한방의료/NNG
+봉사활동을	봉사활동/NNG+을/JKO
+벌이고	벌이/VV+고/EC
+있는	있/VX+는/ETM
+‘들풀’의	‘/SL+들/XSN+풀/NNB+’/SL+의/JKG
+지원을	지원/NNG+을/JKO
+받아	받/VV+아/EC
+장애여성을	장애여성/NNG+을/JKO
+대상으로	대상/NNG+으로/JKB
+무료	무료/NNG
+한방	한방/NNG
+의료상담을	의료상담/NNG+을/JKO
+실시한다	실시하/VV+ㄴ다/EF
+
+평소에	평소/NNG+에/JKB
+생리통과	생리통/NNG+과/JC
+생리불순,	생리불순/NNG+,/SP
+소화기질환,	소화기질환/NNG+,/SP
+어깨·목·허리	어깨/NNG+·/SP+목/NNG+·/SP+허리/NNG
+등의	등/NNB+의/JKG
+통증을	통증/NNG+을/JKO
+시달리거나	시달리/VV+거나/EC
+우울·불안	우울/NNP+·/SP+불안/NNG
+등으로	등/NNB+으로/JKB
+상담을	상담/NNG+을/JKO
+받고	받/VV+고/EC
+싶은	싶/VX+은/ETM
+장애여성은	장애여성/NNG+은/JX
+오는	오/VV+는/ETM
+22일까지	22/SN+일/NNB+까지/JX
+'숨'으로	'/SS+숨/NNG+'/SS+으로/JKB
+신청하면	신청하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+장애여성	장애여성/NNG
+의료상담은	의료상담/NNG+은/JX
+12일과	12/SN+일/NNB+과/JC
+26일	26/SN+일/NNB
+오후	오후/NNG
+2시부터	2/SN+시/NNB+부터/JX
+5시까지	5/SN+시/NNB+까지/JX
+진행되며,	진행되/VV+며/EC+,/SP
+이에	이/NP+에/JKB
+앞서	앞서/VV+어/EC
+오전	오전/NNG
+11시부터	11/SN+시/NNB+부터/JX
+오후	오후/NNG
+1시까지	1/SN+시/NNB+까지/JX
+들풀	들풀/NNG
+한의사의	한의사/NNG+의/JKG
+‘주체적으로	‘/SL+주체적/NNG+으로/JKB
+나의	나/NP+의/JKG
+건강관리하기’	건강/NNG+관리하/VV+기/ETN+’/SP
+특강	특강/NNG
+등	등/NNB
+건강관리교육도	건강관리교육/NNG+도/JX
+열린다	열리/VV+ㄴ다/EF
+
+자세한	자세하/VA+ㄴ/ETM
+사항은	사항/NNG+은/JX
+‘숨’	‘/SN+숨/NNG+’/SN
+홈페이지(www	홈페이지/NNG+(/SS+www/SL
+
+wde	wde/SL
+
+or	or/SL
+
+kr)를	kr/SL+)/SS+를/JKO
+참조하거나	참조하/VV+거나/EC
+전화(02-441-2313)	전화/NNG+(/SS+02/SN+-/SO+441/SN+-/SO+2313/SN+)/SS
+하면	하/VV+면/EC
+안내받을	안내/NNG+받/VV+을/ETM
+수	수/NNB
+있다	있/VA+다/EC

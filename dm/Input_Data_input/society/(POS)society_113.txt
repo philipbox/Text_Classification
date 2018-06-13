@@ -1,0 +1,235 @@
+한인	한인/NNG
+최대행사	최대행사/NNG
+장애인	장애인/NNG
+배려	배려/NNG
+'부족'	'/SS+부족/NNG+'/SS
+
+지난	지나/VV+ㄴ/ETM
+9월	9/SN+월/NNB
+14일에서	14/SN+일/NNB+에서/JKB
+부터	부터/NNP
+16일까지	16/SN+일/NNB+까지/JX
+워싱턴	워싱턴/NNP
+지역	지역/NNG
+한인	한인/NNG
+최대	최대/NNG
+페스티벌인	페스티벌/NNG+이/VCP+ㄴ/ETM
+'코러스	'/SS+코러스/NNG
+축제'가	축제/NNG+'/SS+가/JKC
+버지니아	버지니아/NNP
+불런	불런/MM
+공원에서	공원/NNG+에서/JKB
+열렸다	열리/VV+었/EP+다/EC
+
+올해로	올해/NNG+로/JKB
+10회째	10/SN+회/NNB+째/XSN
+맞는	맞/VV+는/ETM
+이	이/MM
+행사는	행사/NNG+는/JX
+그	그/MM
+동안에	동안/NNG+에/JKB
+마켓	마켓/NNG
+인근에서	인근/NNG+에서/JKB
+했던	하/VV+였/EP+던/ETM
+것과는	것/NNB+과/JKB+는/JX
+달리	달리/MAG
+넓은	넓/VA+은/ETM
+공원에서	공원/NNG+에서/JKB
+치러졌다	치르/VV+어/EC+지/VX+었/EP+다/EF
+
+엄청난	엄청나/VA+ㄴ/ETM
+사람들이	사람/NNG+들/XSN+이/JKS
+몰리는	몰리/VV+는/ETM
+대	대/NNB
+성황을	성황/NNG+을/JKO
+이루었다	이루/VV+었/EP+다/EC
+
+각종	각종/NNG
+공연은	공연/NNG+은/JX
+물론	물론/MAG
+행사가	행사/NNG+가/JKS
+줄을	줄/NNG+을/JKO
+이었고	잇/VV+었/EP+고/EC
+사람들은	사람/NNG+들/XSN+은/JX
+역대	역대/NNG
+최고였다고	최고/NNG+이/VCP+었/EP+다고/EC
+입을	입/NNG+을/JKO
+모았다	모으/VV+았/EP+다/EC
+
+그러나	그러나/MAJ
+미국	미국/NNP
+수도	수도/NNG
+인근에서	인근/NNG+에서/JKB
+치러진	치르/VV+어/EC+지/VX+ㄴ/ETM
+행사에	행사/NNG+에/JKB
+다른	다르/VA+ㄴ/ETM
+것이	것/NNB+이/JKS
+하나있다	하나/NR+있/VX+다/EC
+
+대부분의	대부분/NNG+의/JKG
+미국	미국/NNP
+행사에는	행사/NNG+에/JKB+는/JX
+이정도의	이/MM+정도/NNG+의/JKG
+규모면	규모/NNG+이/VCP+면/EC
+장애인	장애인/NNG
+사인이	사인/NNG+이/JKS
+수도	수/NNG+도/JX
+없이	없이/MAG
+붙는다	붙/VV+는다/EF
+
+그러나	그러나/MAJ
+행사	행사/NNG
+어디에서도	어디/NP+에서/JKB+도/JX
+장애인	장애인/NNG
+마크는	마크/NNG+는/JX
+발견할	발견하/VV+ㄹ/ETM
+수가	수/NNB+가/JKS
+없었다	없/VA+었/EP+다/EF
+
+특히	특히/MAG
+수없이	수없이/MAG
+많은	많/VA+은/ETM
+간이	간이/NNG
+화장실에는	화장실/NNG+에/JKB+는/JX
+장애인	장애인/NNG
+푯말이	푯말/NNG+이/JKS
+하나도	하나/NNG+도/JX
+붙어	붙/VV+어/EC
+있질	있/VX+지/EC+ㄹ/JX
+않았다	않/VX+았/EP+다/EF
+
+기자가	기자/NNG+가/JKS
+직접	직접/MAG
+다니면서	다니/VV+면서/EC
+확인해	확인하/VV+여/EC
+보았다	보/VV+았/EP+다/EC
+
+총	총/MM
+10여개의	10/SN+여/XSN+개/NNB+의/JKG
+간이	간이/NNG
+화장실을	화장실/NNG+을/JKO
+붙여	붙이/VV+어/EC
+놓은	놓/VX+은/ETM
+곳이	곳/NNG+이/JKS
+세군데가	세구/VV+ㄴ/ETM+데/NNB+가/JKS
+있었다	있/VA+었/EP+다/EF
+
+물론	물론/MAG
+모두	모두/MAG
+장애	장애/NNG
+표시가	표시/NNG+가/JKS
+붙어있지	붙/VV+어/EC+있/VX+지/EC
+않았다	않/VX+았/EP+다/EF
+
+두	두/MM
+군데	군데/NNB
+까지	까지/JX
+갈	가/VV+ㄹ/ETM
+때도	때/NNG+도/JX
+모두	모두/MAG
+턱이	턱/NNG+이/JKS
+있어서	있/VA+어서/EC
+장애인이	장애인/NNG+이/JKS
+사용할	사용하/VV+ㄹ/ETM
+수가	수/NNB+가/JKS
+없었고	없/VA+었/EP+고/EC
+세번째	세/MM+번째/NNB
+것에	것/NNB+에/JKB
+갔을	가/VV+았/EP+을/ETM
+때	때/NNG
+겨우	겨우/MAG
+하나가	하나/NNG+가/JKS
+턱이	턱/NNG+이/JKS
+없었다	없/VA+었/EP+다/EF
+
+안타까웠다	안타깝/VA+었/EP+다/EF
+
+장애인이	장애인/NNG+이/JKS
+사용하기가	사용하/VV+기/ETN+가/JKS
+너무	너무/MAG
+힘들다	힘들/VA+다/EC
+
+이렇게	이렇/VA+게/EC
+만들어졌을	만들/VV+어/EC+지/VX+었/EP+을/ETM
+경우	경우/NNG
+우선	우선/MAG
+장애인들이	장애인/NNG+들/XSN+이/JKS
+마크가	마크/NNG+가/JKS
+없어서	없/VA+어서/EC
+장애인용	장애인/NNG+용/XSN
+화장실을	화장실/NNG+을/JKO
+찾기가	찾/VV+기/ETN+가/JKS
+힘들다	힘들/VA+다/EC
+
+멀리서	멀리/MAG+서/JKB
+육안으로	육안/NNG+으로/JKB
+턱이	턱/NNG+이/JKS
+없는	없/VA+는/ETM
+화장실을	화장실/NNG+을/JKO
+발견할	발견하/VV+ㄹ/ETM
+수가	수/NNB+가/JKS
+없는	없/VA+는/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+무작정	무작정/NNG
+아무데가	아무/MM+데/NNB+가/JKS
+갔다가	가/VV+았/EP+다가/EC
+다른데로	다른/MM+데/NNB+로/JKB
+옮긴다는	옮기/VV+ㄴ다는/ETM
+것도	것/NNB+도/JX
+거리상	거리/NNG+상/XSN
+문제가	문제/NNG+가/JKS
+있다	있/VA+다/EF
+
+그리고	그리고/MAJ
+잔디인데다	잔디/NNG+이/VCP+ㄴ데/EC+다/JX
+언덕이	언덕/NNG+이/JKS
+많아서	많/VA+아서/EC
+돌아다니기가	돌아다니/VV+기/ETN+가/JKS
+여의치가	여의하/VA+지/EC+가/JX
+않다	않/VX+다/EC
+
+이처럼	이/NP+처럼/JKB
+큰	크/VA+ㄴ/ETM
+행사에	행사/NNG+에/JKB
+장애	장애/NNG
+시설이	시설/NNG+이/JKS
+전혀	전혀/MAG
+고려되지	고려되/VV+지/EC
+않은	않/VX+은/ETM
+점이	점/NNG+이/JKS
+마냥	마냥/MAG
+안타까울	안타깝/VA+ㄹ/ETM
+뿐이다	뿐/NNB+이/VCP+다/EC
+
+페스티발에	페스티발/NNG+에/JKB
+마련된	마련되/VV+ㄴ/ETM
+간이	간이/NNG
+화장실	화장실/NNG
+
+ⓒ샘	ⓒ/SL+샘/NNG
+간이	간이/NNG
+화장실	화장실/NNG
+턱	턱/NNG
+
+ⓒ샘	ⓒ샘/SN
+*	*/SW
+샘	샘/NNG
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNP
+객원기자로	객원기자/NNG+로/JKB
+캘리포니아	캘리포니아/NNP
+버클리대학	버클리대학/NNP
+사회학과를	사회학과/NNG+를/JKO
+졸업하고,	졸업하/VV+고/EC+,/SP
+전	전/MM
+미상원	미/NNP+상원/NNG
+장애인국	장애인국/NNG
+인턴을	인턴/NNG+을/JKO
+지냈다	지내/VV+었/EP+다/EC
+
+현재	현재/MAG
+TEC	TEC/SL
+대표를	대표/NNG+를/JKO
+맡고	맡/VV+고/EC
+있다	있/VX+다/EC

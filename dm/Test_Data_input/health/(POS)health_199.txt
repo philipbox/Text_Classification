@@ -1,0 +1,413 @@
+韓,	韓/SL+,/SP
+복지지출	복지지출/NNG
+비중	비중/NNG
+OECD	OECD/SL
+꼴찌…증가율은	꼴찌/NNG+…/SE+증가율/NNG+은/JX
+1위(종합)	1/SN+위/NNB+(/SS+종합/NNG+)/SS
+
+(서울=연합뉴스)	(/SS+서울/NNP+=/SW+연합뉴스/NNP+)/SS
+신호경	신호경/NNG
+기자	기자/NNG
+=	=/SW
+경제개발협력기구(OECD)	경제개발협력기구/NNG+(/SS+OECD/SL+)/SS
+국가	국가/NNG
+가운데	가운데/NNG
+우리나라의	우리나라/NNG+의/JKG
+사회복지	사회복지/NNG
+지출	지출/NNG
+비중이	비중/NNG+이/JKS
+경제	경제/NNG
+규모에	규모/NNG+에/JKB
+비해	비하/VV+여/EC
+가장	가장/MAG
+적은	적/VA+은/ETM
+반면	반면/NNG
+복지	복지/NNG
+지출	지출/NNG
+증가	증가/NNG
+속도는	속도/NNG+는/JX
+가장	가장/MAG
+빠른	빠르/VA+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+또	또/MAG
+OECD	OECD/SL
+회원국	회원국/NNG
+가운데	가운데/NNG
+유일하게	유일하/VA+게/EC
+2025년까지	2025/SN+년/NNB+까지/JX
+연금지출	연금지출/NNG
+증가율이	증가율/NNG+이/JKS
+노인인구	노인인구/NNG
+증가율을	증가율/NNG+을/JKO
+앞설	앞서/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+예상됐다	예상되/VV+었/EP+다/EF
+
+26일	26/SN+일/NNB
+보건사회연구원의	보건사회연구원/NNG+의/JKG
+'2012	'/SS+2012/SN
+OECD공표로	OECD/SL+공표/NNG+로/JKB
+본	보/VV+ㄴ/ETM
+우리	우리/NP
+사회복지지출	사회복지지출/NNG
+특성과	특성/NNG+과/JC
+시사점'	시사점/NNG+'/SS
+보고서에	보고서/NNG+에/JKB
+따르면	따르/VV+면/EC
+우리나라의	우리나라/NNG+의/JKG
+국내총생산(GDP)	국내/NNG+총/XPN+생산/NNG+(/SS+GDP/SL+)/SS
+대비	대비/NNG
+공공사회복지	공공사회복지/NNG
+지출	지출/NNG
+비중은	비중/NNG+은/JX
+2009년	2009/SN+년/NNB
+기준	기준/NNG
+9	9/SN
+
+4%로	4/SN+%/SW+로/JKB
+30개	30/SN+개/NNB
+회원국	회원국/NNG
+가운데	가운데/NNG
+멕시코(8	멕시코/NNP+(/SS+8/SN
+
+2%)에	2/SN+%/SW+)/SS+에/JKB
+이어	잇/VV+어/EC
+두번째로	두/MM+번째/NNB+로/JKB
+낮았다	낮/VA+았/EP+다/EC
+
+보고서가	보고서/NNG+가/JKS
+인용한	인용하/VV+ㄴ/ETM
+OECD의	OECD/SL+의/JKG
+'경제위기	'/SS+경제위기/NNG
+이후	이후/NNG
+사회복지	사회복지/NNG
+지출'	지출/NNG+'/SS
+통계는	통계/NNG+는/JX
+지난달	지난달/NNG
+15일	15/SN+일/NNB
+발표된	발표되/VV+ㄴ/ETM
+것으로,	것/NNB+으로/JKB+,/SP
+기존	기존/NNG
+회원국들의	회원국/NNG+들/XSN+의/JKG
+사회복지지출	사회복지지출/NNG
+통계에	통계/NNG+에/JKB
+2008~2009년	2008/SN+~/SO+2009/SN+년/NNB
+데이터를	데이터/NNG+를/JKO
+업데이트하고	업데이트하/VV+고/EC
+2010~2012년	2010/SN+~/SO+2012/SN+년/NNB
+전망까지	전망/NNG+까지/JX
+덧붙인	덧붙이/VV+ㄴ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+복지지출	복지지출/NNG
+1위	1/SN+위/NNB
+국가는	국가/NNG+는/JX
+프랑스(32	프랑스/NNP+(/SS+32/SN
+
+1%)였고,	1/SN+%/SW+)/SS+이/VCP+었/EP+고/EC+,/SP
+덴마크(30	덴마크/NNP+(/SS+30/SN
+
+2%)가	2/SN+%/SW+)/SS+가/JKS
+그	그/MM
+뒤를	뒤/NNG+를/JKO
+이었다	잇/VV+었/EP+다/EF
+
+독일(27	독일/NNP+(/SS+27/SN
+
+8%),	8/SN+%/SW+)/SS+,/SP
+이탈리아(27	이탈리아/NNP+(/SS+27/SN
+
+8%),	8/SN+%/SW+)/SS+,/SP
+영국(24	영국/NNP+(/SS+24/SN
+
+1%),	1/SN+%/SW+)/SS+,/SP
+일본(22	일본/NNP+(/SS+22/SN
+
+4%)	4/SN+%/SW+)/SS
+등도	등/NNB+도/JX
+모두	모두/MAG
+20%를	20/SN+%/SW+를/JKO
+웃돌았다	웃돌/VV+았/EP+다/EF
+
+OECD	OECD/SL
+회원국	회원국/NNG
+평균은	평균/NNG+은/JX
+22	22/SN
+
+1%로	1/SN+%/SW+로/JKB
+지난	지나/VV+ㄴ/ETM
+2007년(19	2007/SN+년/NNB+(/SS+19/SN
+
+2%)보다	2/SN+%/SW+)/SS+보다/JKB
+약	약/MM
+3%포인트(p)가량	3/SN+%/SW+포인트/NNG+(/SS+p/SL+)/SS+가량/XSN
+높아졌고,	높아지/VV+었/EP+고/EC+,/SP
+2012년까지	2012/SN+년/NNB+까지/JX
+약	약/MM
+22%대를	22/SN+%/SW+대/XSN+를/JKO
+유지할	유지하/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+전망됐다	전망되/VV+었/EP+다/EF
+
+이처럼	이/NP+처럼/JKB
+우리나라	우리나라/NNG
+복지지출	복지지출/NNG
+비중은	비중/NNG+은/JX
+OECD	OECD/SL
+평균의	평균/NNG+의/JKG
+절반에도	절반/NNG+에/JKB+도/JX
+못	못/MAG
+미쳤지만,	미치/VV+었/EP+지만/EC+,/SP
+최근	최근/NNG
+20년간	20/SN+년/NNB+간/XSN
+증가율은	증가율/NNG+은/JX
+연평균	연평균/NNG
+16	16/SN
+
+6%로	6/SN+%/SW+로/JKB
+OECD	OECD/SL
+평균(2	평균/NNG+(/SS+2/SN
+
+5%)의	5/SN+%/SW+)/SS+의/JKG
+3	3/SN
+
+2배에	2/SN+배/NNG+에/JKB
+달했다	달하/VV+였/EP+다/EF
+
+보다	보다/MAG
+정확히	정확히/MAG
+사회복지	사회복지/NNG
+지출액에	지출액/NNG+에/JKB
+소비자물가지수를	소비자물가지수/NNG+를/JKO
+반영한	반영하/VV+ㄴ/ETM
+2007~2012년	2007/SN+~/SO+2012/SN+년/NNB
+실질사회복지지출	실질사회복지지출/NNG
+증가율을	증가율/NNG+을/JKO
+따져보면,	따지/VV+어/EC+보/VX+면/EC+,/SP
+우리나라가	우리나라/NNG+가/JKS
+37%로	37/SN+%/SW+로/JKB
+평균(약	평균/NNG+(/SS+약/MM
+10%)을	10/SN+%/SW+)/SS+을/JKO
+웃돌	웃돌/VV+ㄹ/ETM
+뿐	뿐/NNB
+아니라	아니/VCN+라/EC
+회원국들	회원국/NNG+들/XSN
+가운데	가운데/NNG
+가장	가장/MAG
+높았다	높/VA+았/EP+다/EC
+
+호주가	호주/NNP+가/JKS
+29%로	29/SN+%/SW+로/JKB
+2위였고,	2/SN+위/NNB+이/VCP+었/EP+고/EC+,/SP
+그리스의	그리스/NNP+의/JKG
+경우	경우/NNG
+-17%로	-/SO+17/SN+%/SW+로/JKB
+회원국들	회원국/NNG+들/XSN
+가운데	가운데/NNG
+가장	가장/MAG
+많이	많이/MAG
+감소했다	감소하/VV+였/EP+다/EC
+
+그러나	그러나/MAJ
+OECD는	OECD/SL+는/JX
+최근	최근/NNG
+들어	들/VV+어/EC
+우리나라의	우리나라/NNG+의/JKG
+복지지출	복지지출/NNG
+증가	증가/NNG
+속도가	속도/NNG+가/JKS
+떨어지고	떨어지/VV+고/EC
+있는	있/VX+는/ETM
+것으로	것/NNB+으로/JKB
+분석했다	분석하/VV+였/EP+다/EF
+
+2010~2012년	2010/SN+~/SO+2012/SN+년/NNB
+우리나라	우리나라/NNG
+복지지출	복지지출/NNG
+비중은	비중/NNG+은/JX
+9	9/SN
+
+2%	2/SN+%/SW
+수준으로	수준/NNG+으로/JKB
+2009년(9	2009/SN+년/NNB+(/SS+9/SN
+
+4%)보다	4/SN+%/SW+)/SS+보다/JKB
+더	더/MAG
+낮아졌다는	낮/VA+아/EC+지/VX+었/EP+다는/ETM
+게	것/NNB+이/JKS
+OECD의	OECD/SL+의/JKG
+추정이다	추정/NNG+이/VCP+다/EC
+
+복지지출	복지지출/NNG
+형태별로	형태/NNG+별/XSN+로/JKB
+구분하면	구분하/VV+면/EC
+2009년	2009/SN+년/NNB
+기준	기준/NNG
+OECD	OECD/SL
+전체의	전체/NNG+의/JKG
+현금급여	현금급여/NNG
+지출(GDP대비	지출/NNG+(/SS+GDP/SL+대비/NNG
+12	12/SN
+
+6%)이	6/SN+%/SW+)/SS+이/JKS
+현물급여(9%)보다	현물급여/NNG+(/SS+9/SN+%/SW+)/SS+보다/JKB
+많았다	많/VA+았/EP+다/EC
+
+현금급여는	현금급여/NNG+는/JX
+수급자의	수급자/NNG+의/JKG
+효용을	효용/NNG+을/JKO
+극대화하고	극대화하/VV+고/EC
+선택의	선택/NNG+의/JKG
+자유를	자유/NNG+를/JKO
+보장하는	보장하/VV+는/ETM
+장점이	장점/NNG+이/JKS
+있고,	있/VA+고/EC+,/SP
+의료서비스·교육·음식·주택·직업훈련	의료서비스/NNG+·/SP+교육/NNG+·/SP+음식/NNG+·/SP+주택/NNG+·/SP+직업훈련/NNG
+등의	등/NNB+의/JKG
+현물급여는	현물급여/NNG+는/JX
+공공재를	공공재/NNG+를/JKO
+보다	보다/MAG
+효과적으로	효과적/NNG+으로/JKB
+제공하는	제공하/VV+는/ETM
+형태로	형태/NNG+로/JKB
+복지국가	복지국가/NNG
+발전	발전/NNG
+초기에	초기/NNG+에/JKB
+주로	주로/MAG
+나타난다	나타나/VV+ㄴ다/EF
+
+우리나라의	우리나라/NNG+의/JKG
+경우	경우/NNG
+현물급여(5	현물급여/NNG+(/SS+5/SN
+
+5%)가	5/SN+%/SW+)/SS+가/JKS
+현금급여(4	현금급여/NNG+(/SS+4/SN
+
+4%)보다	4/SN+%/SW+)/SS+보다/JKB
+더	더/MAG
+많았다	많/VA+았/EP+다/EC
+
+멕시코,	멕시코/NNP+,/SP
+아이슬란드,	아이슬란드/NNP+,/SP
+호주도	호주도/NNP
+같은	같/VA+은/ETM
+형편이었다	형편/NNG+이/VCP+었/EP+다/EF
+
+반면	반면/NNG
+프랑스·독일·오스트리아·벨기에·이탈리아·스페인·포르투갈·그리스·일본	프랑스/NNP+·/SP+독일/NNP+·/SP+오스트리아/NNP+·/SP+벨기에/NNP+·/SP+이탈리아/NNP+·/SP+스페인/NNP+·/SP+포르투갈/NNP+·/SP+그리스/NNP+·/SP+일본/NNP
+등	등/NNB
+상대적으로	상대적/NNG+으로/JKB
+복지가	복지/NNG+가/JKS
+성숙한	성숙하/VV+ㄴ/ETM
+나라의	나라/NNG+의/JKG
+경우	경우/NNG
+현금지출이	현금지출/NNG+이/JKS
+현물을	현물/NNG+을/JKO
+앞질렀다	앞지르/VV+었/EP+다/EF
+
+이밖에	이/NP+밖에/JX
+우리나라는	우리나라/NNG+는/JX
+핵가족을	핵가족/NNG+을/JKO
+지원하는	지원하/VV+는/ETM
+가족급여지출	가족급여지출/NNG
+비중이	비중/NNG+이/JKS
+GDP의	GDP/SL+의/JKG
+0	0/SN
+
+8%에	8/SN+%/SW+에/JKB
+불과,	불과/MAG+,/SP
+OECD	OECD/SL
+회원국	회원국/NNG
+가운데	가운데/NNG
+꼴찌에	꼴찌/NNG+에/JKB
+머물렀고,	머무르/VV+었/EP+고/EC+,/SP
+전체	전체/NNG
+복지지출	복지지출/NNG
+내	내/NNB
+노령인구에	노령인구/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+지출	지출/NNG
+비중	비중/NNG
+역시	역시/MAG
+OECD	OECD/SL
+평균(40%)을	평균/NNG+(/SS+40/SN+%/SW+)/SS+을/JKO
+크게	크/VA+게/EC
+밑도는	밑돌/VV+는/ETM
+25%	25/SN+%/SW
+수준으로	수준/NNG+으로/JKB
+뒤에서	뒤/NNG+에서/JKB
+5번째에	5/SN+번째/NNB+에/JKB
+그쳤다	그치/VV+었/EP+다/EC
+
+더구나	더구나/MAG
+2009년과	2009/SN+년/NNB+과/JC
+2025년의	2025/SN+년/NNB+의/JKG
+노령인구	노령인구/NNG
+및	및/MAG
+GDP대비	GDP/SL+대비/NNG
+연금지출	연금지출/NNG
+추계를	추계/NNG+를/JKO
+분석한	분석하/VV+ㄴ/ETM
+결과,	결과/NNG+,/SP
+회원국	회원국/NNG
+중	중/NNB
+우리나라만	우리나라/NNG+만/JX
+65세이상	65/SN+세/NNB+이상/NNG
+노인	노인/NNG
+인구증가율이	인구증가율/NNG+이/JKS
+연금지출	연금지출/NNG
+증가율을	증가율/NNG+을/JKO
+앞지를	앞지르/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+예상됐다	예상되/VV+었/EP+다/EF
+
+고경환	고경환/NNP
+보건사회연구원	보건사회연구원/NNG
+연구위원은	연구위원/NNG+은/JX
+"복지	"/SS+복지/NNG
+지출	지출/NNG
+증가와	증가/NNG+와/JKB
+더불어	더불/VV+어/EC
+내실화를	내실화/NNG+를/JKO
+통해	통하/VV+여/EC
+국민	국민/NNG
+체감도를	체감도/NNG+를/JKO
+높이고,	높이/VV+고/EC+,/SP
+저출산이나	저출산/NNG+이나/JC
+가정·일	가정/NNG+·/SP+일/NNP
+양립	양립/NNG
+등의	등/NNB+의/JKG
+문제를	문제/NNG+를/JKO
+해결하기	해결하/VV+기/ETN
+위한	위하/VV+ㄴ/ETM
+'가족'	'/SS+가족/NNG+'/SS
+영역의	영역/NNG+의/JKG
+복지지출	복지지출/NNG
+확대가	확대/NNG+가/JKS
+필요하다"고	필요하/VA+다/EF+"/SS+고/JKQ
+조언했다	조언하/VV+였/EP+다/EF
+
+shk999@yna	shk/SL+999/SN+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

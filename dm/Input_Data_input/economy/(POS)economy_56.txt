@@ -1,0 +1,117 @@
+상용보조공학기기	상용보조공학기기/NNG
+제품	제품/NNG
+추가	추가/NNG
+제안신청	제안신청/NNP
+접수	접수/NNG
+
+한국장애인고용공단(이하	한국장애인고용공단/NNP+(/SS+이하/NNG
+공단)이	공단/NNG+)/SS+이/JKS
+오는	오/VV+는/ETM
+10월	10/SN+월/NNB
+5일까지	5/SN+일/NNB+까지/JX
+신기술이	신기술/NNG+이/JKS
+접목된	접목/NNG+되/XSV+ㄴ/ETM
+보조공학기기	보조공학기기/NNG
+발굴	발굴/NNG
+및	및/MAG
+신규	신규/NNG
+등록으로	등록/NNG+으로/JKB
+장애인	장애인/NNG
+근로자의	근로자/NNG+의/JKG
+직업생활	직업생활/NNG
+안정에	안정/NNG+에/JKB
+기여하기	기여하/VV+기/ETN
+위해	위하/VV+여/EC
+'상용보조공학기기	'/SS+상용보조공학기기/NNG
+제품	제품/NNG
+추가	추가/NNG
+제안신청서'를	제안신청서/NNG+'/SS+를/JKO
+접수	접수/NNG
+받는다	받/VV+는다/EC
+
+현재	현재/MAG
+공단은	공단/NNG+은/JX
+점자정보단말기	점자정보단말기/NNG
+등	등/NNB
+33개	33/SN+개/NNB
+품목	품목/NNG
+161개	161/SN+개/NNB
+제품을	제품/NNG+을/JKO
+상용보조공학기기로	상용보조공학기기/NNG+로/JKB
+선정해	선정하/VV+여/EC
+지원하고	지원하/VV+고/EC
+있다	있/VX+다/EC
+
+제안신청은	제안신청/NNP+은/JX
+국·내외에서	국/NNG+·/SP+내외/NNG+에서/JKB
+장애인의	장애인/NNG+의/JKG
+고용과	고용/NNG+과/JC
+관련한	관련하/VV+ㄴ/ETM
+보조공학기기를	보조공학기기/NNG+를/JKO
+생산하거나	생산하/VV+거나/EC
+수입·판매하는	수입/NNG+·/SP+판매하/VV+는/ETM
+사업체나	사업체/NNG+나/JC
+기관이면	기관/NNG+이/VCP+면/EC
+된다	되/VV+ㄴ다/EF
+
+단,	단/NNG+,/SP
+전국단위의	전/MM+국단위/NNG+의/JKG
+물류	물류/NNG
+배송	배송/NNG
+및	및/MAG
+사후관리가	사후관리/NNG+가/JKS
+가능해야	가능하/VA+여야/EC
+한다	하/VX+ㄴ다/EF
+
+자세한	자세하/VA+ㄴ/ETM
+사항은	사항/NNG+은/JX
+공단	공단/NNG
+홈페이지(www	홈페이지/NNG+(/SS+www/SL
+
+kead	kead/SL
+
+or	or/SL
+
+kr)를	kr/SL+)/SS+를/JKO
+참조하거나	참조하/VV+거나/EC
+근로지원부(031-728-7356)로	근로지원부/NNG+(/SS+031/SN+-/SO+728/SN+-/SO+7356/SN+)/SS+로/JKB
+문의하면	문의하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+한편	한편/MAG
+공단은	공단/NNG+은/JX
+2004년부터	2004/SN+년/NNB+부터/JX
+장애로	장애/NNG+로/JKB
+인한	인하/VV+ㄴ/ETM
+기능저하	기능저하/NNG
+및	및/MAG
+상실로	상실/NNG+로/JKB
+인해	인하/VV+여/EC
+어려움을	어려움/NNG+을/JKO
+겪는	겪/VV+는/ETM
+장애인에게	장애인/NNG+에게/JKB
+작업보조공학기기를	작업보조공학기기/NNG+를/JKO
+선정,	선정/NNG+,/SP
+무상으로	무상/NNG+으로/JKB
+임대	임대/NNG
+또는	또는/MAG
+지원해	지원하/VV+여/EC
+오고	오/VX+고/EC
+있다	있/VX+다/EC
+
+장애인	장애인/NNG
+근로자	근로자/NNG
+1인당	1/SN+인/NNG+당/XSN
+무상임대는	무상임대/NNG+는/JX
+1000만원(중증	1000/SN+만/NR+원/NNB+(/SS+중증/NNG
+15000만원),	15000/SN+만/NR+원/NNB+)/SS+,/SP
+무상지원과	무상지원/NNG+과/JKB
+맞춤기기	맞춤기/VV+기/ETN
+지원은	지원/NNG+은/JX
+각각	각각/MAG
+300만원	300/SN+만/NR+원/NNB
+한도	한도/NNG
+내에서	내/NNB+에서/JKB
+지원받을	지원/NNG+받/VV+을/ETM
+수	수/NNB
+있다	있/VA+다/EF

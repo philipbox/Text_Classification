@@ -1,0 +1,300 @@
+급우들과	급우/NNG+들/XSN+과/JKB
+함께한	함께하/VV+ㄴ/ETM
+장애학생의	장애학생/NNG+의/JKG
+400m	400/SN+m/SL
+달리기	달리기/NNG
+
+워싱턴	워싱턴/NNP
+콜로니얼	콜로니얼/NNG
+힐스	힐스/NNP
+초등학교	초등학교/NNG
+잔디	잔디/NNG
+구장	구장/NNG
+
+400미터	400/SN+미터/NNB
+달리기	달리기/NNG
+출발선에	출발선/NNG+에/JKB
+여닐곱	예닐곱/NR
+학생들이	학생/NNG+들/XSN+이/JKS
+서있다	서/VV+어/EC+있/VX+다/EF
+
+출발과	출발/NNG+과/JKB
+함께	함께/MAG
+모두	모두/MAG
+뛰어나가는	뛰어나가/VV+는/ETM
+데	데/NNB
+유독	유독/MAG
+한	한/MM
+학생이	학생/NNG+이/JKS
+걸음걸이가	걸음걸이/NNG+가/JKS
+쉽지	쉽/VA+지/EC
+않아	않/VX+아/EC
+뒤쳐지기	뒤치/VV+어/EC+지/VX+기/ETN
+시작한다	시작하/VV+ㄴ다/EC
+
+학생의	학생/NNG+의/JKG
+이름은	이름/NNG+은/JX
+매트	매트/NNG
+우드럼,	우드럼/NNG+,/SP
+다른	다른/MM
+학생들에게는	학생/NNG+들/XSN+에게/JKB+는/JX
+쉬운	쉽/VA+ㄴ/ETM
+400미터가	400/SN+미터/NNB+가/JKS
+경련성	경련성/NNG
+뇌성마비	뇌성마비/NNG
+장애아인	장애아/NNG+이/VCP+ㄴ/ETM
+그에게는	그/NP+에게/JKB+는/JX
+천리길이다	천/NR+리/NNB+길/NNG+이/VCP+다/EC
+
+코치	코치/NNG
+존	존/NNP
+블레인이	블레인/NNP+이/JKS
+달려	달리/VV+어/EC
+나간다	나가/VX+ㄴ다/EF
+
+"그만	"/SS+그만/MAG
+둘거니?"매트의	두/VV+ㄹ거니/EF+?/SF+"/SS+매트/NNG+의/JKG
+입에서	입/NNG+에서/JKB
+나오는	나오/VV+는/ETM
+대답은	대답/NNG+은/JX
+당연했다	당연하/VA+었/EP+다/EC
+
+"아니요!"그는	"/SS+아니/VCN+요/EF+!/SF+"/SS+그/NP+는/JX
+속도가	속도/NNG+가/JKS
+느려지는가	느려지/VV+는가/EC
+싶으면	싶/VX+으면/EC
+다시	다시/MAG
+빨라지고	빠르/VA+아/EC+지/VX+고/EC
+다시	다시/MAG
+느려졌다	느리/VA+어/EC+지/VX+었/EP+다/EC
+빨라지고를	빠르/VA+아/EC+지/VX+고/EC+를/JKO
+몇	몇/MM
+차례	차례/NNG
+거듭한다	거듭하/VV+ㄴ다/EF
+
+그에게	그/NP+에게/JKB
+고통이	고통/NNG+이/JKS
+가해지면	가하/VV+여/EC+지/VX+면/EC
+쉬고	쉬/VV+고/EC
+고통이	고통/NNG+이/JKS
+가시면	가시/VV+면/EC
+다시	다시/MAG
+달린다는	달리/VV+ㄴ다는/ETM
+것을	것/NNB+을/JKO
+코치는	코치/NNG+는/JX
+당연히	당연히/MAG
+알고	알/VV+고/EC
+있다	있/VX+다/EC
+
+그는	그/NP+는/JX
+다른	다른/MM
+아이들	아이/NNG+들/XSN
+제쳐	제치/VV+어/EC
+두고	두/VX+고/EC
+매트	매트/NNG
+바로	바로/MAG
+옆에서	옆/NNG+에서/JKB
+함께	함께/MAG
+뛰어주었다	뛰어주/VV+었/EP+다/EF
+
+아주	아주/MAG
+가느다란	가느다랗/VA+ㄴ/ETM
+다리로	다리/NNG+로/JKB
+휘청이며	휘청이/VV+며/EC
+걷는	걷/VV+는/ETM
+안스러운	안스럽/VA+ㄴ/ETM
+모습을	모습/NNG+을/JKO
+그는	그/NP+는/JX
+아픈	아프/VA+ㄴ/ETM
+마음으로	마음/NNG+으로/JKB
+끝내	끝내/VV+어/EC
+지켜	지키/VV+어/EC
+봤다	보/VX+았/EP+다/EF
+
+이제	이제/MAG
+마지막	마지막/NNG
+코너를	코너/NNG+를/JKO
+돌았다	돌/VV+았/EP+다/EC
+
+그의	그/NP+의/JKG
+옆으로	옆/NNG+으로/JKB
+한	한/MM
+아이씩	아이/NNG+씩/XSN
+모여들기	모여들/VV+기/ETN
+시작한다	시작하/VV+ㄴ다/EC
+
+마침내	마침내/MAG
+50여명의	50/SN+여/XSN+명/NNB+의/JKG
+아이들이	아이/NNG+들/XSN+이/JKS
+매트와	매트/NNG+와/JC
+보폭을	보폭/NNG+을/JKO
+맞추어	맞추/VV+어/EC
+함께	함께/MAG
+뛰기	뛰/VV+기/ETN
+시작한다	시작하/VV+ㄴ다/EC
+
+그에게	그/NP+에게/JKB
+힘을	힘/NNG+을/JKO
+주기	주/VV+기/ETN
+위해	위하/VV+여/EC
+연호라며	연호/NNG+이/VCP+라며/EC
+함께	함께/MAG
+달렸다	달리/VV+었/EP+다/EF
+
+결승점이	결승점/NNG+이/JKS
+가까워질	가깝/VA+어/EC+지/VX+ㄹ/ETM
+수록	수록/NNG
+아이들의	아이/NNG+들/XSN+의/JKG
+함성이	함성/NNG+이/JKS
+커진다	커지/VV+ㄴ다/EF
+
+주변의	주변/NNG+의/JKG
+부모들도	부모/NNG+들/XSN+도/JX
+계속해서	계속하/VV+여서/EC
+큰소리로	큰소리/NNG+로/JKB
+격려를	격려/NNG+를/JKO
+했다	하/VV+였/EP+다/EF
+
+보는	보/VV+는/ETM
+사람이면	사람/NNG+이/VCP+면/EC
+누구가	누구/NP+가/JKS
+가슴이	가슴/NNG+이/JKS
+뭉클해지는	뭉클하/VA+여/EC+지/VX+는/ETM
+광경이다	광경/NNG+이/VCP+다/EC
+
+결승점에	결승점/NNG+에/JKB
+다다라	다다르/VV+아/EC
+환호를	환호/NNG+를/JKO
+받고	받/VV+고/EC
+있는	있/VX+는/ETM
+매트(출처:	매트/NNG+(/SS+출처/NNG+:/SP
+유튜브	유튜브/NNP
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+마침내	마침내/MAG
+결승점에	결승점/NNG+에/JKB
+도착했을	도착하/VV+였/EP+을/ETM
+때는	때/NNG+는/JX
+아이들의	아이/NNG+들/XSN+의/JKG
+입에서	입/NNG+에서/JKB
+귀가	귀/NNG+가/JKS
+찢어질	찢어지/VV+ㄹ/ETM
+듯한	듯하/VX+ㄴ/ETM
+함성이	함성/NNG+이/JKS
+들렸다	들리/VV+었/EP+다/EC
+
+"장애가	"/SS+장애/NNG+가/JKS
+있다는	있/VA+다는/ETM
+것은	것/NNB+은/JX
+도전하지	도전하/VV+지/EC
+말라는	말/VX+라는/ETM
+말은	말/NNG+은/JX
+아니야	아니/VCN+야/EC
+
+"코치	"/SS+코치/NNG
+존의	존/NNP+의/JKG
+말이다	말/NNG+이/VCP+다/EC
+
+"달리는	"/SS+달리/VV+는/ETM
+거야	거/NNB+야/JX
+항상	항상/MAG
+있는	있/VA+는/ETM
+거니까	것/NNB+이/VCP+니까/EC
+특별한	특별하/VA+ㄴ/ETM
+것도	것/NNB+도/JX
+없었어요	없/VA+었/EP+어요/EC
+
+그러나	그러나/MAJ
+마지막	마지막/NNG
+장면에	장면/NNG+에/JKB
+아이들이	아이/NNG+들/XSN+이/JKS
+소리지르며	소리/NNG+지르/VV+며/EC
+함께	함께/MAG
+달려	달리/VV+어/EC
+줄	주/VX+ㄹ/ETM
+때	때/NNG
+눈물을	눈물/NNG+을/JKO
+참을	참/VV+을/ETM
+수가	수/NNB+가/JKS
+없었어요	없/VA+었/EP+어요/EC
+
+"엄마	"/SS+엄마/NNG
+앤	앤/NNG
+커렌은	커렌/NNG+은/JX
+감격을	감격/NNG+을/JKO
+감추지	감추/VV+지/EC
+못했다	못하/VX+였/EP+다/EC
+
+이	이/MM
+5분짜리	5/SN+분/NNB+짜리/XSN
+비디오는	비디오/NNG+는/JX
+지금	지금/MAG
+세계로	세계/NNG+로/JKB
+번져갔다	번져가/VV+았/EP+다/EF
+
+23일	23/SN+일/NNB
+현재	현재/MAG
+클릭수가	클릭수/NNG+가/JKS
+150만	150/SN+만/NR
+건에	건/NNB+에/JKB
+이르고	이르/VV+고/EC
+답글이	답글/NNG+이/JKS
+천	천/NR
+칠백건이	칠백/NNG+건/NNB+이/JKS
+넘는다	넘/VV+는다/EC
+
+'이	'/SS+이/MM
+동영상을	동영상/NNG+을/JKO
+보고	보/VV+고/EC
+나는	나/NP+는/JX
+비로소	비로소/MAG
+인간애가	인간애/NNG+가/JKS
+다시	다시/MAG
+살아나는	살아나/VV+는/ETM
+것을	것/NNB+을/JKO
+느낄	느끼/VV+ㄹ/ETM
+수	수/NNB
+있었습니다	있/VX+었/EP+습니다/EF
+
+''대단한	''/SS+대단하/VA+ㄴ/ETM
+매트,	매트/NNG+,/SP
+대단한	대단하/VA+ㄴ/ETM
+학급	학급/NNG
+어린이,	어린이/NNG+,/SP
+대단한	대단하/VA+ㄴ/ETM
+코치였습니다	코치/NNG+이/VCP+었/EP+습니다/EF
+
+''이런	''/SS+이런/MM
+비디오	비디오/NNG
+생전	생전/NNG
+처음입니다	처음/NNG+이/VCP+ㅂ니다/EC
+
+'감동성	'/SS+감동성/NNG
+댓글은	댓글/NNG+은/JX
+오늘도	오늘/NNG+도/JX
+끊임없이	끊임없이/MAG
+올라오고	올라오/VV+고/EC
+있다	있/VX+다/EC
+
+*	*/SW
+샘	샘/NNG
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNP
+객원기자로	객원기자/NNG+로/JKB
+캘리포니아	캘리포니아/NNP
+버클리대학	버클리대학/NNP
+사회학과를	사회학과/NNG+를/JKO
+졸업하고,	졸업하/VV+고/EC+,/SP
+전	전/MM
+미상원	미/NNP+상원/NNG
+장애인국	장애인국/NNG
+인턴을	인턴/NNG+을/JKO
+지냈다	지내/VV+었/EP+다/EC
+
+현재	현재/MAG
+TEC	TEC/SL
+대표를	대표/NNG+를/JKO
+맡고	맡/VV+고/EC
+있다	있/VX+다/EC

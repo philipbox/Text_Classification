@@ -1,0 +1,135 @@
+대한장애인체육회,	대한/NNP+장애인체육/NNG+회/XSN+,/SP
+경력·신입	경력/NNG+·/SP+신입/NNG
+직원	직원/NNG
+채용	채용/NNG
+
+대한장애인체육회가	대한/NNP+장애인체육회/NNG+가/JKS
+경력	경력/NNG
+및	및/MAG
+신입직원을	신입직원/NNG+을/JKO
+채용한다	채용하/VV+ㄴ다/EF
+
+채용분야는	채용분야/NNG+는/JX
+일반직	일반직/NNG
+3·4급(경력)	3/SN+·/SP+4/SN+급/NNG+(/SS+경력/NNG+)/SS
+행정,	행정/NNG+,/SP
+일반직	일반직/NNG
+6급(신입·마케팅)	6/SN+급/NNG+(/SS+신입/NNG+·/SP+마케팅/NNG+)/SS
+행정으로	행정/NNG+으로/JKB
+학력과	학력/NNG+과/JC
+성별,	성별/NNG+,/SP
+연령에	연령/NNG+에/JKB
+제한은	제한/NNG+은/JX
+없으며	없/VA+으며/EC
+국가공무원법에	국가공무원법/NNG+에/JKB
+따라	따르/VV+아/EC
+결격사유가	결격사유/NNG+가/JKS
+없는	없/VA+는/ETM
+자,	자/NNB+,/SP
+공무원채용	공무원채/NNG+용/XSN
+신체검사	신체검사/NNG
+규정에	규정/NNG+에/JKB
+의한	의하/VV+ㄴ/ETM
+신체검사	신체검사/NNG
+결과	결과/NNG
+불합격	불합격/NNG
+판정에	판정/NNG+에/JKB
+해당되지	해당되/VV+지/EC
+않은	않/VX+은/ETM
+자면	자/VV+면/EC
+지원할	지원하/VV+ㄹ/ETM
+수	수/NNB
+있다	있/VA+다/EC
+
+단,	단/NNG+,/SP
+일반직	일반직/NNG
+3·4급은	3/SN+·/SP+4/SN+급/NNG+은/JX
+각각	각각/MAG
+경영·기획·체육	경영/NNG+·/SP+기획/NNG+·/SP+체육/NNG
+행정	행정/NNG
+분야	분야/NNG
+10년	10/SN+년/NNB
+이상과	이상/NNG+과/JC
+6년	6/SN+년/NNB
+이상	이상/NNG
+실무	실무/NNG
+경력자,	경력자/NNG+,/SP
+일반직	일반직/NNG
+6급	6/SN+급/NNG
+행정(마케팅)의	행정/NNG+(/SS+마케팅/NNG+)/SS+의/JKG
+경우는	경우/NNG+는/JX
+마케팅	마케팅/NNG
+관련	관련/NNG
+전공자가	전공/NNG+자/XSN+가/JKS
+대상이다	대상/NNG+이/VCP+다/EC
+
+장애인,	장애인/NNG+,/SP
+취업보호대상사(보훈대상자),	취업보호대상사/NNG+(/SS+보훈대상자/NNG+)/SS+,/SP
+대한장애인체육회	대한/NNP+장애인체육회/NNG
+및	및/MAG
+가맹단체,	가맹단체/NNG+,/SP
+시도지부,	시도지부/NNG+,/SP
+기타공공기관	기타공공기관/NNG
+경력자(6개월	경력자/NNG+(/SS+6/SN+개월/NNB
+이상)는	이상/NNG+)/SS+는/JX
+우대한다	우대하/VA+ㄴ다/EF
+
+원서	원서/NNG
+접수는	접수/NNG+는/JX
+오는	오/VV+는/ETM
+20일부터	20/SN+일/NNB+부터/JX
+24일까지로	24/SN+일/NNB+까지/JX+로/JKB
+응시원서,	응시원서/NNG+,/SP
+이력서,	이력서/NNG+,/SP
+자기소개서,	자기소개/NNG+서/XSN+,/SP
+최종학교	최종학교/NNG
+졸업·성적증명서,	졸업/NNG+·/SP+성적증명서/NNG+,/SP
+주민등록	주민등록/NNG
+초본	초본/NNG
+등을	등/NNB+을/JKO
+각	각/MM
+1부씩	1/SN+부/NNB+씩/XSN
+이메일(recruit@kosad	이/MM+메일/NNG+(/SS+recruit/SL+@/SW+kosad/SL
+
+or	or/SL
+
+rk)로	rk/SL+)/SS+로/JKB
+제출하면	제출하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+응시원서	응시원서/NNG
+및	및/MAG
+이력서	이력서/NNG
+등의	등/NNB+의/JKG
+양식은	양식/NNG+은/JX
+대한장애인체육회	대한/NNP+장애인체육회/NNG
+홈페이지(www	홈페이지/NNG+(/SS+www/SL
+
+kosad	kosad/SL
+
+or	or/SL
+
+kr)	kr/SL+)/SS
+공지사항에서	공지사항/NNG+에서/JKB
+내려	내리/VV+어/EC
+받으면	받/VV+으면/EC
+된다	되/VV+ㄴ다/EF
+
+최종합격자는	최종합격자/NNG+는/JX
+2013년	2013/SN+년/NNB
+1월	1/SN+월/NNB
+4일	4/SN+일/NNB
+발표되며,	발표되/VV+며/EC+,/SP
+근무는	근무/NNG+는/JX
+1월	1/SN+월/NNB
+7일부터다	7/SN+일/NNB+부터다/JX
+
+보다	보다/MAG
+자세한	자세하/VA+ㄴ/ETM
+사항은	사항/NNG+은/JX
+대한장애인체육회	대한장애인체육회/NNP
+홈페이지를	홈페이지/NNG+를/JKO
+참조하거나	참조하/VV+거나/EC
+경영지원부(070-7422-0043)로	경영지원부/NNG+(/SS+070/SN+-/SO+7422/SN+-/SO+0043/SN+)/SS+로/JKB
+문의하면	문의하/VV+면/EC
+된다	되/VV+ㄴ다/EF

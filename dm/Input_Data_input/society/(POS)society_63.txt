@@ -1,0 +1,67 @@
+시각장애인	시각장애인/NNG
+배려	배려/NNG
+없는	없/VA+는/ETM
+인천	인천/NNP
+‘인도’	‘/SN+인도/NNG+’/SN
+
+인천	인천/NNP
+송도	송도/NNP
+컨벤시아	컨벤시아/NNP
+앞에서	앞/NNG+에서/JKB
+버스정류장으로	버스정류장/NNG+으로/JKB
+가는	가/VV+는/ETM
+인도에는	인도/NNP+에/JKB+는/JX
+시각장애인들의	시각장애인/NNG+들/XSN+의/JKG
+안전	안전/NNG
+보행을	보행/NNG+을/JKO
+돕는	돕/VV+는/ETM
+점자블록이	점자블록/NNG+이/JKS
+길게	길/VA+게/EC
+설치돼	설치되/VV+어/EC
+있다	있/VX+다/EF
+
+그런데	그런데/MAJ
+중간	중간/NNG
+중간에	중간/NNG+에/JKB
+점자블록이	점자블록이/MAG
+옆으로	옆/NNG+으로/JKB
+튀어나와	튀어나오/VV+아/EC
+있다	있/VX+다/EC
+
+가로등	가로등/NNG
+설치	설치/NNG
+때문으로	때문/NNB+으로/JKB
+시각장애인은	시각장애인/NNG+은/JX
+보행을	보행/NNG+을/JKO
+하다가	하/VV+다가/EC
+부딪쳐	부딪치/VV+어/EC
+다칠	다치/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+위험이	위험/NNG+이/JKS
+있다	있/VA+다/EF
+
+더욱이	더욱이/MAG
+전동휠체어와	전동휠체어/NNG+와/JC
+전동스쿠터가	전동스쿠터/NNG+가/JKS
+이동하기에도	이동하/VV+기/ETN+에/JKB+도/JX
+폭이	폭/NNG+이/JKS
+좁아	좁/VA+아/EC
+보인다	보일/VV+ㄴ다/EF
+
+*박종태	*/SW+박종태/NNP
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNP
+객원기자로	객원기자/NNG+로/JKB
+일명	일명/NNG
+'장애인권익지킴이'로	'/SS+장애인권익지킴이/NNG+'/SS+로/JKB
+알려져	알려지/VV+어/EC
+있으며,	있/VX+으며/EC+,/SP
+장애인	장애인/NNG
+편의시설과	편의시설/NNG+과/JC
+관련한	관련하/VV+ㄴ/ETM
+분야에서	분야/NNG+에서/JKB
+다양한	다양하/VA+ㄴ/ETM
+활동을	활동/NNG+을/JKO
+하고	하/VV+고/EC
+있습니다	있/VX+습니다/EF

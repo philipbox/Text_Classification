@@ -1,0 +1,99 @@
+선거방송토론위,	선거방송토론위/NNG+,/SP
+대선후보	대선후보/NNG
+TV토론회	TV/SL+토론회/NNG
+‘국민질문’	‘/SL+국민질문/NNG+’/SL
+공모	공모/NNG
+
+중앙선거방송토론위원회(위원장	중앙선거방송토론위원회/NNG+(/SS+위원장/NNG
+유일상)가	유일상/NNP+)/SS+가/JKS
+3차례	3/SN+차례/NNG
+개최될	개최되/VV+ㄹ/ETM
+‘제18대	‘/SL+제/XPN+18/SN+대/NNG
+대선	대선/NNG
+후보’	후보/NNG+’/SL
+TV	TV/SL
+토론회에서	토론회/NNG+에서/JKB
+국민과의	국민/NNG+과/JKB+의/JKG
+소통	소통/NNG
+강화를	강화/NNG+를/JKO
+목적으로	목적/NNG+으로/JKB
+‘국민질문’을	‘/SN+국민질문/NNG+’/SL+을/JKO
+공모한다	공모하/VV+ㄴ다/EF
+
+국민	국민/NNG
+누구나	누구/NP+나/JX
+오는	오/VV+는/ETM
+13일까지	13/SN+일/NNB+까지/JX
+대선	대선/NNG
+후보에게	후보/NNG+에게/JKB
+듣고	듣/VV+고/EC
+싶은	싶/VX+은/ETM
+정치,	정치/NNG+,/SP
+외교,	외교/NNG+,/SP
+복지,	복지/NNG+,/SP
+노동,	노동/NNG+,/SP
+환경,	환경/NNG+,/SP
+과학,	과학/NNG+,/SP
+교육,	교육/NNG+,/SP
+여성,	여성/NNG+,/SP
+문화	문화/NNG
+등	등/NNB
+토론	토론/NNG
+주제별	주제/NNG+별/XSN
+정책·비전과	정책/NNG+·/SP+비전/NNG+과/JKB
+관련된	관련되/VV+ㄴ/ETM
+질문을	질문/NNG+을/JKO
+작성해	작성하/VV+여/EC
+중앙선거방송토론위원회	중앙선거방송토론위원회/NNG
+홈페이지(http://debates	홈페이지/NNG+(/SS+http/SL+:///SP+debates/SL
+
+go	go/SL
+
+kr/),	kr/SL+//SP+)/SS+,/SP
+제18대	제/XPN+18/SN+대/NNG
+대통령선거	대통령선거/NNG
+홍보사이트(http://vote	홍보사이트/NNG+(/SS+http/SL+:///SP+vote/SL
+
+necpr	necpr/SL
+
+go	go/SL
+
+kr/),	kr/SL+//SP+)/SS+,/SP
+모바일	모바일/NNG
+웹을	웹/NNG+을/JKO
+통해	통하/VV+여/EC
+접수하면	접수하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+위원회는	위원회/NNG+는/JX
+접수	접수/NNG
+후	후/NNG
+가장	가장/MAG
+많이	많이/MAG
+질문한	질문하/VV+ㄴ/ETM
+내용을	내용/NNG+을/JKO
+일부	일부/NNG
+골라	고르/VV+아/EC
+TV토론회에서	TV/SL+토론회/NNG+에서/JKB
+국민질문	국민질문/NNG
+코너를	코너/NNG+를/JKO
+진행할	진행하/VV+ㄹ/ETM
+예정이다	예정/NNG+이/VCP+다/EC
+
+한편	한편/MAG
+위원회는	위원회/NNG+는/JX
+대선	대선/NNG
+후보자	후보자/NNG
+토론회에	토론회/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+평가와	평가/NNG+와/JC
+향후	향후/NNG
+발전방안에	발전방안/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+국민의	국민/NNG+의/JKG
+의견을	의견/NNG+을/JKO
+듣기	듣/VV+기/ETN
+위해	위하/VV+여/EC
+국민평가단도	국민평가단/NNP+도/JX
+모집하고	모집하/VV+고/EC
+있다	있/VX+다/EC

@@ -1,0 +1,73 @@
+'2012	'/SS+2012/SN
+장애인게이트볼	장애인게이트볼/NNG
+동호인	동호/NNG+이/VCP+ㄴ/ETM
+최강전'	최강전/NNP+'/SS
+7일	7/SN+일/NNB
+개최	개최/NNG
+
+2012전국장애인게이트볼동호인최강전이	2012/SN+전국장애인게이트볼동호인최강전/NNG+이/JKS
+오는	오/VV+는/ETM
+7일	7/SN+일/NNB
+대구성서실내게이트볼장에서	대구성서실내게이트/NNP+볼장/NNG+에서/JKB
+개최된다	개최되/VV+ㄴ다/EF
+
+대한장애인게이트볼연맹이	대한/NNP+장애인게이트볼연맹/NNG+이/JKS
+주최하는	주최하/VV+는/ETM
+이번	이번/NNG
+대회에는	대회/NNG+에/JKB+는/JX
+전국의	전국/NNG+의/JKG
+17개팀	17/SN+개/NNB+팀/NNG
+144명이	144/SN+명/NNB+이/JKS
+참가해	참가하/VV+여/EC
+그동안	그동안/NNG
+갈고	갈/VV+고/EC
+닦은	닦/VV+은/ETM
+기량을	기량/NNG+을/JKO
+선보이게	선보이/VV+게/EC
+된다	되/VV+ㄴ다/EF
+
+이번	이번/NNG
+대회는	대회/NNG+는/JX
+총	총/XPN
+상금	상금/NNG
+200만원을	200/SN+만/NR+원/NNB+을/JKO
+놓고	놓/VV+고/EC
+펼쳐지며	펼쳐지/VV+며/EC
+우승팀에는	우승팀/NNG+에/JKB+는/JX
+100만원,	100/SN+만/NR+원/NNB+,/SP
+준우숭에는	준우숭/NNG+에/JKB+는/JX
+50만원,	50/SN+만/NR+원/NNB+,/SP
+3등에는	3/SN+등/NNG+에/JKB+는/JX
+30만원,	30/SN+만/NR+원/NNB+,/SP
+4등에는	4/SN+등/NNB+에/JKB+는/JX
+20만원의	20/SN+만/NR+원/NNB+의/JKG
+상금이	상금/NNG+이/JKS
+주어진다	주어지/VV+ㄴ다/EC
+
+한편	한편/MAG
+개막식은	개막식/NNG+은/JX
+7일	7/SN+일/NNB
+오전	오전/NNG
+11시에	11/SN+시/NNB+에/JKB
+진행된다	진행되/VV+ㄴ다/EC
+
+-장애인	-/SO+장애인/NNG
+곁을	곁/NNG+을/JKO
+든든하게	든든하/VA+게/EC
+지켜주는	지키/VV+어/EC+주/VX+는/ETM
+대안언론	대안언론/NNG
+에이블뉴스(ablenews	에이블뉴스/NNG+(/SS+ablenews/SL
+
+co	co/SL
+
+kr)--에이블뉴스	kr/SL+)/SS+--/SO+에이블뉴스/NNP
+기사	기사/NNG
+제보	제보/NNG
+및	및/MAG
+보도자료	보도자료/NNG
+발	발/NNG
+ablenews@ablenews	ablenews/SL+@/SW+ablenews/SL
+
+co	co/SL
+
+kr-	kr/SL+-/SO

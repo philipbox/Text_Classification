@@ -1,0 +1,74 @@
+균도	균도/NNG
+부자,	부자/NNG+,/SP
+'세상걷기	'/SS+세상걷기/NNG
+시즌	시즌/NNG
+4'	4/SN+'/SS
+나선다	나서/VV+ㄴ다/EF
+
+부산장애인부모회	부산/NNP+장애인부모회/NNG
+이진섭	이진섭/NNP
+부회장과	부회장/NNG+과/JC
+아들	아들/NNG
+이균도(자폐성장애	이균도/NNP+(/SS+자폐성장애/NNG
+1급)	1/SN+급/NNG+)/SS
+군이	군/NNG+이/JKS
+‘발달장애인	‘/SN+발달장애인/NNG
+균도와	균도/NNG+와/JC
+세상걷기	세상걷기/NNG
+시즌	시즌/NNG
+4’에	4/SN+’/SL+에/JKB
+나선다	나서/VV+ㄴ다/EF
+
+이들	이/NP+들/XSN
+부자는	부자/NNG+는/JX
+발달장애인법	발달장애인법/NNG
+원안	원안/NNG
+제정과	제정/NNG+과/JC
+국민기초생활보장법의	국민기초생활보장법/NNG+의/JKG
+부양의무제	부양의무제/NNG
+폐지를	폐지/NNG+를/JKO
+촉구하기	촉구하/VV+기/ETN
+위해	위하/VV+여/EC
+오는	오/VV+는/ETM
+10월	10/SN+월/NNB
+5일	5/SN+일/NNB
+기장군청	기장군청/NNG
+앞에서	앞/NNG+에서/JKB
+출정식을	출정식/NNG+을/JKO
+가진	가지/VV+ㄴ/ETM
+뒤	뒤/NNG
+울산,	울산/NNP+,/SP
+포항,	포항/NNP+,/SP
+울진,	울진/NNP+,/SP
+삼척,	삼척/NNP+,/SP
+정동진,	정동진/NNP+,/SP
+대관령,	대관령/NNP+,/SP
+횡성을	횡성/NNP+을/JKO
+거쳐	거치/VV+어/EC
+11월	11/SN+월/NNB
+23일	23/SN+일/NNB
+서울(보건복지부)에	서울/NNP+(/SS+보건복지부/NNG+)/SS+에/JKB
+도착할	도착하/VV+ㄹ/ETM
+예정이다	예정/NNG+이/VCP+다/EC
+
+‘균도와	‘/SL+균도/NNG+와/JC
+세상걷기’에	세상걷기’/NNG+에/JKB
+관심이	관심/NNG+이/JKS
+있는	있/VA+는/ETM
+시민은	시민/NNG+은/JX
+홈페이지(www	홈페이지/NNG+(/SS+www/SL
+
+부산장애인부모회	부산/NNP+장애인부모회/NNG
+
+kr),	kr/SL+)/SS+,/SP
+블로그(blog	블로그/NNP+(/SS+blog/SL
+
+daum	daum/SL
+
+net/ljs518/16816887),	net/SL+//SP+ljs/SL+518/SN+//SP+16816887/SN+)/SS+,/SP
+페이스북(발달장애인	페이스북/NNG+(/SS+발달장애인/NNG
+균도와	균도/NNG+와/JKB
+걷는	걷/VV+는/ETM
+세상이야기)을	세상이야기/NNG+)/SS+을/JKO
+참조하면	참조하/VV+면/EC
+된다	되/VV+ㄴ다/EF

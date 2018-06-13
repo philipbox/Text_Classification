@@ -1,0 +1,117 @@
+패럴림위원회,	패럴림위원회/NNG+,/SP
+황연대	황연대/NNP
+성취상	성취/NNG+상/XSN
+후보자	후보자/NNG
+발표	발표/NNG
+
+국제장애인올림픽위원회(IPC)는	국제장애인올림픽위원회/NNG+(/SS+IPC/SL+)/SS+는/JX
+지난	지나/VV+ㄴ/ETM
+6일(현지시간)	6/SN+일/NNB+(/SS+현지시간/NNG+)/SS
+'황연대	'/SS+황연대/NNP
+성취상	성취/NNG+상/XSN
+후보자'	후보자/NNG+'/SS
+6명을	6/SN+명/NNB+을/JKO
+공식	공식/NNG
+발표했다	발표하/VV+였/EP+다/EC
+
+6명의	6/SN+명/NNB+의/JKG
+후보는	후보/NNG+는/JX
+세리프	세리프/NNP
+칼리파	칼리파/NNP
+오스만(이집트),	오스만/NNP+(/SS+이집트/NNP+)/SS+,/SP
+마이클	마이클/NNP
+킬럽(아일랜드),	킬럽/NNP+(/SS+아일랜드/NNP+)/SS+,/SP
+오스키	오스키/NNP
+피스토리우스(남아프리카	피스토리우스/NNP+(/SS+남아프리카/NNP
+공화국),	공화국/NNG+)/SS+,/SP
+디나	디나/NNP
+코아트(영국),	코아트/NNP+(/SS+영국/NNP+)/SS+,/SP
+테레사	테레사/NNP
+페랄스(스페인),	페랄스/NNP+(/SS+스페인/NNP+)/SS+,/SP
+메리	메리/NNG
+자카요(캐냐)다	자카요/NNP+(/SS+캐냐/NNP+)/SS+다/EC
+
+한국선수로는	한국/NNP+선수/NNG+로/JKB+는/JX
+김영건	김영건/NNP
+선수와	선수/NNG+와/JC
+전민재	전/MM+민재/NNG
+선수가	선수/NNG+가/JKS
+후보자로	후보자/NNG+로/JKB
+올랐지만,	오르/VV+았/EP+지만/EC+,/SP
+최종	최종/NNG
+6명의	6/SN+명/NNB+의/JKG
+후보로는	후보/NNG+로/JKB+는/JX
+선출되지	선출되/VV+지/EC
+못했다	못하/VX+였/EP+다/EC
+
+1988서울장애인올림픽에서	1988/SN+서울/NNP+장애인올림픽/NNG+에서/JKB
+부터	부터/JX
+시작된	시작되/VV+ㄴ/ETM
+황연대	황/XPN+연대/NNG
+성취상은	성취상/NNG+은/JX
+장애인올림픽	장애인올림픽/NNG
+정신을	정신/NNG+을/JKO
+빛낸	빛내/VV+ㄴ/ETM
+최고의	최고/NNG+의/JKG
+선수에게	선수/NNG+에게/JKB
+주어지는	주어지/VV+는/ETM
+상이다	상/NNG+이/VCP+다/EC
+
+2008베이징장애인올림픽부터	2008/SN+베이징장애인올림픽/NNG+부터/JX
+폐막식	폐막식/NNG
+공식	공식/NNG
+행사로	행사/NNG+로/JKB
+인정돼	인정되/VV+어/EC
+전	전/MM
+세계적으로	세계적/NNG+으로/JKB
+유명한	유명하/VA+ㄴ/ETM
+상으로	상/NNG+으로/JKB
+자리매김하고	자리/NNG+매기/VV+ㅁ/ETN+하/XSV+고/EC
+있다	있/VX+다/EC
+
+순금(20돈)메달이	순금/NNG+(/SS+20/SN+돈/NNG+)/SS+메달/NNG+이/JKS
+주어지며	주어지/VV+며/EC
+폐막식	폐막식/NNG
+공식행사의	공식행사/NNG+의/JKG
+첫	첫/MM
+번째	번째/NNB
+순서로	순서/NNG+로/JKB
+진행된다	진행되/VV+ㄴ다/EC
+
+런던에서는	런던/NNP+에서/JKB+는/JX
+상의	상/NNG+의/JKG
+창시자인	창시자/NNG+이/VCP+ㄴ/ETM
+황연대	황연대/NNP
+한국장애인복지진흥회	한국장애인복지진흥회/NNP
+전	전/MM
+부회장과	부회장/NNG+과/JC
+IPC	IPC/SL
+현	현/MM
+부회장인	부회장/NNG+이/VCP+ㄴ/ETM
+Greg	Greg/SL
+Hurgang	Hurgang/SL
+이	이/MM
+공동으로	공동/NNG+으로/JKB
+수여한다	수여하/VV+ㄴ다/EF
+
+한편	한편/MAG
+최종	최종/NNG
+수상자는	수상자/NNG+는/JX
+IPC의	IPC/SL+의/JKG
+집행위원	집행위원/NNG
+세	세/MM
+명(Mr	명/NNB+(/SS+Mr/SL
+
+Greg	Greg/SL
+Hartung,	Hartung/SL+,/SP
+Ms	Ms/SL
+
+Ann	Ann/SL
+Cody,	Cody/SL+,/SP
+Ms	Ms/SL
+
+Rita	Rita/SL
+Van	Van/SL
+Driel)이	Driel/SL+)/SS+이/JKS
+결정하게	결정하/VV+게/EC
+된다	되/VV+ㄴ다/EF

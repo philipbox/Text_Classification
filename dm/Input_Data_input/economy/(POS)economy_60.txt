@@ -1,0 +1,108 @@
+LG,	LG/SL+,/SP
+장애인	장애인/NNG
+200명	200/SN+명/NNB
+공개채용	공개채용/NNG
+
+LG가	LG/SL+가/JKS
+‘2012년	‘/SL+2012/SN+년/NNB
+장애인	장애인/NNG
+공채’를	공채/NNG+’/SL+를/JKO
+통해	통하/VV+여/EC
+200여명의	200/SN+여/XSN+명/NNB+의/JKG
+장애인	장애인/NNG
+직원을	직원/NNG+을/JKO
+선발한다	선발하/VV+ㄴ다/EF
+
+LG는	LG/SL+는/JX
+그	그/MM
+동안	동안/NNG
+장애인	장애인/NNG
+채용을	채용/NNG+을/JKO
+계열사	계열사/NNG
+별로	별/XSN+로/JKB
+실시하던	실시하/VV+던/ETM
+방식에서	방식/NNG+에서/JKB
+올해는	올해/NNG+는/JX
+우수한	우수하/VA+ㄴ/ETM
+인재를	인재/NNG+를/JKO
+적극적으로	적극적/NNG+으로/JKB
+채용하기	채용하/VV+기/ETN
+위해	위하/VV+여/EC
+그룹	그룹/NNG
+차원에서는	차원/NNG+에서/JKB+는/JX
+처음으로	처음/NNG+으로/JKB
+공채를	공채/NNG+를/JKO
+실시하게	실시하/VV+게/EC
+됐다	되/VV+었/EP+다/EC
+
+이에	이/NP+에/JKB
+따라	따르/VV+아/EC
+LG전자,	LG/SL+전자/NNG+,/SP
+LG디스플레이,	LG/SL+디스플레이/NNG+,/SP
+LG화학,	LG/SL+화학/NNG+,/SP
+LG유플러스	LG/SL+유플러스/NNG
+등의	등/NNB+의/JKG
+LG	LG/SL
+계열사에서	계열사/NNG+에서/JKB
+고졸,	고졸/NNG+,/SP
+대졸	대졸/NNG
+등	등/NNB
+장애인을	장애인/NNG+을/JKO
+대상으로	대상/NNG+으로/JKB
+신입	신입/NNG
+및	및/MAG
+경력	경력/NNG
+직원을	직원/NNG+을/JKO
+선발할	선발하/VV+ㄹ/ETM
+계획이다	계획/NNG+이/VCP+다/EC
+
+모집분야는	모집분야/NNG+는/JX
+R&D/기술/영업/마케팅	R/SL+&/SW+D/SL+//SP+기술/NNG+//SP+영업/NNG+//SP+마케팅/NNG
+등	등/NNB
+사무직과	사무직/NNG+과/JC
+현장기술직	현장기술직/NNG
+등이다	등/NNB+이/VCP+다/EC
+
+채용전형은	채용전형/NNG+은/JX
+서류전형,	서류전형/NNG+,/SP
+LG	LG/SL
+Way	Way/SL
+Fit	Fit/SL
+Test(LG그룹	Test/SL+(/SS+LG/SL+그룹/NNG
+공통	공통/NNG
+인성검사),	인성검사/NNG+)/SS+,/SP
+면접전형	면접전형/NNG
+등으로	등/NNB+으로/JKB
+실시된다	실시되/VV+ㄴ다/EF
+
+이번	이번/NNG
+공채	공채/NNG
+모집기간은	모집기간/NNG+은/JX
+오는	오/VV+는/ETM
+26일부터	26/SN+일/NNB+부터/JX
+10월	10/SN+월/NNB
+7일까지며,	7/SN+일/NNB+까지/JX+며/EC+,/SP
+LG그룹	LG/SL+그룹/NNG
+홈페이지	홈페이지/NNG
+(www	(/SS+www/SL
+
+lg	lg/SL
+
+co	co/SL
+
+kr)를	kr/SL+)/SS+를/JKO
+통해	통하/VV+여/EC
+지원하면	지원하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+계열사	계열사/NNG
+별	별/MM
+자세한	자세하/VA+ㄴ/ETM
+모집분야	모집분야/NNG
+및	및/MAG
+필요요건	필요요건/NNG
+또한	또한/MAG
+홈페이지에서	홈페이지/NNG+에서/JKB
+확인할	확인하/VV+ㄹ/ETM
+수	수/NNB
+있다	있/VA+다/EC

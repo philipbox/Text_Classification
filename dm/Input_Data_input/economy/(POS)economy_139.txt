@@ -1,0 +1,140 @@
+‘신한장애인자립지원대출’	‘/SL+신한/NNP+장애인자립지원대출/NNG+’/SL
+한도	한도/NNG
+증액	증액/NNG
+
+신한미소금융재단이	신한미소금융재단/NNP+이/JKS
+한국장애인단체총연합회와	한국장애인단체총연합회/NNP+와/JKB
+공동으로	공동/NNG+으로/JKB
+지난	지나/VV+ㄴ/ETM
+5월	5/SN+월/NNB
+출시한	출시하/VV+ㄴ/ETM
+‘신한장애인자립지원대출’의	‘/SN+신한/NNP+장애인자립지원대출/NNG+’/SL+의/JKG
+한도를	한도/NNG+를/JKO
+늘렸다	늘리/VV+었/EP+다/EF
+
+이	이/MM
+상품은	상품/NNG+은/JX
+중증장애인	중증장애인/NNG
+개인과	개인/NNG+과/JC
+그	그/MM
+가족,	가족/NNG+,/SP
+장애인을	장애인/NNG+을/JKO
+고용하고	고용하/VV+고/EC
+있는	있/VX+는/ETM
+소규모	소규모/NNG
+사업자(무등록	사업자/NNG+(/SS+무/XPN+등록/NNG
+가능)가	가능/NNG+)/SS+가/JKS
+신용등급	신용등급/NNG
+7등급	7/SN+등급/NNG
+이하,	이하/NNG+,/SP
+차상위계층,	차상위계층/NNG+,/SP
+근로	근로/NNG
+장려금	장려금/NNG
+신청자격	신청자격/NNG
+요건자	요건자/NNG
+등의	등/NNB+의/JKG
+조건을	조건/NNG+을/JKO
+하나라도	하나/NR+라도/JX
+충족하면	충족하/VA+면/EC
+대출을	대출/NNG+을/JKO
+받을	받/VV+을/ETM
+수	수/NNB
+있다	있/VA+다/EC
+
+최대한도는	최대한도/NNG+는/JX
+창업자금의	창업자금/NNG+의/JKG
+경우	경우/NNG
+5000만원에서	5000/SN+만/NR+원/NNB+에서/JKB
+7000만원,	7000/SN+만/NR+원/NNB+,/SP
+운영자금	운영자금/NNG
+및	및/MAG
+시설개선자금(사업자등록	시설개선자금/NNG+(/SS+사업자등록/NNG
+발급	발급/NNG
+후	후/NNG
+1년	1/SN+년/NNB
+경과자)은	경과/NNG+자/XSN+)/SS+은/JX
+각각	각각/MAG
+1000만원에서	1000/SN+만/NR+원/NNB+에서/JKB
+2000만원으로	2000/SN+만/NR+원/NNB+으로/JKB
+늘었다	늘/VV+었/EP+다/EF
+
+무등록사업자는	무등록사업자/NNG+는/JX
+기존	기존/NNG
+500만원과	500/SN+만/NR+원/NNB+과/JKB
+동일하다	동일하/VA+다/EC
+
+상환	상환/NNG
+조건은	조건/NNG+은/JX
+창업자금은	창업자금/NNG+은/JX
+3개월	3/SN+개월/NNB
+거치	거치/NNG
+5년	5/SN+년/NNB
+내	내/NNB
+분할상환,	분할상환/NNG+,/SP
+그	그/MM
+외	외/NNB
+자금은	자금/NNG+은/JX
+거치	거치/NNG
+기간	기간/NNG
+없이	없이/MAG
+3년간	3/SN+년/NNB+간/XSN
+균등	균등/NNG
+분할상환	분할상환/NNG
+방식이다	방식/NNG+이/VCP+다/EC
+
+금리는	금리/NNG+는/JX
+무등록사업자는	무등록사업자/NNG+는/JX
+연리	연리/NNG
+2%,	2/SN+%/SW+,/SP
+그	그/MM
+외에는	외/NNB+에/JKB+는/JX
+연리	연리/NNG
+4%이며	4/SN+%/SW+이/VCP+며/EC
+연체이자는	연체/NNG+이/VCP+자는/ETM
+9%로	9/SN+%/SW+로/JKB
+기존과	기존/NNG+과/JC
+변동이	변동/NNG+이/JKS
+없다	없/VA+다/EF
+
+대출과	대출/NNG+과/JKB
+관련된	관련되/VV+ㄴ/ETM
+보다	보다/MAG
+자세한	자세하/VA+ㄴ/ETM
+사항은	사항/NNG+은/JX
+신한미소금융재단(www	신한/NNP+미소금융재단/NNG+(/SS+www/SL
+
+shinhanmiso	shinhanmiso/SL
+
+or	or/SL
+
+kr)	kr/SL+)/SS
+각	각/MM
+지부로	지부/NNG+로/JKB
+문의하면	문의하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+신한미소금융재단	신/XPN+한미/NNP+소금융재단/NNG
+9개	9/SN+개/NNB
+지부	지부/NNG
+약도	약도/NNG
+및	및/MAG
+전화번호	전화번호/NNG
+
+<저	</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

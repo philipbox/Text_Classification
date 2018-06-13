@@ -1,0 +1,84 @@
+복지부,	복지부/NNG+,/SP
+전동보장구	전동보장구/NNG
+품목·가격	품목/NNG+·/SP+가격/NNG
+개정·고시	개정/NNG+·/SP+고시/NNG
+
+보건복지부가	보건복지부/NNG+가/JKS
+10일	10/SN+일/NNB
+전동휠체어와	전동휠체어/NNG+와/JC
+3개	3/SN+개/NNB
+품목과	품목/NNG+과/JC
+전동보장구	전동보장구/NNG
+4개	4/SN+개/NNB
+품목을	품목/NNG+을/JKO
+급여품목에	급여품목/NNG+에/JKB
+추가하고	추가하/VV+고/EC
+결정가격을	결정가격/NNG+을/JKO
+신설한	신설하/VV+ㄴ/ETM
+‘장애인전동보장구	‘/SN+장애인전동보장구/NNG
+급여품목	급여품목/NNG
+및	및/MAG
+결정가격’을	결정가격’/NNG+을/JKO
+개정·고시했다	개정/NNG+·/SP+고시하/VV+였/EP+다/EC
+
+추가된	추가되/VV+ㄴ/ETM
+전동휠체어는	전동휠체어/NNG+는/JX
+(주)에스에스케어의	(/SS+주/NNG+)/SS+에스에스케어/NNP+의/JKG
+P12SXL(235만6,000원),	P/SL+12/SN+SXL/SL+(/SS+235/SN+만/NR+6,000/SN+원/NNB+)/SS+,/SP
+(주)케어라인의	(/SS+주/NNG+)/SS+케어라인/NNP+의/JKG
+나래(206만원),	나래/NNG+(/SS+206/SN+만/NR+원/NNB+)/SS+,/SP
+휠로피아(디에스이)의	휠로피아/NNG+(/SS+디에스이/NNP+)/SS+의/JKG
+KP-45	KP/SL+-/SO+45/SN
+
+5(398만1,000원)이다	5/SN+(/SS+398/SN+만/NR+1,000/SN+원/NNB+)/SS+이/VCP+다/EC
+
+전동스쿠터는	전동스쿠터/NNG+는/JX
+휠로피아(디에스이)의	휠로피아/NNG+(/SS+디에스이/NNP+)/SS+의/JKG
+SC3450(277만9,000원),	SC/SL+3450/SN+(/SS+277/SN+만/NR+9,000/SN+원/NNB+)/SS+,/SP
+(주)대세엠케어	(/SS+주/NNG+)/SS+대세엠케어/NNP
+HS-580	HS/SL+-/SO+580/SN
+Delta(148만9,000원),	Delta/SL+(/SS+148/SN+만/NR+9,000/SN+원/NNB+)/SS+,/SP
+(주)휠로피아의	(/SS+주/NNG+)/SS+휠로피아/NNP+의/JKG
+K2	K/SL+2/SN
+Marvelous(144만6,000원),	Marvelous/SL+(/SS+144/SN+만/NR+6,000/SN+원/NNB+)/SS+,/SP
+(주)코니모빌리티의	(/SS+주/NNG+)/SS+코니모빌리티/NNP+의/JKG
+Conee	Conee/SL
+S101(169만7,000원)이다	S/SL+101/SN+(/SS+169/SN+만/NR+7,000/SN+원/NNB+)/SS+이/VCP+다/EC
+
+이외에도	이외/NNG+에/JKB+도/JX
+(주)휠로피아의	(/SS+주/NNG+)/SS+휠로피아/NNP+의/JKG
+전동휠체어	전동휠체어/NNG
+제품명이	제품명/NNG+이/JKS
+WISKING1023에서	WISKING/SL+1023/SN+에서/JKB
+K2	K/SL+2/SN
+Power으로	Power/SL+으로/JKB
+변경됐다	변경되/VV+었/EP+다/EF
+
+가격은	가격/NNG+은/JX
+기존대로	기존/NNG+대로/JX
+172만2,000원	172만/NR+2,000/SN+원/NNB
+
+이로써	이/NP+로써/JKB
+장애인	장애인/NNG
+전동보장구	전동보장구/NNG
+급여품목	급여품목/NNG
+및	및/MAG
+결정가격	결정가격/NNG
+고시품목은	고시품목/NNG+은/JX
+전동휠체어	전동휠체어/NNG
+29개,	29/SN+개/NNB+,/SP
+전동스쿠터	전동스쿠터/NNG
+21개로	21/SN+개/NNB+로/JKB
+기존	기존/NNG
+43개에서	43/SN+개/NNB+에서/JKB
+50개	50/SN+개/NNB
+제품으로	제품/NNG+으로/JKB
+확대됐다	확대되/VV+었/EP+다/EF
+
+한편	한편/MAG
+이번	이번/NNG
+고시는	골/VV+시/EP+는/ETM
+오는	오/VV+는/ETM
+8월	8/SN+월/NNB
+1일부터	1/SN+일/NNB+부터/JX
+시행된다	시행되/VV+ㄴ다/EF

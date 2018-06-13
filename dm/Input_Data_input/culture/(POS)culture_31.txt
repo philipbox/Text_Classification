@@ -1,0 +1,227 @@
+-패럴림픽-	-/SO+패럴림픽/NNG+-/SO
+박세균	박세균/NNP
+50ｍ	50/SN+ｍ/SL
+권총	권총/NNG
+金…사격	金/SL+…/SE+사격/NNG
+2관왕	2/SN+관왕/NNG
+
+(런던=연합뉴스)	(/SS+런던/NNP+=/SW+연합뉴스/NNP+)/SS
+전명훈	전명훈/NNP
+기자	기자/NNG
+=	=/SW
+한국	한국/NNP
+장애인	장애인/NNG
+사격의	사격/NNG+의/JKG
+간판	간판/NNG
+박세균(41)이	박세균/NNP+(/SS+41/SN+)/SS+이/JKS
+2012	2012/SN
+런던	런던/NNP
+패럴림픽에서	패럴림픽/NNG+에서/JKB
+남자	남자/NNG
+권총	권총/NNG
+50ｍ	50/SN+ｍ/SL
+우승으로	우승/NNG+으로/JKB
+2관왕을	2/SN+관왕/NNG+을/JKO
+차지했다	차지하/VV+었/EP+다/EC
+
+박세균은	박세균/NNP+은/JX
+6일(현지시간)	6/SN+일/NNB+(/SS+현지시간/NNG+)/SS
+오후	오후/NNG
+영국	영국/NNP
+런던	런던/NNP
+왕립	왕립/NNG
+포병대	포병대/NNG
+사격장에서	사격장/NNG+에서/JKB
+열린	열리/VV+ㄴ/ETM
+대회	대회/NNG
+8일째	8/SN+일/NNB+째/XSN
+사격	사격/NNG
+혼성	혼성/NNG
+권총	권총/NNG
+50ｍ	50/SN+ｍ/SL
+SH1(절단	SH/SL+1/SN+(/SS+절단/NNG
+및	및/MAG
+기타장애)	기타장애/NNG+)/SS
+결승에서	결승/NNG+에서/JKB
+92	92/SN
+
+4점을	4/SN+점/NNB+을/JKO
+쏴	쏘/VV+아/EC
+본선	본선/NNG
+점수	점수/NNG
+550점과	550/SN+점/NNB+과/JKB
+합계	합계/NNG
+642	642/SN
+
+4점으로	4/SN+점/NNB+으로/JKB
+금메달을	금메달/NNG+을/JKO
+목에	목/NNG+에/JKB
+걸었다	걷/VV+었/EP+다/EF
+
+발레리	발레리/NNP
+포노마렌코(러시아·633	포노마렌코/NNP+(/SS+러시아/NNP+·/SP+633/SN
+
+2점)가	2/SN+점/NNB+)/SS+가/JKS
+은메달을	은메달/NNG+을/JKO
+땄고	따/VV+았/EP+고/EC
+동메달은	동메달/NNG+은/JX
+625	625/SN
+
+3점을	3/SN+점/NNB+을/JKO
+쏜	쏘/VV+ㄴ/ETM
+니허동(중국)에게	니허동/NNP+(/SS+중국/NNP+)/SS+에게/JKB
+돌아갔다	돌아가/VV+았/EP+다/EF
+
+앞서	앞서/MAG
+지난달	지난달/NNG
+30일	30/SN+일/NNB
+남자	남자/NNG
+10ｍ	10/SN+ｍ/SL
+공기권총	공기권총/NNG
+종목에서	종목/NNG+에서/JKB
+우승해	우승하/VV+여/EC
+런던	런던/NNP
+패럴림픽	패럴림픽/NNG
+한국	한국/NNP
+선수단에	선수단/NNG+에/JKB
+첫	첫/MM
+번째	번째/NNB
+금메달을	금메달/NNG+을/JKO
+안긴	안기/VV+ㄴ/ETM
+박세균은	박세균/NNP+은/JX
+이날	이날/NNG
+우승으로	우승/NNG+으로/JKB
+우리	우리/NP
+선수단	선수단/NNG
+중	중/NNB
+처음으로	처음/NNG+으로/JKB
+2관왕에	2/SN+관왕/NNG+에/JKB
+올랐다	오르/VV+았/EP+다/EC
+
+그는	그/NP+는/JX
+패럴림픽	패럴림픽/NNG
+남자	남자/NNG
+사격	사격/NNG
+선수로는	선수/NNG+로/JKB+는/JX
+한국에서	한국/NNP+에서/JKB
+유일하게	유일하/VA+게/EC
+패럴림픽	패럴림픽/NNG
+금메달을	금메달/NNG+을/JKO
+3개	3/SN+개/NNB
+모은	모으/VV+ㄴ/ETM
+선수가	선수/NNG+가/JKC
+됐다	되/VV+었/EP+다/EC
+
+박세균은	박세균/NNP+은/JX
+2008년	2008/SN+년/NNB
+베이징	베이징/NNP
+패럴림픽	패럴림픽/NNG
+혼성	혼성/NNG
+권총	권총/NNG
+50ｍ	50/SN+ｍ/SL
+종목에서	종목/NNG+에서/JKB
+644	644/SN
+
+9점의	9/SN+점/NNB+의/JKG
+세계기록을	세계기록/NNG+을/JKO
+세우며	세우/VV+며/EC
+우승을	우승/NNG+을/JKO
+차지한	차지하/VV+ㄴ/ETM
+적이	적/NNB+이/JKS
+있다	있/VA+다/EC
+
+여자	여자/NNG
+선수로는	선수/NNG+로/JKB+는/JX
+김임연(현	김임연/NNP+(/SS+현/MM
+아시아패럴림픽위원회	아시아패럴림픽위원회/NNP
+선수위원장)이	선수위원장/NNG+)/SS+이/JKS
+1992년부터	1992/SN+년/NNB+부터/JX
+2000년	2000/SN+년/NNB
+대회까지	대회/NNG+까지/JX
+금메달	금메달/NNG
+5개를	5/SN+개/NNB+를/JKO
+휩쓸었었다	휩쓸/VV+었었/EP+다/EF
+
+박세균은	박세균/NNP+은/JX
+예선에서	예선/NNG+에서/JKB
+550점의	550/SN+점/NNB+의/JKG
+넉넉한	넉넉하/VA+ㄴ/ETM
+점수를	점수/NNG+를/JKO
+가지고	가지/VV+고/EC
+결선에	결선/NNG+에/JKB
+올라와	올라오/VV+아/EC
+544점으로	544/SN+점/NNB+으로/JKB
+결선을	결선/NNG+을/JKO
+시작한	시작하/VV+ㄴ/ETM
+포노마렌코에	포노마렌코/NNP+에/JKB
+비해	비하/VV+여/EC
+압도적으로	압도적/NNG+으로/JKB
+유리한	유리하/VA+ㄴ/ETM
+경기를	경기/NNG+를/JKO
+펼쳤다	펼치/VV+었/EP+다/EC
+
+첫번째	첫/MM+번째/NNB
+총알에서	총알/NNG+에서/JKB
+8	8/SN
+
+7점을	7/SN+점/NNB+을/JKO
+쏴	쏴/SN
+8	8/SN
+
+1점을	1/SN+점/NNB+을/JKO
+쏜	쏘/VV+ㄴ/ETM
+포노마렌코와의	포노마렌코/NNP+와/JKB+의/JKG
+격차를	격차/NNG+를/JKO
+6	6/SN
+
+6점으로	6/SN+점/NNB+으로/JKB
+벌렸고	벌리/VV+었/EP+고/EC
+꾸준히	꾸준히/MAG
+점수	점수/NNG
+차를	차/NNG+를/JKO
+벌려	벌리/VV+어/EC
+마지막	마지막/NNG
+10번째	10/SN+번째/NNB
+총알을	총알/NNG+을/JKO
+쐈을	쏘/VV+았/EP+을/ETM
+때는	때/NNG+는/JX
+포노마렌코와의	포노마렌코/NNP+와/JKB+의/JKG
+간격을	간격/NNG+을/JKO
+9	9/SN
+
+2점으로	2/SN+점/NNB+으로/JKB
+벌려	벌리/VV+어/EC
+금메달을	금메달/NNG+을/JKO
+확정했다	확정하/VV+였/EP+다/EC
+
+한국은	한국/NNP+은/JX
+박세균의	박세균/NNG+의/JKG
+금메달을	금메달/NNG+을/JKO
+포함해	포함하/VV+여/EC
+현재까지	현재/NNG+까지/JX
+7개의	7/SN+개/NNB+의/JKG
+금메달을	금메달/NNG+을/JKO
+모았다	모으/VV+았/EP+다/EC
+
+junmk@yna	junmk/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

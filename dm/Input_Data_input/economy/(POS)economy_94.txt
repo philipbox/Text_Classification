@@ -1,0 +1,251 @@
+이제	이제/MAG
+휠체어가	휠체어/NNG+가/JKS
+걷는다	걷/VV+는다/EC
+
+휠체어의	휠체어/NNG+의/JKG
+최대	최대/NNG
+단점은	단점/NNG+은/JX
+바퀴의	바퀴/NNG+의/JKG
+수평	수평/NNG
+운동이다	운동/NNG+이/VCP+다/EC
+
+사람의	사람/NNG+의/JKG
+다리는	다리/NNG+는/JX
+평면과	평면/NNG+과/JC
+상하	상하/NNG
+운동이	운동/NNG+이/JKS
+가능하지만	가능하/VA+지만/EC
+휠체어의	휠체어/NNG+의/JKG
+바퀴는	바퀴/NNG+는/JX
+옆으로만	옆/NNG+으로/JKB+만/JX
+움직이는	움직이/VV+는/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+이제	이제/MAG
+휠체어가	휠체어/NNG+가/JKS
+다리를,	다리/NNG+를/JKO+,/SP
+아니	아니/IC
+바퀴를	바퀴/NNG+를/JKO
+들게	들/VV+게/EC
+됐다	되/VV+었/EP+다/EC
+
+그로	그/NP+로/JKB
+인해	인하/VV+여/EC
+사람에게	사람/NNG+에게/JKB
+주어지는	주어지/VV+는/ETM
+혜택은	혜택/NNG+은/JX
+생각보다	생각/NNG+보다/JKB
+크다	크/VA+다/EC
+
+일본의	일본/NNP+의/JKG
+나까지마가	나/NP+까지마/JX+가/JKS
+이끄는	이끌/VV+는/ETM
+치바	치바/MAG
+회사에서	회사/NNG+에서/JKB
+바퀴를	바퀴/NNG+를/JKO
+드는	들/VV+는/ETM
+휠체어를	휠체어/NNG+를/JKO
+개발해	개발하/VV+여/EC
+일반에	일반/NNG+에/JKB
+선보였다	선보이/VV+었/EP+다/EF
+
+이제	이제/MAG
+지나다니다,	지나/VA+다/EC+니다/JX+,/SP
+혹은	혹은/MAG
+집안에서	집안/NNG+에서/JKB
+만나는	만나/VV+는/ETM
+턱이	턱/NNB+이/JKS
+무섭지	무섭/VA+지/EC
+않게	않/VX+게/EC
+됐다	되/VV+었/EP+다/EC
+
+나무를	나무/NNG+를/JKO
+넘어가는	넘어가/VV+는/ETM
+휠체어(출처:	휠체어/NNG+(/SS+출처/NNG+:/SP
+디지타이즈	디지타이즈/NNG
+인포메이션	인포메이션/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+나무,	나무/NNG+,/SP
+이런	이런/MM
+장애물을	장애물/NNG+을/JKO
+만나면	만나/VV+면/EC
+휠체어는	휠체어/NNG+는/JX
+피해	피하/VV+여/EC
+가는	가/VV+는/ETM
+수	수/NNB
+밖에	밖에/JX
+없었다	없/VA+었/EP+다/EF
+
+이제	이제/MAG
+이	이/MM
+휠체어는	휠체어/NNG+는/JX
+바퀴를	바퀴/NNG+를/JKO
+번쩍들어	번쩍/MAG+들/VV+어/EC
+그냥	그냥/MAG
+넘어가	넘어가/VV+아/EC
+버린다	버리/VX+ㄴ다/EF
+
+수직으로	수직/NNG+으로/JKB
+바퀴	바퀴/NNG
+배열(출처:	배열/NNG+(/SS+출처/NNG+:/SP
+디지타이즈	디지타이즈/NNG
+인포메이션	인포메이션/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+지나다가	지나/VV+다가/EC
+길이	길/NNG+이/JKS
+비좁아	비좁/VA+아/EC
+졌다	지/VX+었/EP+다/EF
+
+기존의	기존/NNG+의/JKG
+휠체어라면	휠체어/NNG+이/VCP+라면/EC
+지나는	지나/VV+는/ETM
+것이	것/NNB+이/JKS
+불가능했을	불가능하/VA+였/EP+을/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+그러나	그러나/MAJ
+이	이/MM
+휠체어는	휠체어/NNG+는/JX
+바퀴를	바퀴/NNG+를/JKO
+수직으로	수직/NNG+으로/JKB
+만들어서	만들/VV+어서/EC
+통과할	통과하/VV+ㄹ/ETM
+수가	수/NNB+가/JKS
+있게	있/VA+게/EC
+됐다	되/VV+었/EP+다/EC
+
+이때는	이때/NNG+는/JX
+안전을	안전/NNG+을/JKO
+위해	위하/VV+여/EC
+보조	보조/NNG
+바퀴가	바퀴/NNG+가/JKS
+내려온다	내려오/VV+ㄴ다/EC
+
+이	이/MM
+보조바퀴를	보조바퀴/NNG+를/JKO
+이용해서	이용하/VV+여서/EC
+360도	360/SN+도/NNB
+제자리	제자리/NNG
+회전이	회전/NNG+이/JKS
+가능하다	가능하/VA+다/EC
+
+내리막길(출처:	내리/MAG+막/VV+길/ETN+(/SS+출처/NNG+:/SP
+디지타이즈	디지타이즈/NNG
+인포메이션	인포메이션/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+내리막길,	내리막길/NNG+,/SP
+휠체어	휠체어/NNG
+장애인이	장애인/NNG+이/JKS
+잘못하면	잘못하/VV+면/EC
+앞으로	앞/NNG+으로/JKB
+쓰러질	쓰러지/VV+ㄹ/ETM
+수가	수/NNB+가/JKS
+있는	있/VA+는/ETM
+상황이다	상황/NNG+이/VCP+다/EC
+
+그러나	그러나/MAJ
+이	이/MM
+휠체어는	휠체어/NNG+는/JX
+끄떡없다	끄떡없/VA+다/EC
+
+앞으로	앞/NNG+으로/JKB
+쏠리면	쏠리/VV+면/EC
+의자가	의자/NNG+가/JKS
+자동으로	자동/NNG+으로/JKB
+균형을	균형/NNG+을/JKO
+잡아	잡/VV+아/EC
+준다	주/VX+ㄴ다/EF
+
+이제	이제/MAG
+오르내리막길	오르내리막긷/VV
+경사로로	경사로/NNG+로/JKB
+쓰러지는	쓰러지/VV+는/ETM
+걱정은	걱정/NNG+은/JX
+하지	하/VV+지/EC
+않아도	않/VX+아도/EC
+된다	되/VV+ㄴ다/EF
+
+평면이	평면/NNG+이/JKC
+아닌	아니/VCN+ㄴ/ETM
+길(출처:	길/NNG+(/SS+출처/NNG+:/SP
+디지타이즈	디지타이즈/NNG
+인포메이션	인포메이션/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+내가	내/NP+가/JKS
+휠체어를	휠체어/NNG+를/JKO
+타고	타/VV+고/EC
+다닐	다니/VV+ㄹ/ETM
+때	때/NNG
+길이	길/NNG+이/JKS
+평평하지	평평하/VA+지/EC
+않으면	않/VX+으면/EC
+적어도	적어도/MAG
+한	한/MM
+바퀴는	바퀴/NNB+는/JX
+들린다	들리/VV+ㄴ다/EC
+
+그렇게	그렇/VA+게/EC
+되면	되/VV+면/EC
+작동이	작동/NNG+이/JKS
+상당히	상당히/MAG
+힘들다	힘들/VA+다/EC
+
+그러나	그러나/MAJ
+이	이/MM
+휠체어는	휠체어/NNG+는/JX
+아무리	아무리/MAG
+울퉁불퉁한	울퉁불퉁하/VA+ㄴ/ETM
+길도	길/NNG+도/JX
+장애를	장애/NNG+를/JKO
+받지	받/VV+지/EC
+않는다	않/VX+는다/EC
+
+무언가	무엇/NP+이/VCP+ㄴ가/EC
+솟아있는	솟/VV+아/EC+있/VX+는/ETM
+것이	것/NNB+이/JKS
+있으면	있/VA+으면/EC
+바퀴가	바퀴/NNG+가/JKS
+자동으로	자동/NNG+으로/JKB
+들려	들리/VV+어/EC
+버리고	버리/VX+고/EC
+어려움	어려움/NNG
+없이	없이/MAG
+지나	지나/VV+아/EC
+다닐	다니/VV+ㄹ/ETM
+수	수/NNB
+있게	있/VA+게/EC
+된	되/VV+ㄴ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+*	*/SW
+샘	샘/NNG
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNP
+객원기자로	객원기자/NNG+로/JKB
+캘리포니아	캘리포니아/NNP
+버클리대학	버클리대학/NNP
+사회학과를	사회학과/NNG+를/JKO
+졸업하고,	졸업하/VV+고/EC+,/SP
+전	전/MM
+미상원	미/NNP+상원/NNG
+장애인국	장애인국/NNG
+인턴을	인턴/NNG+을/JKO
+지냈다	지내/VV+었/EP+다/EC
+
+현재	현재/MAG
+TEC	TEC/SL
+대표를	대표/NNG+를/JKO
+맡고	맡/VV+고/EC
+있다	있/VX+다/EC

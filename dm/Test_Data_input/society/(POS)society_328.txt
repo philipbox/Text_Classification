@@ -1,0 +1,1204 @@
+‘장애인활동보조’,	‘/SL+장애인활동보조’/NNG+,/SP
+올해	올해/NNG
+최고의	최고/NNG+의/JKG
+키워드	키워드/NNG
+
+장애계	장애/NNG+계/XSN
+10대	10/SN+대/NNG
+카워드	카워드/NNP
+설문결과	설문결과/NNG
+올해	올해/NNG
+최고	최고/NNG
+키워드로	키워드/NNG+로/JKB
+‘장애인활동보조’가	‘/SL+장애인활동보조/NNG+’/SL+가/JKS
+선정됐다	선정되/VV+었/EP+다/EF
+
+에이블뉴스는	에이블뉴스/NNP+는/JX
+지난	지나/VV+ㄴ/ETM
+10일부터	10/SN+일/NNB+부터/JX
+24일까지	24/SN+일/NNB+까지/JX
+홈페이지(ablenews	홈페이지/NNG+(/SS+ablenews/SL
+
+co	co/SL
+
+kr)를	kr/SL+)/SS+를/JKO
+통해	통하/VV+여/EC
+‘2012년	‘/SL+2012/SN+년/NNB
+장애계	장애/NNG+계/XSN
+10대	10/SN+대/NNB
+키워드	키워드/NNG
+설문조사’를	설문조사/NNG+’/SL+를/JKO
+실시했다	실시하/VV+였/EP+다/EC
+
+한	한/MM
+명당	명/NNB+당/XSN
+10개의	10/SN+개/NNB+의/JKG
+키워드	키워드/NNG
+선택이	선택/NNG+이/JKS
+가능하도록	가능하/VA+도록/EC
+했던	하/VX+였/EP+던/ETM
+이번	이번/NNG
+설문에는	설문/NNG+에/JKB+는/JX
+총	총/MM
+297명이	297/SN+명/NNB+이/JKS
+참여했다	참여하/VV+였/EP+다/EF
+
+그	그/MM
+결과	결과/NNG
+올	올/NNG
+한해	한/MM+해/NNB
+가장	가장/MAG
+뜨거웠던	뜨겁/VA+었/EP+던/ETM
+최고의	최고/NNG+의/JKG
+키워드로는	키워드/NNG+로/JKB+는/JX
+장애인활동보조(장애인활동지원제도)가	장애인활동보조/NNG+(/SS+장애인활동지원제도/NNG+)/SS+가/JKS
+총	총/MM
+230표(11%)를	230/SN+표/NNG+(/SS+11/SN+%/SW+)/SS+를/JKO
+얻으며,	얻/VV+으며/EC+,/SP
+1위를	1/SN+위/NNB+를/JKO
+차지했다	차지하/VV+었/EP+다/EC
+
+올해	올해/NNG
+장애계는	장애/NNG+계/XSN+는/JX
+장애인활동지원	장애인활동지원/NNG
+수급자격	수급자격/NNG
+갱신,	갱신/NNG+,/SP
+김주영	김주영/NNP
+활동가	활동가/NNG
+등	등/NNB
+잇따른	잇따르/VV+ㄴ/ETM
+중증장애인들의	중증장애인/NNG+들/XSN+의/JKG
+죽음으로	죽음/NNG+으로/JKB
+충격에	충격/NNG+에/JKB
+휩싸였다	휩싸이/VV+었/EP+다/EF
+
+올	올/NNG
+11월	11/SN+월/NNB
+서비스	서비스/NNG
+수급자격	수급자격/NNG
+갱신을	갱신/NNG+을/JKO
+앞두고	앞두/VV+고/EC
+복지부	복지부/NNG
+모의실험	모의실험/NNG
+결과	결과/NNG
+3만명	3/SN+만/NR+명/NNB
+중	중/NNB
+1/3의	1/SN+//SP+3/SN+의/JKG
+서비스	서비스/NNG
+이용자가	이용자/NNG+가/JKS
+등급이	등급/NNG+이/JKS
+하향되거나	하향되/VV+거나/EC
+탈락할	탈락하/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+알려지면서	알려지/VV+면서/EC
+장애계는	장애/NNG+계/XSN+는/JX
+분노했다	분노하/VV+였/EP+다/EC
+
+이에	이/NP+에/JKB
+장애계는	장애/NNG+계/XSN+는/JX
+수급자격	수급자격/NNG
+갱신기간을	갱신기간/NNG+을/JKO
+2013년	2013/SN+년/NNB
+5월로	5/SN+월/NNB+로/JKB
+연장하고	연장하/VV+고/EC
+여기에	여기/NP+에/JKB
+활동지원	활동지원/NNG
+등급	등급/NNG
+인정점수	인정점수/NNG
+50점	50/SN+점/NNB
+하향,	하향/NNG+,/SP
+기본급여	기본급/NNG+이/VCP+어/EC
+2배	2/SN+배/NNG
+확대,	확대/NNG+,/SP
+본인	본인/NNG
+부담금	부담금/NNG
+폐지	폐지/NNG
+등을	등/NNB+을/JKO
+촉구했다	촉구하/VV+였/EP+다/EC
+
+하지만	하지만/MAJ
+복지부는	복지부/NNG+는/JX
+18대	18/SN+대/NNB
+대선	대선/NNG
+등을	등/NNB+을/JKO
+이유로	이유/NNG+로/JKB
+각	각/MM
+지자체에	지자체/NNG+에/JKB
+갱신기간을	갱신기간/NNG+을/JKO
+연장하는	연장하/VV+는/ETM
+공문을	공문/NNG+을/JKO
+보내는데	보내/VV+는/ETM+데/NNB
+그쳤고,	그치/VV+었/EP+고/EC+,/SP
+장애계는	장애/NNG+계/XSN+는/JX
+공동투쟁단을	공동투쟁단/NNG+을/JKO
+구성해	구성하/VV+여/EC
+긴급대책	긴급대책/NNG
+마련과	마련/NNG+과/JC
+중장기적	중장기적/NNG
+제도개선	제도개선/NNG
+대책을	대책/NNG+을/JKO
+요구하고	요구하/VV+고/EC
+있다	있/VX+다/EC
+
+더욱이	더욱이/MAG
+올	올/NNG
+하반기	하반기/NNG
+김주영	김주영/NNP
+활동가	활동가/NNG
+등	등/NNB
+장애인활동지원	장애인활동지원/NNG
+서비스	서비스/NNG
+이용자들이	이용자/NNG+들/XSN+이/JKS
+활동보조인이	활동보조인/NNG+이/JKS
+퇴근한	퇴근하/VV+ㄴ/ETM
+후	후/NNG
+홀로	홀로/MAG
+있다	있/VA+다/EC
+숨지는	숨지/VV+는/ETM
+사건	사건/NNG
+등이	등/NNB+이/JKS
+발생해	발생하/VV+여/EC
+충격에	충격/NNG+에/JKB
+휩싸였다	휩싸이/VV+었/EP+다/EF
+
+이	이/NP
+같은	같/VA+은/ETM
+장애인의	장애인/NNG+의/JKG
+죽음에	죽음/NNG+에/JKB
+장애계는	장애/NNG+계/XSN+는/JX
+장애인활동지원	장애인활동지원/NNG
+24시간	24/SN+시간/NNB
+보장을	보장/NNG+을/JKO
+촉구했고,	촉구하/VV+였/EP+고/EC+,/SP
+국회	국회/NNG
+보건복지위원회	보건복지위원회/NNG
+의원들도	의원/NNG+들/XSN+도/JX
+공감해	공감하/VV+여/EC
+2013년	2013/SN+년/NNB
+예산을	예산/NNG+을/JKO
+2012년(3099억원)도	2012/SN+년/NNB+(/SS+3099/SN+억/NR+원/NNB+)/SS+도/JX
+보다	보다/MAG
+50%	50/SN+%/SW
+증액해	증액하/VV+여/EC
+예산결산특별위원회에	예산결산특별위원회/NNG+에/JKB
+상정했다	상정하/VV+였/EP+다/EC
+
+하지만	하지만/MAJ
+장애계는	장애/NNG+계/XSN+는/JX
+장애인	장애인/NNG
+관련	관련/NNG
+예산이	예산/NNG+이/JKS
+국회까지	국회/NNG+까지/JX
+올라갔지만,	올라가/VV+았/EP+지만/EC+,/SP
+정부의	정부/NNG+의/JKG
+반대로	반대/NNG+로/JKB
+물거품	물거품/NNG
+된	되/VV+ㄴ/ETM
+적이	적/NNB+이/JKS
+있던만큼	있/VA+던/ETM+만큼/NNB
+관심	관심/NNG
+있게	있/VA+게/EC
+추이를	추이/NNG+를/JKO
+지켜보고	지켜보/VV+고/EC
+있다	있/VX+다/EC
+
+2위에는	2/SN+위/NNB+에/JKB+는/JX
+216표(10	216/SN+표/NNG+(/SS+10/SN
+
+3%)를	3/SN+%/SW+)/SS+를/JKO
+얻은	얻/VV+은/ETM
+‘장애등급제’가	‘/SN+장애등급/NNG+제/XSN+’/SL+가/JKS
+올랐다	오르/VV+았/EP+다/EC
+
+연관	연관/NNG
+키워드인	키워드/NNG+이/VCP+ㄴ/ETM
+‘장애등급	‘/SN+장애등급/NNG
+판정기준’도	판정기준/NNG+’/SL+도/JX
+157표(7	157/SN+표/NNG+(/SS+7/SN
+
+5%)로	5/SN+%/SW+)/SS+로/JKB
+4위를	4/SN+위/NNB+를/JKO
+나타냈다	나타내/VV+었/EP+다/EF
+
+올해도	올해/NNG+도/JX
+장애등급제	장애등급/NNG+제/XSN
+폐지의	폐지/NNG+의/JKG
+요구는	요구/NNG+는/JX
+계속됐다	계속되/VV+었/EP+다/EF
+
+특히	특히/MAG
+장애계는	장애/NNG+계/XSN+는/JX
+8월	8/SN+월/NNB
+대선을	대선/NNG+을/JKO
+앞두고	앞두/VV+고/EC
+차기정부	차기정부/NNG
+핵심	핵심/NNG
+복지공약으로	복지공약/NNG+으로/JKB
+관철될	관철되/VV+ㄹ/ETM
+수	수/NNB
+있기를	있/VA+기/ETN+를/JKO
+바라며	바라/VV+며/EC
+광화문역내에서	광화문역/NNP+내/NNB+에서/JKB
+무기한	무기한/NNG
+노숙농성(126일차)에	노숙농성/NNG+(/SS+126/SN+일차/NNB+)/SS+에/JKB
+돌입했다	돌입하/VV+였/EP+다/EF
+
+이	이/NP
+같은	같/VA+은/ETM
+장애계의	장애/NNG+계/XSN+의/JKG
+바람에	바람/NNG+에/JKB
+각	각/MM
+정당	정당/NNG
+및	및/MAG
+대선	대선/NNG
+후보들은	후보/NNG+들/XSN+은/JX
+장애등급제	장애등급/NNG+제/XSN
+폐지	폐지/NNG
+및	및/MAG
+개선을	개선/NNG+을/JKO
+약속했다	약속하/VV+었/EP+다/EC
+
+복지부도	복지부/NNG+도/JX
+올해	올해/NNG
+1월	1/SN+월/NNB
+한신대학교	한신대/NNP+학교/NNG
+변경희	변경희/NNP
+교수에	교수/NNG+에/JKB
+용역을	용역/NNG+을/JKO
+맡겨	맡기/VV+어/EC
+지체장애	지체장애/NNG
+등	등/NNB
+15개	15/SN+개/NNB
+장애유형의	장애유형/NNG+의/JKG
+구체적인	구체적/NNG+이/VCP+ㄴ/ETM
+서비스	서비스/NNG
+분석에	분석/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+연구를	연구/NNG+를/JKO
+진행했다	진행하/VV+였/EP+다/EF
+
+국제장애분류(ICF)	국제장애분류/NNG+(/SS+ICF/SL+)/SS
+도입논의를	도입논의/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+첫	첫/MM
+단추로	단추/NNG+로/JKB
+장애기준에	장애기준/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+문제점을	문제점/NNG+을/JKO
+통해	통하/VV+여/EC
+구체적인	구체적/NNG+이/VCP+ㄴ/ETM
+현안과	현안/NNG+과/JC
+개선방안을	개선방안/NNG+을/JKO
+제시하겠다는	제시하/VV+겠/EP+다는/ETM
+목적에서였다	목적/NNG+에서/JKB+이/VCP+었/EP+다/EC
+
+하지만	하지만/MAJ
+당초	당초/NNG
+5월	5/SN+월/NNB
+발표를	발표/NNG+를/JKO
+목표로	목표/NNG+로/JKB
+진행됐던	진행되/VV+었/EP+던/ETM
+연구는	연구/NNG+는/JX
+결론	결론/NNG
+수정부분	수정부분/NNG
+등을	등/NNB+을/JKO
+이유로	이유/NNG+로/JKB
+여러	여러/MM
+차례	차례/NNG
+미뤄지다	미루어지/VV+다/EC
+올	올/NNG
+10월에야	10/SN+월/NNB+에/JKB+야/JX
+복지부에	복지부/NNG+에/JKB
+연구결과가	연구결과/NNG+가/JKS
+제출됐고,	제출되/VV+었/EP+고/EC+,/SP
+이후	이후/NNG
+진전은	진전/NNG+은/JX
+없었다	없/VA+었/EP+다/EF
+
+연구결과를	연구결과/NNG+를/JKO
+토대로한	토대로하/VA+ㄴ/ETM
+복지부내	복지부/NNG+내/NNB
+‘장애인	‘/SN+장애인/NNG
+서비스	서비스/NNG
+지원체계	지원체계/NNG
+개편	개편/NNG
+기획단’의	기획/NNG+단/XSN+’/SL+의/JKG
+논의는	논의/NNG+는/JX
+한번도	한/MM+번/NNB+도/JX
+이뤄지지	이루어지/VV+지/EC
+않으면서	않/VX+으면서/EC
+결국	결국/NNG
+기획단	기획/NNG+단/XSN
+위원들로부터	위원/NNG+들/XSN+로부터/JKB
+불만을	불만/NNG+을/JKO
+샀다	사/VV+았/EP+다/EC
+
+장애인계가	장애인계/NNG+가/JKS
+‘실질적	‘/SN+실질/NNG+적/XSN
+소득	소득/NNG
+보장’이	보장’/NNG+이/JKC
+되지	되/VV+지/EC
+않는다며	않/VX+는다며/EC
+절규하고	절규하/VV+고/EC
+있는	있/VX+는/ETM
+장애인연금이	장애인연금/NNG+이/JKS
+내년에도	내년/NNG+에/JKB+도/JX
+계속해서	계속하/VV+여서/EC
+지급된다	지급되/VV+ㄴ다/EF
+
+3위는	3/SN+위/NNB+는/JX
+중증장애인의	중증장애인/NNG+의/JKG
+소득보장을	소득보장/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+장애인연금으로	장애인연금/NNG+으로/JKB
+184표(8	184/SN+표/NNG+(/SS+8/SN
+
+8%)를	8/SN+%/SW+)/SS+를/JKO
+얻었다	얻/VV+었/EP+다/EC
+
+장애인연금은	장애인연금/NNG+은/JX
+도입	도입/NNG
+초부터	초/NNB+부터/JX
+지원액이	지원/NNG+액/XSN+이/JKS
+너무	너무/MAG
+적어	적/VA+어/EC
+‘무늬만	‘/SL+무늬/NNG+만/JX
+연금,	연금/NNG+,/SP
+껌	껌/NNG
+값	값/NNG
+연금’으로	연금/NNG+’/SL+으로/JKB
+불리며,	불리/VV+며/EC+,/SP
+장애계의	장애/NNG+계/XSN+의/JKG
+반발을	반발/NNG+을/JKO
+샀다	사/VV+았/EP+다/EC
+
+다행히	다행히/MAG
+2013년에는	2013/SN+년/NNB+에/JKB+는/JX
+기초급여	기초급여/NNG
+1만9500원	1/SN+만/NR+9500/SN+원/NNB
+인상(국민연금	인상/NNG+(/SS+국민연금/NNG
+가입자	가입자/NNG
+전체	전체/NNG
+평균소득월액의	평균소득월액/NNG+의/JKG
+평균액	평균액/NNG
+A값	A/SL+값/NNG
+6%)과	6/SN+%/SW+)/SS+과/JKB
+함께	함께/MAG
+부가급여도	부가급여/NNG+도/JX
+계층별로	계층/NNG+별/XSN+로/JKB
+2만원씩	2/SN+만/NR+원/NNB+씩/XSN
+인상될	인상되/VV+ㄹ/ETM
+전망이다	전망/NNG+이/VCP+다/EC
+
+현재	현재/MAG
+이	이/NP
+같은	같/VA+은/ETM
+내용을	내용/NNG+을/JKO
+담은	담/VV+은/ETM
+2013년도	2013/SN+년/NNB+도/JX
+예산안이	예산안/NNG+이/JKS
+국회	국회/NNG
+예산결산특별위원회	예산결산특별위원회/NNG
+심의	심의/NNG
+및	및/MAG
+본회의	본회/NNG+의/JKG
+통과를	통과/NNG+를/JKO
+남겨두고	남기/VV+어/EC+두/VX+고/EC
+있으며,	있/VX+으며/EC+,/SP
+정부도	정부/NNG+도/JX
+최근	최근/NNG
+국무회의를	국무회의/NNG+를/JKO
+열어	열/VV+어/EC
+부가급여	부가급여/NNG
+월	월/NNG
+2만원	2/SN+만/NR+원/NNB
+인상을	인상/NNG+을/JKO
+내용으로	내용/NNG+으로/JKB
+하는	하/VV+는/ETM
+‘장애인연금법	‘/SN+장애인연금법/NNG
+시행령	시행령/NNG
+일부개정령안’을	일부개정령안/NNG+’/SL+을/JKO
+의결했다	의결하/VV+였/EP+다/EC
+
+이에	이/NP+에/JKB
+따라	따르/VV+아/EC
+18~64세	18/SN+~/SO+64/SN+세/NNB
+미만	미만/NNG
+기초수급자는	기초수급/NNG+자/XSN+는/JX
+8만원,	8/SN+만/NR+원/NNB+,/SP
+차상위는	차상위/NNG+는/JX
+7만원,	7/SN+만/NR+원/NNB+,/SP
+65세	65/SN+세/NNB
+이상	이상/NNG
+기초수급자는	기초수급/NNG+자/XSN+는/JX
+17만원,	17/SN+만/NR+원/NNB+,/SP
+차상위는	차상위/NNG+는/JX
+7만으로	7/SN+만/NR+으로/JKB
+인상된다	인상되/VV+ㄴ다/EF
+
+또한	또한/MAG
+18~64세	18/SN+~/SO+64/SN+세/NNB
+미만	미만/NNG
+차상위초과	차상위초/NNG+과/JC
+2만원,	2/SN+만/NR+원/NNB+,/SP
+65세	65/SN+세/NNB
+이상	이상/NNG
+차상위초과는	차상위초/NNG+과/JKB+는/JX
+4만원을	4/SN+만/NR+원/NNB+을/JKO
+받게	받/VV+게/EC
+된다	되/VV+ㄴ다/EF
+
+특히	특히/MAG
+기초급여의	기초급여/NNG+의/JKG
+경우	경우/NNG
+관련	관련/NNG
+예산이	예산/NNG+이/JKS
+국회를	국회/NNG+를/JKO
+통과한다면,	통과하/VV+ㄴ다면/EC+,/SP
+최대	최대/NNG
+11만6600원을	11/SN+만/NR+6600/SN+원/NNB+을/JKO
+받을	받/VV+을/ETM
+수	수/NNB
+있을	있/VA+을/ETM
+전망이다	전망/NNG+이/VCP+다/EC
+
+5위는	5/SN+위/NNB+는/JX
+113표(5	113/SN+표/NNG+(/SS+5/SN
+
+4%)를	4/SN+%/SW+)/SS+를/JKO
+얻은	얻/VV+은/ETM
+‘장애인콜택시’다	‘/SN+장애인콜택시/NNG+’/SN+다/EF
+
+연관	연관/NNG
+키워드인	키워드/NNG+이/VCP+ㄴ/ETM
+‘이동권’도	‘/SL+이동/NNG+권/XSN+’/SL+도/JX
+77표(3	77/SN+표/NNG+(/SS+3/SN
+
+7%)를	7/SN+%/SW+)/SS+를/JKO
+얻으며	얻/VV+으며/EC
+9위를	9/SN+위/NNB+를/JKO
+기록,	기록/NNG+,/SP
+높은	높/VA+은/ETM
+관심을	관심/NNG+을/JKO
+받았다	받/VV+았/EP+다/EC
+
+이는	이/NP+는/JX
+장애인콜택시	장애인콜택시/NNG
+도입	도입/NNG
+책임이	책임/NNG+이/JKS
+있는	있/VA+는/ETM
+시군구가	시군구/NNG+가/JKS
+열악한	열악하/VA+ㄴ/ETM
+지방재정으로	지방재정/NNG+으로/JKB
+법적	법적/NNG
+의무준수	의무준수/NNG
+난항을	난항/NNG+을/JKO
+겪고,	겪/VV+고/EC+,/SP
+지역별로	지역/NNG+별/XSN+로/JKB
+편차도	편차/NNG+도/JX
+커	크/VA+어/EC
+장애인의	장애인/NNG+의/JKG
+이동권	이동/NNG+권/XSN
+침해가	침해/NNG+가/JKS
+심각하다는	심각하/VA+다는/ETM
+불만을	불만/NNG+을/JKO
+나타낸	나타내/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+분석된다	분석되/VV+ㄴ다/EF
+
+현재	현재/MAG
+장애인콜택시는	장애인콜택시/NNG+는/JX
+장애인	장애인/NNG
+200명당	200/SN+명/NNB+당/XSN
+1대	1/SN+대/NNB
+운영이	운영/NNG+이/JKS
+의무이나	의무/NNG+이나/JC
+2010년	2010/SN+년/NNB
+12월	12/SN+월/NNB
+기준	기준/NNG
+2,785대	2,785/SN+대/NNG
+대비	대비/NNG
+1,302대(46	1,302/SN+대/NNB+(/SS+46/SN
+
+7%)에	7/SN+%/SW+)/SS+에/JKB
+불과하다	불과하/VA+다/EC
+
+여기에	여기/NP+에/JKB
+이용을	이용/NNG+을/JKO
+거주지	거주지/NNG
+내로	내/NNB+로/JKB
+제안한	제안하/VV+ㄴ/ETM
+것도	것/NNB+도/JX
+불만의	불만/NNG+의/JKG
+요소가	요소/NNG+가/JKC
+됐다	되/VV+었/EP+다/EC
+
+장애계는	장애/NNG+계/XSN+는/JX
+하반기	하반기/NNG
+저상버스	저상버스/NNG
+100%도입,	100/SN+%/SW+도입/NNG+,/SP
+장애인콜택시에	장애인콜택시/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+국가와	국가/NNG+와/JC
+도지사	도지사/NNG
+책임	책임/NNG
+등을	등/NNB+을/JKO
+명시한	명시하/VV+ㄴ/ETM
+‘교통약자이동편의증진법	‘/SN+교통약자이동편의증진법/NNP
+개정’을	개정’/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+‘1인	‘/SL+1/SN+인/NNG
+시위’를	시위’/NNG+를/JKO
+전국	전국/NNG
+동시다발로	동시다발/NNG+로/JKB
+진행했다	진행하/VV+였/EP+다/EF
+
+비장애인들에게	비장애인/NNG+들/XSN+에게/JKB
+저상버스	저상버스/NNG
+도입의	도입/NNG+의/JKG
+중요성을	중요성/NNG+을/JKO
+알리기위해	알리/VV+기/ETN+위하/VV+여/EC
+거리로	거리/NNG+로/JKB
+나왔다는	나오/VV+았/EP+다는/ETM
+최미영	최미영/NNG
+활동가	활동가/NNG
+
+이에	이/NP+에/JKB
+국토해양부는	국토해양부/NNP+는/JX
+최근	최근/NNG
+장애인들이	장애인/NNG+들/XSN+이/JKS
+거주지	거주지/NNG
+제한	제한/NNG
+없이	없이/MAG
+장애인콜택시를	장애인콜택시/NNG+를/JKO
+이용할	이용하/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+했다	하/VX+였/EP+다/EC
+
+또한	또한/MAG
+도지사가	도지사/NNG+가/JKS
+교통약자	교통약자/NNG
+이동편의	이동편/NNG+의/JKG
+증진	증진/NNG
+계획을	계획/NNG+을/JKO
+수립하도록	수립하/VV+도록/EC
+했을	하/VX+였/EP+을/ETM
+뿐만	뿐/NNB+만/JX
+아니라	아니/VCN+라/EC
+저상버스	저상버스/NNG
+도입시	도입/NNG+시/XSN
+국가와	국가/NNG+와/JC
+지자체가	지자체/NNG+가/JKS
+부담비율을	부담비율/NNG+을/JKO
+교통약자의	교통약자/NNG+의/JKG
+인구현황,	인구현황/NNG+,/SP
+재정여건	재정여건/NNG
+등을	등/NNB+을/JKO
+고려해	고려하/VV+여/EC
+정하도록	정하/VV+도록/EC
+했다	하/VX+였/EP+다/EC
+
+하지만	하지만/MAJ
+장애계는	장애/NNG+계/XSN+는/JX
+도시사의	도시/NNG+사/XSN+의/JKG
+권한	권한/NNG
+부재,	부재/NNG+,/SP
+운영비	운영비/NNG
+부담	부담/NNG
+등을	등/NNB+을/JKO
+이유로	이유/NNG+로/JKB
+실효성에	실효성/NNG+에/JKB
+의문을	의문/NNG+을/JKO
+제기하고	제기하/VV+고/EC
+있다	있/VX+다/EC
+
+여기에	여기/NP+에/JKB
+장애인콜택시	장애인콜택시/NNG
+및	및/MAG
+저상버스	저상버스/NNG
+법정정원	법정정원/NNG
+확보는	확보/NNG+는/JX
+예산	예산/NNG
+등을	등/NNB+을/JKO
+이유로	이유/NNG+로/JKB
+여전히	여전히/MAG
+난제로	난제/NNG+로/JKB
+남아있다	남/VV+아/EC+있/VX+다/EC
+
+2013년에도	2013/SN+년/NNB+에/JKB+도/JX
+장애계는	장애/NNG+계/XSN+는/JX
+이동권	이동/NNG+권/XSN
+보장을	보장/NNG+을/JKO
+위해	위하/VV+여/EC
+투쟁을	투쟁/NNG+을/JKO
+이어나간다는	잇/VV+어/EC+나가/VX+ㄴ다는/ETM
+방침이다	방침/NNG+이/VCP+다/EC
+
+6위는	6/SN+위/NNB+는/JX
+장애계가	장애/NNP+계/XSN+가/JKS
+‘장애등급제	‘/SN+장애등급/NNG+제/XSN
+폐지’와	폐지’/NNG+와/JKB
+함께	함께/MAG
+목소리	목소리/NNG
+높였던	높이/VV+었/EP+던/ETM
+‘부양의무제(부양의무자	‘/SL+부양의무제/NNG+(/SS+부양의무자/NNG
+기준)’,	기준/NNG+)/SS+’/SL+,/SP
+부양의무제는	부양의무제/NNG+는/JX
+101표(4	101/SN+표/NNG+(/SS+4/SN
+
+8%)를	8/SN+%/SW+)/SS+를/JKO
+얻었다	얻/VV+었/EP+다/EC
+
+올해도	올해/NNG+도/JX
+부양의무자	부양의무자/NNG
+기준에	기준/NNG+에/JKB
+따른	따르/VV+ㄴ/ETM
+수급	수급/NNG
+탈락으로	탈락/NNG+으로/JKB
+자살하는	자살하/VV+는/ETM
+사건이	사건/NNG+이/JKS
+발생했다	발생하/VV+였/EP+다/EC
+
+특히	특히/MAG
+거제	거제/NNP
+거주	거주/NNG
+8월	8/SN+월/NNB
+이씨(70대)	이/NNP+씨/NNB+(/SS+70/SN+대/NNB+)/SS
+할머니의	할머니/NNG+의/JKG
+음독자살은	음독자살/NNG+은/JX
+대선과	대선/NNG+과/JKB
+맞물려	맞물리/VV+어/EC
+정치권에	정치권/NNG+에/JKB
+파장을	파장/NNG+을/JKO
+불러일으키기도	불러일으키/VV+기/ETN+도/JX
+했다	하/VX+였/EP+다/EF
+
+무소속	무소속/NNG
+안철수	안철수/NNP
+대선	대선/NNG
+후보가	후보/NNG+가/JKS
+‘복지부가	‘/SL+복지부/NNG+가/JKS
+상당수의	상당수/NNG+의/JKG
+자격을	자격/NNG+을/JKO
+기계적으로	기계적/NNG+으로/JKB
+박탈한	박탈하/VV+ㄴ/ETM
+결과’라고	결과’/NNG+이/VCP+라고/EC
+꼬집으며,	꼬집/VV+으며/EC+,/SP
+장기적으로	장기적/NNG+으로/JKB
+부양의무자	부양의무자/NNG
+기준을	기준/NNG+을/JKO
+폐지해야	폐지하/VV+여야/EC
+한다는	하/VX+ㄴ다는/ETM
+입장을	입장/NNG+을/JKO
+보인	보이/VV+ㄴ/ETM
+것	것/NNB
+
+하지만	하지만/MAJ
+복지부는	복지부/NNG+는/JX
+딸·사위의	딸/NNG+·/SP+사위/NNG+의/JKG
+상시소득이	상시소득/NNG+이/JKS
+드러나	드러나/VV+아/EC
+기초생활수급	기초생활수급/NNG
+자격이	자격/NNG+이/JKS
+중지된	중지되/VV+ㄴ/ETM
+사례라고	사례/NNG+이/VCP+라고/EC
+반박했다	반박하/VV+였/EP+다/EC
+
+복지부의	복지부/NNG+의/JKG
+반박에	반박/NNG+에/JKB
+장애계는	장애/NNG+계/XSN+는/JX
+'이씨의	'/SS+이/NNP+씨/NNB+의/JKG
+망자를	망자/NNG+를/JKO
+모독했다'며	모독하/VV+였/EP+다/EF+'/SS+며/EC
+복지부를	복지부/NNG+를/JKO
+향해	향하/VV+여/EC
+부양의무자	부양의무자/NNG
+기준	기준/NNG
+폐지를	폐지/NNG+를/JKO
+촉구했다	촉구하/VV+였/EP+다/EF
+
+특히	특히/MAG
+장애계는	장애/NNG+계/XSN+는/JX
+대선을	대선/NNG+을/JKO
+앞두고	앞두/VV+고/EC
+새누리당과	새누리당/NNP+과/JC
+민주통합당	민주통합당/NNP
+대선	대선/NNG
+후보들에	후보/NNG+들/XSN+에/JKB
+부양의무자	부양의무자/NNG
+기준	기준/NNG
+‘폐지’를	‘/SL+폐지’/NNG+를/JKO
+촉구했지만	촉구하/VV+였/EP+지만/EC
+정치권은	정치권/NNG+은/JX
+부양의무자	부양의무자/NNG
+기준	기준/NNG
+폐지보다는	폐지/NNG+보다/JKB+는/JX
+기준	기준/NNG
+‘완화’	‘/SL+완화/NNG+’/SN
+쪽으로	쪽/NNB+으로/JKB
+가닥을	가닥/NNG+을/JKO
+잡고	잡/VV+고/EC
+있다	있/VX+다/EC
+
+이	이/MM
+때문에	때문/NNB+에/JKB
+2013년에도	2013/SN+년/NNB+에/JKB+도/JX
+장애계의	장애/NNG+계/XSN+의/JKG
+부양의무자	부양의무자/NNG
+기준	기준/NNG
+폐지	폐지/NNG
+촉구는	촉구/NNG+는/JX
+계속될	계속되/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보인다	보일/VV+ㄴ다/EF
+
+7위는	7/SN+위/NNB+는/JX
+100표(4	100/SN+표/NNG+(/SS+4/SN
+
+8%)를	8/SN+%/SW+)/SS+를/JKO
+얻은	얻/VV+은/ETM
+‘발달장애인법’,	‘/SN+발달장애인법’/NNG+,/SP
+장애계는	장애/NNG+계/XSN+는/JX
+지속적으로	지속적/NNG+으로/JKB
+발달장애인(지적	발달장애인/NNG+(/SS+지적/NNG
+및	및/MAG
+자폐성)을	자폐성/NNG+)/SS+을/JKO
+위한	위하/VV+ㄴ/ETM
+정부의	정부/NNG+의/JKG
+서비스	서비스/NNG
+부족과	부족/NNG+과/JC
+인권침해	인권침해/NNG
+피해사례	피해사례/NNG
+등을	등/NNB+을/JKO
+이유로	이유/NNG+로/JKB
+‘발달장애인법	‘/SN+발달장애인법/NNG
+제정’의	제정/NNG+’/SL+의/JKG
+필요성을	필요성/NNG+을/JKO
+강조해왔다	강조하/VV+여/EC+오/VX+았/EP+다/EF
+
+이에	이/NP+에/JKB
+새누리당이	새누리당/NNP+이/JKS
+발달장애인법	발달장애인법/NNG
+제정의	제정/NNG+의/JKG
+중요성을	중요성/NNG+을/JKO
+인식,	인식/NNG+,/SP
+19대	19/SN+대/NNB
+국회	국회/NNG
+1호	1/SN+호/NNB
+법안으로	법안/NNG+으로/JKB
+발달장애인법안을	발달장애인법안/NNG+을/JKO
+발의했다	발의하/VV+였/EP+다/EF
+
+새누리당은	새누리당/NNP+은/JX
+총선	총선/NNG
+이후에도	이후/NNG+에/JKB+도/JX
+관련	관련/NNG
+단체들의	단체/NNG+들/XSN+의/JKG
+의견을	의견/NNG+을/JKO
+수렴하기	수렴하/VV+기/ETN
+위한	위하/VV+ㄴ/ETM
+간담회를	간담회/NNG+를/JKO
+개최하는	개최하/VV+는/ETM
+등	등/NNB
+적극적인	적극적/NNG+이/VCP+ㄴ/ETM
+모습을	모습/NNG+을/JKO
+보였다	보이/VV+었/EP+다/EF
+
+하지만	하지만/MAJ
+국회	국회/NNG
+발의	발/NNG+의/JKG
+이후	이후/NNG
+별다른	별다르/VA+ㄴ/ETM
+진전을	진전/NNG+을/JKO
+보이지	보이/VV+지/EC
+않아	않/VX+아/EC
+장애계는	장애/NNG+계/XSN+는/JX
+다소	다소/MAG
+불안해하고	불안하/VA+여/EC+하/VV+고/EC
+있다	있/VX+다/EC
+
+반면	반면/NNG
+새누리당은	새누리당/NNP+은/JX
+발달장애인법이	발달장애인법/NNG+이/JKS
+제정되도록	제정되/VV+도록/EC
+약속을	약속/NNG+을/JKO
+지킨다는	지키/VV+ㄴ다는/ETM
+입장이다	입장/NNG+이/VCP+다/EC
+
+장애계는	장애/NNG+계/XSN+는/JX
+발달장애인법이	발달장애인법/NNG+이/JKS
+제19대	제/XPN+19/SN+대/NNG
+국회에서	국회/NNG+에서/JKB
+조속히	조속히/MAG
+제정될	제정되/VV+ㄹ/ETM
+수	수/NNB
+있기를	있/VA+기/ETN+를/JKO
+갈망하고	갈망하/VV+고/EC
+있다	있/VX+다/EC
+
+키워드	키워드/NNG
+8위에는	8/SN+위/NNB+에/JKB+는/JX
+81표(3	81/SN+표/NNG+(/SS+3/SN
+
+9%)를	9/SN+%/SW+)/SS+를/JKO
+얻은	얻/VV+은/ETM
+‘12·19	‘/SL+12/SN+·/SP+19/SN
+대선’이	대선’/NNG+이/JKS
+선정됐다	선정되/VV+었/EP+다/EF
+
+연관	연관/NNG
+키워드인	키워드/NNG+이/VCP+ㄴ/ETM
+안철수(65표/3	안철수/NNP+(/SS+65/SN+표/NNG+//SP+3/SN
+
+1%),	1/SN+%/SW+)/SS+,/SP
+문재인(54표/2	문재인/NNG+(/SS+54/SN+표/NNG+//SP+2/SN
+
+6%),	6/SN+%/SW+)/SS+,/SP
+박근혜(48표/2	박근혜/NNP+(/SS+48/SN+표/NNG+//SP+2/SN
+
+3%)도	3/SN+%/SW+)/SS+도/JX
+각각	각각/MAG
+11위,	11/SN+위/NNB+,/SP
+14위,	14/SN+위/NNB+,/SP
+18위를	18/SN+위/NNB+를/JKO
+기록했다	기록하/VV+였/EP+다/EC
+
+이외	이외/NNG
+국회의원	국회의원/NNG
+선출을	선출/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+4·11총선도	4/SN+·/SP+11/SN+총선/NNG+도/JX
+16표(0	16/SN+표/NNG+(/SS+0/SN
+
+8%)를	8/SN+%/SW+)/SS+를/JKO
+얻으며	얻/VV+으며/EC
+27위를	27/SN+위/NNB+를/JKO
+나타냈다	나타내/VV+었/EP+다/EF
+
+장애계는	장애/NNG+계/XSN+는/JX
+대선을	대선/NNG+을/JKO
+앞두고	앞두/VV+고/EC
+연대를	연대/NNG+를/JKO
+구성,	구성/NNG+,/SP
+각	각/MM
+정당과	정당/NNG+과/JC
+대선	대선/NNG
+후보들에	후보/NNG+들/XSN+에/JKB
+12대	12/SN+대/NNB
+공약을	공약/NNG+을/JKO
+제시하고	제시하/VV+고/EC
+차기	차기/NNG
+정부에서	정부/NNG+에서/JKB
+이행해	이행하/VV+여/EC
+줄	주/VX+ㄹ/ETM
+것을	것/NNB+을/JKO
+촉구했다	촉구하/VV+였/EP+다/EC
+
+이에	이/NP+에/JKB
+따라	따르/VV+아/EC
+각	각/MM
+정당	정당/NNG
+및	및/MAG
+대선	대선/NNG
+후보들이	후보/NNG+들/XSN+이/JKS
+다수	다수/NNG
+장애인	장애인/NNG
+복지	복지/NNG
+공약을	공약/NNG+을/JKO
+수용,	수용/NNG+,/SP
+이행할	이행하/VV+ㄹ/ETM
+것을	것/NNB+을/JKO
+공약했다	공약하/VV+였/EP+다/EC
+
+2013년	2013/SN+년/NNB
+장애인복지	장애인복지/NNG
+정책	정책/NNG
+향방에	향방/NNG+에/JKB
+관심이	관심/NNG+이/JKS
+주목된다	주목되/VV+ㄴ다/EF
+
+올해의	올해/NNG+의/JKG
+키워드	키워드/NNG
+10위는	10/SN+위/NNB+는/JX
+74표(3	74/SN+표/NNG+(/SS+3/SN
+
+5%)를	5/SN+%/SW+)/SS+를/JKO
+얻은	얻/VV+은/ETM
+장애인교육권,	장애인교육권/NNG+,/SP
+연관	연관/NNG
+키워드인	키워드/NNG+이/VCP+ㄴ/ETM
+수화언어권(47표/2	수화언어/NNG+권/XSN+(/SS+47/SN+표/NNG+//SP+2/SN
+
+2%),	2/SN+%/SW+)/SS+,/SP
+특수교사(45표/2	특수교사/NNG+(/SS+45/SN+표/NNG+//SP+2/SN
+
+2%)도	2/SN+%/SW+)/SS+도/JX
+각각	각각/MAG
+19위와	19/SN+위/NNB+와/JC
+20위로	20/SN+위/NNB+로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+올	올/NNG
+한해	한/MM+해/NNB
+장애인을	장애인/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+교육환경은	교육환경/NNG+은/JX
+총체적으로	총체적/NNG+으로/JKB
+부실했다는	부실하/VA+었/EP+다는/ETM
+평가를	평가/NNG+를/JKO
+받았다	받/VV+았/EP+다/EC
+
+장애학생을	장애학생/NNG+을/JKO
+가르칠	가르치/VV+ㄹ/ETM
+교원,	교원/NNG+,/SP
+특히	특히/MAG
+장애영아를	장애영아/NNG+를/JKO
+전담해야	전담하/VV+여야/EC
+하는	하/VX+는/ETM
+특수교사는	특수교사/NNG+는/JX
+법정정원조차	법정정원/NNG+조차/JX
+채우지	채우/VV+지/EC
+못했다	못하/VX+였/EP+다/EC
+
+이에	이/NP+에/JKB
+장애계와	장애/NNG+계/XSN+와/JC
+특수교육	특수교육/NNG
+관계자들은	관계자/NNG+들/XSN+은/JX
+정부에	정부/NNG+에/JKB
+특수교사	특수교사/NNG
+법정정원	법정정원/NNG
+확충을	확충/NNG+을/JKO
+요구했다	요구하/VV+었/EP+다/EC
+
+특수교사	특수교사/NNG
+부족은	부족/NNG+은/JX
+곧바로	곧바로/MAG
+장애학생의	장애학생/NNG+의/JKG
+교육	교육/NNG
+질	질/NNG
+저하로	저하/NNG+로/JKB
+이어질	이어지/VV+ㄹ/ETM
+수박에	수박/NNG+에/JKB
+없다는	없/VA+다는/ETM
+이유에서다	이유/NNG+에서다/JKB
+
+하지만	하지만/MAJ
+정부는	정부/NNG+는/JX
+2013년	2013/SN+년/NNB
+특수교원을	특수교원/NNG+을/JKO
+662명	662/SN+명/NNB
+증원	증원/NNG
+결정하는데	결정하/VV+는/ETM+데/NNB
+그쳤다	그치/VV+었/EP+다/EC
+
+정권을	정권/NNG+을/JKO
+잡은	잡/VV+은/ETM
+새누리당도	새누리당/NNP+도/JX
+단계적으로	단계적/NNG+으로/JKB
+7000명을	7000/SN+명/NNB+을/JKO
+확충한다는	확충하/VV+ㄴ다는/ETM
+방침이다	방침/NNG+이/VCP+다/EC
+
+이는	이/NP+는/JX
+장애계와	장애/NNG+계/XSN+와/JC
+특수교육	특수교육/NNG
+관계자들이	관계자/NNG+들/XSN+이/JKS
+요구하는	요구하/VV+는/ETM
+1만명에는	1/SN+만/NR+명/NNB+에/JKB+는/JX
+턱	턱/NNB
+없이	없이/MAG
+부족한	부족하/VA+ㄴ/ETM
+확충이다	확충/NNG+이/VCP+다/EC
+
+청각장애인들은	청각장애인/NNG+들/XSN+은/JX
+농교육의	농교육/NNG+의/JKG
+현실을	현실/NNG+을/JKO
+꼬집으며	꼬집/VV+으며/EC
+농교육의	농교육/NNG+의/JKG
+근본적인	근본적/NNG+이/VCP+ㄴ/ETM
+개선은	개선/NNG+은/JX
+물론,	물론/MAG+,/SP
+수화언어의	수화언어/NNG+의/JKG
+법적지위	법적지위/NNG
+보장을	보장/NNG+을/JKO
+정부에	정부/NNG+에/JKB
+요구했다	요구하/VV+었/EP+다/EC
+
+이에	이/NP+에/JKB
+정부는	정부/NNG+는/JX
+농학교	농학교/NNG
+교사	교사/NNG
+수화통역사	수화통역사/NNG
+자격증	자격증/NNG
+취득추진,	취득추진/NNG+,/SP
+농아인	농아/NNG+이/VCP+ㄴ/ETM
+당사자교사	당사자교사/NNG
+채용확대,	채용확대/NNG+,/SP
+교육에서	교육/NNG+에서/JKB
+정당한	정당하/VA+ㄴ/ETM
+편의	편/NNB+의/JKG
+확대	확대/NNG
+등의	등/NNB+의/JKG
+약속을	약속/NNG+을/JKO
+받아내기도	받/VV+아/EC+내/VX+기/ETN+도/JX
+했다	하/VX+였/EP+다/EF
+
+이밖에도	이/MM+밖/NNG+에/JKB+도/JX
+인천세계장애대회가	인천/NNP+세계장애대회/NNG+가/JKS
+63표(3%)로	63/SN+표/NNG+(/SS+3/SN+%/SW+)/SS+로/JKB
+12위,	12/SN+위/NNB+,/SP
+연관	연관/NNG
+키워드인	키워드/NNG+이/VCP+ㄴ/ETM
+아태장애인10년이	아태/NNP+장애인/NNG+10/SN+년/NNB+이/JKS
+50표(2	50/SN+표/NNG+(/SS+2/SN
+
+4%)로	4/SN+%/SW+)/SS+로/JKB
+16위를	16/SN+위/NNB+를/JKO
+보였다	보이/VV+었/EP+다/EF
+
+런던장애인올림픽이	런던/NNP+장애인올림픽이/NNG
+49표(2	49/SN+표/NNG+(/SS+2/SN
+
+3%)로	3/SN+%/SW+)/SS+로/JKB
+17위,	17/SN+위/NNB+,/SP
+보치아선수	보치아선수/NNG
+폭행이	폭행/NNG+이/JKS
+41표(2%)로	41/SN+표/NNG+(/SS+2/SN+%/SW+)/SS+로/JKB
+21위로	21/SN+위/NNB+로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+[설문조사결과]2012년	[/SS+설문조사결과/NNG+]/SS+2012/SN+년/NNB
+장애인계	장애인계/NNG
+키워드	키워드/NNG
+전체	전체/NNG
+순위	순위/NNG
+보기1위	보/VV+기/ETN+1/SN+위/NNB
+장애인활동보조(장애인활동지원제도)	장애인활동보조/NNG+(/SS+장애인활동지원제도/NNG+)/SS
+(230/11%)	(/SS+230/SN+//SP+11/SN+%/SW+)/SS
+2위	2/SN+위/NNB
+장애등급제(216/10	장애등급/NNG+제/XSN+(/SS+216/SN+//SP+10/SN
+
+3%)	3/SN+%/SW+)/SS
+3위	3/SN+위/NNB
+장애인연금(184/8	장애인연금/NNG+(/SS+184/SN+//SP+8/SN
+
+8%)	8/SN+%/SW+)/SS
+4위	4/SN+위/NNB
+장애등급판정기준(157/7	장애등급판정기준/NNG+(/SS+157/SN+//SP+7/SN
+
+5%)	5/SN+%/SW+)/SS
+5위	5/SN+위/NNB
+장애인콜택시(113/5	장애인콜택시/NNG+(/SS+113/SN+//SP+5/SN
+
+4%)	4/SN+%/SW+)/SS
+6위	6/SN+위/NNB
+부양의무제(101/4	부양의무제/NNG+(/SS+101/SN+//SP+4/SN
+
+8%)	8/SN+%/SW+)/SS
+7위	7/SN+위/NNB
+발달장애인법(100/4	발달장애인법/NNG+(/SS+100/SN+//SP+4/SN
+
+8%)	8/SN+%/SW+)/SS
+8위	8/SN+위/NNB
+12·19대선(81/3	12/SN+·/SP+19/SN+대/NNB+선/NNG+(/SS+81/SN+//SP+3/SN
+
+9%)	9/SN+%/SW+)/SS
+9위	9/SN+위/NNB
+이동권(77/3	이동/NNG+권/XSN+(/SS+77/SN+//SP+3/SN
+
+7%)	7/SN+%/SW+)/SS
+10위	10/SN+위/NNB
+장애인교육권(74/3	장애인교육권/NNG+(/SS+74/SN+//SP+3/SN
+
+5%)	5/SN+%/SW+)/SS
+11위	11/SN+위/NNB
+안철수(65/3	안철수/NNP+(/SS+65/SN+//SP+3/SN
+
+1%)	1/SN+%/SW+)/SS
+12위	12/SN+위/NNB
+인천세계장애대회(63/3%)	인천/NNP+세계장애대회/NNG+(/SS+63/SN+//SP+3/SN+%/SW+)/SS
+13위	13/SN+위/NNB
+故김주영(62/3%)	故/SN+김주영/NNP+(/SS+62/SN+//SP+3/SN+%/SW+)/SS
+14위	14/SN+위/NNB
+문재인(54/2	문재인/NNG+(/SS+54/SN+//SP+2/SN
+
+6%)	6/SN+%/SW+)/SS
+14위	14/SN+위/NNB
+장애인재난(54/2	장애인재난/NNG+(/SS+54/SN+//SP+2/SN
+
+6%)	6/SN+%/SW+)/SS
+16위	16/SN+위/NNB
+아태장애인10년(50/2	아태/NNP+장애인/NNG+10/SN+년/NNB+(/SS+50/SN+//SP+2/SN
+
+4%)	4/SN+%/SW+)/SS
+17위	17/SN+위/NNB
+런던장애인올림픽(49/2	런던/NNP+장애인올림픽/NNG+(/SS+49/SN+//SP+2/SN
+
+3%)	3/SN+%/SW+)/SS
+18위	18/SN+위/NNB
+박근혜(48/2	박근혜/NNP+(/SS+48/SN+//SP+2/SN
+
+3%)	3/SN+%/SW+)/SS
+19위	19/SN+위/NNB
+수화언어권(47/2	수화언어/NNG+권/XSN+(/SS+47/SN+//SP+2/SN
+
+2%)	2/SN+%/SW+)/SS
+20위	20/SN+위/NNB
+특수교사(45/2	특수교사/NNG+(/SS+45/SN+//SP+2/SN
+
+2%)	2/SN+%/SW+)/SS
+21위	21/SN+위/NNB
+보치아선수	보치아/NNP+선수/NNG
+폭행(41/2%)	폭행/NNG+(/SS+41/SN+//SP+2/SN+%/SW+)/SS
+22위	22/SN+위/NNB
+평창동계스페셜올림픽(27/1	평창동계스페셜올림픽/NNP+(/SS+27/SN+//SP+1/SN
+
+3%)	3/SN+%/SW+)/SS
+23위	23/SN+위/NNB
+1인시위(26/1	1/SN+인시위/NNG+(/SS+26/SN+//SP+1/SN
+
+2%)	2/SN+%/SW+)/SS
+24위	24/SN+위/NNB
+언어재활사(20/1%)	언어재활사/NNG+(/SS+20/SN+//SP+1/SN+%/SW+)/SS
+25위	25/SN+위/NNB
+김정록(18/0	김정록/NNP+(/SS+18/SN+//SP+0/SN
+
+9%)	9/SN+%/SW+)/SS
+26위	26/SN+위/NNB
+현병철(17/0	현병철/NNG+(/SS+17/SN+//SP+0/SN
+
+8%)	8/SN+%/SW+)/SS
+27위	27/SN+위/NNB
+4·11총선(16/0	4/SN+·/SP+11/SN+총선/NNG+(/SS+16/SN+//SP+0/SN
+
+8%)	8/SN+%/SW+)/SS
+28위	28/SN+위/NNB
+안마사(12/0	안마사/NNG+(/SS+12/SN+//SP+0/SN
+
+6%)	6/SN+%/SW+)/SS
+29위	29/SN+위/NNB
+하조대(10/0	하조대/NNP+(/SS+10/SN+//SP+0/SN
+
+5%)	5/SN+%/SW+)/SS
+30위	30/SN+위/NNB
+BF인증(9/0	BF/SL+인증/NNG+(/SS+9/SN+//SP+0/SN
+
+4%)	4/SN+%/SW+)/SS
+31위	31/SN+위/NNB
+최동익(8/0	최동익/NNG+(/SS+8/SN+//SP+0/SN
+
+4%)	4/SN+%/SW+)/SS
+32위	32/SN+위/NNB
+국정감사(7/0	국정감사/NNG+(/SS+7/SN+//SP+0/SN
+
+3%)	3/SN+%/SW+)/SS
+33위	33/SN+위/NNB
+귀래	귀래/NNG
+사랑의집(6/0	사랑의집/NNG+(/SS+6/SN+//SP+0/SN
+
+3%)	3/SN+%/SW+)/SS
+34위	34/SN+위/NNB
+음향신호기(5/0	음향신호기/NNG+(/SS+5/SN+//SP+0/SN
+
+2%)	2/SN+%/SW+)/SS

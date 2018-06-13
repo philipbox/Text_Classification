@@ -1,0 +1,367 @@
+시설	시설/NNG
+장애인	장애인/NNG
+2명	2/SN+명/NNB
+중	중/NNB
+1명	1/SN+명/NNB
+자립	자립/NNG
+'희망'	'/SS+희망/NNG+'/SS
+
+시설에	시설/NNG+에/JKB
+거주하는	거주하/VV+는/ETM
+장애인	장애인/NNG
+2명	2/SN+명/NNB
+중	중/NNB
+1명이	1/SN+명/NNB+이/JKS
+지역사회에서	지역사회/NNG+에서/JKB
+자립해	자립하/VV+여/EC
+살고	살/VV+고/EC
+싶어	싶/VX+어/EC
+하는	하/VV+는/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+대구대학교	대구대학교/NNP
+사회복지학과	사회복지학과/NNG
+조한진	조한진/NNP
+교수는	교수/NNG+는/JX
+18일	18/SN+일/NNB
+오후	오후/NNG
+프레지던트호텔에서	프레지던트호텔/NNP+에서/JKB
+‘시설	‘/SN+시설/NNG
+장애인	장애인/NNG
+거주	거주/NNG
+현황	현황/NNG
+및	및/MAG
+장애인	장애인/NNG
+자립생활	자립생활/NNG
+욕구	욕구/NNG
+실태조사	실태조사/NNG
+결과’를	결과’/NNG+를/JKO
+발표했다	발표하/VV+였/EP+다/EC
+
+이번	이번/NNG
+실태조사는	실태조사/NNG+는/JX
+국가차원의	국가차원/NNG+의/JKG
+시설	시설/NNG
+장애인	장애인/NNG
+인권실태	인권실태/NNG
+및	및/MAG
+자립생활	자립생활/NNG
+서비스체계에	서비스체계/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+진단을	진단/NNG+을/JKO
+바탕으로	바탕/NNG+으로/JKB
+자립생활	자립생활/NNG
+기반구축을	기반구축/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+종합적인	종합적/NNG+이/VCP+ㄴ/ETM
+대책	대책/NNG
+마련이	마련/NNG+이/JKS
+필요하다는	필요하/VA+다는/ETM
+판단에	판단/NNG+에/JKB
+따른	따르/VV+ㄴ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+국가인권위원회는	국가인권위원회/NNG+는/JX
+이같은	이/NP+같/VA+은/ETM
+판단을	판단/NNG+을/JKO
+기초로	기초/NNG+로/JKB
+‘장애인의	‘/SN+장애인/NNG+의/JKG
+사회통합과	사회통합/NNG+과/JC
+자립생활	자립생활/NNG
+촉진을	촉진/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+국가보고서’를	국가보고서/NNG+’/SL+를/JKO
+마련하기로	마련하/VV+기/ETN+로/JKB
+하고,	하/VV+고/EC+,/SP
+국가보고서	국가보고서/NNG
+기초자료로	기초자료/NNG+로/JKB
+활용하기	활용하/VV+기/ETN
+위해	위하/VV+여/EC
+이번	이번/NNG
+실태조사를	실태조사/NNG+를/JKO
+진행했다	진행하/VV+였/EP+다/EF
+
+실태조사는	실태조사/NNG+는/JX
+조한진	조한진/NNP
+교수가	교수/NNG+가/JKS
+맡았으며,	맡/VV+았/EP+으며/EC+,/SP
+지난	지나/VV+ㄴ/ETM
+6월부터	6/SN+월/NNB+부터/JX
+8월까지	8/SN+월/NNB+까지/JX
+장애인생활시설	장애인생활시설/NNG
+등	등/NNB
+장애인	장애인/NNG
+거주시설	거주시설/NNG
+1,144곳	1,144/SN+곳/NNG
+2만8,600명	2/SN+만/NR+8,600/SN+명/NNB
+중	중/NNB
+113곳	113/SN+곳/NNG
+729명을	729/SN+명/NNB+을/JKO
+대상으로	대상/NNG+으로/JKB
+실시됐다	실시되/VV+었/EP+다/EF
+
+이날	이날/NNG
+발표를	발표/NNG+를/JKO
+맡은	맡/VV+은/ETM
+조한진	조한진/NNP
+교수에	교수/NNG+에/JKB
+따르면	따르/VV+면/EC
+시설을	시설/NNG+을/JKO
+떠나	떠나/VV+아/EC
+자립해	자립하/VV+여/EC
+살기를	살/VV+기/ETN+를/JKO
+희망하는	희망하/VV+는/ETM
+장애인은	장애인/NNG+은/JX
+57	57/SN
+
+49%를	49/SN+%/SW+를/JKO
+나타냈다	나타내/VV+었/EP+다/EF
+
+‘시설	‘/SL+시설/NNG
+장애인	장애인/NNG
+거주	거주/NNG
+현황	현황/NNG
+및	및/MAG
+장애인	장애인/NNG
+자립생활	자립생활/NNG
+욕구	욕구/NNG
+실태조사	실태조사/NNG
+결과’를	결과’/NNG+를/JKO
+발표하고	발표하/VV+고/EC
+있는	있/VX+는/ETM
+조한진	조한진/NNP
+교수	교수/NNG
+
+특히	특히/MAG
+지역사회	지역사회/NNG
+내	내/NNB
+자립생활을	자립생활/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+서비스	서비스/NNG
+제공(활동보조	제공/NNG+(/SS+활동보조/NNG
+및	및/MAG
+생활비	생활비/NNG
+제공	제공/NNG
+등)을	등/NNB+)/SS+을/JKO
+설명	설명/NNG
+들은	듣/VV+은/ETM
+후	후/NNG
+자립하겠다는	자립하/VV+겠/EP+다는/ETM
+응답은	응답/NNG+은/JX
+62	62/SN
+
+14%로	14/SN+%/SW+로/JKB
+조사됐다	조사되/VV+었/EP+다/EF
+
+지역사회	지역사회/NNG
+자립생활의	자립생활/NNG+의/JKG
+어려운	어렵/VA+ㄴ/ETM
+점(활동보조	점/NNG+(/SS+활동보조/NNG
+및	및/MAG
+생활비	생활비/NNG
+미제공	미/XPN+제공/NNG
+등)을	등/NNB+)/SS+을/JKO
+설명들은	설명/NNG+들/XSN+은/JX
+후	후/MAG
+자립하겠다는	자립하/VV+겠/EP+다는/ETM
+희망도	희망/NNG+도/JX
+53	53/SN
+
+42%를	42/SN+%/SW+를/JKO
+보였다	보이/VV+었/EP+다/EF
+
+시설거주	시설거주/NNG
+장애인의	장애인/NNG+의/JKG
+탈시설	탈시설/NNG
+욕구는	욕구/NNG+는/JX
+지역별로	지역/NNG+별/XSN+로/JKB
+대구시가	대구시/NNP+가/JKS
+58,6%로	58,6/SN+%/SW+로/JKB
+가장	가장/MAG
+높았으며,	높/VA+았/EP+으며/EC+,/SP
+부산시	부산시/NNP
+57	57/SN
+
+6%,	6/SN+%/SW+,/SP
+서울시	서울시/NNP
+57%,	57/SN+%/SW+,/SP
+광주시	광주시/NNP
+41	41/SN
+
+3%로	3/SN+%/SW+로/JKB
+조사됐다	조사되/VV+었/EP+다/EF
+
+특히	특히/MAG
+대구시는	대구시/NNP+는/JX
+주거	주거/NNG
+및	및/MAG
+서비스가	서비스/NNG+가/JKS
+지원된다고	지원되/VV+ㄴ다고/EC
+가정할	가정하/VV+ㄹ/ETM
+때	때/NNG
+70	70/SN
+
+5%가	5/SN+%/SW+가/JKS
+자립을	자립/NNG+을/JKO
+희망했고,	희망하/VV+였/EP+고/EC+,/SP
+서울시은	서울시/NNP+은/JX
+70	70/SN
+
+3%,	3/SN+%/SW+,/SP
+광주시는	광주시/NNP+는/JX
+42	42/SN
+
+2%로	2/SN+%/SW+로/JKB
+분석됐다	분석되/VV+었/EP+다/EF
+
+시설을	시설/NNG+을/JKO
+떠나서	떠나/VV+아서/EC
+살고	살/VV+고/EC
+싶은	싶/VX+은/ETM
+주된	주되/VV+ㄴ/ETM
+이유로는	이유/NNG+로/JKB+는/JX
+외출,	외출/NNG+,/SP
+식사,	식사/NNG+,/SP
+취침	취침/NNG
+등	등/NNB
+일상생활에서	일상생활/NNG+에서/JKB
+좀	좀/MAG
+더	더/MAG
+자유롭게	자유롭/VA+게/EC
+살고	살/VV+고/EC
+싶어서가	싶/VX+어서/EC+가/JKC
+24	24/SN
+
+92%,	92/SN+%/SW+,/SP
+단체생활이	단체생활/NNG+이/JKC
+아닌	아니/VCN+ㄴ/ETM
+개인상활을	개인상활/NNG+을/JKO
+보장받기	보장/NNG+받/VV+기/ETN
+위해서가	위하/VV+여서/EC+가/JKC
+22	22/SN
+
+74%를	74/SN+%/SW+를/JKO
+보였다	보이/VV+었/EP+다/EF
+
+지역사회	지역사회/NNG
+희망	희망/NNG
+거주형태로는	거주형태/NNG+로/JKB+는/JX
+‘가족들과	‘/SN+가족/NNG+들/XSN+과/JKB
+함께	함께/MAG
+살고	살/VV+고/EC
+싶다’가	싶/VX+다/EF+’/SL+가/JKS
+28L	28/SN+L/SL
+
+49%,	49/SN+%/SW+,/SP
+‘혼자	‘/SL+혼자/NNG
+살고	살/VV+고/EC
+싶다’	싶/VX+다/EC+’/SL
+26	26/SN
+
+50%,	50/SN+%/SW+,/SP
+‘동료와	‘/SL+동료/NNG+와/JKB
+살고	살/VV+고/EC
+싶다’는	싶/VX+다/EC+’/SL+는/JX
+22	22/SN
+
+51%로	51/SN+%/SW+로/JKB
+분석됐다	분석되/VV+었/EP+다/EF
+
+지역사회	지역사회/NNG
+자립생활을	자립생활/NNG+을/JKO
+위해	위하/VV+여/EC
+거주시설을	거주시설/NNG+을/JKO
+떠나	떠나/VV+아/EC
+단기간	단기간/NNG
+지역사회에서	지역사회/NNG+에서/JKB
+거주한	거주하/VV+ㄴ/ETM
+경험은	경험/NNG+은/JX
+88,78%가	88,78/SN+%/SW+가/JKS
+없었던	없/VA+었/EP+던/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+자립의사	자립의사/NNG
+표현	표현/NNG
+역시	역시/MAG
+77	77/SN
+
+44%가	44/SN+%/SW+가/JKS
+없었던	없/VA+었/EP+던/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+자립할	자립하/VV+ㄹ/ETM
+경우	경우/NNG
+가장	가장/MAG
+필요한	필요하/VA+ㄴ/ETM
+것으로는	것/NNB+으로/JKB+는/JX
+31	31/SN
+
+48%가	48/SN+%/SW+가/JKS
+집을	집/NNG+을/JKO
+꼽았다	꼽/VV+았/EP+다/EF
+
+다음으로	다음/NNG+으로/JKB
+생활비	생활비/NNG
+지원이	지원/NNG+이/JKS
+22	22/SN
+
+46%,	46/SN+%/SW+,/SP
+일자리	일자리/NNG
+13	13/SN
+
+05%,	05/SN+%/SW+,/SP
+활동보조인	활동보조인/NNG
+등은	등/NNB+은/JX
+12	12/SN
+
+28%을	28/SN+%/SW+을/JKO
+나타냈다	나타내/VV+었/EP+다/EF
+
+조	조/NNP
+교수는	교수/NNG+는/JX
+“거주시설	“/SL+거주시설/NNG
+장애인의	장애인/NNG+의/JKG
+자립생활	자립생활/NNG
+지원을	지원/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+정책방안으로	정책방안/NNG+으로/JKB
+정부차원의	정부차원/NNG+의/JKG
+탈시설	탈시설/NNG
+전환지원체계	전환지원체계/NNG
+마련,	마련/NNG+,/SP
+자립생활	자립생활/NNG
+원칙	원칙/NNG
+명문화,	명문화/NNG+,/SP
+사회복지신청권의	사회복지신청권/NNG+의/JKG
+실질화	실질화/NNG
+등이	등/NNB+이/JKS
+필요하다”고	필요하/VA+다/EC+”/VV+고/EC
+밝혔다	밝히/VV+었/EP+다/EC
+
+이어	이어/MAG
+“시설	“/SN+시설/NNG
+내	내/NNB
+자립	자립/NNG
+준비를	준비/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+임시거주	임시거주/NNG
+훈련	훈련/NNG
+등	등/NNB
+자립지원	자립지원/NNG
+프로그램	프로그램/NNG
+확대,	확대/NNG+,/SP
+시설	시설/NNG
+내	내/NNB
+공공임대	공공임대/NNG
+주택	주택/NNG
+신청	신청/NNG
+자격	자격/NNG
+취득	취득/NNG
+요건	요건/NNG
+완화	완화/NNG
+등도	등/NNB+도/JX
+필요하다”고	필요하/VA+다/EC+”/VV+고/EC
+덧붙였다	덧붙이/VV+었/EP+다/EF

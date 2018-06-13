@@ -1,0 +1,132 @@
+“두	“/SN+두/MM
+팔	팔/NNG
+대신	대신/NNG
+두	두/MM
+발로”	발/NNG+로/JKB+”/SN
+최고기능인	최고기능/NNG+이/VCP+ㄴ/ETM
+향한	향하/VV+ㄴ/ETM
+열정	열정/NNG
+
+'2012년	'/SS+2012/SN+년/NNB
+제29회	제/XPN+29/SN+회/NNB
+전국장애인기능경기대회'가	전/MM+국장애인기능경기대회/NNG+'/SS+가/JKS
+인천	인천/NNP
+송도	송도/NNP
+컨벤시아와	컨벤시아/NNP+와/JC
+인천기계공고에서	인천기계공고/NNP+에서/JKB
+진행되고	진행되/VV+고/EC
+있다	있/VX+다/EC
+
+이번	이번/NNG
+대회는	대회/NNG+는/JX
+전국	전국/NNG
+지역을	지역/NNG+을/JKO
+대표한	대표하/VV+ㄴ/ETM
+선수	선수/NNG
+360여명이	360/SN+여/XSN+명/NNB+이/JKS
+출전한	출전하/VV+ㄴ/ETM
+가운데	가운데/NNG
+오는	오/VV+는/ETM
+20일까지	20/SN+일/NNB+까지/JX
+진행된다	진행되/VV+ㄴ다/EC
+
+18일	18/SN+일/NNB
+선수들이	선수/NNG+들/XSN+이/JKS
+경기	경기/NNP
+현장에서	현장/NNG+에서/JKB
+내뿜는	내뿜/VV+는/ETM
+열기속으로	열기속/NNG+으로/JKB
+들어가	들어가/VV+아/EC
+봤다	보/VV+았/EP+다/EF
+
+'e-스포츠	'/SS+e/SL+-/SO+스포츠/NNG
+삼매경'&lt;/b>	삼매경/NNG+'/SS+&/SW+lt/SL+;//SP+b/SL+>/SS
+e-스포츠	e/SL+-/SO+스포츠/NNG
+직종에	직종/NNG+에/JKB
+출전한	출전하/VV+ㄴ/ETM
+선수가	선수/NNG+가/JKS
+경기에	경기/NNG+에/JKB
+집중하고	집중하/VV+고/EC
+있다	있/VX+다/EC
+
+ⓒ한국장애인고용공단"	ⓒ/SL+한국/NNP+장애인고용공단/NNG+"/SS
+border="1"	border/SL+=/SW+"/SS+1/SN+"/SS
+height="345"	height/SL+=/SW+"/SS+345/SN+"/SS
+width="520"	width/SL+=/SW+"/SS+520/SN+"/SS
+/>	//SP+>/SS
+'e-스포츠	'/SS+e/SL+-/SO+스포츠/NNG
+삼매경'	삼매경/NNG+'/SS
+e-스포츠	e/SL+-/SO+스포츠/NNG
+직종에	직종/NNG+에/JKB
+출전한	출전하/VV+ㄴ/ETM
+선수가	선수/NNG+가/JKS
+경기에	경기/NNG+에/JKB
+집중하고	집중하/VV+고/EC
+있다	있/VX+다/EC
+
+ⓒ한국장애인고용공단	ⓒ/SL+한국/NNP+장애인고용공단/NNG
+'장인의	'/SS+장인/NNG+의/JKG
+정성으로…'&lt;/b>	정성/NNG+으로/JKB+…/SE+'/SS+&/SW+lt/SL+;//SP+b/SL+>/SS
+도자기	도자기/NNG
+직종에	직종/NNG+에/JKB
+출전한	출전하/VV+ㄴ/ETM
+선수가	선수/NNG+가/JKS
+작업에	작업/NNG+에/JKB
+심혈을	심혈/NNG+을/JKO
+기울이고	기울이/VV+고/EC
+있다	있/VX+다/EC
+
+목표는	목표/NNG+는/JX
+당연	당연/NNG
+‘우승’이다	‘/SL+우승’/NNG+이/VCP+다/EC
+
+"	"/SS
+border="1"	border/SL+=/SW+"/SS+1/SN+"/SS
+height="346"	height/SL+=/SW+"/SS+346/SN+"/SS
+width="520"	width/SL+=/SW+"/SS+520/SN+"/SS
+/>	//SP+>/SS
+'장인의	'/SS+장인/NNG+의/JKG
+정성으로…'	정성/NNG+으로/JKB+…/SE+'/SS
+도자기	도자기/NNG
+직종에	직종/NNG+에/JKB
+출전한	출전하/VV+ㄴ/ETM
+선수가	선수/NNG+가/JKS
+작업에	작업/NNG+에/JKB
+심혈을	심혈/NNG+을/JKO
+기울이고	기울이/VV+고/EC
+있다	있/VX+다/EC
+
+목표는	목표/NNG+는/JX
+당연	당연/NNG
+‘우승’이다	‘/SL+우승’/NNG+이/VCP+다/EC
+
+'내가	'/SS+내/NP+가/JKS
+최고의	최고/NNG+의/JKG
+기능인'&lt;/b>18일	기능/NNG+이/VCP+ㄴ/ETM+'/SS+&/SW+lt/SL+;//SP+b/SL+>/SS+18/SN+일/NNB
+전국장애인기능경기대회	전/MM+국장애인기능경기대회/NNG
+현장은	현장/NNG+은/JX
+최고의	최고/NNG+의/JKG
+기능인이	기능/NNG+인/XSN+이/JKC
+되기	되/VV+기/ETN
+위한	위하/VV+ㄴ/ETM
+열기로	열기/NNG+로/JKB
+가득했다	가득하/VA+었/EP+다/EC
+
+ⓒ한국장애인고용공단"	ⓒ/SL+한국/NNP+장애인고용공단/NNG+"/SS
+border="1"	border/SL+=/SW+"/SS+1/SN+"/SS
+height="345"	height/SL+=/SW+"/SS+345/SN+"/SS
+width="520"	width/SL+=/SW+"/SS+520/SN+"/SS
+/>	//SP+>/SS
+'내가	'/SS+내/NP+가/JKS
+최고의	최고/NNG+의/JKG
+기능인'18일	기능인/NNG+'/SS+18/SN+일/NNB
+전국장애인기능경기대회	전/MM+국장애인기능경기대회/NNG
+현장은	현장/NNG+은/JX
+최고의	최고/NNG+의/JKG
+기능인이	기능/NNG+인/XSN+이/JKC
+되기	되/VV+기/ETN
+위한	위하/VV+ㄴ/ETM
+열기로	열기/NNG+로/JKB
+가득했다	가득하/VA+었/EP+다/EC
+
+ⓒ한국장애인고용공단	ⓒ/SL+한국/NNP+장애인고용공단/NNG

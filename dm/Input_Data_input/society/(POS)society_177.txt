@@ -1,0 +1,96 @@
+부산서	부산/NNP+서/JKB
+20대	20/SN+대/NNB
+장애인	장애인/NNG
+저체온증	저체온/NNG+증/XSN
+추정	추정/NNG
+사망	사망/NNG
+
+(부산=연합뉴스)	(/SS+부산/NNP+=/SW+연합뉴스/NNP+)/SS
+김선호	김선호/NNP
+기자	기자/NNG
+=	=/SW
+23일	23/SN+일/NNB
+낮	낮/NNG
+12시께	12/SN+시/NNB+께/XSN
+부산	부산/NNP
+기장군	기장군/NNP
+철마면	철마면/NNP
+안평리	안평리/NNP
+도시철도	도시철도/NNG
+안평역	안평역/NNP
+부근	부근/NNG
+개울가에서	개울가/NNG+에서/JKB
+S(21)씨가	S/SL+(/SS+21/SN+)/SS+씨/NNB+가/JKS
+숨져	숨지/VV+어/EC
+있는	있/VX+는/ETM
+것을	것/NNB+을/JKO
+택시기사가	택시기사/NNG+가/JKS
+발견해	발견하/VV+여/EC
+경찰에	경찰/NNG+에/JKB
+신고했다	신고하/VV+였/EP+다/EC
+
+경찰	경찰/NNG
+검안	검안/NNG
+결과	결과/NNG
+S씨는	S/SL+씨/NNB+는/JX
+다리에	다리/NNG+에/JKB
+심한	심하/VA+ㄴ/ETM
+동상이	동상/NNG+이/JKS
+있는	있/VA+는/ETM
+등	등/NNB
+저체온증으로	저체온증/NNG+으로/JKB
+숨진	숨지/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+보인다고	보이/VV+ㄴ다고/EC
+경찰은	경찰/NNG+은/JX
+설명했다	설명하/VV+었/EP+다/EC
+
+정신지체	정신지체/NNG
+2급	2/SN+급/NNG
+장애인인	장애인/NNG+이/VCP+ㄴ/ETM
+S씨는	S/SL+씨/NNB+는/JX
+지난달	지난달/NNG
+29일	29/SN+일/NNB
+삼촌과	삼촌/NNP+과/JKB
+함께	함께/MAG
+외식을	외식/NNG+을/JKO
+한	하/VV+ㄴ/ETM
+뒤	뒤/NNG
+사라져	사라지/VV+어/EC
+가족들의	가족/NNG+들/XSN+의/JKG
+미귀가	미귀/NNG+가/JKS
+신고가	신고/NNG+가/JKS
+접수된	접수되/VV+ㄴ/ETM
+상태였다	상태/NNG+이/VCP+었/EP+다/EF
+
+경찰은	경찰/NNG+은/JX
+유족	유족/NNG
+등을	등/NNB+을/JKO
+상대로	상대/NNG+로/JKB
+정확한	정확하/VA+ㄴ/ETM
+경위를	경위/NNG+를/JKO
+조사하고	조사하/VV+고/EC
+있다	있/VX+다/EC
+
+wink@yna	wink/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

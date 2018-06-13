@@ -1,0 +1,129 @@
+경기	경기/NNP
+남·북부	남/NNP+·/SP+북부/NNG
+장애인	장애인/NNG
+인권사업	인권사업/NNG
+불균형	불균형/NNG
+'심각'	'/SS+심각/NNG+'/SS
+
+(의정부=연합뉴스)	(/SS+의정부/NNP+=/SW+연합뉴스/NNP+)/SS
+김도윤	김도윤/NNP
+기자	기자/NNG
+=	=/SW
+경기남부와	경기/NNP+남부/NNG+와/JC
+경기북부의	경기/NNP+북부/NNG+의/JKG
+장애인	장애인/NNG
+인권사업	인권사업/NNG
+불균형이	불균형/NNG+이/JKS
+심각한	심각하/VA+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+7일	7/SN+일/NNB
+도(道)가	도/NNP+(/SS+道/SL+)/SS+가/JKS
+도의회	도의회/NNG
+김경호(민주통합당·의정부2)	김경호/NNP+(/SS+민주통합당/NNP+·/SP+의정부/NNP+2/SN+)/SS
+의원에게	의원/NNG+에게/JKB
+제출한	제출하/VV+ㄴ/ETM
+행정사무감사	행정사무감사/NNG
+자료에	자료/NNG+에/JKB
+따르면	따르/VV+면/EC
+올해	올해/NNG
+경기남부	경기/NNP+남부/NNG
+장애인	장애인/NNG
+인권사업	인권사업/NNG
+예산은	예산/NNG+은/JX
+3건,	3/SN+건/NNB+,/SP
+2억원인	2/SN+억/NR+원/NNB+이/VCP+ㄴ/ETM
+반면	반면/NNG
+경기북부는	경기/NNP+북부/NNG+는/JX
+1건,	1/SN+건/NNB+,/SP
+830만원에	830/SN+만/NR+원/NNB+에/JKB
+불과했다	불과하/VA+었/EP+다/EC
+
+최근	최근/NNG
+3년치를	3/SN+년/NNB+치/XSN+를/JKO
+살펴보면	살펴보/VV+면/EC
+경기남부는	경기/NNP+남부/NNG+는/JX
+2010년	2010/SN+년/NNB
+3건	3/SN+건/NNB
+5천만원,	5/SN+천만/NR+원/NNB+,/SP
+2011년	2011/SN+년/NNB
+7건	7/SN+건/NNB
+2억5천만원	2/SN+억/NR+5/SN+천만/NR+원/NNB
+등	등/NNB
+13건	13/SN+건/NNB
+5억원이다	5/SN+억/NR+원/NNB+이/VCP+다/EC
+
+이에	이/NP+에/JKB
+반해	반하/VV+여/EC
+경기북부는	경기/NNP+북부/NNG+는/JX
+2010년	2010/SN+년/NNB
+1건	1/SN+건/NNB
+2천100만원,	2/SN+천/NR+100/SN+만/NR+원/NNB+,/SP
+2011년	2011/SN+년/NNB
+4건	4/SN+건/NNB
+870만원	870/SN+만/NR+원/NNB
+등	등/NNB
+6건	6/SN+건/NNB
+3천800만원으로	3/SN+천/NR+800/SN+만/NR+원/NNB+으로/JKB
+남부의	남부/NNG+의/JKG
+7	7/SN
+
+6%에	6/SN+%/SW+에/JKB
+머물렀다	머무르/VV+었/EP+다/EC
+
+더욱이	더욱이/MAG
+2011년	2011/SN+년/NNB
+경기북부	경기/NNP+북부/NNG
+4건	4/SN+건/NNB
+중	중/NNB
+3건은	3/SN+건/NNB+은/JX
+비예산	비/XPN+예산/NNG
+사업이다	사업/NNG+이/VCP+다/EC
+
+이에	이/NP+에/JKB
+대해	대하/VV+여/EC
+김	김/NNP
+의원은	의원/NNG+은/JX
+"인구를	"/SS+인구/NNG+를/JKO
+고려해도	고려하/VV+여도/EC
+북부지역	북부지역/NNG
+장애인	장애인/NNG
+인권	인권/NNG
+사업비가	사업비/NNG+가/JKS
+남부의	남부/NNG+의/JKG
+3분의	3/SN+분/XSN+의/JKG
+1은	1/SN+은/JX
+돼야	되/VV+어야/EC
+한다"며	하/VX+ㄴ다/EF+"/SS+며/EC
+"경기북부	"/SS+경기/NNP+북부/NNG
+장애인협의체를	장애인협의체/NNG+를/JKO
+만들어	만들/VV+어/EC
+사업을	사업/NNG+을/JKO
+발굴하고	발굴하/VV+고/EC
+지원해야	지원하/VV+여야/EC
+한다"고	하/VX+ㄴ다/EF+"/SS+고/JKQ
+밝혔다	밝히/VV+었/EP+다/EC
+
+kyoon@yna	kyoon/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

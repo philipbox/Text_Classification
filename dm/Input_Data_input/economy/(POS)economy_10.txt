@@ -1,0 +1,305 @@
+미국에	미국/NNP+에/JKB
+이런	이런/MM
+티켓도	티켓/NNG+도/JX
+있다	있/VA+다/EF
+
+영화	영화/NNG
+관람	관람/NNG
+티켓을	티켓/NNG+을/JKO
+인터넷으로	인터넷/NNG+으로/JKB
+구입했다	구입하/VV+였/EP+다/EC
+
+구입한	구입하/VV+ㄴ/ETM
+티켓을	티켓/NNG+을/JKO
+프린트해서	프린트하/VV+여서/EC
+영화관으로	영화관/NNG+으로/JKB
+가져가	가져가/VV+아/EC
+보여주면	보이/VV+어/EC+주/VX+면/EC
+틀림없이	틀림없이/MAG
+극장에	극장/NNG+에/JKB
+들여보내	들여보내/VV+어/EC
+줬다	주/VV+었/EP+다/EC
+
+뷔페	뷔페/NNG
+레스토랑	레스토랑/NNG
+‘올드	‘/SL+올드/NNG
+컨트리	컨트리/NNG
+부페’에서	부페/NNG+’/SL+에서/JKB
+공짜	공짜/NNG
+티켓이	티켓/NNG+이/JKS
+왔다	오/VV+았/EP+다/EF
+
+그것을	그것/NP+을/JKO
+프린트해서	프린트하/VV+여서/EC
+가져갔더니	가져가/VV+았/EP+더니/EC
+그대로	그대로/MAG
+들여	들이/VV+어/EC
+보내	보내/VV+어/EC
+주었다	주/VX+었/EP+다/EF
+
+우리	우리/NP
+아들은	아들/NNG+은/JX
+아마존에서	아마존/NNP+에서/JKB
+실적이	실적/NNG+이/JKS
+높아서	높/VA+아서/EC
+공짜	공짜/NNG
+텔레비전을	텔레비전/NNG+을/JKO
+가질	가지/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+티켓을	티켓/NNG+을/JKO
+받았다	받/VV+았/EP+다/EC
+
+그	그/MM
+티켓을	티켓/NNG+을/JKO
+제출하자	제출하/VV+자/EC
+텔레비전을	텔레비전/NNG+을/JKO
+보내주었다	보내/VV+어/EC+주/VX+었/EP+다/EF
+
+그렇다	그렇/VA+다/EC
+
+티켓은	티켓/NNG+은/JX
+쌍방	쌍방/NNG
+간의	간/NNB+의/JKG
+어길	어기/VV+ㄹ/ETM
+수	수/NNB
+없는	없/VA+는/ETM
+약속이다	약속/NNG+이/VCP+다/EC
+
+특별한	특별하/VA+ㄴ/ETM
+경우가	경우/NNG+가/JKC
+아닌	아니/VCN+ㄴ/ETM
+다음에는	다음/NNG+에/JKB+는/JX
+유효한	유효하/VA+ㄴ/ETM
+것이	것/NNB+이/JKS
+티켓의	티켓/NNG+의/JKG
+특성이다	특성/NNG+이/VCP+다/EC
+
+미국	미국/NNP
+정부가	정부/NNG+가/JKS
+오래	오래/MAG
+전에	전/NNG+에/JKB
+장애인들에게	장애인/NNG+들/XSN+에게/JKB
+티켓을	티켓/NNG+을/JKO
+발부했다	발부하/VV+였/EP+다/EC
+
+일자리	일자리/NNG
+티켓(Ticket	티켓/NNG+(/SS+Ticket/SL
+to	to/SL
+work)	work/SL+)/SS
+
+그	그/MM
+동안에	동안/NNG+에/JKB
+여러	여러/MM
+가지	가지/NNB
+행정적	행정적/NNG
+언어로	언어/NNG+로/JKB
+된	되/VV+ㄴ/ETM
+지켜	지키/VV+어/EC
+지기	지/VX+기/ETN
+쉽지	쉽/VA+지/EC
+않는	않/VX+는/ETM
+약속에	약속/NNG+에/JKB
+식상해	식상하/VV+여/EC
+있던	있/VX+던/ETM
+장애인들에게	장애인/NNG+들/XSN+에게/JKB
+티켓이라는	티켓/NNG+이/VCP+라는/ETM
+말은	말/NNG+은/JX
+될	되/VV+ㄹ/ETM
+수도	수/NNB+도/JX
+있다는	있/VA+다는/ETM
+느낌을	느낌/NNG+을/JKO
+주기에	주/VV+기/ETN+에/JKB
+충분한	충분하/VA+ㄴ/ETM
+언어였다	언어/NNG+이/VCP+었/EP+다/EF
+
+더욱	더욱/MAG
+확신을	확신/NNG+을/JKO
+주는	주/VV+는/ETM
+한	한/MM
+문장은	문장/NNG+은/JX
+전국의	전국/NNG+의/JKG
+사회안전보장국으로	사회안전보장/NNG+국/XSN+으로/JKB
+일자리를	일자리/NNG+를/JKO
+마련해	마련하/VV+여/EC
+준다는	주/VX+ㄴ다는/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+전국에	전국/NNG+에/JKB
+사회보장국이	사회보장국/NNG+이/JKS
+수도	수/NNG+도/JX
+없이	없이/MAG
+많다는	많/VA+다는/ETM
+것도	것/NNB+도/JX
+티켓의	티켓/NNG+의/JKG
+신빙성을	신빙성/NNG+을/JKO
+높여주었다	높열/VV+주/VX+었/EP+다/EF
+
+그	그/MM
+많은	많/VA+은/ETM
+곳에서	곳/NNG+에서/JKB
+장애인들을	장애인/NNG+들/XSN+을/JKO
+고용하면	고용하/VV+면/EC
+장애인	장애인/NNG
+직업	직업/NNG
+문제는	문제/NNG+는/JX
+웬만큼	웬만큼/MAG
+해결될	해결되/VV+ㄹ/ETM
+거라는	것/NNB+이/VCP+라는/ETM
+기대감이	기대감/NNG+이/JKS
+컸다	크/VA+었/EP+다/EF
+
+그	그/MM
+티켓을	티켓/NNG+을/JKO
+사회	사회/NNG
+보장국에	보장/NNG+국/XSN+에/JKB
+내밀	내밀/VV+ㄹ/ETM
+때	때/NNG
+직원들은	직원/NNG+들/XSN+은/JX
+의아하다는	의아하/VA+다는/ETM
+표정으로	표정/NNG+으로/JKB
+눈이	눈/NNG+이/JKS
+커진다	커지/VV+ㄴ다/EF
+
+“그게	“/SL+그/XSA+게/EC
+뭔데?”그런	뭐/NP+이/VCP+ㄴ데/EF+?/SF+”/SL+그런/MM
+말을	말/NNG+을/JKO
+들을	듣/VV+을/ETM
+때	때/NNG
+장애인들은	장애인/NNG+들/XSN+은/JX
+머쓱해	머쓱하/VA+여/EC
+질	지/VX+ㄹ/ETM
+수	수/NNB
+밖에	밖에/JX
+없다	없/VA+다/EC
+
+티켓을	티켓/NNG+을/JKO
+들고	들/VV+고/EC
+갔는데	가/VV+았/EP+는데/EC
+무어냐고	무/NP+어냐/VCN+고/EC
+묻다니	묻/VV+다니/EC
+
+그런	그런/MM
+티켓은	티켓/NNG+은/JX
+처음일	처음/NNG+이/VCP+ㄹ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+티켓을	티켓/NNG+을/JKO
+받고	받/VV+고/EC
+사회보장국으로	사회보장국/NNG+으로/JKB
+전화했다가	전화하/VV+었/EP+다가/EC
+‘무슨	‘/SL+무슨/MM
+말이냐?’	말/NNG+이/VCP+냐/EF+?/SF+’/SL
+고	고/MM
+무안을	무안/NNG+을/JKO
+당한	당하/VV+ㄴ/ETM
+것은	것/NNB+은/JX
+알칸사에	알칸사/NNP+에/JKB
+거주하는	거주하/VV+는/ETM
+크리스토퍼	크리스토퍼/NNP
+하워드만은	하워드/NNP+만은/JX
+아닐	아니/VCN+ㄹ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+하워드는	하워드/NNP+는/JX
+뉴욕	뉴욕/NNP
+타임스	타임스/NNP
+기사를	기사/NNG+를/JKO
+통해	통하/VV+여/EC
+‘나는	‘/SL+나/NP+는/JX
+내가	내/NP+가/JKS
+일해서	일하/VV+여서/EC
+번	벌/VV+ㄴ/ETM
+돈을	돈/NNG+을/JKO
+갖고	갖/VV+고/EC
+싶다’고	싶/VX+다/EC+’/VV+고/EC
+말했다	말하/VV+였/EP+다/EC
+
+그는	그/NP+는/JX
+현재	현재/MAG
+6백	6/SN+백/NR
+달러	달러/NNB
+정도의	정도/NNG+의/JKG
+정부보조금을	정부보조금/NNG+을/JKO
+매달	매달/MAG
+받고	받/VV+고/EC
+있다	있/VX+다/EC
+
+현재	현재/MAG
+미국	미국/NNP
+장애인의	장애인/NNG+의/JKG
+취업	취업/NNG
+문제는	문제/NNG+는/JX
+심각한	심각하/VA+ㄴ/ETM
+사회	사회/NNG
+문제다	문제/NNG+이/VCP+다/EF
+
+미국에서	미국/NNP+에서/JKB
+8백여만명이	8/SN+백/NR+여/XSN+만/NR+명/NNB+이/JKS
+장애인을	장애인/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+정부	정부/NNG
+보조를	보조/NNG+를/JKO
+받고	받/VV+고/EC
+있고	있/VX+고/EC
+액수가	액수/NNG+가/JKS
+무려	무려/MAG
+한해	한/MM+해/NNB
+1조	1/SN+조/NR
+달러가	달러/NNB+가/JKS
+넘는다	넘/VV+는다/EC
+
+이대로	이대로/MAG
+가면	가/VV+면/EC
+2018년에는	2018/SN+년/NNB+에/JKB+는/JX
+국고가	국고/NNG+가/JKS
+바닥이	바닥/NNG+이/JKS
+난다	나/VV+ㄴ다/EF
+
+이제	이제/MAG
+불과	불과/MAG
+6년	6/SN+년/NNB
+후면	후/NNG+이/VCP+면/EC
+미국	미국/NNP
+장애인들은	장애인/NNG+들/XSN+은/JX
+심각한	심각하/VA+ㄴ/ETM
+경제	경제/NNG
+문제에	문제/NNG+에/JKB
+직면하게	직면하/VV+게/EC
+된다	되/VV+ㄴ다/EF
+
+쓸	쓰/VV+ㄹ/ETM
+데	데/NNB
+없는	없/VA+는/ETM
+티켓만	티켓/NNG+만/JX
+만들어	만들/VV+어/EC
+놓고	놓/VX+고/EC
+코앞에	코앞/NNG+에/JKB
+닥친	닥치/VV+ㄴ/ETM
+문제를	문제/NNG+를/JKO
+수수방관하고	수수방관하/VV+고/EC
+있는	있/VX+는/ETM
+당국이	당국/NNG+이/JKS
+안타까울	안타깝/VA+ㄹ/ETM
+뿐이다	뿐/NNB+이/VCP+다/EC
+
+*	*/SW
+샘	샘/NNG
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNP
+객원기자로	객원기자/NNG+로/JKB
+캘리포니아	캘리포니아/NNP
+버클리대학	버클리대학/NNP
+사회학과를	사회학과/NNG+를/JKO
+졸업하고,	졸업하/VV+고/EC+,/SP
+전	전/MM
+미상원	미/NNP+상원/NNG
+장애인국	장애인국/NNG
+인턴을	인턴/NNG+을/JKO
+지냈다	지내/VV+었/EP+다/EC
+
+현재	현재/MAG
+TEC	TEC/SL
+대표를	대표/NNG+를/JKO
+맡고	맡/VV+고/EC
+있다	있/VX+다/EC

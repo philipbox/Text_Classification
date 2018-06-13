@@ -1,0 +1,153 @@
+사립	사립/NNG
+초중고	초중고/NNG
+특수학급	특수학급/NNG
+설치율	설치율/NNG
+'밑바닥'	'/SS+밑바닥/NNG+'/SS
+
+장애인이	장애인/NNG+이/JKS
+배치된	배치되/VV+ㄴ/ETM
+전국	전국/NNG
+초·중·고	초/NNG+·/SP+중/NNG+·/SP+고/NNG
+사립학교	사립학교/NNG
+중	중/NNB
+특수학급이	특수학급/NNG+이/JKS
+설치된	설치되/VV+ㄴ/ETM
+학교	학교/NNG
+비율이	비율/NNG+이/JKS
+13	13/SN
+
+7%에	7/SN+%/SW+에/JKB
+불과한	불과하/VA+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+19일	19/SN+일/NNB
+새누리당	새누리당/NNP
+박성호	박성호/NNP
+국회의원이	국회의원/NNG+이/JKS
+교육과학기술부로부터	교육과학기술부/NNG+로부터/JKB
+제출받은	제출/NNG+받/VV+은/ETM
+‘전국	‘/SL+전국/NNG
+초·중·고	초/NNG+·/SP+중/NNG+·/SP+고/NNG
+특수학교	특수학교/NNG
+현황	현황/NNG
+자료’에	자료’/NNG+에/JKB
+따르면	따르/VV+면/EC
+전국의	전국/NNG+의/JKG
+사립학교는	사립학교/NNG+는/JX
+1,595곳으로	1,595/SN+곳/NNG+으로/JKB
+이중	이중/NNG
+특수학급이	특수학급/NNG+이/JKS
+설치된	설치되/VV+ㄴ/ETM
+사립학교는	사립학교/NNG+는/JX
+112곳에	112/SN+곳/NNG+에/JKB
+그쳤다	그치/VV+었/EP+다/EC
+
+이는	이/NP+는/JX
+국·공립학교	국/NNG+·/SP+공립학교/NNG
+설치율의	설치율/NNG+의/JKG
+약	약/MM
+5분의	5/SN+분/XSN+의/JKG
+1수준이다	1/SN+수준/NNG+이/VCP+다/EC
+
+현재	현재/MAG
+국·공립학교는	국/NNG+·/SP+공립학교/NNG+는/JX
+9,784곳으로	9,784/SN+곳/NNG+으로/JKB
+특수학급이	특수학급/NNG+이/JKS
+설치된	설치되/VV+ㄴ/ETM
+학교는	학교/NNG+는/JX
+5,719(76	5,719/SN+(/SS+76/SN
+
+1%)곳이다	1/SN+%/SW+)/SS+곳/NNG+이/VCP+다/EC
+
+또한	또한/MAG
+상급학교로	상급학교/NNG+로/JKB
+올라갈수록	올라가/VV+ㄹ수록/EC
+사립학교의	사립학교/NNG+의/JKG
+특수학급	특수학급/NNG
+설치비율은	설치비율/NNG+은/JX
+낮아졌다	낮/VA+아/EC+지/VX+었/EP+다/EC
+
+자료에	자료/NNG+에/JKB
+따르면	따르/VV+면/EC
+초등학교	초등학교/NNG
+25%,	25/SN+%/SW+,/SP
+중학교	중학교/NNG
+16	16/SN
+
+8%,	8/SN+%/SW+,/SP
+고등학교	고등학교/NNG
+11	11/SN
+
+3%였다	3/SN+%/SW+이/VCP+었/EP+다/EF
+
+반면	반면/NNG
+국공립학교의	국공립학교/NNG+의/JKG
+경우	경우/NNG
+초등학교	초등학교/NNG
+79	79/SN
+
+8%,	8/SN+%/SW+,/SP
+중학교	중학교/NNG
+71	71/SN
+
+5%,	5/SN+%/SW+,/SP
+고등학교	고등학교/NNG
+68	68/SN
+
+2%를	2/SN+%/SW+를/JKO
+보였다	보이/VV+었/EP+다/EF
+
+이에	이/NP+에/JKB
+대해	대하/VV+여/EC
+박성호	박성호/NNP
+의원은	의원/NNG+은/JX
+“사립학교의	“/SL+사립학교/NNG+의/JKG
+경우	경우/NNG
+우수학교	우수학교/NNG
+진학률을	진학률/NNG+을/JKO
+중요시하기	중요시하/VV+기/ETN
+때문에	때문/NNB+에/JKB
+장애학생을	장애학생/NNG+을/JKO
+받아들이기	받아들이/VV+기/ETN
+싫어하기	싫어하/VV+기/ETN
+때문인	때문/NNB+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+보인다”며	보일/VV+ㄴ다/EC+”/VV+며/EC
+“장애학생이	“/SN+장애학생/NNG+이/JKS
+응당	응당/MAG
+누려야	누리/VV+어야/EC
+할	하/VX+ㄹ/ETM
+교육권의	교육권/NNG+의/JKG
+침해로	침해/NNG+로/JKB
+이어지고	이어지/VV+고/EC
+있다”고	있/VX+다/EC+”/VV+고/EC
+밝혔다	밝히/VV+었/EP+다/EC
+
+이어	이어/MAG
+“법에	“/SN+법/NNB+에/JKB
+특수학급	특수학급/NNG
+설치를	설치/NNG+를/JKO
+의무화했음에도	의무화하/VV+였/EP+음/ETN+에/JKB+도/JX
+위반에	위반/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+처벌	처벌/NNG
+규정이	규정/NNG+이/JKS
+없어	없/VA+어/EC
+이	이/NP
+같은	같/VA+은/ETM
+문제가	문제/NNG+가/JKS
+발생하는	발생하/VV+는/ETM
+만큼,	만큼/NNB+,/SP
+미설치시	미설/NNG+치/XSN+시/NNB
+과태료	과태료/NNG
+부과	부과/NNG
+등	등/NNB
+처별	처별/NNG
+규정을	규정/NNG+을/JKO
+신설하는	신설하/VV+는/ETM
+것도	것/NNB+도/JX
+고려해봐야	고려하/VV+여/EC+보/VX+아야/EC
+할	하/VX+ㄹ/ETM
+것”이라고	것/NNB+”/SL+이/VCP+라고/EC
+덧붙였다	덧붙이/VV+었/EP+다/EF

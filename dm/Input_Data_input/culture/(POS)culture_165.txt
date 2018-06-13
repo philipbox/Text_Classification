@@ -1,0 +1,171 @@
+부산국제영화제	부산/NNP+국제영화제/NNG
+장애인전용관	장애인전용관/NNG
+운영	운영/NNG
+
+(부산=연합뉴스)	(/SS+부산/NNP+=/SW+연합뉴스/NNP+)/SS
+조정호	조정호/NNP
+기자	기자/NNG
+=	=/SW
+내달	내달/NNG
+개막하는	개막하/VV+는/ETM
+제17회	제/XPN+17/SN+회/NNB
+부산국제영화제에	부산/NNP+국제영화제/NNG+에/JKB
+장애인들이	장애인/NNG+들/XSN+이/JKS
+편리하게	편리하/VA+게/EC
+영화를	영화/NNG+를/JKO
+감상할	감상하/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+전용관이	전용관/NNG+이/JKS
+운영된다	운영되/VV+ㄴ다/EF
+
+한국방송통신전파진흥원	한국방송통신전파진흥원/NNP
+부산시청자미디어센터는	부산시청자미디어센터/NNP+는/JX
+오는	오/VV+는/ETM
+10월5일부터	10/SN+월/NNB+5/SN+일/NNB+부터/JX
+11일까지	11/SN+일/NNB+까지/JX
+부산국제영화제	부산/NNP+국제영화제/NNG
+장애인전용관을	장애인전용관/NNG+을/JKO
+운영한다고	운영하/VV+ㄴ다고/EC
+20일	20/SN+일/NNB
+밝혔다	밝히/VV+었/EP+다/EC
+
+지난해에	지난해/NNG+에/JKB
+이어	잇/VV+어/EC
+두번째로	두/MM+번째/NNB+로/JKB
+마련된	마련되/VV+ㄴ/ETM
+장애인전용관에서는	장애인전용관/NNG+에서/JKB+는/JX
+한국영화	한국/NNP+영화/NNG
+7편,	7/SN+편/NNB+,/SP
+외국영화	외국영화/NNG
+11편이	11/SN+편/NNB+이/JKS
+상영된다	상영되/VV+ㄴ다/EF
+
+장애인전용관에서	장애인전용관/NNG+에서/JKB
+상영되는	상영되/VV+는/ETM
+모든	모든/MM
+영화에는	영화/NNG+에/JKB+는/JX
+시각장애인을	시각장애인/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+화면해설과	화면해설/NNP+과/JC
+청각장애인을	청각장애인/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+자막이	자막/NNG+이/JKS
+제공된다	제공되/VV+ㄴ다/EF
+
+외국영화를	외국영화/NNG+를/JKO
+상영할	상영하/VV+ㄹ/ETM
+때는	때/NNG+는/JX
+한국어로	한국어/NNP+로/JKB
+음성번역(동시통역)서비스와	음성번역/NNG+(/SS+동시통역/NNG+)/SS+서비스/NNG+와/JC
+점자	점자/NNG
+안내문이	안내문/NNG+이/JKS
+제공된다	제공되/VV+ㄴ다/EF
+
+10월5일	10/SN+월/NNB+5/SN+일/NNB
+오후	오후/NNG
+4시	4/SN+시/NNB
+부산시청자미디어센터에서	부산시/NNP+청자미디어센터/NNG+에서/JKB
+열리는	열리/VV+는/ETM
+장애인전용관	장애인전용관/NNG
+개막행사에서는	개막행사/NNG+에서/JKB+는/JX
+생태문명	생태문명/NNG
+다큐멘터리	다큐멘터리/NNG
+'위대한	'/SS+위대하/VA+ㄴ/ETM
+비행'이	비행/NNG+'/SS+이/JKS
+상영된다	상영되/VV+ㄴ다/EF
+
+지난	지나/VV+ㄴ/ETM
+7월	7/SN+월/NNB
+람사르	람사르/NNP
+총회	총회/NNG
+본회의장에서	본/MM+회의장/NNG+에서/JKB
+처음으로	처음/NNG+으로/JKB
+상영된	상영되/VV+ㄴ/ETM
+위대한	위대하/VA+ㄴ/ETM
+비행은	비행/NNG+은/JX
+큰뒷부리도요새가	크/VA+ㄴ/ETM+뒷부리도요새/NNG+가/JKS
+뉴질랜드에서	뉴질랜드/NNP+에서/JKB
+한반도를	한반도/NNP+를/JKO
+거쳐	거치/VV+어/EC
+알래스카까지	알래스카/NNP+까지/JX
+3만㎞를	3/SN+만/NR+㎞/SW+를/JKO
+비행하는	비행하/VV+는/ETM
+여정과	여정/NNG+과/JC
+그	그/MM
+속에서	속/NNG+에서/JKB
+만나는	만나/VV+는/ETM
+사람의	사람/NNG+의/JKG
+이야기	이야기/NNG
+등을	등/NNB+을/JKO
+담고	담/VV+고/EC
+있다	있/VX+다/EC
+
+이상조	이상조/NNP
+부산시청자미디어센터는	부산시청자미디어센터/NNP+는/JX
+"일반관람객에	"/SS+일반관람객/NNG+에/JKB
+집중된	집중되/VV+ㄴ/ETM
+관람문화에서	관람문화/NNG+에서/JKB
+벗어나	벗어나/VV+아/EC
+시청각장애인	시청각장애인/NNG
+관객들도	관객/NNG+들/XSN+도/JX
+편리한	편리하/VA+ㄴ/ETM
+환경	환경/NNG
+속에서	속/NNG+에서/JKB
+영화제를	영화제/NNG+를/JKO
+즐길	즐기/VV+ㄹ/ETM
+수	수/NNB
+있게	있/VA+게/EC
+됐다"고	되/VV+었/EP+다/EF+"/SS+고/JKQ
+말했다	말하/VV+였/EP+다/EC
+
+부산국제영화제	부산/NNP+국제영화제/NNG
+장애인전용관의	장애인전용관/NNG+의/JKG
+상영작품,	상영작품/NNG+,/SP
+상영일정,	상영일정/NNG+,/SP
+예매는	예매/NNG+는/JX
+영화제	영화제/NNG
+홈페이지(www	홈페이지/NNG+(/SS+www/SL
+
+biff	biff/SL
+
+kr)와	kr/SL+)/SS+와/JC
+영화제	영화제/NNG
+콜센터(☎	콜센터/NNG+(/SS+☎/SW
+1666-9177)에서	1666/SN+-/SO+9177/SN+)/SS+에서/JKB
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있다	있/VA+다/EC
+
+시청각장애인단체	시청각장애인단체/NNG
+무료관람	무료관람/NNG
+문의는	문의/NNG+는/JX
+사랑의	사랑/NNG+의/JKG
+열매	열매/NNG
+부산지사(☎	부산/NNP+지사/NNG+(/SS+☎/SW
+051-790-1407)에	051/SN+-/SO+790/SN+-/SO+1407/SN+)/SS+에/JKB
+하면	하/VV+면/EC
+된다	되/VV+ㄴ다/EC
+
+ccho@yna	ccho/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

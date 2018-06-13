@@ -1,0 +1,206 @@
+미국	미국/NNP
+공익소송	공익소송/NNG
+협박	협박/NNG
+이제	이제/MAG
+함부로	함부로/MAG
+못한다	못하/VV+ㄴ다/EF
+
+어느날	어느/MM+날/NNG
+느닷없이	느닷없이/MAG
+편지	편지/NNG
+한장이	한/MM+장/NNB+이/JKS
+날아든다	날아들/VV+ㄴ다/EF
+
+내용은	내용/NNG+은/JX
+다음과	다음/NNG+과/JKB
+같다	같/VA+다/EC
+
+'나는	'/SS+나/NP+는/JX
+장애인이다	장애인/NNG+이/VCP+다/EC
+
+당신네	당신/NP+네/XSN
+업소에	업소/NNG+에/JKB
+가	가/VV+아/EC
+봤더니	보/VX+았/EP+더니/EC
+어디어디가	어디어디/NP+가/JKS
+장애법	장애법/NNG
+기준에	기준/NNG+에/JKB
+모자라더라	모자르/VV+아더라/EC
+
+장애법을	장애법/NNG+을/JKO
+위반했으니	위반하/VV+였/EP+으니/EC
+고소하겠다	고소하/VV+겠/EP+다/EC
+
+그러나	그러나/MAJ
+내가	내/NP+가/JKS
+원하는	원하/VV+는/ETM
+금액을	금액/NNG+을/JKO
+지불하면	지불하/VV+면/EC
+고소를	고소/NNG+를/JKO
+하지	하/VV+지/EC
+않겠다	않/VX+겠/EP+다/EC
+
+'소규모	'/SS+소규모/NNG
+자영업자들이	자영업/NNG+자들/XSN+이/JKS
+가장	가장/MAG
+무서워하는	무서워하/VV+는/ETM
+편지다	편지/NNG+이/VCP+다/EF
+
+액수도	액수/NNG+도/JX
+상당하고	상당하/VA+고/EC
+말을	말/NNG+을/JKO
+들어	들/VV+어/EC
+주지	주/VX+지/EC
+않으면	않/VX+으면/EC
+고소를	고소/NNG+를/JKO
+한다	하/VV+ㄴ다/EF
+
+대부분은	대부분/NNG+은/JX
+지기	지/VV+기/ETN
+때문에	때문/NNB+에/JKB
+울며	울/VV+며/EC
+겨자먹기로	겨자/NNG+먹/VV+기/ETN+로/JKB
+돈을	돈/NNG+을/JKO
+마련해	마련하/VV+여/EC
+줘야	주/VX+어야/EC
+한다	하/VX+ㄴ다/EF
+
+소규모	소규모/NNG
+자영업자에게는	자영업자/NNG+에게/JKB+는/JX
+너무	너무/MAG
+큰	크/VA+ㄴ/ETM
+부담이	부담/NNG+이/JKC
+되어왔다	되/VV+어/EC+오/VV+았/EP+다/EF
+
+그동안	그동안/NNG
+수	수/NNG
+많은	많/VA+은/ETM
+자영업자가	자영업/NNG+자/XSN+가/JKS
+불만을	불만/NNG+을/JKO
+터뜨려	터뜨리/VV+어/EC
+왔다	오/VX+았/EP+다/EF
+
+지난	지나/VV+ㄴ/ETM
+9월	9/SN+월/NNB
+19일	19/SN+일/NNB
+마침내	마침내/MAG
+부라운	부라운/NNP
+캘리포니아	캘리포니아/NNP
+주지사가	주지사/NNG+가/JKS
+이를	이/NP+를/JKO
+금지하는	금지하/VV+는/ETM
+법안	법안/NNG
+'SB	'/SS+SB/SL
+1186'에	1186/SN+'/SS+에/JKB
+서명을	서명/NNG+을/JKO
+했다	하/VV+였/EP+다/EF
+
+이	이/MM
+법은	법/NNG+은/JX
+서명	서명/NNG
+즉시	즉시/NNG
+발효가	발효/NNG+가/JKC
+된다	되/VV+ㄴ다/EF
+
+이	이/MM
+법안의	법안/NNG+의/JKG
+가장	가장/MAG
+큰	크/VA+ㄴ/ETM
+골자는	골자/NNG+는/JX
+업자에게	업자/NNG+에게/JKB
+시정	시정/NNG
+요구를	요구/NNG+를/JKO
+우선하게	우선하/VA+게/EC
+하는	하/VX+는/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+과거처럼	과거/NNG+처럼/JKB
+무작정	무작정/NNG
+고발한다거나	고발하/VV+ㄴ다/EC+거나/JX
+금품을	금품/NNG+을/JKO
+요구할	요구하/VV+ㄹ/ETM
+수가	수/NNB+가/JKS
+없다	없/VA+다/EC
+
+요구하는	요구하/VV+는/ETM
+시정의	시정/NNG+의/JKG
+기간을	기간/NNG+을/JKO
+놓고	놓/VV+고/EC
+그동안	그동안/NNG
+장애계와	장애/NNG+계/XSN+와/JC
+법조계가	법조계/NNG+가/JKS
+팽행하게	팽행하/VA+게/EC
+맞서왔다	맞서/VV+어/EC+오/VX+았/EP+다/EF
+
+법조계에서는	법조계/NNG+에서/JKB+는/JX
+120일을	120/SN+일/NNB+을/JKO
+요구했고	요구하/VV+였/EP+고/EC
+장애계는	장애/NNG+계/XSN+는/JX
+30일을	30/SN+일/NNB+을/JKO
+요구했다	요구하/VV+었/EP+다/EC
+
+결국	결국/NNG
+장애계가	장애/NNG+계/XSN+가/JKS
+요구한	요구하/VV+ㄴ/ETM
+대로	대로/NNB
+30일로	30/SN+일/NNB+로/JKB
+정해졌다	정하/VV+여/EC+지/VX+었/EP+다/EF
+
+그	그/MM
+동안	동안/NNG
+장애	장애/NNG
+문제	문제/NNG
+개선	개선/NNG
+보다는	보다/JKB+는/JX
+개인의	개인/NNG+의/JKG
+사욕에	사욕/NNG+에/JKB
+눈이	눈/NNG+이/JKS
+어두워	어둡/VA+어/EC
+장애법을	장애법/NNG+을/JKO
+악용해	악용하/VV+여/EC
+금품을	금품/NNG+을/JKO
+요구해온	요구하/VV+여/EC+오/VX+ㄴ/ETM
+장애인들이	장애인/NNG+들/XSN+이/JKS
+더	더/MAG
+이상	이상/NNG
+활동을	활동/NNG+을/JKO
+못하게	못하/VV+게/EC
+됐다	되/VV+었/EP+다/EC
+
+어느	어느/MM
+주보다도	주/NNG+보다/JKB+도/JX
+말썽이	말썽/NNG+이/JKS
+많았던	많/VA+았/EP+던/ETM
+캘리포니아의	캘리포니아/NNP+의/JKG
+장애	장애/NNG
+관련	관련/NNG
+협박성	협박/NNG+성/XSN
+공익	공익/NNG
+소송이	소송/NNG+이/JKS
+더	더/MAG
+이상	이상/NNG
+발을	발/NNG+을/JKO
+붙이지	붙이/VV+지/EC
+못하게	못하/VX+게/EC
+됐다	되/VV+었/EP+다/EC
+
+*	*/SW
+샘	샘/NNG
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNP
+객원기자로	객원기자/NNG+로/JKB
+캘리포니아	캘리포니아/NNP
+버클리대학	버클리대학/NNP
+사회학과를	사회학과/NNG+를/JKO
+졸업하고,	졸업하/VV+고/EC+,/SP
+전	전/MM
+미상원	미/NNP+상원/NNG
+장애인국	장애인국/NNG
+인턴을	인턴/NNG+을/JKO
+지냈다	지내/VV+었/EP+다/EC
+
+현재	현재/MAG
+TEC	TEC/SL
+대표를	대표/NNG+를/JKO
+맡고	맡/VV+고/EC
+있다	있/VX+다/EC

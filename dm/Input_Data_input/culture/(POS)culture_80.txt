@@ -1,0 +1,186 @@
+장애인올림픽	장애인올림픽/NNG
+고군분투…자랑스런	고군분투/NNG+…/SE+자랑스럽/VA+ㄴ/ETM
+대한민국	대한민국/NNP
+
+2012런던장애인올림픽	2012/SN+런던/NNP+장애인올림픽/NNG
+8일차	8/SN+일차/NNB
+경기가	경기/NNG+가/JKS
+지난	지나/VV+ㄴ/ETM
+6일	6/SN+일/NNB
+진행됐다	진행되/VV+었/EP+다/EF
+
+우리나라는	우리나라/NNG+는/JX
+이날	이날/NNG
+대회에	대회/NNG+에/JKB
+사격,	사격/NNG+,/SP
+육상,	육상/NNG+,/SP
+탁구,	탁구/NNG+,/SP
+보치아,	보치아/NNP+,/SP
+수영	수영/NNG
+등	등/NNB
+5개	5/SN+개/NNB
+종목에	종목/NNG+에/JKB
+출전해	출전하/VV+여/EC
+열띤	열띠/VA+ㄴ/ETM
+경기를	경기/NNG+를/JKO
+펼쳤다	펼치/VV+었/EP+다/EC
+
+비록	비록/MAG
+기대했던	기대하/VV+였/EP+던/ETM
+사격	사격/NNG
+종목에서	종목/NNG+에서/JKB
+1개의	1/SN+개/NNB+의/JKG
+금메달만	금메달/NNG+만/JX
+추가되긴	추가되/VV+기/ETN+ㄴ/JX
+했지만	하/VX+였/EP+지만/EC
+선수들은	선수/NNG+들/XSN+은/JX
+제각기	제각기/MAG
+자신의	자신/NNG+의/JKG
+자리에서	자리/NNG+에서/JKB
+묵묵히	묵묵히/MAG
+최선을	최선/NNG+을/JKO
+다하며	다하/VV+며/EC
+앞을	앞/NNG+을/JKO
+향해	향하/VV+여/EC
+달렸다	달리/VV+었/EP+다/EF
+
+뜨거웠던	뜨겁/VA+었/EP+던/ETM
+런던	런던/NNP
+하늘아래에서	하늘아래/NNG+에서/JKB
+고군분투했던	고군분투하/VV+었/EP+던/ETM
+선수들을	선수/NNG+들/XSN+을/JKO
+만나봤다	만나/VV+아/EC+보/VX+았/EP+다/EF
+
+사격의	사격/NNG+의/JKG
+박세균	박세균/NNP
+선수	선수/NNG
+모습	모습/NNG
+
+6일	6/SN+일/NNB
+런던	런던/NNP
+왕립포병대	왕립포병대/NNP
+사격경기장에서	사격경기장/NNG+에서/JKB
+열린	열리/VV+ㄴ/ETM
+‘P4	‘/SN+P/SL+4/SN
+50m	50/SN+m/SL
+권총	권총/NNG
+혼성	혼성/NNG
+결선’에서	결선/NNG+’/SL+에서/JKB
+92점을	92/SN+점/NNB+을/JKO
+기록	기록/NNG
+본선	본선/NNG
+점수인	점수/NNG+이/VCP+ㄴ/ETM
+550점을	550/SN+점/NNB+을/JKO
+합해	합하/VV+여/EC
+총	총/MM
+642	642/SN
+
+4점으로	4/SN+점/NNB+으로/JKB
+정상을	정상/NNG+을/JKO
+차지했다	차지하/VV+었/EP+다/EC
+
+사격	사격/NNG
+2연패를	2/SN+연패/NNG+를/JKO
+기록한	기록하/VV+ㄴ/ETM
+박세균	박세균/NNP
+선수가	선수/NNG+가/JKS
+웃으며	웃/VV+으며/EC
+경기장을	경기장/NNG+을/JKO
+나서고	나서/VV+고/EC
+있다	있/VX+다/EC
+
+시상대에선	시상대/NNG+에서/JKB+이/VCP+ㄴ/EC
+박세균	박세균/NNP
+선수가	선수/NNG+가/JKS
+오른쪽	오른쪽/NNG
+손을	손/NNG+을/JKO
+치켜들고	치켜들/VV+고/EC
+응원석을	응원석/NNG+을/JKO
+항해	항해/NNG
+화답하고	화답하/VA+고/EC
+있다	있/VX+다/EC
+
+박세균	박세균/NNP
+선수가	선수/NNG+가/JKS
+시상식	시상식/NNG
+후	후/NNG
+금메달을	금메달/NNG+을/JKO
+손에	손/NNG+에/JKB
+들고	들/VV+고/EC
+기념촬영을	기념촬영/NNG+을/JKO
+하고	하/VV+고/EC
+있다	있/VX+다/EC
+
+탁구의	탁구/NNG+의/JKG
+조경희	조경희/NNP
+선수	선수/NNG
+모습	모습/NNG
+
+조경희,	조경희/NNP+,/SP
+정상숙,	정상숙/NNP+,/SP
+최현지	최현지/NNP
+선수로	선수/NNG+로/JKB
+구성된	구성되/VV+ㄴ/ETM
+탁구	탁구/NNG
+여자	여자/NNG
+단체	단체/NNG
+1-3체급	1/SN+-/SO+3/SN+체급/NNG
+팀은	팀/NNG+은/JX
+6일	6/SN+일/NNB
+상대국인	상대국/NNG+이/VCP+ㄴ/ETM
+영국을	영국/NNP+을/JKO
+3대	3/SN+대/NNG
+0으로	0/SN+으로/JKB
+제압하고	제압하/VV+고/EC
+결승진출에	결승진출/NNG+에/JKB
+성공했다	성공하/VV+였/EP+다/EC
+
+탁구의	탁구/NNG+의/JKG
+조경희	조경희/NNP
+선수가	선수/NNG+가/JKS
+득점에	득점/NNG+에/JKB
+성공해	성공하/VV+여/EC
+기뻐하고	기뻐하/VV+고/EC
+있다	있/VX+다/EC
+
+육상의	육상/NNG+의/JKG
+김규대	김규대/NNP
+선수(사진	선수/NNG+(/SS+사진/NNG
+왼쪽)가	왼쪽/NNG+)/SS+가/JKS
+6일	6/SN+일/NNB
+런던	런던/NNP
+올림픽	올림픽/NNG
+스타디움에서	스타디움/NNG+에서/JKB
+열린	열리/VV+ㄴ/ETM
+남자	남자/NNG
+800m	800/SN+m/SL
+T54	T/SL+54/SN
+결선에서	결선/NNG+에서/JKB
+역주하고	역주하/VV+고/EC
+있다	있/VX+다/EC
+
+역주	역주/NNG
+후	후/NNG
+자신의	자신/NNG+의/JKG
+기록을	기록/NNG+을/JKO
+지켜보고	지켜보/VV+고/EC
+있는	있/VX+는/ETM
+김규대	김규대/NNP
+선수	선수/NNG
+
+동메달이	동메달/NNG+이/JKS
+기대됐던	기대되/VV+었/EP+던/ETM
+김규대	김규대/NNP
+선수는	선수/NNG+는/JX
+1분39초03의	1/SN+분/XSN+39/SN+초/NNB+03/SN+의/JKG
+기록으로	기록/NNG+으로/JKB
+5위를	5/SN+위/NNB+를/JKO
+차지했다	차지하/VV+었/EP+다/EC
+
+역주를	역주/NNG+를/JKO
+마친	마치/VV+ㄴ/ETM
+김규대	김규대/NNP
+선수가	선수/NNG+가/JKS
+호흡을	호흡/NNG+을/JKO
+가다듬고	가다듬/VV+고/EC
+있다	있/VX+다/EC

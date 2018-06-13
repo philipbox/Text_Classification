@@ -1,0 +1,341 @@
+"국가	"/SS+국가/NNG
+암검진	암검지/VV+ㄴ/ETM
+권고	권고/NNG
+이행률…대장암·간암	이행률/NNG+…/SE+대장암/NNG+·/SP+간암/NNG
+'미흡'"	'/SS+미흡/NNG+'"/SS
+
+(서울=연합뉴스)	(/SS+서울/NNP+=/SW+연합뉴스/NNP+)/SS
+김길원	김길원/NNP
+기자	기자/NNG
+=	=/SW
+우리나라	우리나라/NNG
+성인	성인/NNG
+10명	10/SN+명/NNB
+중	중/NNB
+6명은	6/SN+명/NNB+은/JX
+국가가	국가/NNG+가/JKS
+권고하는	권고하/VV+는/ETM
+암	암/NNG
+검진	검진/NNG
+주기를	주/VV+기/ETN+를/JKO
+잘	잘/MAG
+지키고	지키/VV+고/EC
+있지만,	있/VX+지만/EC+,/SP
+대장암과	대장암/NNG+과/JC
+간암의	간암/NNG+의/JKG
+수검률은	수검률/NNG+은/JX
+크게	크/VA+게/EC
+떨어지는	떨어지/VV+는/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+국립암센터(원장	국립암센터/NNG+(/SS+원장/NNG
+이진수)는	이진수/NNG+)/SS+는/JX
+만	만/MM
+30세	30/SN+세/NNB
+이상	이상/NNG
+남녀	남녀/NNG
+4천140명을	4/SN+천/NR+140/SN+명/NNB+을/JKO
+대상으로	대상/NNG+으로/JKB
+올해	올해/NNG
+'암검진	'/SS+암검진/NNP
+권고안	권고안/NNG
+이행	이행/NNG
+수검률'을	수검률/NNG+'/SS+을/JKO
+조사한	조사하/VV+ㄴ/ETM
+결과	결과/NNG
+조사가	조사/NNG+가/JKS
+시작된	시작되/VV+ㄴ/ETM
+2004년의	2004/SN+년/NNB+의/JKG
+38	38/SN
+
+8%보다	8/SN+%/SW+보다/JKB
+24	24/SN
+
+6%	6/SN+%/SW
+포인트	포인트/NNG
+증가한	증가하/VV+ㄴ/ETM
+63	63/SN
+
+4%로	4/SN+%/SW+로/JKB
+집계됐다고	집계되/VV+었/EP+다고/EC
+14일	14/SN+일/NNB
+밝혔다	밝히/VV+었/EP+다/EC
+
+암검진	암검질/VA+ㄴ/ETM
+권고안	권고안/NNG
+이행	이행/NNG
+수검률은	수검률/NNG+은/JX
+암	암/NNG
+검진이	검진/NNG+이/JKS
+필요한	필요하/VA+ㄴ/ETM
+대상연령	대상연령/NNG
+가운데	가운데/NNG
+국가암검진	국가암검진/NNG
+프로그램이	프로그램/NNG+이/JKS
+권고하는	권고하/VV+는/ETM
+검진주기에	검진주기/NNG+에/JKB
+따라	따르/VV+아/EC
+암	암/NNG
+검진을	검진/NNG+을/JKO
+받은	받/VV+은/ETM
+수검자	수검자/NNG
+수를	수/NNG+를/JKO
+백분율로	백분율/NNG+로/JKB
+나타낸	나타내/VV+ㄴ/ETM
+것을	것/NNB+을/JKO
+말한다	말하/VV+ㄴ다/EF
+
+올해	올해/NNG
+수검률을	수검률/NNG+을/JKO
+암	암/NNG
+종류별로	종류별/NNG+로/JKB
+보면	보/VV+면/EC
+유방암	유방암/NNG
+71	71/SN
+
+0%,	0/SN+%/SW+,/SP
+위암	위암/NNG
+70	70/SN
+
+9%,	9/SN+%/SW+,/SP
+자궁경부암	자궁경부암/NNG
+67	67/SN
+
+9%,	9/SN+%/SW+,/SP
+대장암	대장암/NNG
+44	44/SN
+
+7%,	7/SN+%/SW+,/SP
+간암(고위험군)	간암/NNG+(/SS+고위험군/NNG+)/SS
+21	21/SN
+
+5%	5/SN+%/SW
+등으로	등/NNB+으로/JKB
+암에	암/NNG+에/JKB
+따라	따르/VV+아/EC
+편차가	편차/NNG+가/JKS
+컸다	크/VA+었/EP+다/EF
+
+유방암과	유방암/NNG+과/JC
+위암은	위암/NNP+은/JX
+올해	올해/NNG
+수검률이	수검률/NNG+이/JKS
+70%를	70/SN+%/SW+를/JKO
+넘어	넘/VV+어/EC
+오는	오/VV+는/ETM
+2015년	2015/SN+년/NNB
+목표	목표/NNG
+수검률(70%)을	수검률/NNG+(/SS+70/SN+%/SW+)/SS+을/JKO
+조기	조기/NNG
+달성했다	달성하/VV+였/EP+다/EF
+
+특히	특히/MAG
+유방암과	유방암/NNG+과/JC
+위암은	위암/NNP+은/JX
+2004년에	2004/SN+년/NNB+에/JKB
+비해	비하/VV+여/EC
+수검률	수검률/NNG
+증가폭이	증가폭/NNG+이/JKS
+각각	각각/MAG
+37	37/SN
+
+8%,	8/SN+%/SW+,/SP
+31	31/SN
+
+7%	7/SN+%/SW
+포인트	포인트/NNG
+증가했다	증가하/VV+였/EP+다/EC
+
+반면	반면/NNG
+간암과	간암/NNG+과/JC
+대장암의	대장암/NNG+의/JKG
+수검률은	수검률/NNG+은/JX
+목표치	목표치/NNG
+70%에	70/SN+%/SW+에/JKB
+크게	크/VA+게/EC
+못	못/MAG
+미쳐	미치/VV+어/EC
+수검률	수검률/NNG
+증가를	증가/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+대책	대책/NNG
+마련이	마련/NNG+이/JKS
+필요하다고	필요하/VA+다고/EC
+암센터는	암센터/NNG+는/JX
+지적했다	지적하/VV+였/EP+다/EF
+
+선진국의	선진국/NNG+의/JKG
+수검률과	수검률/NNG+과/JKB
+비교해보면	비교하/VV+여/EC+보/VX+면/EC
+유방암이	유방암/NNG+이/JKC
+미국	미국/NNP
+66	66/SN
+
+0%,	0/SN+%/SW+,/SP
+영국	영국/NNP
+73	73/SN
+
+3%,	3/SN+%/SW+,/SP
+자궁경부암은	자궁경부암/NNG+은/JX
+미국	미국/NNP
+74	74/SN
+
+0%,	0/SN+%/SW+,/SP
+영국	영국/NNP
+78	78/SN
+
+0%	0/SN+%/SW
+등으로	등/NNB+으로/JKB
+우리나라	우리나라/NNG
+유방암(71	유방암/NNG+(/SS+71/SN
+
+0%),	0/SN+%/SW+)/SS+,/SP
+자궁경부암(67	자궁경부암/NNG+(/SS+67/SN
+
+9%)	9/SN+%/SW+)/SS
+수검률과	수검률/NNG+과/JKB
+비슷하거나	비슷하/VA+거나/EC
+조금	조금/MAG
+높았다	높/VA+았/EP+다/EC
+
+성별	성별/NNG
+수검률은	수검률/NNG+은/JX
+여성	여성/NNG
+64	64/SN
+
+9%,	9/SN+%/SW+,/SP
+남성	남성/NNG
+59	59/SN
+
+6%로	6/SN+%/SW+로/JKB
+여성이	여성/NNG+이/JKS
+남성보다	남성/NNG+보다/JKB
+이행도가	이행도/NNG+가/JKS
+높았다	높/VA+았/EP+다/EC
+
+이를	이/NP+를/JKO
+암종별로	암종/NNG+별/XSN+로/JKB
+구분하면	구분하/VV+면/EC
+위암(여	위암/NNG+(/SS+여/NNG
+72	72/SN
+
+0%,	0/SN+%/SW+,/SP
+남69	남/NNG+69/SN
+
+8%)은	8/SN+%/SW+)/SS+은/JX
+여성이	여성/NNG+이/JKS
+높았고,	높/VA+았/EP+고/EC+,/SP
+간암(여	간암/NNG+(/SS+여/NNG
+12	12/SN
+
+4%,	4/SN+%/SW+,/SP
+남	남/NNG
+24	24/SN
+
+1%),	1/SN+%/SW+)/SS+,/SP
+대장암(여	대장암/NNG+(/SS+여/NNG
+42	42/SN
+
+8%,	8/SN+%/SW+,/SP
+남	남/NNG
+46	46/SN
+
+7%)은	7/SN+%/SW+)/SS+은/JX
+여성이	여성/NNG+이/JKS
+낮았다	낮/VA+았/EP+다/EC
+
+암검진	암검진/NNP
+권고안을	권고안/NNG+을/JKO
+이행한	이행하/VV+ㄴ/ETM
+수검자	수검자/NNG
+중	중/NNB
+국가와	국가/NNG+와/JC
+국민건강보험공단에서	국민건강보험공단/NNG+에서/JKB
+실시하는	실시하/VV+는/ETM
+'공공	'/SS+공공/NNG
+암검진'을	암검진/NNG+'/SS+을/JKO
+받은	받/VV+은/ETM
+비율은	비율/NNG+은/JX
+2004년	2004/SN+년/NNB
+45	45/SN
+
+7%에서	7/SN+%/SW+에서/JKB
+올해는	올해/NNG+는/JX
+83	83/SN
+
+4%로	4/SN+%/SW+로/JKB
+크게	크/VA+게/EC
+높아졌다	높아지/VV+었/EP+다/EC
+
+이에	이/NP+에/JKB
+대해	대하/VV+여/EC
+암센터는	암센터/NNG+는/JX
+"공공검진에	"/SS+공공검진/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+국민의	국민/NNG+의/JKG
+신뢰도가	신뢰도/NNG+가/JKS
+높아졌음을	높아지/VV+었/EP+음/ETN+을/JKO
+반영하는	반영하/VV+는/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+풀이했다	풀이하/VV+였/EP+다/EC
+
+수검자들의	수검자/NNG+들/XSN+의/JKG
+암검진	암검질/VA+ㄴ/ETM
+이행	이행/NNG
+동기는	동기/NNG+는/JX
+'공단이나	'/SS+공단/NNG+이나/JC
+보건소의	보건소/NNG+의/JKG
+검진	검진/NNG
+통보를	통보/NNG+를/JKO
+받고'라는	받/VV+고/EF+'/SS+이/VCP+라는/ETM
+응답이	응답/NNG+이/JKS
+58	58/SN
+
+6%로	6/SN+%/SW+로/JKB
+가장	가장/MAG
+많았으며,	많/VA+았/EP+으며/EC+,/SP
+'건강에	'/SS+건강/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+염려'(25	염려/NNG+'(/SS+25/SN
+
+3%),	3/SN+%/SW+)/SS+,/SP
+'직장	'/SS+직장/NNG
+단체종합검진'(6	단체종합검진/NNG+'(/SS+6/SN
+
+0%),	0/SN+%/SW+)/SS+,/SP
+'몸에	'/SS+몸/NNG+에/JKB
+이상을	이상/NNG+을/JKO
+느껴서'(4	느끼/VV+어서/EF+'(/SS+4/SN
+
+8%),	8/SN+%/SW+)/SS+,/SP
+'주변사람의	'/SS+주변사람/NNG+의/JKG
+권유'(3	권유/NNG+'(/SS+3/SN
+
+7%)	7/SN+%/SW+)/SS
+등이	등/NNB+이/JKS
+뒤를	뒤/NNG+를/JKO
+이었다	잇/VV+었/EP+다/EF
+
+bio@yna	bio/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

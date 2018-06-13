@@ -1,0 +1,100 @@
+부여서	부열/VV+서/EC
+지적장애女	지적장애女/NNG
+실종…경찰	실종/NNG+…/SE+경찰/NNG
+수색	수색/NNG
+
+대전CBS	대전/NNP+CBS/SL
+김정남	김정남/NNP
+기자충남	기자충남/NNP
+부여에서	부여/NNP+에서/JKB
+지적장애	지적장애/NNG
+여성이	여성/NNG+이/JKS
+실종돼	실종되/VV+어/EC
+경찰이	경찰/NNG+이/JKS
+수색에	수색/NNG+에/JKB
+나섰다	나서/VV+었/EP+다/EF
+
+충남	충남/NNP
+부여경찰서는	부여/NNP+경찰서/NNG+는/JX
+지적장애	지적장애/NNG
+1급	1/SN+급/NNG
+이	이/NNP
+모(54·여)	모/NP+(/SS+54/SN+·/SP+여/NNG+)/SS
+씨가	씨/NNB+가/JKS
+지난	지나/VV+ㄴ/ETM
+13일	13/SN+일/NNB
+오전	오전/NNG
+9시쯤	9/SN+시/NNB+쯤/XSN
+부여군	부여군/NNP
+은산면의	은산면/NNP+의/JKG
+집을	집/NNG+을/JKO
+나선	나서/VV+ㄴ/ETM
+뒤	뒤/NNG
+연락이	연락/NNG+이/JKS
+두절됐다는	두절되/VV+었/EP+다는/ETM
+신고가	신고/NNG+가/JKS
+접수돼	접수되/VV+어/EC
+수색을	수색/NNG+을/JKO
+벌이고	벌이/VV+고/EC
+있다고	있/VX+다고/EC
+24일	24/SN+일/NNB
+밝혔다	밝히/VV+었/EP+다/EC
+
+경찰은	경찰/NNG+은/JX
+실종전담팀을	실종전담팀/NNG+을/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+경찰관	경찰관/NNG
+100여	100/SN+여/XSN
+명과	명/NNB+과/JC
+자율방범대,	자율방범대/NNG+,/SP
+의용소방대	의용소방대/NNG
+등을	등/NNB+을/JKO
+투입해	투입하/VV+여/EC
+마을	마을/NNG
+공·폐가와	공/NNG+·/SP+폐가/NNG+와/JC
+야산을	야산/NNG+을/JKO
+수색하고	수색하/VV+고/EC
+있지만	있/VX+지만/EC
+이	이/NNP
+씨의	씨/NNB+의/JKG
+행방은	행방/NNG+은/JX
+묘연한	묘연하/VA+ㄴ/ETM
+상태다	상태/NNG+이/VCP+다/EC
+
+이	이/NNP
+씨는	씨/NNB+는/JX
+160㎝의	160/SN+㎝/SW+의/JKG
+키에	키/NNG+에/JKB
+뚱뚱한	뚱뚱하/VA+ㄴ/ETM
+체형,	체형/NNG+,/SP
+둥근	둥글/VA+ㄴ/ETM
+얼굴로	얼굴/NNG+로/JKB
+외출	외출/NNG
+당시	당시/NNG
+분홍색	분홍색/NNG
+상의를	상의/NNG+를/JKO
+착용하고	착용하/VV+고/EC
+있었다고	있/VX+었/EP+다고/EC
+경찰은	경찰/NNG+은/JX
+설명했다	설명하/VV+었/EP+다/EC
+
+jnkim@cbs	jnkim/SL+@/SW+cbs/SL
+
+co	co/SL
+
+kr/에이블뉴스	kr/SL+//SP+에이블뉴스/NNP
+제휴사*위	제휴사/NNG+*/SW+위/NNG
+기사에	기사/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+모든	모든/MM
+법적	법적/NNG
+책임	책임/NNG
+및	및/MAG
+권한은	권한/NNG+은/JX
+저작권자인	저작권자/NNG+이/VCP+ㄴ/ETM
+노컷뉴스(www	노컷뉴스/NNP+(/SS+www/SL
+
+kdawu	kdawu/SL
+
+org)에	org/SL+)/SS+에/JKB
+있습니다	있/VA+습니다/EF

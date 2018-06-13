@@ -1,0 +1,407 @@
+우리의	우리/NP+의/JKG
+자립은	자립/NNG+은/JX
+현재	현재/MAG
+진행형!	진행형/NNG+!/SF
+
+최근	최근/NNG
+하남장애인자립생활센터의	하남/NNP+장애인자립생활센터/NNG+의/JKG
+동료상담	동료상담/NNG
+심화교육을	심화교육/NNG+을/JKO
+갔다가	가/VV+았/EP+다가/EC
+나와	나오/VV+아/EC
+같은	같/VA+은/ETM
+이름의	이름/NNG+의/JKG
+그녀를	그녀/NP+를/JKO
+만났다	만나/VV+았/EP+다/EC
+
+은미와	은미/NNP+와/JC
+은미	은미/NNP
+
+이름이	이름/NNG+이/JKS
+같아서,	같/VA+아서/EC+,/SP
+같은	같/VA+은/ETM
+여성장애인이라서	여성장애인/NNG+이/VCP+라서/EC
+
+더	더/MAG
+관심이	관심/NNG+이/JKS
+갔다	가/VV+았/EP+다/EC
+
+그녀는	그녀/NP+는/JX
+현재	현재/MAG
+국문학과	국문학과/NNG
+4학년,	4/SN+학년/NNG+,/SP
+작가를	작가/NNG+를/JKO
+꿈꾸는	꿈꾸/VV+는/ETM
+30대	30/SN+대/NNB
+초반의	초반/NNG+의/JKG
+여성장애인이었다	여성장애인/NNG+이/VCP+었/EP+다/EF
+
+동료상담을	동료상담/NNG+을/JKO
+하면서	하/VV+면서/EC
+과거에	과거/NNG+에/JKB
+겪었던	겪/VV+었/EP+던/ETM
+힘들었던	힘들/VA+었/EP+던/ETM
+시간을	시간/NNG+을/JKO
+돌아보며	돌아보/VV+며/EC
+참	참/MAG
+많이도	많이/MAG+도/JX
+울었다	울/VV+었/EP+다/EC
+
+강의를	강의/NNG+를/JKO
+진행하던	진행하/VV+던/ETM
+나도	나/NP+도/JX
+함께	함께/MAG
+울수	울/VV+ㄹ/ETM+수/NNG
+밖에	밖에/JX
+없던	없/VA+던/ETM
+가슴아픈	가슴/NNG+아프/VA+ㄴ/ETM
+경험들이	경험/NNG+들/XSN+이/JKS
+토해져	토해지/VV+어/EC
+나왔다	나오/VV+았/EP+다/EF
+
+그녀를	그녀/NP+를/JKO
+울게하는	울/VV+게/EC+하/VX+는/ETM
+현실이라는	현실/NNG+이/VCP+라는/ETM
+사회는	사회/NNG+는/JX
+참	참/MAG
+녹녹치	녹녹하/VA+지/EC
+않았다	않/VX+았/EP+다/EF
+
+자립생활을	자립생활/NNG+을/JKO
+겁내던	겁내/VV+던/ETM
+그녀에게	그녀/NP+에게/JKB
+시간은	시간/NNG+은/JX
+너무나	너무나/MAG
+빨리	빨리/MAG
+지나가	지나가/VV+아/EC
+벌써	벌써/MAG
+30대가	30/SN+대/NNB+가/JKS
+되었다	되/VV+었/EP+다/EC
+
+그러다가	그러/VV+다가/EC
+한	한/MM
+자립생활센터를	자립생활센터/NNG+를/JKO
+알게	알/VV+게/EC
+되고,	되/VV+고/EC+,/SP
+집으로	집/NNG+으로/JKB
+찾아와	찾아오/VV+아/EC
+준	주/VX+ㄴ/ETM
+동료상담가를	동료상담/NNG+가/XSN+를/JKO
+만나	만나/VV+아/EC
+세상	세상/NNG
+밖으로	밖/NNG+으로/JKB
+모험을	모험/NNG+을/JKO
+시작하게	시작하/VV+게/EC
+되었다	되/VV+었/EP+다/EC
+
+동료상담	동료상담/NNG
+마지막	마지막/NNG
+날!	날/NNG+!/SF
+그녀가	그녀/NP+가/JKS
+나에게	나/NP+에게/JKB
+보여준	보이/VV+어/EC+주/VX+ㄴ/ETM
+'시'를	'/SS+시/NNG+'/SS+를/JKO
+읽으면서	읽/VV+으면서/EC
+난	나/VX+ㄴ/ETM
+그	그/MM
+속에서	속/NNG+에서/JKB
+그녀의	그녀/NP+의/JKG
+외침을	외침/NNG+을/JKO
+들었다	듣/VV+었/EP+다/EF
+
+나의	나/NP+의/JKG
+자립과	자립/NNG+과/JC
+나의	나/NP+의/JKG
+친구	친구/NNG
+(장은미)내	(/SS+장은미/NNP+)/SS+내/NP
+스스로	스스로/MAG
+무엇을	무엇/NP+을/JKO
+할	하/VV+ㄹ/ETM
+힘	힘/NNG
+조차없었던	조차없/VA+었/EP+던/ETM
+나	나/NNG
+
+늘	늘/MAG
+남들에게	남/NNG+들/XSN+에게/JKB
+도움을	도움/NNG+을/JKO
+받았던	받/VV+았/EP+던/ETM
+나이제	나이/NNG+제/XSN
+뭐든지	뭐/NP+든지/JX
+혼자	혼자/NNG
+해야	하/VV+여야/EC
+할	하/VX+ㄹ/ETM
+나이내가	나이내/NNG+가/JKS
+과연	과연/MAG
+잘	잘/MAG
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있을까요??사회야	있/VA+을까/EF+요/JX+??/SF+사회/NNG+야/JX
+
+나	나/NP
+좀	좀/MAG
+도와줘아직은	도와줘/VV+아직/EC+은/JX
+내가	내/NP+가/JKS
+부족하지만내	부족하/VA+지만/EC+내/VX+어/EC
+스스로	스스로/MAG
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+일을	일/NNG+을/JKO
+나에게	나/NP+에게/JKB
+줘	주/VV+어/EC
+
+나	나/NP
+혼자서는	혼자/NNG+서/JKS+는/JX
+안	안/MAG
+될	되/VV+ㄹ/ETM
+거라는	것/NNB+이/VCP+라는/ETM
+생각은이제	생각/NNG+은이제/JX
+그만	그만/MAG
+해야	하/VV+여야/EC
+해	하/VX+여/EC
+
+혼자서도	혼자/NNG+서/JKS+도/JX
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있다는	있/VA+다는/ETM
+생각과	생각/NNG+과/JC
+자신감을	자신감/NNG+을/JKO
+가져봐	가져보/VV+아/EC
+
+라고	라고/NNP
+어느	어느/MM
+친구의	친구/NNG+의/JKG
+말이	말/NNG+이/JKS
+왜	왜/MAG
+그리도싫었을까?친구야	그리도/MAG+싫/VA+었/EP+을까/EF+?/SF+친구야/NNG
+
+미안하다	미안하/VA+다/EC
+
+그리고	그리고/MAJ
+고맙다	고맙/VA+다/EC
+
+너의	너/NP+의/JKG
+충고가	충고/NNG+가/JKC
+아니였다면	아니/VCN+었/EP+다면/EC
+난	나/NP+ㄴ/JX
+지금	지금/MAG
+세상을	세상/NNG+을/JKO
+원망하고	원망하/VV+고/EC
+날	날/NNG
+여태	여태/MAG
+까지	까지/JX
+키워주신	키우/VV+어/EC+주신/NNG
+부모님께	부모님/NNG+께/JKB
+효도를	효도/NNG+를/JKO
+할	하/VV+ㄹ/ETM
+수	수/NNB
+없었을거야	없/VA+었/EP+을거/EF+야/JX
+
+사회야	사회/NNG+야/JX
+내가	내/NP+가/JKS
+너에게	너/NP+에게/JKB
+나갈	나가/VV+ㄹ/ETM
+수	수/NNB
+있게나를	있/VA+게나/EC+를/JKO
+조금만	조금/NNG+만/JX
+도와	돕/VV+아/EC
+주면나는	주/VX+면/EC+나/VX+는/ETM
+최선을	최선/NNG+을/JKO
+다해	다하/VV+여/EC
+너를	너/NP+를/JKO
+기쁘게	기쁘/VA+게/EC
+해	하/VX+여/EC
+줄	주/VX+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+사람이	사람/NNG+이/JKC
+될거야	되/VV+ㄹ거야/EC
+
+나는	나/NP+는/JX
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있어	있/VA+어/EF
+
+이제	이제/MAG
+뭐든지	뭐/NP+든지/JX
+
+내	내/NP
+스스로	스스로/MAG
+해	하/VV+여/EC
+볼	보/VX+ㄹ/ETM
+거야	거야/NNG
+
+그게	그것/NP+이/JKS
+슬픈	슬프/VA+ㄴ/ETM
+일이든,행복한	일/NNG+이/VCP+든/EC+,/SP+행복하/VA+ㄴ/ETM
+일이든	일/NNG+이/VCP+든/EC
+
+힘든	힘들/VA+ㄴ/ETM
+일이든	일/NNG+이/VCP+든/EC
+
+세상에	세상/NNG+에/JKB
+안	안/MAG
+힘든	힘들/VA+ㄴ/ETM
+일은	일/NNG+은/JX
+없어	없/VA+어/EF
+
+나의	나/NP+의/JKG
+힘이	힘/NNG+이/JKC
+되주던	되/VV+주던/ETM
+친구의	친구/NNG+의/JKG
+말	말/NNG
+내가	내/NP+가/JKS
+그때는	그때/NNG+는/JX
+철이	철/NNG+이/JKS
+없어서왜	없/VA+어서/EC+왜/JX
+이렇게	이렇/VA+게/EC
+잔소리만	잔소리/NNG+만/JX
+하냐고	하/VV+냐고/EC
+했던	하/VV+였/EP+던/ETM
+나야	나/VV+아야/EF
+
+미안해	미안하/VA+여/EC
+
+이제	이제/MAG
+내	내/NP
+스스로	스스로/MAG
+해	하/VV+여/EC
+볼께	보/VX+ㄹ께/EF
+
+네가	네/NP+가/JKS
+지켜봐줘	지켜보/VV+아/EC+주/VX+어/EC
+
+친구(동료상담가)의	친구/NNG+(/SS+동료상담/NNG+가/XSN+)/SS+의/JKG
+말속에서	말속/NNG+에서/JKB
+새로운	새롭/VA+ㄴ/ETM
+희망을	희망/NNG+을/JKO
+발견한	발견하/VV+ㄴ/ETM
+그녀는	그녀/NP+는/JX
+
+이제	이제/MAG
+막	막/NNG
+사회에	사회/NNG+에/JKB
+나온	나오/VV+ㄴ/ETM
+그녀는	그녀/NP+는/JX
+이렇게	이렇/VA+게/EC
+고백한다	고백하/VV+ㄴ다/EF
+
+“이제	“/SL+이제/MAG
+뭐든지	뭐/NP+든지/JX
+
+내	내/NP
+스스로	스스로/MAG
+해	하/VV+여/EC
+볼	보/VX+ㄹ/ETM
+거야	거야/NNG
+
+그게	그것/NP+이/JKS
+슬픈	슬프/VA+ㄴ/ETM
+일이든,행복한	일/NNG+이/VCP+든/EC+,/SP+행복하/VA+ㄴ/ETM
+일이든,힘든	일/NNG+이/VCP+든/EC+,/SP+힘들/VA+ㄴ/ETM
+일이든	일/NNG+이/VCP+든/EC
+
+”“사회야	”“/SL+사회야/NNG
+
+나	나/NP
+좀	좀/MAG
+도와줘!”	도와주/VV+어/EF+!/SF+”/SN
+내	내/NNB
+스스로	스스로/MAG
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+일을	일/NNG+을/JKO
+나에게	나/NP+에게/JKB
+줘!"자신의	주/VV+어/EC+!/SF+"/SS+자신/NNG+의/JKG
+결심과	결심/NNG+과/JC
+사회를	사회/NNG+를/JKO
+향한	향하/VV+ㄴ/ETM
+그녀의	그녀/NP+의/JKG
+목소리는	목소리/NNG+는/JX
+갸날프지만	갸날프/VA+지만/EC
+분명하다	분명하/VA+다/EC
+
+도움을	도움/NNG+을/JKO
+요청하고	요청하/VV+고/EC
+있지만,	있/VX+지만/EC+,/SP
+더이상	더/MAG+이상/NNG
+그녀는	그녀/NP+는/JX
+예전의	예전/NNG+의/JKG
+힘없던	힘없/VA+던/ETM
+그녀가	그녀/NP+가/JKC
+아니라	아니/VCN+라/EC
+스스로	스스로/MAG
+무언가	무엇/NP+이/VCP+ㄴ가/EC
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있다고	있/VA+다고/EC
+외치고	외치/VV+고/EC
+있다	있/VX+다/EC
+
+그녀의	그녀/NP+의/JKG
+외침속에서	외침속/NNG+에서/JKB
+“우리의	“/SN+우리/NP+의/JKG
+자립은	자립/NNG+은/JX
+항상	항상/MAG
+현재진행형”이라는	현재진행형/NNG+”/SL+이/VCP+라는/ETM
+것을	것/NNB+을/JKO
+깨닫는다	깨닫/VV+는다/EF
+
+한	한/MM
+사람의	사람/NNG+의/JKG
+자립은	자립/NNG+은/JX
+또	또/MAG
+한	한/MM
+사람을	사람/NNG+을/JKO
+세상밖으로	세상/NNG+밖/JX+으로/JKB
+끄집어	끄집/VV+어/EC
+낸다	내/VV+ㄴ다/EF
+
+지금의	지금/NNG+의/JKG
+우리도	우리/NP+도/JX
+그렇게	그렇/VA+게/EC
+세상	세상/NNG
+밖으로	밖/NNG+으로/JKB
+나왔다	나오/VV+았/EP+다/EF
+
+한	한/MM
+사람으로	사람/NNG+으로/JKB
+시작된	시작되/VV+ㄴ/ETM
+자립은	자립/NNG+은/JX
+그렇게	그렇/VA+게/EC
+끝없이	끝없이/MAG
+이어져	이어지/VV+어/EC
+왔다	오/VX+았/EP+다/EF
+
+더	더/MAG
+이상	이상/NNG
+아프다고	아프/VA+다고/EC
+힘들다고	힘들/VA+다고/EC
+자립을	자립/NNG+을/JKO
+향한	향하/VV+ㄴ/ETM
+몸부림을	몸부림/NNG+을/JKO
+포기하지	포기하/VV+지/EC
+말자!그게	말/VX+자/EF+!/SF+그것/NP+이/JKS
+슬픈일이든,	슬픈일/NNG+이/VCP+든/EC+,/SP
+행복한	행복하/VA+ㄴ/ETM
+일이든,	일/NNG+이/VCP+든/EC+,/SP
+힘든	힘들/VA+ㄴ/ETM
+일이든	일/NNG+이/VCP+든/EC
+
+오늘	오늘/NNG
+우리	우리/NP
+살아있다면,	살/VV+아/EC+있/VX+다면/EC+,/SP
+이제	이제/MAG
+뭐든지	뭐/NP+든지/JX
+시작해	시작하/VV+여/EC
+보자!	보/VX+자/EF+!/SF
+*	*/SW
+주은미	주은미/NNP
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNG
+객원기자이며,	객원기자/NNG+이/VCP+며/EC+,/SP
+한국직업능력개발원	한국직업능력개발원/NNP
+연구원으로	연구원/NNG+으로/JKB
+근무하고	근무하/VV+고/EC
+있습니다	있/VX+습니다/EF

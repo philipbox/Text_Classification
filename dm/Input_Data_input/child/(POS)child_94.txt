@@ -1,0 +1,185 @@
+3년간	3/SN+년/NNB+간/XSN
+여성장애인	여성장애인/NNG
+성폭력	성폭력/NNG
+상담	상담/NNG
+'급증'	'/SS+급증/NNG+'/SS
+
+최근	최근/NNG
+3년	3/SN+년/NNB
+동안	동안/NNG
+여성장애인의	여성장애인/NNG+의/JKG
+성폭력	성폭력/NNG
+상담이	상담/NNG+이/JKS
+급증한	급증하/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+드러났다	드러나/VV+았/EP+다/EC
+
+새누리당	새누리당/NNP
+김정록	김정록/NNP
+의원(국회	의원/NNG+(/SS+국회/NNG
+보건복지위원회)이	보건복지위원회/NNG+)/SS+이/JKS
+지난	지나/VV+ㄴ/ETM
+2일	2/SN+일/NNB
+여성가족부로부터	여성가족부/NNG+로부터/JKB
+제출받은	제출/NNG+받/VV+은/ETM
+‘5년간(2007-2011)	‘/SL+5/SN+년/NNB+간/XSN+(/SS+2007/SN+-/SO+2011/SN+)/SS
+여성장애인	여성장애인/NNG
+성폭력	성폭력/NNG
+상담	상담/NNG
+현황(일반	현황/NNG+(/SS+일반/NNG
+성폭력상담소	성폭력상담소/NNG
+및	및/MAG
+장애인상담소	장애인상담소/NNG
+상담	상담/NNG
+현황)’에	현황/NNG+)/SS+’/SL+에/JKB
+따르면	따르/VV+면/EC
+여성장애인의	여성장애인/NNG+의/JKG
+성폭력	성폭력/NNG
+상담은	상담/NNG+은/JX
+3년간	3/SN+년/NNB+간/XSN
+2009년	2009/SN+년/NNB
+13,792건에서	13,792/SN+건/NNB+에서/JKB
+지난해	지난해/NNG
+22,229건으로	22,229/SN+건/NNB+으로/JKB
+61	61/SN
+
+2%나	2/SN+%/SW+나/JX
+증가한	증가하/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+드러났다	드러나/VV+았/EP+다/EC
+
+이중	이/MM+중/NNB
+인천은	인천/NNP+은/JX
+35건에서	35/SN+건/NNB+에서/JKB
+179건으로	179/SN+건/NNB+으로/JKB
+3년간	3/SN+년/NNB+간/XSN
+5배,	5/SN+배/NNG+,/SP
+대전이	대전/NNP+이/JKS
+31건에서	31/SN+건/NNB+에서/JKB
+1,798건으로	1,798/SN+건/NNB+으로/JKB
+58배나	58/SN+배/NNG+나/JX
+급증했다	급증하/VV+였/EP+다/EF
+
+지난해	지난해/NNG
+7~18세의	7/SN+~/SO+18/SN+세/NNB+의/JKG
+여성장애인이	여성장애인/NNG+이/JKS
+전체	전체/NNG
+여성	여성/NNG
+성폭력	성폭력/NNG
+피해자의	피해자/NNG+의/JKG
+50%를	50/SN+%/SW+를/JKO
+차지했으며,	차지하/VV+였/EP+으며/EC+,/SP
+피해유형도	피해유형/NNG+도/JX
+강간(56	강간/NNG+(/SS+56/SN
+
+3%),	3/SN+%/SW+)/SS+,/SP
+성추행(31	성추행/NNG+(/SS+31/SN
+
+1%)	1/SN+%/SW+)/SS
+순이었다	순/XSN+이/VCP+었/EP+다/EF
+
+특히	특히/MAG
+지난해	지난해/NNG
+지적장애	지적장애/NNG
+여성의	여성/NNG+의/JKG
+성폭력	성폭력/NNG
+상담	상담/NNG
+수는	수/NNG+는/JX
+987건으로,	987/SN+건/NNB+으로/JKB+,/SP
+2007년	2007/SN+년/NNB
+529건에	529/SN+건/NNB+에/JKB
+비해	비하/VV+여/EC
+86	86/SN
+
+6%가	6/SN+%/SW+가/JKS
+증가한	증가하/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+집계됐다	집계되/VV+었/EP+다/EF
+
+더욱이	더욱이/MAG
+지난해	지난해/NNG
+성폭력	성폭력/NNG
+피해를	피해/NNG+를/JKO
+입은	입/VV+은/ETM
+여성장애인의	여성장애인/NNG+의/JKG
+72	72/SN
+
+8%(987명)가	8/SN+%/SW+(/SS+987/SN+명/NNB+)/SS+가/JKS
+지적장애인인	지적장애인/NNG+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+지체장애	지체장애/NNG
+(104명,	(/SS+104/SN+명/NNB+,/SP
+7	7/SN
+
+7%),	7/SN+%/SW+)/SS+,/SP
+정신장애	정신장애/NNG
+(83명,	(/SS+83/SN+명/NNB+,/SP
+6	6/SN
+
+1%),	1/SN+%/SW+)/SS+,/SP
+뇌병변장애	뇌병변장애/NNG
+(47명,	(/SS+47/SN+명/NNB+,/SP
+3	3/SN
+
+5%),	5/SN+%/SW+)/SS+,/SP
+청각·언어장애	청각/NNG+·/SP+언어장애/NNG
+(35명,	(/SS+35/SN+명/NNB+,/SP
+2	2/SN
+
+6%)	6/SN+%/SW+)/SS
+여성이	여성/NNG+이/JKS
+뒤를	뒤/NNG+를/JKO
+이었다	잇/VV+었/EP+다/EF
+
+김정록	김정록/NNP
+의원은	의원/NNG+은/JX
+“지적장애인은	“/SL+지적장애인/NNG+은/JX
+자기결정,	자기/NP+결정/NNG+,/SP
+자기권리	자기권리/NNG
+주장이나	주장/NNG+이나/JC
+자기보호가	자기보호/NNG+가/JKS
+어려워	어렵/VA+어/EC
+학대·무시·성적착취	학대/NNG+·/SP+무시/NNG+·/SP+성적착취/NNG
+등	등/NNB
+심각한	심각하/VA+ㄴ/ETM
+위협을	위협/NNG+을/JKO
+겪고	겪/VV+고/EC
+있다”면서	있/VX+다/EC+”/VV+면서/EC
+“성폭력	“/SL+성폭력/NNG
+예방	예방/NNG
+및	및/MAG
+피해자	피해자/NNG
+지원을	지원/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+대책으로	대책/NNG+으로/JKB
+‘발달장애인	‘/SN+발달장애인/NNG
+지원	지원/NNG
+및	및/MAG
+권리보장에	권리보장/NNG+에/JKB
+관한	관하/VV+ㄴ/ETM
+법률안(이하	법률안/NNG+(/SS+이하/NNG
+발달장애인법)’이	발달장애인법/NNG+)/SS+’/SL+이/JKS
+시행될	시행되/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+최선을	최선/NNG+을/JKO
+다하겠다”고	다하/VV+겠/EP+다/EC+”/SN+고/EC
+강조했다	강조하/VV+였/EP+다/EC
+
+한편	한편/MAG
+김	김/NNP
+의원은	의원/NNG+은/JX
+지난	지나/VV+ㄴ/ETM
+5월	5/SN+월/NNB
+30일	30/SN+일/NNB
+19대	19/SN+대/NNB
+국회	국회/NNG
+제1호	제/XPN+1/SN+호/NNB
+법안으로	법안/NNG+으로/JKB
+‘발달장애인법’을	‘/SN+발/NNB+달장애인법’/NNG+을/JKO
+대표발의	대표발/NNG+의/JKG
+한	한/MM
+바	바/NNB
+있다	있/VA+다/EC

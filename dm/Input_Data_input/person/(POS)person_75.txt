@@ -1,0 +1,183 @@
+노인	노인/NNG
+가난할수록	가난하/VA+ㄹ수록/EC
+자살	자살/NNG
+생각	생각/NNG
+많이	많이/MAG
+한다	하/VV+ㄴ다/EF
+
+소득수준이	소득수준/NNG+이/JKS
+낮은	낮/VA+은/ETM
+노인일수록	노인/NNG+이/VCP+ㄹ수록/EC
+자살을	자살/NNG+을/JKO
+생각하는	생각하/VV+는/ETM
+비율이	비율/NNG+이/JKS
+2	2/SN
+
+3배	3/SN+배/NNG
+높은	높/VA+은/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+민주통합당	민주통합당/NNP
+이목희	이목희/NNP
+의원(국회	의원/NNG+(/SS+국회/NNG
+보건복지위원회)이	보건복지위원회/NNG+)/SS+이/JKS
+복지부가	복지부/NNG+가/JKS
+제출한	제출하/VV+ㄴ/ETM
+‘2011년	‘/SL+2011/SN+년/NNB
+노인실태조사’를	노인실태조사/NNG+’/SL+를/JKO
+분석한	분석하/VV+ㄴ/ETM
+결과	결과/NNG
+65세이상	65/SN+세/NNB+이상/NNG
+노인을	노인/NNG+을/JKO
+연가구소득	연가구소득/NNG
+기준으로	기준/NNG+으로/JKB
+5개	5/SN+개/NNB
+그룹으로	그룹/NNG+으로/JKB
+분류했을	분류하/VV+였/EP+을/ETM
+때	때/NNG
+최하위	최/XPN+하위/NNG
+20%에	20/SN+%/SW+에/JKB
+속하는	속하/VV+는/ETM
+노인이	노인/NNG+이/JKS
+자살을	자살/NNG+을/JKO
+생각한	생각하/VV+ㄴ/ETM
+비율은	비율/NNG+은/JX
+16	16/SN
+
+3%에	3/SN+%/SW+에/JKB
+이르렀고	이르/VV+었/EP+고/EC
+소득수준이	소득수준/NNG+이/JKS
+증가할수록	증가하/VV+ㄹ수록/EC
+11	11/SN
+
+7%,	7/SN+%/SW+,/SP
+10	10/SN
+
+8%,	8/SN+%/SW+,/SP
+10	10/SN
+
+1%로	1/SN+%/SW+로/JKB
+줄어들었다	줄어들/VV+었/EP+다/EC
+
+반면	반면/NNG
+최상위	최/XPN+상위/NNG
+20%는	20/SN+%/SW+는/JX
+7	7/SN
+
+0%를	0/SN+%/SW+를/JKO
+기록해	기록하/VV+여/EC
+소득수준과	소득수준/NNG+과/JC
+자살을	자살/NNG+을/JKO
+고려하는	고려하/VV+는/ETM
+정도	정도/NNG
+사이에	사이/NNG+에/JKB
+상관관계가	상관관계/NNG+가/JKS
+있는	있/VA+는/ETM
+것으로	것/NNB+으로/JKB
+분석됐다	분석되/VV+었/EP+다/EF
+
+노인이	노인/NNG+이/JKS
+자살을	자살/NNG+을/JKO
+생각하는	생각하/VV+는/ETM
+가장	가장/MAG
+큰	크/VA+ㄴ/ETM
+원인은	원인/NNG+은/JX
+소득수준에	소득수준/NNG+에/JKB
+따라	따르/VV+아/EC
+차이를	차이/NNG+를/JKO
+보였다	보이/VV+었/EP+다/EF
+
+소득	소득/NNG
+최하위	최/XPN+하위/NNG
+20%	20/SN+%/SW
+계층은	계층/NNG+은/JX
+경제적	경제적/NNG
+어려움이	어려움/NNG+이/JKS
+37	37/SN
+
+8%를	8/SN+%/SW+를/JKO
+차지해	차지하/VV+여/EC
+가장	가장/MAG
+비중이	비중/NNG+이/JKS
+컸다	크/VA+었/EP+다/EF
+
+소득	소득/NNG
+중위	중위/NNG
+20%의	20/SN+%/SW+의/JKG
+42	42/SN
+
+5%는	5/SN+%/SW+는/JX
+본인의	본인/NNG+의/JKG
+건강이	건강/NNG+이/JKS
+자살을	자살/NNG+을/JKO
+생각하게	생각하/VV+게/EC
+하는	하/VX+는/ETM
+원인이라고	원인/NNG+이/VCP+라고/EC
+꼽았다	꼽/VV+았/EP+다/EF
+
+상위	상위/NNG
+20%와	20/SN+%/SW+와/JKB
+가장	가장/MAG
+부유한	부유하/VA+ㄴ/ETM
+최상위	최/XPN+상위/NNG
+20%는	20/SN+%/SW+는/JX
+외로움·지인의	외로움/NNG+·/SP+지인/NNG+의/JKG
+사망·갈등관계	사망/NNG+·/SP+갈등관계/NNG
+등	등/NNB
+대인관계에서	대인관계/NNG+에서/JKB
+오는	오/VV+는/ETM
+고통이	고통/NNG+이/JKS
+각각	각각/MAG
+38	38/SN
+
+7%,	7/SN+%/SW+,/SP
+43	43/SN
+
+8%로	8/SN+%/SW+로/JKB
+가장	가장/MAG
+높은	높/VA+은/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+이목희	이목희/NNP
+의원은	의원/NNG+은/JX
+“양극화	“/SL+양극화/NNG
+현상이	현상/NNG+이/JKS
+노인자살이라는	노인자살/NNG+이/VCP+라는/ETM
+극단적인	극단적/NNG+이/VCP+ㄴ/ETM
+현상에도	현상/NNG+에/JKB+도/JX
+반영되고	반영되/VV+고/EC
+있다”면서	있/VX+다/EC+”/VV+면서/EC
+“노인의	“/SL+노인/NNG+의/JKG
+자살은	자살/NNG+은/JX
+경제적인	경제적/NNG+이/VCP+ㄴ/ETM
+고통과	고통/NNG+과/JC
+지병으로부터	지병/NNG+으로부터/JKB
+구제받을	구제/NNG+받/VV+을/ETM
+수	수/NNB
+없는	없/VA+는/ETM
+절망감	절망감/NNG
+등이	등/NNB+이/JKS
+가장	가장/MAG
+큰	크/VA+ㄴ/ETM
+이유를	이유/NNG+를/JKO
+차지하고	차지하/VV+고/EC
+있다	있/VX+다/EC
+
+노인의	노인/NNG+의/JKG
+자살을	자살/NNG+을/JKO
+개인적인	개인적/NNG+이/VCP+ㄴ/ETM
+문제로	문제/NNG+로/JKB
+접근할	접근하/VV+ㄹ/ETM
+것이	것/NNB+이/JKC
+아니라	아니/VCN+라/EC
+고령인구의	고령인구/NNG+의/JKG
+경제문제,	경제문제/NNG+,/SP
+사회복지	사회복지/NNG
+및	및/MAG
+사회안전망의	사회안전망/NNG+의/JKG
+문제로	문제/NNG+로/JKB
+풀어야	풀/VV+어야/EC
+한다”고	하/VX+ㄴ다”고/EC
+조언했다	조언하/VV+였/EP+다/EF

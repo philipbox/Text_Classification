@@ -1,0 +1,313 @@
+방송3사	방송/NNG+3/SN+사/NNG
+대선	대선/NNG
+출구조사	출구조사/NNG
+오차범위	오차범위/NNP
+내	내/NNB
+혼전	혼전/NNG
+
+방송3사	방송/NNG+3/SN+사/NNG
+출구조사	출구조사/NNG
+결과	결과/NNG
+새누리당	새누리당/NNP
+박근혜	박근혜/NNP
+대통령	대통령/NNG
+후보가	후보/NNG+가/JKS
+불과	불과/MAG
+1	1/SN
+
+2%포인트	2/SN+%/SW+포인트/NNG
+차이로	차이/NNG+로/JKB
+민주통합당	민주통합당/NNP
+문재인	문재인/NNG
+후보에	후보/NNG+에/JKB
+앞선	앞서/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+조사됐다	조사되/VV+었/EP+다/EF
+
+KBS,	KBS/SL+,/SP
+SBS,	SBS/SL+,/SP
+MBC	MBC/SL
+등	등/NNB
+방송3사는	방송/NNG+3/SN+사/NNG+는/JX
+대통령	대통령/NNG
+선거	선거/NNG
+투표	투표/NNG
+마감인	마감/NNG+이/VCP+ㄴ/ETM
+시간인	시간/NNG+이/VCP+ㄴ/ETM
+19일	19/SN+일/NNB
+오후	오후/NNG
+6시	6/SN+시/NNB
+일제히	일제히/MAG
+출구조사를	출구조사/NNG+를/JKO
+발표했다	발표하/VV+였/EP+다/EC
+
+출구조사	출구조사/NNG
+결과	결과/NNG
+박근혜	박근혜/NNP
+후보가	후보/NNG+가/JKS
+50	50/SN
+
+1%	1/SN+%/SW
+나타냈고,	나타내/VV+었/EP+고/EC+,/SP
+문재인	문재인/NNP
+후보가	후보/NNG+가/JKS
+48	48/SN
+
+9%의	9/SN+%/SW+의/JKG
+득표율을	득표율/NNG+을/JKO
+보였다	보이/VV+었/EP+다/EF
+
+지역별로는	지역/NNG+별/XSN+로/JKB+는/JX
+서울:	서울/NNP+:/SP
+문	문/NNP
+후보(52	후보/NNG+(/SS+52/SN
+
+2%),	2/SN+%/SW+)/SS+,/SP
+박	박/NNP
+후보(47	후보/NNG+(/SS+47/SN
+
+5%)	5/SN+%/SW+)/SS
+부산:	부산/NNP+:/SP
+박	박/NNP
+후보(60	후보/NNG+(/SS+60/SN
+
+3%),	3/SN+%/SW+)/SS+,/SP
+문	문/NNP
+후보	후보/NNG
+(39	(/SS+39/SN
+
+5%)	5/SN+%/SW+)/SS
+대구:	대구/NNP+:/SP
+박	박/NNP
+후보(79	후보/NNG+(/SS+79/SN
+
+9%),	9/SN+%/SW+)/SS+,/SP
+문	문/NNP
+후보(19	후보/NNG+(/SS+19/SN
+
+9%)	9/SN+%/SW+)/SS
+인천:	인천/NNP+:/SP
+박	박/NNP
+후보(49	후보/NNG+(/SS+49/SN
+
+0%),	0/SN+%/SW+)/SS+,/SP
+문	문/NNP
+후보(50	후보/NNG+(/SS+50/SN
+
+6%)	6/SN+%/SW+)/SS
+광주:	광주/NNP+:/SP
+박	박/NNP
+후보(6	후보/NNG+(/SS+6/SN
+
+1%),	1/SN+%/SW+)/SS+,/SP
+문	문/NNP
+후보(93	후보/NNG+(/SS+93/SN
+
+8%)를	8/SN+%/SW+)/SS+를/JKO
+나타냈다또한	나타내/VV+었/EP+다/EC+또/MAG+하/VV+ㄴ/ETM
+대전:	대전/NNP+:/SP
+박	박/NNP
+후보(49	후보/NNG+(/SS+49/SN
+
+5%),	5/SN+%/SW+)/SS+,/SP
+문	문/NNP
+후보(50	후보/NNG+(/SS+50/SN
+
+0%)	0/SN+%/SW+)/SS
+울산:	울산/NNP+:/SP
+박	박/NNP
+후보(59	후보/NNG+(/SS+59/SN
+
+9%),	9/SN+%/SW+)/SS+,/SP
+문	문/NNP
+후보(39	후보/NNG+(/SS+39/SN
+
+9%)	9/SN+%/SW+)/SS
+경기:	경기/NNP+:/SP
+박	박/NNP
+후보(48	후보/NNG+(/SS+48/SN
+
+8%),	8/SN+%/SW+)/SS+,/SP
+문	문/NNP
+후보(50	후보/NNG+(/SS+50/SN
+
+9%)	9/SN+%/SW+)/SS
+강원:	강원/NNP+:/SP
+박	박/NNP
+후보(61	후보/NNG+(/SS+61/SN
+
+3%),	3/SN+%/SW+)/SS+,/SP
+문	문/NNP
+후보(38	후보/NNG+(/SS+38/SN
+
+4%)	4/SN+%/SW+)/SS
+충북:	충북/NNP+:/SP
+박	박/NNP
+후보(56	후보/NNG+(/SS+56/SN
+
+6%),	6/SN+%/SW+)/SS+,/SP
+문	문/NNP
+후보(43	후보/NNG+(/SS+43/SN
+
+2%)	2/SN+%/SW+)/SS
+충남:	충남/NNP+:/SP
+박	박/NNP
+후보(54	후보/NNG+(/SS+54/SN
+
+0%),	0/SN+%/SW+)/SS+,/SP
+문	문/NNP
+후보(45	후보/NNG+(/SS+45/SN
+
+8%)의	8/SN+%/SW+)/SS+의/JKG
+예상	예상/NNG
+득표율을	득표율/NNG+을/JKO
+보였다	보이/VV+었/EP+다/EF
+
+이외에도	이외/NNG+에/JKB+도/JX
+전북:	전북/NNP+:/SP
+박	박/NNP
+후보(11	후보/NNG+(/SS+11/SN
+
+2%),	2/SN+%/SW+)/SS+,/SP
+문	문/NNP
+후보(88	후보/NNG+(/SS+88/SN
+
+5%)	5/SN+%/SW+)/SS
+전남:	전남/NNP+:/SP
+박	박/NNP
+후보(7	후보/NNG+(/SS+7/SN
+
+7%),	7/SN+%/SW+)/SS+,/SP
+문	문/NNP
+후보(92	후보/NNG+(/SS+92/SN
+
+1%)	1/SN+%/SW+)/SS
+경북:	경북/NNP+:/SP
+박	박/NNP
+후보(82	후보/NNG+(/SS+82/SN
+
+1%),	1/SN+%/SW+)/SS+,/SP
+문	문/NNP
+후보(17	후보/NNG+(/SS+17/SN
+
+7%)	7/SN+%/SW+)/SS
+경남:	경남/NNP+:/SP
+박	박/NNP
+후보(62	후보/NNG+(/SS+62/SN
+
+9%)	9/SN+%/SW+)/SS
+문	문/NNP
+후보(36	후보/NNG+(/SS+36/SN
+
+8%)	8/SN+%/SW+)/SS
+제주:	제주/NNP+:/SP
+박	박/NNP
+후보(51	후보/NNG+(/SS+51/SN
+
+8%)	8/SN+%/SW+)/SS
+문	문/NNP
+후보(47	후보/NNG+(/SS+47/SN
+
+9%)인	9/SN+%/SW+)/SS+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+예측됐다	예측되/VV+었/EP+다/EF
+
+연령별로는	연령/NNG+별/XSN+로/JKB+는/JX
+박	박/NNP
+후보가	후보/NNG+가/JKS
+50대	50/SN+대/NNB
+이상	이상/NNG
+유권자들에게	유권자/NNG+들/XSN+에게/JKB
+다수	다수/NNG
+지지를	지지/NNG+를/JKO
+얻었다	얻/VV+었/EP+다/EC
+
+박	박/NNP
+후보는	후보/NNG+는/JX
+50대에서	50/SN+대/NNB+에서/JKB
+62	62/SN
+
+5%,	5/SN+%/SW+,/SP
+60대	60/SN+대/NNB
+이상에서	이상/NNG+에서/JKB
+72	72/SN
+
+3%를	3/SN+%/SW+를/JKO
+얻어	얻/VV+어/EC
+각각	각각/MAG
+37	37/SN
+
+4%,	4/SN+%/SW+,/SP
+27	27/SN
+
+5%를	5/SN+%/SW+를/JKO
+얻은	얻/VV+은/ETM
+문	문/NNP
+후보를	후보/NNG+를/JKO
+앞질렀다	앞지르/VV+었/EP+다/EF
+
+반면	반면/NNG
+문	문/NNP
+후보는	후보/NNG+는/JX
+20~40대	20/SN+~/SO+40/SN+대/NNG
+연령층에서	연령층/NNG+에서/JKB
+박	박/NNP
+후보보다	후보/NNG+보다/JKB
+높은	높/VA+은/ETM
+지지을	지지/NNG+을/JKO
+얻었다	얻/VV+었/EP+다/EC
+
+문	문/NNP
+후보는	후보/NNG+는/JX
+20대65	20/SN+대/NNB+65/SN
+
+8%,	8/SN+%/SW+,/SP
+30대	30/SN+대/NNB
+66	66/SN
+
+5%,	5/SN+%/SW+,/SP
+40대	40/SN+대/NNB
+55	55/SN
+
+6%를	6/SN+%/SW+를/JKO
+기록해	기록하/VV+여/EC
+20대	20/SN+대/NNB
+33	33/SN
+
+7%,	7/SN+%/SW+,/SP
+30대	30/SN+대/NNB
+33	33/SN
+
+1%,	1/SN+%/SW+,/SP
+40대	40/SN+대/NNB
+44	44/SN
+
+1%의	1/SN+%/SW+의/JKG
+지지을	지지/NNG+을/JKO
+얻은	얻/VV+은/ETM
+박	박/NNP
+후보를	후보/NNG+를/JKO
+앞섰다	앞서/VV+었/EP+다/EC
+
+한편	한편/MAG
+이번	이번/NNG
+출구조사는	출구조사/NNG+는/JX
+전국	전국/NNG
+360개	360/SN+개/NNB
+투표소에서	투표소/NNG+에서/JKB
+8만6000명을	8/SN+만/NR+6000/SN+명/NNB+을/JKO
+대상으로	대상/NNG+으로/JKB
+이뤄졌으며	이루어지/VV+었/EP+으며/EC
+95%	95/SN+%/SW
+신뢰수준에	신뢰수준/NNG+에/JKB
+오차범위	오차범위/NNG
+±0	±/SL+0/SN
+
+8%포인트다	8/SN+%/SW+포인틀/VV+다/EF
+
+1	1/SN
+
+2%포인트는	2/SN+%/SW+포인트/NNG+는/JX
+오차범위	오차범위/NNP
+내에	내/NNB+에/JKB
+든다	들/VV+ㄴ다/EF

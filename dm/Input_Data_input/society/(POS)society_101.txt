@@ -1,0 +1,120 @@
+얹혀살던	얹허/VV+어/EF+살/VX+던/ETM
+지적장애	지적장애/NNG
+여성	여성/NNG
+성폭행한	성폭행하/VV+ㄴ/ETM
+40대	40/SN+대/NNB
+검거	검거/NNG
+
+(진천=연합뉴스)	(/SS+진천/NNP+=/SW+연합뉴스/NNP+)/SS
+심규석	심규석/NNP
+기자	기자/NNG
+=	=/SW
+충북	충북/NNP
+진천경찰서는	진천/NNP+경찰서/NNG+는/JX
+12일	12/SN+일/NNB
+지적	지적/NNG
+장애	장애/NNG
+여성을	여성/NNG+을/JKO
+수차례	수차례/NNG
+성폭행한	성폭행하/VV+ㄴ/ETM
+혐의(성폭력범죄처벌법	혐의/NNG+(/SS+성폭력범죄처벌법/NNG
+위반)로	위반/NNG+)/SS+로/JKB
+김모(49·무직)씨를	김/NNP+모/NP+(/SS+49/SN+·/SP+무직/NNG+)/SS+씨/NNB+를/JKO
+붙잡아	붙잡/VV+아/EC
+조사하고	조사하/VV+고/EC
+있다	있/VX+다/EC
+
+경찰에	경찰/NNG+에/JKB
+따르면	따르/VV+면/EC
+김씨는	김/NNP+씨/NNB+는/JX
+2010년	2010/SN+년/NNB
+3∼4월	3/SN+∼/SO+4/SN+월/NNB
+진천군	진천군/NNP
+진천읍	진천읍/NNP
+자신의	자신/NNG+의/JKG
+원룸에서	원룸/NNG+에서/JKB
+20대	20/SN+대/NNB
+여성(지적장애	여성/NNG+(/SS+지적장애/NNG
+2급)을	2/SN+급/NNG+)/SS+을/JKO
+4차례	4/SN+차례/NNG
+성폭행한	성폭행하/VV+ㄴ/ETM
+혐의를	혐의/NNG+를/JKO
+받고	받/VV+고/EC
+있다	있/VX+다/EC
+
+당시	당시/NNG
+이	이/MM
+여성은	여성/NNG+은/JX
+지적	지적/NNG
+장애	장애/NNG
+남편과	남편/NNG+과/JKB
+함께	함께/MAG
+김씨의	김/NNP+씨/NNB+의/JKG
+원룸에	원룸/NNG+에/JKB
+얹혀살다가	얹허/VV+어/EF+살/VX+다가/EC
+화를	화/NNG+를/JKO
+당했다	당하/VV+였/EP+다/EC
+
+김씨는	김/NNP+씨/NNB+는/JX
+피해	피해/NNG
+여성의	여성/NNG+의/JKG
+남편이	남편/NNG+이/JKS
+막일하러	막일하/VA+러/EC
+나간	나간/NP
+사이	사이/NNG
+이	이/MM
+여성을	여성/NNG+을/JKO
+성폭행한	성폭행하/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+경찰은	경찰/NNG+은/JX
+전했다	전하/VV+었/EP+다/EC
+
+김씨는	김/NNP+씨/NNB+는/JX
+고소당하자	고소/NNG+당하/XSV+자/EC
+도주해	도주하/VV+여/EC
+노숙	노숙/NNG
+생활을	생활/NNG+을/JKO
+하다가	하/VV+다가/EC
+2년7개월	2/SN+년/NNB+7/SN+개월/NNB
+만인	만/NNB+이/VCP+ㄴ/ETM
+지난	지나/VV+ㄴ/ETM
+11일	11/SN+일/NNB
+오후	오후/NNG
+5시30분께	5/SN+시/NNB+30/SN+분/NNB+께/XSN
+부산	부산/NNP
+해운대	해운대/NNP
+부근에서	부근/NNG+에서/JKB
+체포됐다	체포되/VV+었/EP+다/EF
+
+경찰은	경찰/NNG+은/JX
+김씨를	김/NNP+씨/NNB+를/JKO
+조사한	조사하/VV+ㄴ/ETM
+뒤	뒤/NNG
+구속영장	구속영장/NNG
+신청	신청/NNG
+여부를	여부/NNG+를/JKO
+검토할	검토하/VV+ㄹ/ETM
+방침이다	방침/NNG+이/VCP+다/EC
+
+ks@yna	ks/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

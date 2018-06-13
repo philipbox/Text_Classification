@@ -1,0 +1,105 @@
+<투표현장>	</SS+투표현장/NNG+>/SS
+장애	장애/NNG
+60대	60/SN+대/NNG
+딸,	딸/NNG+,/SP
+100세	100/SN+세/NNB
+母	母/SN
+투표장으로	투표장/NNG+으로/JKB
+
+(강릉=연합뉴스)	(/SS+강릉/NNP+=/SW+연합뉴스/NNP+)/SS
+유형재	유형재/NNG
+기자	기자/NNG
+=	=/SW
+장애를	장애/NNG+를/JKO
+가진	가지/VV+ㄴ/ETM
+60대	60/SN+대/NNG
+딸이	딸/NNG+이/JKS
+거동이	거동/NNG+이/JKS
+어려운	어렵/VA+ㄴ/ETM
+100세	100/SN+세/NNB
+어머니를	어머니/NNG+를/JKO
+투표장으로	투표장/NNG+으로/JKB
+모셔	모시/VV+어/EC
+주위를	주위/NNG+를/JKO
+훈훈하게	훈훈하/VA+게/EC
+했다	하/VX+였/EP+다/EF
+
+최돈옥(100·강릉시	최돈옥/NNP+(/SS+100/SN+·/SP+강릉시/NNP
+금학동)	금학동/NNP+)/SS
+할머니는	할머니/NNG+는/JX
+노령으로	노령/NNG+으로/JKB
+거동이	거동/NNG+이/JKS
+불편해	불편하/VA+여/EC
+투표가	투표/NNG+가/JKS
+어려웠으나	어렵/VA+었/EP+으나/EC
+막내딸인	막내딸/NNG+이/VCP+ㄴ/ETM
+이원희(61·강릉시	이원희/NNP+(/SS+61/SN+·/SP+강릉시/NNP
+옥계면)씨가	옥계면/NNP+)/SS+씨/NNB+가/JKS
+차량을	차량/NNG+을/JKO
+지원,	지원/NNG+,/SP
+강릉시	강릉시/NNP
+중앙동	중앙동/NNP
+주민센터에	주민센터/NNG+에/JKB
+마련된	마련되/VV+ㄴ/ETM
+제2	제/XPN+2/SN
+투표구에서	투표구/NNG+에서/JKB
+소중한	소중하/VA+ㄴ/ETM
+한	한/MM
+표를	표/NNG+를/JKO
+행사했다	행사하/VV+였/EP+다/EC
+
+자신이	자신/NNG+이/JKS
+장애	장애/NNG
+3급으로	3/SN+급/NNG+으로/JKB
+거동이	거동/NNG+이/JKS
+어려운	어렵/VA+ㄴ/ETM
+이씨는	이/NNP+씨/NNB+는/JX
+어머니의	어머니/NNG+의/JKG
+소중한	소중하/VA+ㄴ/ETM
+한	한/MM
+표를	표/NNG+를/JKO
+도운	돕/VV+ㄴ/ETM
+것에	것/NNB+에/JKB
+매우	매우/MAG
+기뻐했다	기뻐하/VV+었/EP+다/EC
+
+강릉시는	강릉시/NNP+는/JX
+거동이	거동/NNG+이/JKS
+불편한	불편하/VA+ㄴ/ETM
+이	이/MM
+모녀가	모녀/NNG+가/JKS
+우선	우선/MAG
+투표할	투표하/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+조치하는	조치하/VV+는/ETM
+한편	한편/NNG
+휠체어를	휠체어/NNG+를/JKO
+지원,	지원/NNG+,/SP
+주차장에	주차장/NNG+에/JKB
+있는	있/VA+는/ETM
+차량까지	차량/NNG+까지/JX
+부축했다	부축하/VV+였/EP+다/EC
+
+yoo21@yna	yoo/SL+21/SN+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

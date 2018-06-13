@@ -1,0 +1,116 @@
+-테니스-	-/SO+테니스/NNG+-/SO
+유망주	유망주/NNG
+이덕희,	이덕희/NNP+,/SP
+2주	2/SN+주/NNB
+연속	연속/NNG
+우승	우승/NNG
+
+(서울=연합뉴스)	(/SS+서울/NNP+=/SW+연합뉴스/NNP+)/SS
+김동찬	김동찬/NNP
+기자	기자/NNG
+=	=/SW
+테니스	테니스/NNG
+유망주	유망주/NNG
+이덕희(15·제천동중)가	이덕희/NNP+(/SS+15/SN+·/SP+제천동/NNP+중/NNB+)/SS+가/JKS
+인도네시아에서	인도네시아/NNP+에서/JKB
+2주	2/SN+주/NNB
+연속	연속/NNG
+우승을	우승/NNG+을/JKO
+차지했다	차지하/VV+었/EP+다/EC
+
+주니어	주니어/NNG
+세계	세계/NNG
+랭킹	랭킹/NNG
+199위인	199/SN+위/NNB+이/VCP+ㄴ/ETM
+이덕희는	이덕희/NNP+는/JX
+21일	21/SN+일/NNB
+인도네시아	인도네시아/NNP
+자카르타에서	자카르타/NNP+에서/JKB
+열린	열리/VV+ㄴ/ETM
+2012	2012/SN
+자카르타	자카르타/NNP
+인터내셔널	인터내셔널/NNG
+주니어챔피언십	주니어챔피언십/NNG
+단식	단식/NNG
+결승에서	결승/NNG+에서/JKB
+데이비드	데이비드/NNP
+볼프슨(캐나다·주니어	볼프슨/NNP+(/SS+캐나다/NNP+·/SP+주니어/NNG
+308위)을	308/SN+위/NNB+)/SS+을/JKO
+2-0(6-3	2/SN+-/SO+0/SN+(/SS+6/SN+-/SO+3/SN
+6-4)으로	6/SN+-/SO+1789/SN+으로/JKB
+물리쳤다	물리치/VV+었/EP+다/EF
+
+이덕희는	이덕희/NNP+는/JX
+아메드	아메드/NNP
+디다트	디다트/NNG
+압둘	압둘/NNP
+라자크(말레이시아)와	라자크/NNP+(/SS+말레이시아/NNP+)/SS+와/JC
+한	한/MM
+조를	조/NNG+를/JKO
+이뤄	이루/VV+어/EC
+출전한	출전하/VV+ㄴ/ETM
+복식에서도	복식/NNG+에서/JKB+도/JX
+누라딤	누라디/VV+ㅁ/ETN
+람다니-아만도	람다니/NNP+-/SO+아만도/NNP
+소에마르노(이상	소에마르노/NNP+(/SS+이상/NNG
+인도네시아)를	인도네시아/NNP+)/SS+를/JKO
+2-0(6-1	2/SN+-/SO+0/SN+(/SS+6/SN+-/SO+1/SN
+6-4)으로	6/SN+-/SO+1789/SN+으로/JKB
+꺾고	꺾/VV+고/EC
+대회	대회/NNG
+2관왕에	2/SN+관왕/NNG+에/JKB
+올랐다	오르/VV+았/EP+다/EC
+
+지난주	지난주/NNG
+인도네시아	인도네시아/NNP
+수라바야에서	수라바야/NNP+에서/JKB
+열린	열리/VV+ㄴ/ETM
+주니어	주니/VV+어/EC
+대회에서도	대회/NNG+에서/JKB+도/JX
+단·복식을	단/NNG+·/SP+복식/NNG+을/JKO
+석권한	석권하/VV+ㄴ/ETM
+이덕희는	이덕희/NNP+는/JX
+최근	최근/NNG
+6개	6/SN+개/NNB
+대회에서	대회/NNG+에서/JKB
+5차례	5/SN+차례/NNG
+정상에	정상/NNG+에/JKB
+오르는	오르/VV+는/ETM
+상승세를	상승세/NNG+를/JKO
+이어갔다	잇/VV+어/EC+가/VX+았/EP+다/EF
+
+청각장애	청각장애/NNG
+3급인	3/SN+급/NNG+이/VCP+ㄴ/ETM
+이덕희는	이덕희/NNP+는/JX
+올해	올해/NNG
+8월	8/SN+월/NNB
+주니어	주니어/NNG
+국가대항전	국가대항전/NNG
+월드파이널에서	월드파이널/NNG+에서/JKB
+한국의	한국/NNP+의/JKG
+준우승을	준우승/NNG+을/JKO
+이끈	이끌/VV+ㄴ/ETM
+유망주다	유망/NNG+주/VV+다/EF
+
+emailid@yna	emailid/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

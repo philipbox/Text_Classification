@@ -1,0 +1,89 @@
+‘제4회	‘/SL+제/XPN+4/SN+회/NNB
+장애인고용패널	장애인고용패널/NNG
+학술대회’	학술대회/NNG+’/SN
+11월	11/SN+월/NNB
+2일	2/SN+일/NNB
+열려	열리/VV+어/EC
+
+‘제4회	‘/SL+제/XPN+4/SN+회/NNB
+장애인고용패널	장애인고용패널/NNG
+학술대회’가	학술대회/NNG+’/SL+가/JKS
+오는	오/VV+는/ETM
+11월	11/SN+월/NNB
+2일	2/SN+일/NNB
+오전	오전/NNG
+10시	10/SN+시/NNB
+서울	서울/NNP
+중구	중구/NNG
+대한상공회의소에서	대한/NNP+상공회의소/NNG+에서/JKB
+열린다	열리/VV+ㄴ다/EF
+
+한국장애인고용공단	한국/NNP+장애인고용공단/NNG
+고용개발원(원장	고용개발/NNG+원/XSN+(/SS+원장/NNG
+권기돈)이	권기돈/NNP+)/SS+이/JKS
+주최하는	주최하/VV+는/ETM
+이날	이날/NNG
+학술대회에서는	학술대회/NNG+에서/JKB+는/JX
+‘장애인고용패널조사’,	‘/SL+장애인고용패널조사’/NNG+,/SP
+‘기업체	‘/SL+기업체/NNG
+장애인고용	장애인고/NNG+용/XSN
+실태조사’,	실태조사/NNG+’/SL+,/SP
+‘장애인	‘/SL+장애인/NNG
+경제활동	경제활동/NNG
+실태조사’	실태조사/NNG+’/SN
+자료를	자료/NNG+를/JKO
+토대로	토대/NNG+로/JKB
+대학	대학/NNG
+및	및/MAG
+연구기관의	연구기관/NNG+의/JKG
+연구자와	연구자/NNG+와/JC
+대학원생들이	대학원/NNG+생들/XSN+이/JKS
+작성한	작성하/VV+ㄴ/ETM
+우수한	우수하/VA+ㄴ/ETM
+논문들이	논문/NNG+들/XSN+이/JKS
+소개된다	소개되/VV+ㄴ다/EF
+
+발표되는	발표되/VV+는/ETM
+연구논문은	연구논문/NNG+은/JX
+장애인의	장애인/NNG+의/JKG
+‘고용’,	‘/SL+고용/NNG+’/SL+,/SP
+‘소득’,	‘/SL+소득/NNG+’/SL+,/SP
+‘고용의	‘/SN+고용/NNG+의/JKG
+질’,	질’/NNG+,/SP
+‘삶의	‘/SN+삶/NNG+의/JKG
+만족도’	만족도/NNG+’/SN
+등을	등/NNB+을/JKO
+주제로	주제/NNG+로/JKB
+작성된	작성되/VV+ㄴ/ETM
+총	총/MM
+27편이다	27/SN+편/NNB+이/VCP+다/EC
+
+학술대회에	학술대회/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+자세한	자세하/VA+ㄴ/ETM
+일정과	일정/NNG+과/JC
+내용은	내용/NNG+은/JX
+고용개발원	고용개발/NNG+원/XSN
+홈페이지(http://edi	홈페이지/NNG+(/SS+http/SL+:///SP+edi/SL
+
+kead	kead/SL
+
+or	or/SL
+
+kr)를	kr/SL+)/SS+를/JKO
+통해	통하/VV+여/EC
+알	알/VV+ㄹ/ETM
+수	수/NNB
+있다	있/VA+다/EC
+
+참가를	참가/NNG+를/JKO
+희망하는	희망하/VV+는/ETM
+사람은	사람/NNG+은/JX
+홈페이지에서	홈페이지/NNG+에서/JKB
+참가신청서를	참가신청서/NNG+를/JKO
+작성해	작성하/VV+여/EC
+신청하면	신청하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+참가비는	참가/NNG+비/XSN+는/JX
+무료	무료/NNG

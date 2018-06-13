@@ -1,0 +1,181 @@
+강기윤	강기윤/NNP
+의원	의원/NNG
+"학교	"/SS+학교/NNG
+장애인	장애인/NNG
+편의시설	편의시설/NNG
+설치율	설치율/NNG
+77%"	77/SN+%/SW+"/SS
+
+(서울=연합뉴스)	(/SS+서울/NNP+=/SW+연합뉴스/NNP+)/SS
+김아람	김아람/NNP
+기자	기자/NNG
+=	=/SW
+특수학급이	특수학급/NNG+이/JKS
+없는	없/VA+는/ETM
+초ㆍ중ㆍ고등학교	초/NNG+ㆍ/SP+중/NNB+ㆍ/SP+고등학교/NNG
+4곳	4/SN+곳/NNG
+가운데	가운데/NNG
+1곳은	1/SN+곳/NNG+은/JX
+교내에	교내/NNG+에/JKB
+장애인	장애인/NNG
+편의시설이	편의시설/NNG+이/JKS
+없는	없/VA+는/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+새누리당	새누리당/NNP
+강기윤	강기윤/NNP
+의원이	의원/NNG+이/JKS
+교육과학기술부로부터	교육과학기술부/NNG+로부터/JKB
+제출받은	제출/NNG+받/VV+은/ETM
+자료에	자료/NNG+에/JKB
+따르면	따르/VV+면/EC
+지난달	지난달/NNG
+기준	기준/NNG
+전국의	전국/NNG+의/JKG
+특수학급	특수학급/NNG
+미설치	미설치/NNG
+초ㆍ중ㆍ고	초/NNB+ㆍ/SP+중/NNB+ㆍ고/NNG
+5천146개교의	5/SN+천/NR+146/SN+개/NNB+교/NNG+의/JKG
+장애인	장애인/NNG
+편의시설	편의시설/NNG
+설치율은	설치율/NNG+은/JX
+평균	평균/NNG
+77%다	77/SN+%/SW+다/EF
+
+편의시설	편의시설/NNG
+종류별로는	종류별/NNG+로/JKB+는/JX
+승강기,	승강기/NNG+,/SP
+경사로	경사로/NNG
+등	등/NNB
+이동편의시설(57	이동편의시설/NNG+(/SS+57/SN
+
+2%),	2/SN+%/SW+)/SS+,/SP
+유도ㆍ안내	유도/NNG+ㆍ/SP+안내/NNG
+설비(59	설비/NNG+(/SS+59/SN
+
+8%),	8/SN+%/SW+)/SS+,/SP
+점자블록(61	점자블록/NNG+(/SS+61/SN
+
+5%)	5/SN+%/SW+)/SS
+순으로	순/XSN+으로/JKB
+설치율이	설치율/NNG+이/JKS
+낮았다	낮/VA+았/EP+다/EC
+
+가장	가장/MAG
+많이	많이/MAG
+설치된	설치되/VV+ㄴ/ETM
+편의시설은	편의시설/NNG+은/JX
+장애인전용	장애인전/NNG+용/XSN
+주차구역(95	주차구역/NNG+(/SS+95/SN
+
+7%),	7/SN+%/SW+)/SS+,/SP
+주	주/NNG
+출입구	출입구/NNG
+높이차이	높이차이/NNG
+제거(88	제거/NNG+(/SS+88/SN
+
+7%),	7/SN+%/SW+)/SS+,/SP
+화장실	화장실/NNG
+대변기(88	대변기/NNG+(/SS+88/SN
+
+4%)	4/SN+%/SW+)/SS
+순이다	순/XSN+이/VCP+다/EC
+
+지역별로는	지역/NNG+별/XSN+로/JKB+는/JX
+세종시의	세종시/NNP+의/JKG
+평균설치율이	평균설치율/NNG+이/JKS
+61	61/SN
+
+4%로	4/SN+%/SW+로/JKB
+전국	전국/NNG
+17개	17/SN+개/NNB
+광역자치단체	광역자치단체/NNG
+중	중/NNB
+최하위를	최/XPN+하위/NNG+를/JKO
+기록했고	기록하/VV+였/EP+고/EC
+대구광역시가	대구광역시/NNP+가/JKS
+98%로	98/SN+%/SW+로/JKB
+가장	가장/MAG
+높았다	높/VA+았/EP+다/EC
+
+한편	한편/MAG
+특수학급이	특수학급/NNG+이/JKS
+있는	있/VA+는/ETM
+전국	전국/NNG
+초ㆍ중ㆍ고	초/NNB+ㆍ/SP+중/NNB+ㆍ고/NNG
+6천290개교의	6/SN+천/NR+290/SN+개/NNB+교/NNG+의/JKG
+장애인	장애인/NNG
+편의시설	편의시설/NNG
+평균	평균/NNG
+설치율은	설치율/NNG+은/JX
+90	90/SN
+
+6%로	6/SN+%/SW+로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+장애인차별금지법에	장애인차별금지법/NNG+에/JKB
+따르면	따르/VV+면/EC
+지난해	지난해/NNG
+4월부터	4/SN+월/NNB+부터/JX
+특수학급이	특수학급/NNG+이/JKS
+없는	없/VA+는/ETM
+모든	모든/MM
+학교도	학교/NNG+도/JX
+점자블록,	점자블록/MAG+,/SP
+경사로	경사/NNG+로/JKB
+등의	등/NNB+의/JKG
+장애인	장애인/NNG
+편의시설을	편의시설/NNG+을/JKO
+반드시	반드시/MAG
+설치해야	설치하/VV+여야/EC
+한다	하/VX+ㄴ다/EF
+
+강	강/NNP
+의원은	의원/NNG+은/JX
+"장애인	"/SS+장애인/NNG
+편의시설을	편의시설/NNG+을/JKO
+설치하지	설치하/VV+지/EC
+않은	않/VX+은/ETM
+학교는	학교/NNG+는/JX
+법을	법/NNG+을/JKO
+위반한	위반하/VV+ㄴ/ETM
+것"이라며	것/NNB+"/SS+이/VCP+라며/EC
+"편의시설	"/SS+편의시설/NNG
+설치율이	설치율/NNG+이/JKS
+낮은	낮/VA+은/ETM
+근본적인	근본적/NNG+이/VCP+ㄴ/ETM
+이유는	이유/NNG+는/JX
+예산	예산/NNG
+문제도	문제/NNG+도/JX
+있지만	있/VA+지만/EC
+장애인	장애인/NNG
+차별문제에	차별문제/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+인식이	인식/NNG+이/JKS
+낮기	낮/VA+기/ETN
+때문"이라고	때문/NNB+"/SS+이라고/JKQ
+말했다	말하/VV+였/EP+다/EC
+
+rice@yna	rice/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

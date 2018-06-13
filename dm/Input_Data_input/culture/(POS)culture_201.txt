@@ -1,0 +1,103 @@
+‘2014인천장애인아시아경기대회’	‘/SL+2014/SN+인천장애인아시아경기대회/NNP+’/SN
+슬로건	슬로건/NNG
+공모	공모/NNG
+
+2014	2014/SN
+인천장애인아시아경기대회	인천장애인아시아/NNP+경기대회/NNG
+조직위원회가	조직위원회/NNG+가/JKS
+‘2014	‘/SL+2014/SN
+제11회	제/XPN+11/SN+회/NNB
+인천장애인아시아경기대회’의	인천장애인아시아경기대회/NNP+’/SL+의/JKG
+슬로건을	슬로건/NNG+을/JKO
+공모한다	공모하/VV+ㄴ다/EF
+
+이번	이번/NNG
+슬로건	슬로건/NNG
+공모는	공모/NNG+는/JX
+2014년	2014/SN+년/NNB
+10월	10/SN+월/NNB
+18일부터	18/SN+일/NNB+부터/JX
+24일까지	24/SN+일/NNB+까지/JX
+열리는	열리/VV+는/ETM
+인천장애인아시아경기대회의	인천장애인아시아/NNP+경기대회/NNG+의/JKG
+성공적	성공적/NNG
+개최에	개최/NNG+에/JKB
+필요한	필요하/VA+ㄴ/ETM
+국가의	국가/NNG+의/JKG
+지속적인	지속적/NNG+이/VCP+ㄴ/ETM
+후원과	후원/NNG+과/JC
+국민의	국민/NNG+의/JKG
+호응을	호응/NNG+을/JKO
+이끌어	이끌/VV+어/EC
+내기	내/VX+기/ETN
+위해	위하/VV+여/EC
+마련됐다	마련되/VV+었/EP+다/EF
+
+슬로건이	슬로건/NNG+이/JKS
+지향해야	지향하/VV+여야/EC
+할	하/VX+ㄹ/ETM
+내용은	내용/NNG+은/JX
+역대	역대/NNG
+최고	최고/NNG
+수준의	수준/NNG+의/JKG
+대회임을	대회/NNG+이/VCP+ㅁ/ETN+을/JKO
+상징하고,	상징하/VV+고/EC+,/SP
+장애와	장애/NNG+와/JC
+비장애의	비장애/NNG+의/JKG
+평등·화합을	평등/NNG+·/SP+화합/NNG+을/JKO
+나타내는	나타내/VV+는/ETM
+문구	문구/NNG
+등이다	등/NNB+이/VCP+다/EC
+
+구호형태의	구호형태/NNG+의/JKG
+짧은	짧/VA+은/ETM
+문구나	문구/NNG+나/JC
+영문으로도	영문/NNG+으로/JKB+도/JX
+가능하다	가능하/VA+다/EC
+
+응모를	응모/NNG+를/JKO
+희망하는	희망하/VV+는/ETM
+내외국인은	내/NNB+외국인/NNG+은/JX
+물론	물론/MAG
+재외동포	재외동포/NNG
+등은	등/NNB+은/JX
+오는	오/VV+는/ETM
+11월	11/SN+월/NNB
+20일까지	20/SN+일/NNB+까지/JX
+조직위	조직위/NNG
+이메일(rinin9600@inpia	이메일/NNG+(/SS+rinin/SL+9600/SN+@/SW+inpia/SL
+
+net),	net/SL+)/SS+,/SP
+팩스(032-458-5259),	팩스/NNG+(/SS+032/SN+-/SO+458/SN+-/SO+5259/SN+)/SS+,/SP
+우편으로	우편/NNG+으로/JKB
+접수하면	접수하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+우편접수의	우편접수/NNG+의/JKG
+경우	경우/NNG
+접수	접수/NNG
+마감일	마감/NNG+일/XSN
+소인이	소인/NNG+이/JKS
+찍힌	찍히/VV+ㄴ/ETM
+것까지	것/NNB+까지/JX
+접수한다	접수하/VV+ㄴ다/EF
+
+응모서식과	응모서식/NNG+과/JC
+기타	기타/NNG
+자세한	자세하/VA+ㄴ/ETM
+사항은	사항/NNG+은/JX
+인천광역시	인천광역시/NNP
+홈페이지(http://www	홈페이지/NNG+(/SS+http/SL+:///SP+www/SL
+
+incheon	incheon/SL
+
+go	go/SL
+
+kr)에서	kr/SL+)/SS+에서/JKB
+확인하거나,	확인하/VV+거나/EC+,/SP
+조직위(032-458-5252～5)로	조직위/NNG+(/SS+032/SN+-/SO+458/SN+-/SO+5252/SN+～/SO+5/SN+)/SS+로/JKB
+문의하면	문의하/VV+면/EC
+안내	안내/NNG
+받을	받/VV+을/ETM
+수	수/NNB
+있다	있/VA+다/EC

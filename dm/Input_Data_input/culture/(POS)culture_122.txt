@@ -1,0 +1,138 @@
+장애인부부의	장애인부부/NNG+의/JKG
+특별했던	특별하/VA+었/EP+던/ETM
+늦깎이	늦깎이/NNG
+신혼여행	신혼여행/NNG
+
+경제적·이동의	경제적/NNG+·/SP+이동/NNG+의/JKG
+어려움으로	어려움/NNG+으로/JKB
+신혼여행을	신혼여행/NNG+을/JKO
+다녀오지	다녀오/VV+지/EC
+못한	못하/VX+ㄴ/ETM
+장애인	장애인/NNG
+부부을	부부/NNG+을/JKO
+위해	위하/VV+여/EC
+한국관광공사와	한국관광공사/NNP+와/JC
+SK	SK/SL
+이노베이션,	이노베이션/NNG+,/SP
+에이블복지재단이	에이블복지재단/NNG+이/JKS
+‘함께하는	‘함께하/VV+는/ETM
+여행’	여행/NNG+’/SL
+제3차	제/XPN+3/SN+차/NNB
+아주	아주/MAG
+특별한	특별하/VA+ㄴ/ETM
+허니문	허니문/NNG
+제주여행을	제주/NNP+여행/NNG+을/JKO
+마련했다	마련하/VV+였/EP+다/EC
+
+이번	이번/NNG
+여행은	여행/NNG+은/JX
+지난	지나/VV+ㄴ/ETM
+11일부터	11/SN+일/NNB+부터/JX
+13일까지	13/SN+일/NNB+까지/JX
+2박	2/SN+박/NNB
+3일간	3/SN+일/NNB+간/XSN
+부부의	부부/NNG+의/JKG
+연을	연/NNG+을/JKO
+오랜	오랜/MM
+시간	시간/NNG
+맺어왔지만	맺/VV+어/EC+오/VX+았/EP+지만/EC
+신혼여행을	신혼여행/NNG+을/JKO
+다녀오지	다녀오/VV+지/EC
+못한	못하/VX+ㄴ/ETM
+전국	전국/NNG
+각지의	각지/NNG+의/JKG
+장애인	장애인/NNG
+부부	부부/NNG
+28쌍(56명)이	28/SN+쌍/NNG+(/SS+56/SN+명/NNB+)/SS+이/JKS
+참가한	참가하/VV+ㄴ/ETM
+가운데	가운데/NNG
+더마파크	더마파크/NNP
+마상공연,	마상공연/NNG+,/SP
+분재예술원,	분재예술원/NNP+,/SP
+트릭아트뮤지엄,	트릭아트뮤/NNP+지엄/NNG+,/SP
+제주서커스월드,	제주서커스월드/NNP+,/SP
+절물자연휴양림	절물자연휴양림/NNG
+등의	등/NNB+의/JKG
+일정으로	일정/NNG+으로/JKB
+진행됐다	진행되/VV+었/EP+다/EF
+
+천혜의	천혜/NNG+의/JKG
+아름다움	아름답/VA+ㅁ/ETN
+신비의	신비/NNG+의/JKG
+섬	섬/NNG
+'제주'로	'/SS+제주/NNP+'/SS+로/JKB
+늦깍이	늦깎이/NNG
+신혼여행을	신혼여행/NNG+을/JKO
+떠난	떠나/VV+ㄴ/ETM
+장애인부부의	장애인부부/NNG+의/JKG
+행복한	행복하/VA+ㄴ/ETM
+모습을	모습/NNG+을/JKO
+카메라에	카메라/NNG+에/JKB
+담아본다	담아보/VV+ㄴ다/EF
+
+분재예술원에	분재예술원/NNG+에/JKB
+도착한	도착하/VV+ㄴ/ETM
+부부들	부부/NNG+들/XSN
+
+연못	연못/NNG
+안에	안/NNG+에/JKB
+잉어들을	잉어/NNG+들/XSN+을/JKO
+보고	보/VV+고/EC
+있다	있/VX+다/EC
+
+ⓒ에이블복지재단	ⓒ/SL+에이블복지재단/NNG
+이번	이번/NNG
+여행에	여행/NNG+에/JKB
+참가한	참가하/VV+ㄴ/ETM
+부부	부부/NNG
+
+일출랜드에서	일출랜드/NNP+에서/JKB
+티셔츠를	티셔츠/NNG+를/JKO
+만들기	만들/VV+기/ETN
+위한	위하/VV+ㄴ/ETM
+밑그림을	밑그림/NNG+을/JKO
+그리는	그리/VV+는/ETM
+모습	모습/NNG
+
+섭지코지에	섭지코지/NNP+에/JKB
+도착한	도착하/VV+ㄴ/ETM
+장애인부부	장애인부부/NNG
+28쌍	28/SN+쌍/NNG
+
+ⓒ에이블복지재단	ⓒ/SL+에이블복지재단/NNG
+행복해	행복하/VA+여/EC
+보이며	보이/VV+며/EC
+섭지코지에서	섭지코지/NNP+에서/JKB
+기념사진을	기념사진/NNG+을/JKO
+찍고	찍/VV+고/EC
+있는	있/VX+는/ETM
+부부	부부/NNG
+
+제주	제주/NNP
+성읍민속마을을	성읍/NNP+민속마을/NNG+을/JKO
+구경하고	구경하/VV+고/EC
+있는	있/VX+는/ETM
+부부들	부부/NNG+들/XSN
+
+ⓒ에이블복지재단	ⓒ/SL+에이블복지재단/NNP
+절물자연휴양림에	절물자연휴양림/NNG+에/JKB
+도착한	도착하/VV+ㄴ/ETM
+중년	중년/NNG
+여성이	여성/NNG+이/JKS
+기지개를	기지개/NNG+를/JKO
+피며	피/VV+며/EC
+행복해하고	행복하/VA+여/EC+하/VV+고/EC
+있다	있/VX+다/EC
+
+ⓒ에이블복지재단	ⓒ/SL+에이블복지재단/NNP
+트릭아트뮤지엄에서	트릭아트뮤/NNP+지엄/NNG+에서/JKB
+남편이	남편/NNG+이/JKS
+아내를	아내/NNG+를/JKO
+챙겨주는	챙기/VV+어/EC+주/VX+는/ETM
+자상한	자상하/VA+ㄴ/ETM
+모습을	모습/NNG+을/JKO
+보인	보이/VV+ㄴ/ETM
+부부의	부부/NNG+의/JKG
+모습	모습/NNG
+
+ⓒ에이블복지재단	ⓒ/SL+에이블복지재단/NNP

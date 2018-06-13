@@ -1,0 +1,77 @@
+‘2012	‘/SL+2012/SN
+반시설	반시설/NNG
+국토대장정’	국토대장정’/NNG
+참가자	참가자/NNG
+모집	모집/NNG
+
+한국장애인연맹(DPI)과	한국/NNP+장애인연맹/NNG+(/SS+DPI/SL+)/SS+과/JC
+한국장애인자립생활센터총연합회는	한국장애인자립생활센터총연합회/NNP+는/JX
+반시설과	반시설/NNG+과/JC
+장애인자립생활보장법	장애인자립생활보장법/NNG
+제정	제정/NNG
+촉구를	촉구/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+‘2012	‘/SL+2012/SN
+반시설	반시설/NNG
+국토대장정’에	국토대장정’/NNG+에/JKB
+참가할	참가하/VV+ㄹ/ETM
+장애인을	장애인/NNG+을/JKO
+모집한다	모집하/VV+ㄴ다/EF
+
+참가자들은	참가자/NNG+들/XSN+은/JX
+오는	오/VV+는/ETM
+6월	6/SN+월/NNB
+12일부터	12/SN+일/NNB+부터/JX
+7월	7/SN+월/NNB
+3일까지	3/SN+일/NNB+까지/JX
+총	총/MM
+21일간	21/SN+일/NNB+간/XSN
+부산에서	부산/NNP+에서/JKB
+서울까지	서울/NNP+까지/JX
+전동휠체어를	전동휠체어/NNG+를/JKO
+타고	타/VV+고/EC
+이동하게	이동하/VV+게/EC
+된다	되/VV+ㄴ다/EF
+
+또한	또한/MAG
+이동	이동/NNG
+중	중/NNB
+장애인자립생활보장법	장애인자립생활보장법/NNG
+제정	제정/NNG
+촉구	촉구/NNG
+지역	지역/NNG
+결의대회,	결의대회/NNG+,/SP
+거리행진	거리행진/NNG
+등에도	등/NNB+에/JKB+도/JX
+나선다	나서/VV+ㄴ다/EF
+
+반시설과	반시설/NNG+과/JC
+장애인자립생활에	장애인자립생활/NNG+에/JKB
+관심이	관심/NNG+이/JKS
+있는	있/VA+는/ETM
+전동휠체어	전동휠체어/NNG
+이용	이용/NNG
+장애인은	장애인/NNG+은/JX
+누구나	누구/NP+나/JX
+참여할	참여하/VV+ㄹ/ETM
+수	수/NNB
+있다	있/VA+다/EC
+
+DPI홈페이지(http://www	DPI/SL+홈페이지/NNG+(/SS+http/SL+:///SP+www/SL
+
+dpikorea	dpikorea/SL
+
+org)에서	org/SL+)/SS+에서/JKB
+참가신청서를	참가신청서/NNG+를/JKO
+내려	내리/VV+어/EC
+받은	받/VV+은/ETM
+후	후/NNG
+17일까지	17/SN+일/NNB+까지/JX
+이메일(dpislim@naver	이메일/NNG+(/SS+dpislim/SL+@/SW+naver/SL
+
+com)로	com/SL+)/SS+로/JKB
+신청하면	신청하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+<문의>한국DPI	</SS+문의/NNG+>/SS+한국/NNP+DPI/SL
+02-457-0427	02/SN+-/SO+457/SN+-/SO+0427/SN

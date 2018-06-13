@@ -1,0 +1,65 @@
+전국장애인체육대회,	전/MM+국장애인체육대회/NNG+,/SP
+인터넷	인터넷/NNG
+생중계	생/XPN+중계/NNG
+
+대한장애인체육회는	대한장애인체육회/NNP+는/JX
+오는	오/VV+는/ETM
+12일까지	12/SN+일/NNB+까지/JX
+경기도	경기도/NNP
+일원에서	일원/NNG+에서/JKB
+열리는	열리/VV+는/ETM
+제32회	제/XPN+32/SN+회/NNB
+전국장애인체육대회의	전/MM+국장애인체육대회/NNG+의/JKG
+인터넷	인터넷/NNG
+생중계	생/XPN+중계/NNG
+방송을	방송/NNG+을/JKO
+포털사이트	포털사이트/NNG
+‘네이버’를	‘/SL+네이버’/NNG+를/JKO
+통해	통하/VV+여/EC
+실시한다	실시하/VV+ㄴ다/EF
+
+이미	이미/MAG
+지난	지나/VV+ㄴ/ETM
+8일	8/SN+일/NNB
+고양종합운동장에서	고양종합운/NNP+동장/NNG+에서/JKB
+열린	열리/VV+ㄴ/ETM
+개회식이	개회식/NNG+이/JKS
+생중계로	생/XPN+중계/NNG+로/JKB
+방송이	방송/NNG+이/JKC
+됐으며,	되/VV+었/EP+으며/EC+,/SP
+대회	대회/NNG
+기간	기간/NNG
+동안	동안/NNG
+축구,	축구/NNG+,/SP
+육상,	육상/NNG+,/SP
+골볼,	골볼/NNG+,/SP
+수영	수영/NNG
+등의	등/NNB+의/JKG
+종목	종목/NNG
+생중계가	생/XPN+중계/NNG+가/JKS
+이뤄질	이루어지/VV+ㄹ/ETM
+예정이다	예정/NNG+이/VCP+다/EC
+
+제32회	제/XPN+32/SN+회/NNB
+전국장애인체육대회의	전/MM+국장애인체육대회/NNG+의/JKG
+자세한	자세하/VA+ㄴ/ETM
+경기일정과	경기일정/NNG+과/JC
+중계방송	중계방송/NNG
+일정은	일정/NNG+은/JX
+네이버	네이버/NNP
+스포츠중계창과	스포츠중계창/NNG+과/JC
+‘KOSAD	‘KOSAD/SL
+TV'(http://www	TV/SL+'(/SS+http/SL+:///SP+www/SL
+
+kosad	kosad/SL
+
+tv)를	tv/SL+)/SS+를/JKO
+통해	통하/VV+여/EC
+확인할	확인하/VV+ㄹ/ETM
+수	수/NNB
+있다	있/VA+다/EC
+
+제32회	제/XPN+32/SN+회/NNB
+전국장애인체육대회	전/MM+국장애인체육대회/NNG
+중계방송	중계방송/NNG
+일정	일정/NNG

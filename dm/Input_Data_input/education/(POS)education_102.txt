@@ -1,0 +1,272 @@
+경남도내	경남도/NNP+내/NNB
+학교	학교/NNG
+장애인편의	장애인편/NNG+의/JKG
+'44.8%'에	'/SS+44.8/SN+%/SW+'/SS+에/JKB
+그쳐	그치/VV+어/EC
+
+경상남도	경상남도/NNP
+학교의	학교/NNG+의/JKG
+장애인편의시설	장애인편의시설/NNG
+및	및/MAG
+정당한	정당하/VA+ㄴ/ETM
+편의제공	편의제공/NNG
+이행율이	이행율/NNG+이/JKS
+절반수준에도	절반수준/NNG+에/JKB+도/JX
+미치지	미치/VV+지/EC
+못한	못하/VX+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+경남장애인자립생활센터협의회는	경남/NNP+장애인자립생활센터협의회/NNG+는/JX
+지난	지나/VV+ㄴ/ETM
+30일	30/SN+일/NNB
+경남	경남/NNP
+18개	18/SN+개/NNB
+시·군	시/NNG+·/SP+군/NNG
+789곳의	789/SN+곳/NNG+의/JKG
+초·등·고	초/NNG+·/SP+등/NNG+·/SP+고/NNG
+교육기관의	교육기관/NNG+의/JKG
+장애인	장애인/NNG
+편의시설	편의시설/NNG
+및	및/MAG
+정당한	정당하/VA+ㄴ/ETM
+편의제공	편의제공/NNG
+이행율을	이행율/NNG+을/JKO
+점검한	점검하/VV+ㄴ/ETM
+결과	결과/NNG
+평균	평균/NNG
+44	44/SN
+
+8%으로	8/SN+%/SW+으로/JKB
+조사됐다고	조사되/VV+었/EP+다고/EC
+밝혔다	밝히/VV+었/EP+다/EC
+
+이번	이번/NNG
+조사는	조사/NNG+는/JX
+경남도내	경남도/NNP+내/NNB
+전	전/MM
+초·등·고등학교를	초/NNG+·/SP+등/NNG+·/SP+고등학교/NNG+를/JKO
+대상으로	대상/NNG+으로/JKB
+했으며,	하/VV+였/EP+으며/EC+,/SP
+다만	다만/MAG
+전교생	전교생/NNG
+인원이	인원/NNG+이/JKS
+50인	50/SN+이/VCP+ㄴ/ETM
+이하인	이하/NNG+이/VCP+ㄴ/ETM
+학교는	학교/NNG+는/JX
+장애인	장애인/NNG
+편의시설에	편의시설/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+투자와	투자/NNG+와/JC
+예산	예산/NNG
+지원이	지원/NNG+이/JKS
+어렵고	어렵/VA+고/EC
+폐교의	폐교/NNG+의/JKG
+가능성도	가능성/NNG+도/JX
+배재할	배재하/VV+ㄹ/ETM
+수	수/NNB
+없어	없/VA+어/EC
+제외했다	제외하/VV+였/EP+다/EC
+
+조사대상은	조사대상/NNG+은/JX
+초등학교	초등학교/NNG
+370곳,	370/SN+곳/NNG+,/SP
+중학교	중학교/NNG
+229곳,	229/SN+곳/NNG+,/SP
+고등학교	고등학교/NNG
+180곳,	180/SN+곳/NNG+,/SP
+특수학교	특수학교/NNG
+7곳,	7/SN+곳/NNG+,/SP
+특수목적고	특수목적고/NNG
+3곳이다	3/SN+곳/NNG+이/VCP+다/EC
+
+편의시설은	편의시설/NNG+은/JX
+주차장,	주차장/NNG+,/SP
+경사로,	경사로/NNG+,/SP
+엘리베이터,	엘리베이터/NNG+,/SP
+주출입구,	주출입구/NNG+,/SP
+복도,	복도/NNG+,/SP
+특수학급,	특수학급/NNG+,/SP
+식당	식당/NNG
+등을	등/NNB+을/JKO
+중심으로	중심/NNG+으로/JKB
+진행됐으며,	진행되/VV+었/EP+으며/EC+,/SP
+편의시설	편의시설/NNG
+외에	외/NNB+에/JKB
+정당한	정당하/VA+ㄴ/ETM
+편의제공까지	편의제공/NNG+까지/JX
+포함했다	포함하/VV+였/EP+다/EF
+
+지역별로	지역/NNG+별/XSN+로/JKB
+이행율을	이행율/NNG+을/JKO
+분석한	분석하/VV+ㄴ/ETM
+결과	결과/NNG
+고성이	고성/NNG+이/JKS
+50	50/SN
+
+7%,	7/SN+%/SW+,/SP
+합천이	합천/NNG+이/JKS
+50	50/SN
+
+4%	4/SN+%/SW
+거창이	거창/NNG+이/JKS
+49	49/SN
+
+4%로	4/SN+%/SW+로/JKB
+높게	높/VA+게/EC
+나타났다	나타나/VV+았/EP+다/EC
+
+반면	반면/NNG
+하동은	하동/NNG+은/JX
+34	34/SN
+
+5%,	5/SN+%/SW+,/SP
+함안은	함안/NNP+은/JX
+39	39/SN
+
+7%,	7/SN+%/SW+,/SP
+통영은	통영/NNP+은/JX
+41	41/SN
+
+3%로	3/SN+%/SW+로/JKB
+이행율이	이행율/NNG+이/JKS
+저조했다	저조하/VV+였/EP+다/EC
+
+학교별	학교/NNG+별/XSN
+이행율	이행율/NNG
+분석	분석/NNG
+결과,	결과/NNG+,/SP
+초등학교	초등학교/NNG
+이행율은	이행율/NNG+은/JX
+사천시가	사천시/NNP+가/JKS
+58	58/SN
+
+2%로	2/SN+%/SW+로/JKB
+가장	가장/MAG
+높았고,	높/VA+았/EP+고/EC+,/SP
+의령군이	의령군/NNP+이/JKS
+36	36/SN
+
+8%로	8/SN+%/SW+로/JKB
+가장	가장/MAG
+낮았다	낮/VA+았/EP+다/EC
+
+중학교	중학교/NNG
+이행율은	이행율/NNG+은/JX
+고성군이	고성군/NNP+이/JKS
+56	56/SN
+
+8%로	8/SN+%/SW+로/JKB
+가장	가장/MAG
+높았고,	높/VA+았/EP+고/EC+,/SP
+하동군이	하동군/NNP+이/JKS
+31	31/SN
+
+1%로	1/SN+%/SW+로/JKB
+가장	가장/MAG
+낮았다	낮/VA+았/EP+다/EC
+
+고등학교	고등학교/NNG
+이행율은	이행율/NNG+은/JX
+창원시가	창원시/NNP+가/JKS
+53	53/SN
+
+7%로	7/SN+%/SW+로/JKB
+가장	가장/MAG
+높았고,	높/VA+았/EP+고/EC+,/SP
+산청군이	산청군/NNP+이/JKS
+34	34/SN
+
+6%로	6/SN+%/SW+로/JKB
+가장	가장/MAG
+낮게	낮/VA+게/EC
+나타났다	나타나/VV+았/EP+다/EC
+
+협의회	협의회/NNG
+한	한/MM
+관계자는	관계자/NNG+는/JX
+“이번	“/SL+이번/NNG
+조사는	조사/NNG+는/JX
+시사하는	시사하/VV+는/ETM
+바가	바/NNB+가/JKS
+크다”며	크다”/VV+며/EC
+“경남도내	“/SL+경남도/NNP+내/NNB
+장애인들이	장애인/NNG+들/XSN+이/JKS
+초등학력	초등학력/NNG
+이하로	이하/NNG+로/JKB
+살아가는	살아가/VV+는/ETM
+비율과	비율/NNG+과/JKB
+결코	결코/MAG
+무관하지	무관하/VA+지/EC
+않다”고	않/VX+다/EC+”/VV+고/EC
+주장했다	주장하/VV+였/EP+다/EC
+
+한국장애인개발원의	한국/NNP+장애인개발/NNG+원/XSN+의/JKG
+2008년	2008/SN+년/NNB
+조사결과	조사결과/NNG
+18만명에	18/SN+만/NR+명/NNB+에/JKB
+이르는	이르/VV+는/ETM
+경남도내	경남도/NNP+내/NNB
+장애인의	장애인/NNG+의/JKG
+초등학력은	초등학력/NNG+은/JX
+49	49/SN
+
+5%로	5/SN+%/SW+로/JKB
+현재와	현재/NNG+와/JKB
+큰	크/VA+ㄴ/ETM
+차이가	차이/NNG+가/JKS
+없다는	없/VA+다는/ETM
+것	것/NNB
+
+이어	이어/MAG
+관계자는	관계자/NNG+는/JX
+“편의시설이	“/SN+편의시설/NNG+이/JKS
+없다는	없/VA+다는/ETM
+것은	것/NNB+은/JX
+그	그/MM
+자체만으로	자체/NNG+만/JX+으로/JKB
+장애인은	장애인/NNG+은/JX
+가족에게	가족/NNG+에게/JKB
+짐이	짐/NNG+이/JKC
+돼야	되/VV+어야/EC
+하고,	하/VX+고/EC+,/SP
+짐이	짐/NNG+이/JKC
+되지	되/VV+지/EC
+않기	않/VX+기/ETN
+위해	위하/VV+여/EC
+결국	결국/NNG
+교육을	교육/NNG+을/JKO
+스스로	스스로/MAG
+포기해야	포기하/VV+여야/EC
+하는	하/VX+는/ETM
+처지에	처지/NNG+에/JKB
+놓이게	놓이/VV+게/EC
+된	되/VV+ㄴ/ETM
+것”이라고	것/NNB+”/SL+이/VCP+라고/EC
+지적했다	지적하/VV+였/EP+다/EF
+
+특히	특히/MAG
+관계자는	관계자/NNG+는/JX
+"장애인을	"/SS+장애인/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+정당한	정당하/VA+ㄴ/ETM
+편의제공은	편의제공/NNG+은/JX
+법률에	법률/NNG+에/JKB
+명시된	명시되/VV+ㄴ/ETM
+만큼	만큼/NNB
+교육기관에서	교육기관/NNG+에서/JKB
+당연히	당연히/MAG
+갖추어야	갖추/VV+어야/EC
+할	하/VX+ㄹ/ETM
+의무"라며	의무/NNG+"/SS+이/VCP+라며/EC
+"비장애인과	"/SS+비장애인/NNG+과/JKB
+평등하게	평등하/VA+게/EC
+교육	교육/NNG
+받을	받/VV+을/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+기회를	기회/NNG+를/JKO
+보장해야	보장하/VV+여야/EC
+할	하/VX+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+촉구했다	촉구하/VV+였/EP+다/EC

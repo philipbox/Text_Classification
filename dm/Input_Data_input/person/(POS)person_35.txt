@@ -1,0 +1,175 @@
+지난해	지난해/NNG
+약	약/MM
+147만명	147/SN+만/NR+명/NNB
+기초생활수급비	기초생활수급비/NNG
+받아	받/VV+아/EC
+
+지난해	지난해/NNG
+약	약/MM
+147만명이	147/SN+만/NR+명/NNB+이/JKS
+의료급여	의료급여/NNG
+및	및/MAG
+교육급여	교육급여/NNG
+등의	등/NNB+의/JKG
+기초생활보장수급비를	기초생활보장수급비/NNG+를/JKO
+받은	받/VV+은/ETM
+것으로	것/NNB+으로/JKB
+집계됐다	집계되/VV+었/EP+다/EF
+
+보건복지부는	보건복지부/NNG+는/JX
+지난	지나/VV+ㄴ/ETM
+2일	2/SN+일/NNB
+홈페이지(http://www	홈페이지/NNG+(/SS+http/SL+:///SP+www/SL
+
+mw	mw/SL
+
+go	go/SL
+
+kr)에	kr/SL+)/SS+에/JKB
+‘2011년	‘/SL+2011/SN+년/NNB
+국민기초생활보장	국민기초/NNP+생활보장/NNG
+수급자	수급/NNG+자/XSN
+현황’	현황/NNG+’/SL
+보고서를	보고서/NNG+를/JKO
+게재했다	게재하/VV+였/EP+다/EF
+
+보고서에	보고서/NNG+에/JKB
+따르면	따르/VV+면/EC
+지난해	지난해/NNG
+12월	12/SN+월/NNB
+말	말/NNB
+기준으로	기준/NNG+으로/JKB
+국민기초생활보장수급자(이하	국민기초생활보장수급/NNG+자/XSN+(/SS+이하/NNG
+수급자)는	수급자/NNP+)/SS+는/JX
+약	약/MM
+147명(85만	147/SN+명/NNB+(/SS+85/SN+만/NR
+1000가구)으로,	1000/SN+가구/NNG+)/SS+으로/JKB+,/SP
+전	전/MM
+인구	인구/NNG
+대비	대비/NNG
+수급률은	수급률/NNG+은/JX
+2	2/SN
+
+9%로	9/SN+%/SW+로/JKB
+집계됐다	집계되/VV+었/EP+다/EF
+
+수급자	수급/NNG+자/XSN
+유형을	유형/NNG+을/JKO
+살펴보면	살펴보/VV+면/EC
+일반수급자가	일반수급자/NNG+가/JKS
+93	93/SN
+
+9%(137만	9/SN+%/SW+(/SS+137/SN+만/NR
+9,865명),	9,865/SN+명/NNB+)/SS+,/SP
+시설수급자는	시설수급/NNG+자/XSN+는/JX
+6	6/SN
+
+1%(8만	1/SN+%/SW+(/SS+8/SN+만/NR
+9,389명)였다	9,389/SN+명/NNB+)/SS+이/VCP+었/EP+다/EF
+
+또한	또한/MAG
+중년기(40~64세)인	중년기/NNG+(/SS+40/SN+~/SO+64/SN+세/NNB+)/SS+이/VCP+ㄴ/ETM
+수급자가	수급/NNP+자/XSN+가/JKS
+35	35/SN
+
+9%로	9/SN+%/SW+로/JKB
+가장	가장/MAG
+많았다	많/VA+았/EP+다/EC
+
+노년기(65세	노년기/NNG+(/SS+65/SN+세/NNB
+이상)는	이상/NNG+)/SS+는/JX
+27	27/SN
+
+4%,	4/SN+%/SW+,/SP
+청소년기(10~19세)는	청소년기/NNG+(/SS+10/SN+~/SO+19/SN+세/NNB+)/SS+는/JX
+19	19/SN
+
+8%,	8/SN+%/SW+,/SP
+영유아기(0~4세)는	영유아기/NNG+(/SS+0/SN+~/SO+4/SN+세/NNB+)/SS+는/JX
+1	1/SN
+
+8%로	8/SN+%/SW+로/JKB
+각각	각각/MAG
+집계됐다	집계되/VV+었/EP+다/EF
+
+수급자	수급/NNG+자/XSN
+중	중/NNB
+82	82/SN
+
+8%(114만	8/SN+%/SW+(/SS+114/SN+만/NR
+2,956명)이	2,956/SN+명/NNB+)/SS+이/JKS
+경제활동을	경제활동/NNG+을/JKO
+전혀	전혀/MAG
+하지	하/VV+지/EC
+않고	않/VX+고/EC
+있으며,	있/VX+으며/EC+,/SP
+나머지인	나머지/NNG+이/VCP+ㄴ/ETM
+17	17/SN
+
+2%(23만	2/SN+%/SW+(/SS+23/SN+만/NR
+6,909명)는	6,909/SN+명/NNB+)/SS+는/JX
+수급자는	수급/NNG+자/XSN+는/JX
+고용이	고용/NNG+이/JKS
+불안정한	불안정하/VA+ㄴ/ETM
+임시와	임시/NNG+와/JC
+일일고용,	일일/NNP+고용/NNG+,/SP
+실직	실직/NNG
+및	및/MAG
+미취업인	미취업/NNG+이/VCP+ㄴ/ETM
+상태였다	상태/NNG+이/VCP+었/EP+다/EF
+
+특히	특히/MAG
+노인이나	노인/NNG+이나/JC
+장애인,	장애인/NNG+,/SP
+모자·부자가구	모자/NNG+·/SP+부자가구/NNG
+등	등/NNB
+취약계층인	취약계층/NNG+이/VCP+ㄴ/ETM
+가구가	가구/NNG+가/JKS
+전체	전체/NNG
+수급자	수급/NNG+자/XSN
+중	중/NNB
+60	60/SN
+
+5%를	5/SN+%/SW+를/JKO
+차지했다	차지하/VV+었/EP+다/EC
+
+이중	이중/NNG
+장애인	장애인/NNG
+가구는	가구/NNG+는/JX
+20	20/SN
+
+4%로	4/SN+%/SW+로/JKB
+17만	17/SN+만/NR
+3,751명이였다	3,751/SN+명/NNB+이/VCP+이/VV+었/EP+다/EF
+
+55	55/SN
+
+7%의	7/SN+%/SW+의/JKG
+수급자들은	수급자/NNG+들/XSN+은/JX
+전(월)세나	전/NNG+(/SS+월/NNG+)/SS+세나/NNG
+영구임대주택	영구임대주택/NNG
+등과	등/NNB+과/JKB
+같은	같/VA+은/ETM
+임차에	임차/NNG+에/JKB
+거주를	거주/NNG+를/JKO
+하고	하/VV+고/EC
+있었으며,	있/VX+었/EP+으며/EC+,/SP
+반면	반면/NNG
+12%(10만	12/SN+%/SW+(/SS+10/SN+만/NR
+2,471명)는	2,471/SN+명/NNB+)/SS+는/JX
+자가	자가/NNG
+주택을	주택/NNG+을/JKO
+소유하고	소유하/VV+고/EC
+있었다	있/VX+었/EP+다/EF
+
+한편	한편/MAG
+기초생활수급비는	기초생활수급비/NNG+는/JX
+소득인정액	소득인정액/NNG
+기준과	기준/NNG+과/JC
+부양의무자	부양의무자/NNG
+기준을	기준/NNG+을/JKO
+동시에	동시/NNG+에/JKB
+충족시켜야	충족/NNG+시키/XSV+어야/EC
+지급받을	지급/NNG+받/VV+을/ETM
+수	수/NNB
+있다	있/VA+다/EF

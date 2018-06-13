@@ -1,0 +1,216 @@
+"기초생활수급	"/SS+기초생활수급/NNG
+자격상실ㆍ지원축소	자격상실/NNG+ㆍ/SP+지원축소/NNG
+어려움	어려움/NNG
+호소"	호소/NNG+"/SS
+
+(서울=연합뉴스)	(/SS+서울/NNP+=/SW+연합뉴스/NNP+)/SS
+이한승	이한승/NNP
+기자	기자/NNG
+=	=/SW
+국민권익위원회는	국민권익위원회/NNG+는/JX
+9일	9/SN+일/NNB
+기초생활수급	기초생활수급/NNG
+관련	관련/NNG
+민원을	민원/NNG+을/JKO
+분석한	분석하/VV+ㄴ/ETM
+결과	결과/NNG
+수급	수급/NNG
+자격상실과	자격상실/NNG+과/JC
+지원축소로	지원축소/NNG+로/JKB
+인한	인하/VV+ㄴ/ETM
+어려움을	어려움/NNG+을/JKO
+호소하는	호소하/VV+는/ETM
+민원이	민원/NNG+이/JKS
+가장	가장/MAG
+많이	많이/MAG
+발생했다고	발생하/VV+였/EP+다고/EC
+밝혔다	밝히/VV+었/EP+다/EC
+
+권익위에	권익위/NNG+에/JKB
+따르면	따르/VV+면/EC
+올해	올해/NNG
+3ㆍ4분기	3/SN+ㆍ/SP+4/SN+분기/NNG
+동안	동안/NNG
+국민소통	국민소통/NNG
+포털인	포털/NNG+이/VCP+ㄴ/ETM
+국민신문고에	국민신문고/NNP+에/JKB
+접수된	접수되/VV+ㄴ/ETM
+기초생활수급자	기초생활수급자/NNG
+관련	관련/NNG
+민원은	민원/NNG+은/JX
+총	총/MM
+539건(월	539/SN+건/NNB+(/SS+월/NNB
+평균	평균/NNG
+180건)이다	180/SN+건/NNB+)/SS+이/VCP+다/EC
+
+유형별로	유형/NNG+별/XSN+로/JKB
+보면	보/VV+면/EC
+수급	수급/NNG
+자격상실	자격상실/NNG
+및	및/MAG
+지원축소에	지원축소/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+이의가	이의/NNG+가/JKS
+219건으로	219/SN+건/NNB+으로/JKB
+전체의	전체/NNG+의/JKG
+40	40/SN
+
+6％를	6/SN+％/SL+를/JKO
+차지했고,	차지하/VV+였/EP+고/EC+,/SP
+다음으로	다음/NNG+으로/JKB
+지원확대	지원확대/NNG
+및	및/MAG
+운영	운영/NNG
+개선	개선/NNG
+요청	요청/NNG
+165건(30	165/SN+건/NNB+(/SS+30/SN
+
+6％),	6/SN+％/SL+)/SS+,/SP
+부정수급자	부정수급/NNG+자/XSN
+신고	신고/NNG
+21건(3	21/SN+건/NNB+(/SS+3/SN
+
+9％)	9/SN+％/SL+)/SS
+등의	등/NNB+의/JKG
+순이었다	순/NNG+이/VCP+었/EP+다/EF
+
+수급	수급/NNG
+자격상실	자격상실/NNG
+및	및/MAG
+지원축소	지원축소/NNG
+민원을	민원/NNG+을/JKO
+세부적으로	세부적/NNG+으로/JKB
+분류하면	분류하/VV+면/EC
+연락이	연락/NNG+이/JKS
+끊겼거나	끊기/VV+었/EP+거나/EC
+부양의무를	부양의무/NNG+를/JKO
+다하지	다하/VV+지/EC
+않고	않/VX+고/EC
+있는	있/VX+는/ETM
+부양의무자로	부양의무자/NNG+로/JKB
+인한	인하/VV+ㄴ/ETM
+자격상실	자격상실/NNG
+123건이었고,	123/SN+건/NNB+이/VCP+었/EP+고/EC+,/SP
+아르바이트	아르바이트/NNG
+등	등/NNB
+일용근로	일용근로/MAG
+소득으로	소득/NNG+으로/JKB
+생계급여	생계급여/NNG
+삭감	삭감/NNG
+35건,	35/SN+건/NNB+,/SP
+재산산정	재산산정/NNG
+기준에	기준/NNG+에/JKB
+이의	이/NP+의/JKG
+28건	28/SN+건/NNB
+등이었다	등/NNB+이/VCP+었/EP+다/EF
+
+민원인을	민원인/NNG+을/JKO
+분석한	분석하/VV+ㄴ/ETM
+결과	결과/NNG
+남성이	남성/NNG+이/JKS
+51	51/SN
+
+9％(280명)를	9％/SN+(/SS+280/SN+명/NNB+)/SS+를/JKO
+차지했고,	차지하/VV+였/EP+고/EC+,/SP
+연령별로는	연령/NNG+별/XSN+로/JKB+는/JX
+40대	40/SN+대/NNB
+125명(23	125/SN+명/NNB+(/SS+23/SN
+
+2％),	2/SN+％/SL+)/SS+,/SP
+50대	50/SN+대/NNB
+89명(16	89/SN+명/NNB+(/SS+16/SN
+
+5％),	5/SN+％/SL+)/SS+,/SP
+20대	20/SN+대/NNB
+84명(15	84/SN+명/NNB+(/SS+15/SN
+
+6％),	6/SN+％/SL+)/SS+,/SP
+30대	30/SN+대/NNB
+77명(14	77/SN+명/NNB+(/SS+14/SN
+
+3％)	3/SN+％/SL+)/SS
+등의	등/NNB+의/JKG
+순이었다	순/NNG+이/VCP+었/EP+다/EF
+
+국민기초생활보장	국민기초/NNP+생활보장/NNG
+수급자는	수급자/NNG+는/JX
+2009년	2009/SN+년/NNB
+156만8천명	156/SN+만/NR+8/SN+천/NR+명/NNB
+2010년	2010/SN+년/NNB
+154만9천명,	154/SN+만/NR+9/SN+천/NR+명/NNB+,/SP
+2011년	2011/SN+년/NNB
+146만9천명,	146/SN+만/NR+9/SN+천/NR+명/NNB+,/SP
+2012년	2012/SN+년/NNB
+8월	8/SN+월/NNB
+140만2천명으로	140/SN+만/NR+2/SN+천/NR+명/NNB+으로/JKB
+감소하고	감소하/VV+고/EC
+있다	있/VX+다/EC
+
+한편	한편/MAG
+권익위는	권익위/NNG+는/JX
+지난해	지난해/NNG
+9월부터	9/SN+월/NNB+부터/JX
+시행하고	시행하/VV+고/EC
+있는	있/VX+는/ETM
+공익신고자	공익신고자/NNG
+보호제도와	보호제도/NNG+와/JKB
+관련,	관련/NNG+,/SP
+올해	올해/NNG
+상반기까지	상반기/NNG+까지/JX
+공공기관이	공공기관/NNG+이/JKS
+접수한	접수하/VV+ㄴ/ETM
+공익신고는	공익신고/NNG+는/JX
+총	총/MM
+6만5천565건이고,	6/SN+만/NR+5/SN+천/NR+565/SN+건/NNB+이/VCP+고/EC+,/SP
+과징금	과징금/NNG
+또는	또는/MAG
+과태료	과태료/NNG
+등	등/NNB
+처분금액은	처분금액/NNG+은/JX
+44억6천500만원에	44/SN+억/NR+6/SN+천/NR+500/SN+만/NR+원/NNB+에/JKB
+달한다고	달하/VV+ㄴ다고/EC
+설명했다	설명하/VV+었/EP+다/EC
+
+권익위는	권익위/NNG+는/JX
+또	또/MAG
+고용노동부가	고용노동부/NNG+가/JKS
+12월	12/SN+월/NNB
+중에	중/NNB+에/JKB
+민간기업	민간기업/NNG
+근로자의	근로자/NNG+의/JKG
+공익침해	공익침해/NNG
+행위를	행위/NNG+를/JKO
+직무상	직무/NNG+상/XSN
+비밀	비밀/NNG
+누설로	누설/NNG+로/JKB
+보지	보/VV+지/EC
+않도록	않/VX+도록/EC
+하는	하/VX+는/ETM
+내용의	내용/NNG+의/JKG
+표준취업규칙을	표준취업규칙/NNG+을/JKO
+개정할	개정하/VV+ㄹ/ETM
+계획이라고	계획/NNG+이/VCP+라고/EC
+밝혔다	밝히/VV+었/EP+다/EC
+
+jesus7864@yna	jesus/SL+7864/SN+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

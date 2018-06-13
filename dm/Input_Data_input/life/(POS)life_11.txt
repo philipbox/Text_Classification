@@ -1,0 +1,82 @@
+중증장애인	중증장애인/NNG
+체험홈	체험홈/NNG
+‘IL	‘IL/SL
+Start’	Start’/SL
+입주자	입주자/NNG
+모집	모집/NNG
+
+서초장애인자립생활센터가	서초장애인자립생활센터/NNG+가/JKS
+중증장애인자립생활	중증장애인자립생활/NNG
+체험프로그램	체험프로그램/NNG
+‘IL	‘IL/SL
+Start’	Start’/SL
+입주자를	입주자/NNG+를/JKO
+모집한다	모집하/VV+ㄴ다/EF
+
+‘IL	‘IL/SL
+Start’	Start’/SL
+는	늘/VV+ㄴ/ETM
+자립의	자립/NNG+의/JKG
+기회를	기회/NNG+를/JKO
+가져보지	가지/VV+어/EC+보/VX+지/EC
+못한	못하/VX+ㄴ/ETM
+중증장애인에게	중증장애인/NNG+에게/JKB
+지역사회에서	지역사회/NNG+에서/JKB
+살	살/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+개인	개인/NNG
+거주공간을	거주공간/NNG+을/JKO
+마련해	마련하/VV+여/EC
+일정	일정/NNG
+기간동안	기간동안/NNG
+자립생활을	자립생활/NNG+을/JKO
+연습할	연습하/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+프로그램이다	프로그램/NNG+이/VCP+다/EC
+
+입주자는	입주자/NNG+는/JX
+3개월에서	3/SN+개월/NNB+에서/JKB
+1년간	1/SN+년/NNB+간/XSN
+자립생활기술훈련	자립생활기술훈련/NNG
+및	및/MAG
+외부체험활동,	외부체험활동/NNG+,/SP
+동료상담	동료상담/NNG
+등에	등/NNB+에/JKB
+참여하게	참여하/VV+게/EC
+된다	되/VV+ㄴ다/EF
+
+중증장애인으로서	중증장애인/NNG+으로서/JKB
+시설에서	시설/NNG+에서/JKB
+생활하고	생활하/VV+고/EC
+있는	있/VX+는/ETM
+장애인이	장애인/NNG+이/JKS
+우선	우선/MAG
+선발	선발/NNG
+대상이며,	대상/NNG+이/VCP+며/EC+,/SP
+신청자는	신청자/NNG+는/JX
+센터	센터/NNG
+홈페이지(www	홈페이지/NNG+(/SS+www/SL
+
+sccil	sccil/SL
+
+or	or/SL
+
+kr)에서	kr/SL+)/SS+에서/JKB
+신청서를	신청서/NNG+를/JKO
+내려받아	내리/VV+어/EC+받/VV+아/EC
+이메일(sccil21@hanmail	이메일/NNG+(/SS+sccil/SL+21/SN+@/SW+hanmail/SL
+
+net)이나	net/SL+)/SS+이나/JC
+팩스(02-571-7315)를	팩스/NNG+(/SS+02/SN+-/SO+571/SN+-/SO+7315/SN+)/SS+를/JKO
+통해	통하/VV+여/EC
+오는	오/VV+는/ETM
+31일까지	31/SN+일/NNB+까지/JX
+접수하면	접수하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+<문의>	</SS+문의/NNP+>/SS
+서초센터	서초센터/NNP
+자립지원팀	자립지원팀/NNG
+02-575-7615	02/SN+-/SO+575/SN+-/SO+7615/SN

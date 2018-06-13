@@ -1,0 +1,123 @@
+‘따뜻한	‘/SN+따뜻하/VA+ㄴ/ETM
+금융’	금융/NNG+’/SN
+외치던	외치/VV+던/ETM
+은행,	은행/NNG+,/SP
+장애인고용은	장애인고용/NNG+은/JX
+‘꽝’	‘꽝/SL+’/SN
+
+장애인	장애인/NNG
+고용	고용/NNG
+대신	대신/NNG
+고용부담금을	고용부담금/NNG+을/JKO
+택한	택하/VV+ㄴ/ETM
+금융기관에	금융기관/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+지적이	지적/NNG+이/JKS
+SNS를	SNS/SL+를/JKO
+통해	통하/VV+여/EC
+제기됐다	제기되/VV+었/EP+다/EF
+
+국회	국회/NNG
+환경노동위원회	환경노동위원회/NNG
+소속	소속/NNG
+김성태	김성태/NNP
+의원(새누리당)은	의원/NNG+(/SS+새누리당/NNP+)/SS+은/JX
+18일	18/SN+일/NNB
+개인	개인/NNG
+SNS를	SNS/SL+를/JKO
+통해	통하/VV+여/EC
+“'따뜻한	“/SL+'/SS+따뜻하/VA+ㄴ/ETM
+금융'을	금융/NNG+'/SS+을/JKO
+외치는	외치/VV+는/ETM
+시중은행,	시중은행/NNG+,/SP
+단	단/MM
+한곳도	한곳/NNG+도/JX
+장애인	장애인/NNG
+고용	고용/NNG
+의무를	의무/NNG+를/JKO
+지키지	지키/VV+지/EC
+않았다”며	않/VX+았/EP+다”며/EC
+“과연	“/SW+과연/MAG
+장애인	장애인/NNG
+고용대신	고용대신/NNG
+80억원의	80/SN+억/NR+원/NNB+의/JKG
+벌금을	벌금/NNG+을/JKO
+내는게	내/VV+는/ETM+것/NNB+이/JKS
+더	더/MAG
+효율적인	효율적/NNG+이/VCP+ㄴ/ETM
+것인가”라고	것/NNB+이/VCP+ㄴ가/EC+”/NNG+이/VCP+라고/EC
+비판했다	비판하/VV+였/EP+다/EC
+
+지난	지나/VV+ㄴ/ETM
+7월	7/SN+월/NNB
+고용노동부가	고용노동부/NNG+가/JKS
+공표한	공표하/VV+ㄴ/ETM
+장애인	장애인/NNG
+고용의무	고용의무/NNG
+이행	이행/NNG
+기관	기관/NNG
+명단에	명단/NNG+에/JKB
+따르면,	따르/VV+면/EC+,/SP
+신한은행	신한은행/NNP
+0	0/SN
+
+55%,우리은행	55/SN+%/SW+,/SP+우리은행/NNP
+0	0/SN
+
+71%,	71/SN+%/SW+,/SP
+경남은행	경남은행/NNP
+0	0/SN
+
+78%,	78/SN+%/SW+,/SP
+한국은행	한국은행/NNP
+1	1/SN
+
+11%,	11/SN+%/SW+,/SP
+하나은행	하나은행/NNP
+0	0/SN
+
+65	65/SN
+등으로	등/NNB+으로/JKB
+민간기업	민간기업/NNG
+기준	기준/NNG
+2	2/SN
+
+5%인	5/SN+%/SW+이/VCP+ㄴ/ETM
+의무고용률에	의무고용률/NNG+에/JKB
+턱없이	턱없이/MAG
+부족했다	부족하/VA+었/EP+다/EC
+
+특히	특히/MAG
+솔로몬상호저축은행,	솔로몬상호저축은행/NNP+,/SP
+도이치은행	도이치은행/NNP
+서울지점,	서울/NNP+지점/NNG+,/SP
+현대스위스2저축은행,	현대스위스/NNP+2/SN+저축은행/NNG+,/SP
+한국스탠다드차타드저축은행,대신저축은행,	한국스탠다드차타드저축은행/NNP+,/SP+대신저축은행/NNP+,/SP
+예가람저축은행,	예가람저축은행/NNP+,/SP
+우리금융저축은행,	우리금융저축은행/NNP+,/SP
+비엔피파리바은행서울지점	비엔피파리바은행서울/NNP+지점/NNG
+등	등/NNB
+8개	8/SN+개/NNB
+은행은	은행/NNG+은/JX
+장애인을	장애인/NNG+을/JKO
+단	단/MM
+한명도	한/MM+명/NNB+도/JX
+고용하지	고용하/VV+지/EC
+않았다	않/VX+았/EP+다/EF
+
+김	김/NNP
+의원은	의원/NNG+은/JX
+“사기업	“/SN+사기업/NNG
+가운데	가운데/NNG
+장애인	장애인/NNG
+고용에	고용/NNG+에/JKB
+가장	가장/MAG
+소극적인	소극적/NNG+이/VCP+ㄴ/ETM
+은행!	은행/NNG+!/SF
+진정으로	진정/NNG+으로/JKB
+사회공헌에	사회공헌/NNG+에/JKB
+노력하는	노력하/VV+는/ETM
+모습을	모습/NNG+을/JKO
+보여야	보이/VV+어야/EC
+한다”고	하/VX+ㄴ다”고/EC
+지적했다	지적하/VV+였/EP+다/EF

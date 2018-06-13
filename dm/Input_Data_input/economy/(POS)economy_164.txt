@@ -1,0 +1,78 @@
+최고의	최고/NNG+의/JKG
+기능인	기능/NNG+이/VCP+ㄴ/ETM
+향한	향하/VV+ㄴ/ETM
+구슬땀	구슬땀/NNG
+'가득'	'/SS+가득/MAG+'/SS
+
+'2012년	'/SS+2012/SN+년/NNB
+제29회	제/XPN+29/SN+회/NNB
+전국장애인기능경기대회'가	전/MM+국장애인기능경기대회/NNG+'/SS+가/JKS
+지난	지나/VV+ㄴ/ETM
+17일부터	17/SN+일/NNB+부터/JX
+전국	전국/NNG
+지역을	지역/NNG+을/JKO
+대표한	대표하/VV+ㄴ/ETM
+선수	선수/NNG
+360여명이	360/SN+여/XSN+명/NNB+이/JKS
+출전한	출전하/VV+ㄴ/ETM
+가운데	가운데/NNG
+인천	인천/NNP
+송도	송도/NNP
+컨벤시아와	컨벤시아/NNP+와/JC
+인천기계공고에서	인천기계공고/NNP+에서/JKB
+진행되고	진행되/VV+고/EC
+있다	있/VX+다/EC
+
+이번	이번/NNG
+대회는	대회/NNG+는/JX
+오는	오/VV+는/ETM
+20일	20/SN+일/NNB
+폐회	폐회/NNG
+및	및/MAG
+시상식을	시상식/NNG+을/JKO
+갖고	갖/VV+고/EC
+마무리된다	마무리되/VV+ㄴ다/EF
+
+19일	19/SN+일/NNB
+CNC선반,	CNC/SL+선반/NNG+,/SP
+기계조립	기계조립/NNG
+종목에	종목/NNG+에/JKB
+참가한	참가하/VV+ㄴ/ETM
+선수들의이	선수/NNG+들/XSN+의/JKG+이/JKS
+최고의	최고/NNG+의/JKG
+기능인이	기능/NNG+인/XSN+이/JKC
+되기	되/VV+기/ETN
+위해	위하/VV+여/EC
+구슬땀	구슬땀/NNG
+흘리는	흘리/VV+는/ETM
+모습을	모습/NNG+을/JKO
+들여다본다	들여다보/VV+ㄴ다/EF
+
+'2012년	'/SS+2012/SN+년/NNB
+제29회	제/XPN+29/SN+회/NNB
+전국장애인기능경기대회'	전/MM+국장애인기능경기대회/NNG+'/SS
+기계조립	기계조립/NNG
+종목에	종목/NNG+에/JKB
+참가한	참가하/VV+ㄴ/ETM
+한	한/MM
+선수가	선수/NNG+가/JKS
+놀라운	놀랍/VA+ㄴ/ETM
+집중력을	집중력/NNG+을/JKO
+보이고	보이/VV+고/EC
+있다	있/VX+다/EC
+
+ⓒ한국장애인고용공단	ⓒ/SL+한국/NNP+장애인고용공단/NNG
+19일	19/SN+일/NNB
+부대행사로	부대행사/NNG+로/JKB
+진행된	진행되/VV+ㄴ/ETM
+케이크	케이크/NNG
+만들기	만들/VV+기/ETN
+행사	행사/NNG
+모습	모습/NNG
+
+많은	많/VA+은/ETM
+장애	장애/NNG
+학생들이	학생/NNG+들/XSN+이/JKS
+참가했다	참가하/VV+였/EP+다/EC
+
+ⓒ한국장애인고용공단	ⓒ/SL+한국/NNP+장애인고용공단/NNG

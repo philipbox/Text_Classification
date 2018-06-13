@@ -1,0 +1,572 @@
+장애인복지·교육	장애인복지/NNG+·/SP+교육/NNG
+지역	지역/NNG
+간	간/NNB
+격차	격차/NNG
+'여전'	'/SS+여전/NNG+'/SS
+
+전국	전국/NNG
+16개	16/SN+개/NNB
+시·도	시/NNG+·/SP+도/NNG
+장애인복지·교육의	장애인복지/NNG+·/SP+교육/NNG+의/JKG
+지역	지역/NNG
+간	간/NNB
+격차가	격차/NNG+가/JKS
+전년과	전년/NNG+과/JKB
+비슷한	비슷하/VA+ㄴ/ETM
+수준인	수준/NNG+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+한국장애인단체총연맹(이하	한국/NNP+장애인단체총연맹/NNG+(/SS+이하/NNG
+장총)은	장총/NNP+)/SS+은/JX
+20일	20/SN+일/NNB
+오전	오전/NNG
+10시	10/SN+시/NNB
+국회	국회/NNG
+정론관에서	정론관/NNG+에서/JKB
+기자회견을	기자회견/NNG+을/JKO
+갖고,	갖/VV+고/EC+,/SP
+‘2012년	‘/SL+2012/SN+년/NNB
+16개	16/SN+개/NNB
+시·도	시/NNG+·/SP+도/NNG
+장애인복지·교육	장애인복지/NNG+·/SP+교육/NNG
+비교	비교/NNG
+연구결과’를	연구결과’/NNG+를/JKO
+발표했다	발표하/VV+였/EP+다/EC
+
+‘장애인복지	‘/SL+장애인복지/NNG
+비교연구’는	비교연구/NNG+’/SL+는/JX
+지난	지나/VV+ㄴ/ETM
+2005년부터	2005/SN+년/NNB+부터/JX
+시·도별	시/NNG+·/SP+도/NNG+별/XSN
+장애인복지수준을	장애인복지수준/NNG+을/JKO
+비교하고,	비교하/VV+고/EC+,/SP
+장애인의	장애인/NNG+의/JKG
+삶의	삶/NNG+의/JKG
+질	질/NNG
+향상을	향상/NNG+을/JKO
+목적으로	목적/NNG+으로/JKB
+진행되고	진행되/VV+고/EC
+있다	있/VX+다/EC
+
+올해에는	올해/NNG+에/JKB+는/JX
+지난	지나/VV+ㄴ/ETM
+4월	4/SN+월/NNB
+1일부터	1/SN+일/NNB+부터/JX
+6월	6/SN+월/NNB
+30일까지	30/SN+일/NNB+까지/JX
+16개	16/SN+개/NNB
+광역자치단체와	광역자치단체/NNG+와/JC
+시도교육청,	시도교육청/NNG+,/SP
+관련	관련/NNG
+정부	정부/NNG
+부처의	부처/NNG+의/JKG
+협조를	협조/NNG+를/JKO
+받아	받/VV+아/EC
+실시했으며,	실시하/VV+였/EP+으며/EC+,/SP
+소득	소득/NNG
+및	및/MAG
+경제활동	경제활동/NNG
+지원	지원/NNG
+보건	보건/NNG
+및	및/MAG
+자립지원	자립지원/NNG
+복지서비스	복지서비스/NNG
+지원	지원/NNG
+이동(편의)	이동/NNG+(/SS+편의/NNG+)/SS
+문화여가	문화여가/NNG
+및	및/MAG
+정보접근	정보접근/NNG
+복지행정	복지행정/NNG
+및	및/MAG
+예산	예산/NNG
+등	등/NNB
+장애인복지	장애인복지/NNG
+분야	분야/NNG
+5개	5/SN+개/NNB
+영역의	영역/NNG+의/JKG
+50개	50/SN+개/NNB
+지표,	지표/NNG+,/SP
+교육영역의	교육영역/NNG+의/JKG
+13개	13/SN+개/NNB
+지표를	지표/NNG+를/JKO
+활용해	활용하/VV+여/EC
+분석했다	분석하/VV+였/EP+다/EF
+
+또한	또한/MAG
+우수,	우수/NNG+,/SP
+양호,	양호/NNP+,/SP
+개선,	개선/NNG+,/SP
+미흡	미흡/NNG
+등	등/NNB
+4개	4/SN+개/NNB
+등급으로	등급/NNG+으로/JKB
+나누어서	나누/VV+어서/EC
+지역별	지역/NNG+별/XSN
+수준을	수준/NNG+을/JKO
+평가했다	평가하/VV+였/EP+다/EC
+
+■장애인복지	■/SW+장애인복지/NNG
+분야=평균	분야/NNG+=/SW+평균/NNG
+점수는	점수/NNG+는/JX
+55	55/SN
+
+21점으로	21/SN+점/NNB+으로/JKB
+전년	전년/NNG
+50	50/SN
+
+9점에	9/SN+점/NNB+에/JKB
+비해	비하/VV+여/EC
+약	약/MM
+5점	5/SN+점/NNB
+증가했다	증가하/VV+였/EP+다/EC
+
+최고점	최고점/NNG
+지역과	지역/NNG+과/JC
+최저점	최저점/NNG
+지역의	지역/NNG+의/JKG
+차이는	차이/NNG+는/JX
+1	1/SN
+
+34배로	34/SN+배/NNG+로/JKB
+전년	전년/NNG
+1	1/SN
+
+43배보다	43/SN+배/NNG+보다/JKB
+0	0/SN
+
+09배	09/SN+배/NNG
+감소하는데	감소하/VV+는/ETM+데/NNB
+그쳤다	그치/VV+었/EP+다/EC
+
+광주,	광주/NNP+,/SP
+대전,	대전/NNP+,/SP
+강원	강원/NNP
+제주도가	제주도/NNP+가/JKS
+'우수지역'으로	'/SS+우수지역/NNG+'/SS+으로/JKB
+평가된	평가되/VV+ㄴ/ETM
+반면	반면/NNG
+부산,	부산/NNP+,/SP
+대구,	대구/NNP+,/SP
+경기,	경기/NNP+,/SP
+경북은	경북/NNP+은/JX
+'미흡'한	'/SS+미흡/NNG+'/SS+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+분류됐다	분류되/VV+었/EP+다/EF
+
+이중	이/MM+중/NNB
+대전의	대전/NNP+의/JKG
+경우	경우/NNG
+전년에	전년/NNG+에/JKB
+이어	잇/VV+어/EC
+올해에도	올해/NNG+에/JKB+도/JX
+가장	가장/MAG
+높은	높/VA+은/ETM
+장애인복지	장애인복지/NNG
+수준인	수준/NNG+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+분석됐고,	분석되/VV+었/EP+고/EC+,/SP
+최하위	최/XPN+하위/NNG
+수준이었던	수준/NNG+이/VCP+었/EP+던/ETM
+충남은	충남/NNP+은/JX
+'양호'	'/SS+양호/NNP+'/SS
+평가를	평가/NNG+를/JKO
+받아	받/VV+아/EC
+향상도가	향상도/NNG+가/JKS
+가장	가장/MAG
+높았다	높/VA+았/EP+다/EC
+
+지표별	지표별/NNP
+주요	주요/NNG
+사항을	사항/NNG+을/JKO
+살펴보면	살펴보/VV+면/EC
+민간부문	민간부문/NNG
+장애인고용률은	장애인고용률/NNG+은/JX
+지난해	지난해/NNG
+말	말/NNB
+현재	현재/MAG
+평균	평균/NNG
+2	2/SN
+
+25%인	25/SN+%/SW+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+인천이	인천/NNP+이/JKS
+2	2/SN
+
+96%로	96/SN+%/SW+로/JKB
+가장	가장/MAG
+높았고	높/VA+았/EP+고/EC
+광주	광주/NNP
+2	2/SN
+
+93%,	93/SN+%/SW+,/SP
+부산	부산/NNP
+2	2/SN
+
+92%,	92/SN+%/SW+,/SP
+제주가	제주/NNP+가/JKS
+2	2/SN
+
+87%로	87/SN+%/SW+로/JKB
+뒤를	뒤/NNG+를/JKO
+이었다	잇/VV+었/EP+다/EF
+
+반면에	반면/NNG+에/JKB
+서울은	서울/NNP+은/JX
+1	1/SN
+
+97%로	97/SN+%/SW+로/JKB
+전국에서	전국/NNG+에서/JKB
+유일하게	유일하/VA+게/EC
+1%대를	1/SN+%/SW+대/XSN+를/JKO
+기록한	기록하/VV+ㄴ/ETM
+지역으로	지역/NNG+으로/JKB
+조사됐고,	조사되/VV+었/EP+고/EC+,/SP
+경남(2	경남/NNP+(/SS+2/SN
+
+29%),	29/SN+%/SW+)/SS+,/SP
+경기·충남·전남(각각	경기/NNP+·/SP+충남/NNP+·/SP+전남/NNP+(/SS+각각/NNG
+2	2/SN
+
+28%)	28/SN+%/SW+)/SS
+순으로	순/XSN+으로/JKB
+고용율이	고용율/NNG+이/JKS
+낮았다	낮/VA+았/EP+다/EC
+
+장애인의료비	장애인의료비/NNG
+지원액도	지원/NNG+액/XSN+도/JX
+지역별로	지역/NNG+별/XSN+로/JKB
+최고	최고/NNG
+16배	16/SN+배/NNG
+이상	이상/NNG
+차이가	차이/NNG+가/JKS
+나는	나/VV+는/ETM
+것으로	것/NNB+으로/JKB
+분석됐다	분석되/VV+었/EP+다/EF
+
+시도별	시도/NNG+별/XSN
+장애인	장애인/NNG
+1인당	1/SN+인/NNG+당/XSN
+'장애인의료비지원액'은	'/SS+장애인의료비지원액/NNG+'/SS+은/JX
+충남이	충남/NNP+이/JKS
+112만6천여원으로	112/SN+만/NR+6/SN+천/NR+여/XSN+원/NNB+으로/JKB
+가장	가장/MAG
+높았던	높/VA+았/EP+던/ETM
+반면,	반면/NNG+,/SP
+충북이	충북/NNP+이/JKS
+6만6천여원으로	6/SN+만/NR+6/SN+천/NR+여/XSN+원/NNB+으로/JKB
+가장	가장/MAG
+낮았다	낮/VA+았/EP+다/EC
+
+장애인콜택시	장애인콜택시/NNG
+의무달성비율의	의무달성비율/NNG+의/JKG
+경우에는	경우/NNG+에/JKB+는/JX
+평균적으로	평균적/NNG+으로/JKB
+57	57/SN
+
+18%(2011년	18/SN+%/SW+(/SS+2011/SN+년/NNB
+47	47/SN
+
+32%)로	32/SN+%/SW+)/SS+로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+지역별로	지역/NNG+별/XSN+로/JKB
+살펴보면	살펴보/VV+면/EC
+경남이	경남/NNP+이/JKS
+286대를	286/SN+대/NNB+를/JKO
+운행하고	운행하/VV+고/EC
+있어	있/VX+어/EC
+의무대수	의무대수/NNG
+199대의	199/SN+대/NNB+의/JKG
+143	143/SN
+
+72%를	72/SN+%/SW+를/JKO
+달성한	달성하/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+조사됐다	조사되/VV+었/EP+다/EF
+
+다음으로는	다음/NNG+으로/JKB+는/JX
+인천	인천/NNP
+85	85/SN
+
+31%,	31/SN+%/SW+,/SP
+서울	서울/NNP
+76	76/SN
+
+34%,	34/SN+%/SW+,/SP
+충북	충북/NNP
+62	62/SN
+
+04%,	04/SN+%/SW+,/SP
+전북	전북/NNP
+60	60/SN
+
+14%	14/SN+%/SW
+등의	등/NNB+의/JKG
+순으로	순/NNG+으로/JKB
+높았다	높/VA+았/EP+다/EC
+
+이에	이/NP+에/JKB
+반해	반하/VV+여/EC
+전남은	전남/NNP+은/JX
+장애인콜택시	장애인콜택시/NNG
+의무	의무/NNG
+보유율이	보유/NNG+율/XSN+이/JKS
+12	12/SN
+
+66%(2011년	66/SN+%/SW+(/SS+2011/SN+년/NNB
+15	15/SN
+
+09%)에	09/SN+%/SW+)/SS+에/JKB
+그쳐	그치/VV+어/EC
+전국에서	전국/NNG+에서/JKB
+가장	가장/MAG
+낮은	낮/VA+은/ETM
+비율을	비율/NNG+을/JKO
+나타났다	나타나/VV+았/EP+다/EC
+
+지자체	지자체/NNG
+예산	예산/NNG
+중	중/NNB
+장애인복지	장애인복지/NNG
+예산	예산/NNG
+비율은	비율/NNG+은/JX
+전국평균	전/MM+국평균/NNG
+2	2/SN
+
+22%	22/SN+%/SW
+수준인	수준/NNG+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+조사됐고,	조사되/VV+었/EP+고/EC+,/SP
+지역	지역/NNG
+간	간/NNB
+격차가	격차/NNG+가/JKS
+비교적	비교적/NNG
+큰	크/VA+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+대전이	대전/NNP+이/JKS
+3	3/SN
+
+67%로	67/SN+%/SW+로/JKB
+가장	가장/MAG
+높았고,	높/VA+았/EP+고/EC+,/SP
+광주	광주/NNP
+3	3/SN
+
+30%,	30/SN+%/SW+,/SP
+충북	충북/NNP
+2	2/SN
+
+71%,	71/SN+%/SW+,/SP
+대구	대구/NNP
+2	2/SN
+
+44%	44/SN+%/SW
+등이	등/NNB+이/JKS
+뒤를	뒤/NNG+를/JKO
+이었다	잇/VV+었/EP+다/EF
+
+반면에	반면/NNG+에/JKB
+인천의	인천/NNP+의/JKG
+경우	경우/NNG
+1	1/SN
+
+88%로	88/SN+%/SW+로/JKB
+가장	가장/MAG
+낮았고,	낮/VA+았/EP+고/EC+,/SP
+강원(1	강원/NNP+(/SS+1/SN
+
+89%)·전남(1	89/SN+%/SW+)/SS+·/SP+전남/NNP+(/SS+1/SN
+
+92%)·경북(1	92/SN+%/SW+)/SS+·/SP+경북/NNP+(/SS+1/SN
+
+95%)도	95/SN+%/SW+)/SS+도/JX
+2%를	2/SN+%/SW+를/JKO
+넘지	넘/VV+지/EC
+못했다	못하/VX+였/EP+다/EC
+
+16개	16/SN+개/NNB
+시·도	시/NNG+·/SP+도/NNG
+장애인복지·교육	장애인복지/NNG+·/SP+교육/NNG
+수준	수준/NNG
+등급	등급/NNG
+
+■장애인교육	■/SW+장애인교육/NNG
+분야=	분야/NNG+=/SW
+전국	전국/NNG
+평균	평균/NNG
+72	72/SN
+
+42점을	42/SN+점/NNB+을/JKO
+기록해	기록하/VV+여/EC
+전년	전년/NNG
+72	72/SN
+
+03점보다	03/SN+점/NNB+보다/JKB
+소폭	소폭/NNG
+상승하는데	상승하/VV+는/ETM+데/NNB
+그쳤고,	그치/VV+었/EP+고/EC+,/SP
+최고점인	최고점/NNG+이/VCP+ㄴ/ETM
+지역과	지역/NNG+과/JC
+최저점	최저점/NNG
+지역의	지역/NNG+의/JKG
+차이도	차이/NNG+도/JX
+1	1/SN
+
+20배로	20/SN+배/NNG+로/JKB
+전년(1	전년/NNG+(/SS+1/SN
+
+22배)과	22/SN+배/NNG+)/SS+과/JKB
+비슷했다	비슷하/VA+었/EP+다/EC
+
+울산,	울산/NNP+,/SP
+인천,	인천/NNP+,/SP
+충남,	충남/NNP+,/SP
+경남이	경남/NNP+이/JKS
+'우수'	'/SS+우수/NNG+'/SS
+평가를	평가/NNG+를/JKO
+받았으며,	받/VV+았/EP+으며/EC+,/SP
+서울,	서울/NNP+,/SP
+경기,	경기/NNP+,/SP
+충북,	충북/NNP+,/SP
+경북은	경북/NNP+은/JX
+'미흡'한	'/SS+미흡/NNG+'/SS+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+분석됐다	분석되/VV+었/EP+다/EF
+
+특히	특히/MAG
+대전은	대전/NNP+은/JX
+전년	전년/NNG
+16개	16/SN+개/NNB
+시·도	시/NNG+·/SP+도/NNG
+중	중/NNB
+가장	가장/MAG
+우수한	우수하/VA+ㄴ/ETM
+지역으로	지역/NNG+으로/JKB
+평가됐지만,	평가되/VV+었/EP+지만/EC+,/SP
+올해에는	올해/NNG+에/JKB+는/JX
+'양호'	'/SS+양호/NNG+'/SS
+수준으로	수준/NNG+으로/JKB
+분석됐다	분석되/VV+었/EP+다/EF
+
+특수교육	특수교육/NNG
+대상자	대상자/NNG
+1인당	1/SN+인/NNG+당/XSN
+특수교육	특수교육/NNG
+예산액은	예산액/NNG+은/JX
+전국	전국/NNG
+평균	평균/NNG
+2330만여원으로	2330/SN+만/NR+여/XSN+원/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+지역별로는	지역/NNG+별/XSN+로/JKB+는/JX
+3617만여으로	3617/SN+만/NR+여/XSN+으로/JKB
+조사된	조사되/VV+ㄴ/ETM
+전남이	전남/NNP+이/JKS
+가장	가장/MAG
+높은	높/VA+은/ETM
+것으로	것/NNB+으로/JKB
+조사됐고,	조사되/VV+었/EP+고/EC+,/SP
+울산(3571만여원)·광주(30,19만여원)가	울산/NNP+(/SS+3571/SN+만/NR+여/XSN+원/NNB+)/SS+·/SP+광주/NNP+(/SS+30,19/SN+만/NR+여/XSN+원/NNB+)/SS+가/JKS
+뒤를	뒤/NNG+를/JKO
+이었다	잇/VV+었/EP+다/EF
+
+가장	가장/MAG
+낮은	낮/VA+은/ETM
+지역은	지역/NNG+은/JX
+1827만여원의	1827/SN+만/NR+여/XSN+원/NNB+의/JKG
+충북으로	충북/NNP+으로/JKB
+울산과	울산/NNP+과/JC
+약	약/MM
+2배	2/SN+배/NNG
+차이를	차이/NNG+를/JKO
+보였다	보이/VV+었/EP+다/EF
+
+경기도(1875만여원)와	경기도/NNP+(/SS+1875/SN+만/NR+여/XSN+원/NNB+)/SS+와/JC
+서울(1959만여원)도	서울/NNP+(/SS+1959/SN+만/NR+여/XSN+원/NNB+)/SS+도/JX
+뒤에서	뒤/NNG+에서/JKB
+2·3위를	2/SN+·/SP+3/SN+위/NNB+를/JKO
+차지했다	차지하/VV+었/EP+다/EC
+
+이에	이/NP+에/JKB
+대해	대하/VV+여/EC
+장총	장총/NNP
+김선규	김선규/NNP
+정책위원장은	정책위원장/NNG+은/JX
+“시도	“/SN+시/NNG+도/JX
+간	가/VV+ㄴ/ETM
+사회·경제적	사회/NNG+·/SP+경제적/NNG
+격차	격차/NNG
+때문에	때문/NNB+에/JKB
+여전히	여전히/MAG
+지역	지역/NNG
+간	가/VV+ㄴ/ETM
+차이를	차이/NNG+를/JKO
+보이고	보이/VV+고/EC
+있는	있/VX+는/ETM
+장애인복지·교육	장애인복지/NNG+·/SP+교육/NNG
+문제를	문제/NNG+를/JKO
+해결하기	해결하/VV+기/ETN
+위해	위하/VV+여/EC
+지방자치단체의	지방자치단체/NNG+의/JKG
+여건에	여건/NNG+에/JKB
+따라	따르/VV+아/EC
+중앙정부차원의	중앙정부차원/NNG+의/JKG
+적극적이고,	적극적/NNG+이/VCP+고/EC+,/SP
+차별적인	차별적/NNG+이/VCP+ㄴ/ETM
+지원이	지원/NNG+이/JKS
+실시되어야	실시되/VV+어야/EC
+한다”면서	하/VX+ㄴ다”면서/EC
+“시·도지사	“/SN+시/NNG+·/SP+도지사/NNG
+및	및/MAG
+시·도	시/NNG+·/SP+도/NNG
+교육감은	교육감/NNG+은/JX
+그	그/MM
+지역에	지역/NNG+에/JKB
+맞는	맞/VV+는/ETM
+정책적	정책적/NNG
+과제를	과제/NNG+를/JKO
+설정하고,	설정하/VV+고/EC+,/SP
+그에	그/NP+에/JKB
+따른	따르/VV+ㄴ/ETM
+지원을	지원/NNG+을/JKO
+실시해야	실시하/VV+여야/EC
+될	되/VV+ㄹ/ETM
+것”이라고	것/NNB+”/SL+이/VCP+라고/EC
+조언했다	조언하/VV+였/EP+다/EF
+
+또한	또한/MAG
+"지자체는	"/SS+지자체/NNG+는/JX
+정책	정책/NNG
+수행과	수행/NNG+과/JC
+세부·지속적이고	세부/NNG+·/SP+지속적/NNG+이/VCP+고/EC
+정확한	정확하/VA+ㄴ/ETM
+데이터베이스	데이터베이스/NNG
+구축을	구축/NNG+을/JKO
+도모하고,	도모하/VV+고/EC+,/SP
+최소한으로	최소한/NNG+으로/JKB
+규정된	규정되/VV+ㄴ/ETM
+법적	법적/NNG
+기준을	기준/NNG+을/JKO
+달성하기	달성하/VV+기/ETN
+위해	위하/VV+여/EC
+관심과	관심/NNG+과/JC
+노력을	노력/NNG+을/JKO
+기울여야	기울이/VV+어야/EC
+한다”면서	하/VX+ㄴ다”면서/EC
+“지방의회	“/SL+지방의회/NNG
+등은	등/NNB+은/JX
+이러한	이러하/VA+ㄴ/ETM
+노력의	노력/NNG+의/JKG
+적정성에	적정성/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+모니터링	모니터링/NNG
+작업	작업/NNG
+등에	등/NNB+에/JKB
+나서야	나서/VV+어야/EC
+한다"고	하/VX+ㄴ다/EF+"/SS+고/JKQ
+강조했다	강조하/VV+였/EP+다/EC

@@ -1,0 +1,471 @@
+내년	내년/NNG
+복지예산	복지예산/NNG
+97조원…맞춤형	97/SN+조/NR+원/NNB+…/SE+맞춤/NNG+형/XSN
+복지	복지/NNG
+중점	중점/NNG
+
+(서울=연합뉴스)	(/SS+서울/NNP+=/SW+연합뉴스/NNP+)/SS
+임화섭	임화섭/NNP
+기자	기자/NNG
+=	=/SW
+정부가	정부/NNG+가/JKS
+내년	내년/NNG
+복지예산을	복지예산/NNG+을/JKO
+97조1천억원으로	97/SN+조/NR+1/SN+천억/NR+원/NNB+으로/JKB
+책정하고	책정하/VV+고/EC
+맞춤형	맞춤/NNG+형/XSN
+복지를	복지/NNG+를/JKO
+중점	중점/NNG
+추진키로	추진하/VV+기/ETN+로/JKB
+했다	하/VV+였/EP+다/EC
+
+정부는	정부/NNG+는/JX
+27일	27/SN+일/NNB
+보건복지부	보건복지부/NNG
+청사에서	청사/NNG+에서/JKB
+보건복지·교육과학기술·고용노동·여성가족·국토해양부,	보건복지/NNG+·/SP+교육과학기술/NNG+·/SP+고용노동/NNG+·/SP+여성가족/NNG+·/SP+국토해양부/NNP+,/SP
+국가보훈처,	국가보훈처/NNG+,/SP
+식품의약품안전청	식품의약품안전청/NNG
+등	등/NNB
+관계	관계/NNG
+부처	부처/NNG
+합동	합동/NNG
+브리핑을	브리핑/NNG+을/JKO
+열어	열/VV+어/EC
+내년	내년/NNG
+복지분야(보건·사회복지·노동	복지분야/NNG+(/SS+보건/NNG+·/SP+사회복지/NNG+·/SP+노동/NNG
+등	등/NNB
+포함)	포함/NNG+)/SS
+예산안의	예산안/NNG+의/JKG
+내용을	내용/NNG+을/JKO
+설명했다	설명하/VV+었/EP+다/EC
+
+이에	이/NP+에/JKB
+따르면	따르/VV+면/EC
+내년	내년/NNG
+복지분야	복지분야/NNG
+예산안은	예산안/NNG+은/JX
+'맞춤형	'/SS+맞춤/NNG+형/XSN
+복지',	복지/NNG+'/SS+,/SP
+'일하는	'/SS+일하/VV+는/ETM
+복지',	복지/NNG+'/SS+,/SP
+'지속가능한	'/SS+지속/NNG+가능하/VA+ㄴ/ETM
+복지'라는	복지/NNG+'/SS+이/VCP+라는/ETM
+정책	정책/NNG
+기조에	기조/NNG+에/JKB
+따라	따르/VV+아/EC
+안전망	안전망/NNG
+강화에	강화/NNG+에/JKB
+주력하고	주력하/VV+고/EC
+생애	생애/NNG
+주기·수혜별	주/VV+기/ETN+·/SP+수혜/NNG+별/XSN
+복지	복지/NNG
+서비스를	서비스/NNG+를/JKO
+대폭	대폭/MAG
+확충하는	확충하/VV+는/ETM
+데	데/NNB
+초점을	초점/NNG+을/JKO
+맞췄다	맞추/VV+었/EP+다/EF
+
+아울러	아울러/MAG
+사회서비스	사회서비스/NNG
+예산	예산/NNG
+일부를	일부/NNG+를/JKO
+포괄보조	포괄보조/NNG
+형태로	형태/NNG+로/JKB
+전환해	전환하/VV+여/EC
+지방자치단체들에	지방자치단체/NNG+들/XSN+에/JKB
+자율과	자율/NNG+과/JC
+책임을	책임/NNG+을/JKO
+부여하고	부여하/VV+고/EC
+지역별로	지역/NNG+별/XSN+로/JKB
+최적	최적/NNG
+서비스를	서비스/NNG+를/JKO
+제공토록	제공하/VV+도록/EC
+했다	하/VX+였/EP+다/EC
+
+차세대	차세대/NNG
+성장동력으로	성장동력/NNG+으로/JKB
+꼽히는	꼽히/VV+는/ETM
+보건의료산업에	보건의료산업/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+투자	투자/NNG
+확대	확대/NNG
+기조를	기조/NNG+를/JKO
+이어간	잇/VV+어/EC+가/VX+ㄴ/ETM
+것도	것/NNB+도/JX
+특징이다	특징/NNG+이/VCP+다/EC
+
+예산안에	예산안/NNG+에/JKB
+따르면	따르/VV+면/EC
+복지	복지/NNG
+분야가	분야/NNG+가/JKS
+정부	정부/NNG
+총지출(342조5천억원)에서	총/XPN+지출/NNG+(/SS+342/SN+조/NR+5/SN+천억/NR+원/NNB+)/SS+에서/JKB
+차지하는	차지하/VV+는/ETM
+비중은	비중/NNG+은/JX
+28	28/SN
+
+4%다	4/SN+%/SW+다/EF
+
+이는	이/NP+는/JX
+올해보다	올해/NNG+보다/JKB
+0	0/SN
+
+1%포인트	1/SN+%/SW+포인트/NNG
+감소한	감소하/VV+ㄴ/ETM
+것이지만,	것/NNB+이/VCP+지만/EC+,/SP
+일반공공행정(16	일반공공행정/NNG+(/SS+16/SN
+
+7%),	7/SN+%/SW+)/SS+,/SP
+교육(14	교육/NNG+(/SS+14/SN
+
+3%),	3/SN+%/SW+)/SS+,/SP
+국방(10	국방/NNG+(/SS+10/SN
+
+1%),	1/SN+%/SW+)/SS+,/SP
+사회간접자본(SOC)(7	사회간접자본/NNG+(/SS+SOC/SL+)(/SS+7/SN
+
+0%),	0/SN+%/SW+)/SS+,/SP
+농림·수산·식품(5	농림/NNG+·/SP+수산/NNG+·/SP+식품/NNG+(/SS+5/SN
+
+3%),	3/SN+%/SW+)/SS+,/SP
+연구개발(R&D)(4	연구개발/NNG+(/SS+R/SL+&/SW+D/SL+)(/SS+4/SN
+
+9%)의	9/SN+%/SW+)/SS+의/JKG
+비중보다는	비중/NNG+보다/JKB+는/JX
+여전히	여전히/MAG
+높다	높/VA+다/EC
+
+올해	올해/NNG
+대비	대비/NNG
+내년	내년/NNG
+복지분야	복지분야/NNG
+지출	지출/NNG
+증가율은	증가율/NNG+은/JX
+4	4/SN
+
+8%로	8/SN+%/SW+로/JKB
+정부	정부/NNG
+전체	전체/NNG
+지출	지출/NNG
+증가율(5	증가율/NNG+(/SS+5/SN
+
+3%)보다	3/SN+%/SW+)/SS+보다/JKB
+낮다	낮/VA+다/EC
+
+이는	이/NP+는/JX
+주택	주택/NNG
+부문의	부문/NNG+의/JKG
+융자	융자/NNG
+지출이	지출/NNG+이/JKS
+이차	이차/NNG
+보전	보전/NNG
+형태로	형태/NNG+로/JKB
+전환됨에	전환되/VV+ㅁ/ETN+에/JKB
+따라	따르/VV+아/EC
+이	이/MM
+부문	부문/NNG
+융자지출	융자지출/NNG
+규모가	규모/NNG+가/JKS
+19조62억원에서	19/SN+조/NR+62/SN+억/NR+원/NNB+에서/JKB
+17조5천281억원으로	17/SN+조/NR+5/SN+천/NR+281/SN+억/NR+원/NNB+으로/JKB
+7	7/SN
+
+8%	8/SN+%/SW
+감소한	감소하/VV+ㄴ/ETM
+데	데/NNB
+따른	따르/VV+ㄴ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+주택	주택/NNG
+부문을	부문/NNG+을/JKO
+제외한	제외하/VV+ㄴ/ETM
+복지분야	복지분야/NNG
+예산	예산/NNG
+증가율은	증가율/NNG+은/JX
+8	8/SN
+
+1%다	1/SN+%/SW+다/EF
+
+&lt;그래픽>	&/SW+lt/SL+;/SP+그래픽/NNG+>/SS
+2013년	2013/SN+년/NNB
+복지예산	복지예산/NNG
+규모&lt;/b>(서울=연합뉴스)	규모/NNG+&/SW+lt/SL+;//SP+b/SL+>(/SS+서울/NNP+=/SW+연합뉴스/NNP+)/SS
+이재윤	이재윤/NNP
+기자	기자/NNG
+=	=/SW
+정부는	정부/NNG+는/JX
+27일	27/SN+일/NNB
+보건복지부	보건복지부/NNG
+청사에서	청사/NNG+에서/JKB
+보건복지·교육과학기술·고용노동·여성가족·국토해양부,	보건복지/NNG+·/SP+교육과학기술/NNP+·/SP+고용노동/NNG+·/SP+여성가족/NNG+·/SP+국토해양부/NNP+,/SP
+국가보훈처,	국가보훈처/NNG+,/SP
+식품의약품안전청	식품의약품안전청/NNG
+등	등/NNB
+관계	관계/NNG
+부처	부처/NNG
+합동	합동/NNG
+브리핑을	브리핑/NNG+을/JKO
+열어	열/VV+어/EC
+내년	내년/NNG
+복지예산을	복지예산/NNG+을/JKO
+97조1천억원으로	97/SN+조/NR+1/SN+천억/NR+원/NNB+으로/JKB
+책정하고	책정하/VV+고/EC
+맞춤형	맞춤/NNG+형/XSN
+복지를	복지/NNG+를/JKO
+중점	중점/NNG
+추진키로	추진하/VV+기/ETN+로/JKB
+했다	하/VV+였/EP+다/EC
+
+yoon2@yna	yoon/SL+2/SN+@/SW+yna/SL
+
+co	co/SL
+
+kr"	kr/SL+"/SS
+border="1"	border/SL+=/SW+"/SS+1/SN+"/SS
+height="477"	height/SL+=/SW+"/SS+477/SN+"/SS
+width="275"	width/SL+=/SW+"/SS+275/SN+"/SS
+/>	//SP+>/SS
+<그래픽>	</SS+그래픽/NNG+>/SS
+2013년	2013/SN+년/NNB
+복지예산	복지예산/NNG
+규모(서울=연합뉴스)	규모/NNG+(/SS+서울/NNP+=/SW+연합뉴스/NNP+)/SS
+이재윤	이재윤/NNP
+기자	기자/NNG
+=	=/SW
+정부는	정부/NNG+는/JX
+27일	27/SN+일/NNB
+보건복지부	보건복지부/NNG
+청사에서	청사/NNG+에서/JKB
+보건복지·교육과학기술·고용노동·여성가족·국토해양부,	보건복지/NNG+·/SP+교육과학기술/NNP+·/SP+고용노동/NNG+·/SP+여성가족/NNG+·/SP+국토해양부/NNP+,/SP
+국가보훈처,	국가보훈처/NNG+,/SP
+식품의약품안전청	식품의약품안전청/NNG
+등	등/NNB
+관계	관계/NNG
+부처	부처/NNG
+합동	합동/NNG
+브리핑을	브리핑/NNG+을/JKO
+열어	열/VV+어/EC
+내년	내년/NNG
+복지예산을	복지예산/NNG+을/JKO
+97조1천억원으로	97/SN+조/NR+1/SN+천억/NR+원/NNB+으로/JKB
+책정하고	책정하/VV+고/EC
+맞춤형	맞춤/NNG+형/XSN
+복지를	복지/NNG+를/JKO
+중점	중점/NNG
+추진키로	추진하/VV+기/ETN+로/JKB
+했다	하/VV+였/EP+다/EC
+
+yoon2@yna	yoon/SL+2/SN+@/SW+yna/SL
+
+co	co/SL
+
+kr	kr/SL
+내년	내년/NNG
+복지분야	복지분야/NNG
+지출	지출/NNG
+중	중/NNB
+예산은	예산/NNG+은/JX
+32조1천억원(올해	32/SN+조/NR+1/SN+천억/NR+원/NNB+(/SS+올해/NNG
+대비	대비/NNG
+12	12/SN
+
+6%	6/SN+%/SW
+증가),	증가/NNG+)/SS+,/SP
+기금은	기금/NNG+은/JX
+65조원(올해	65/SN+조/NR+원/NNB+(/SS+올해/NNG
+대비	대비/NNG
+1	1/SN
+
+4%	4/SN+%/SW
+증가)으로	증가/NNG+)/SS+으로/JKB
+정해졌다	정하/VV+여/EC+지/VX+었/EP+다/EF
+
+복지분야	복지분야/NNG
+지출	지출/NNG
+중	중/NNB
+보건복지부의	보건복지부/NNG+의/JKG
+총	총/XPN
+지출은	지출/NNG+은/JX
+올해(36조7천억원)보다	올해/NNG+(/SS+36/SN+조/NR+7/SN+천억/NR+원/NNB+)/SS+보다/JKB
+11	11/SN
+
+3%	3/SN+%/SW
+늘어난	늘어나/VV+ㄴ/ETM
+40조8천억원으로	40/SN+조/NR+8/SN+천억/NR+원/NNB+으로/JKB
+잡혔다	잡히/VV+었/EP+다/EC
+
+이는	이/NP+는/JX
+복지분야	복지분야/NNG
+총	총/XPN
+예산의	예산/NNG+의/JKG
+42	42/SN
+
+0%에	0/SN+%/SW+에/JKB
+해당한다	해당하/VV+ㄴ다/EF
+
+이	이/MM
+중	중/NNB
+사회복지	사회복지/NNG
+부문별	부문/NNG+별/XSN
+예산과	예산/NNG+과/JC
+올해	올해/NNG
+대비	대비/NNG
+증가율을	증가율/NNG+을/JKO
+보면	보/VV+면/EC
+기초생활보장이	기초생활보장/NNG+이/JKS
+8조8천483억원(11	8/SN+조/NR+8/SN+천/NR+483/SN+억/NR+원/NNB+(/SS+11/SN
+
+9%	9/SN+%/SW
+증가),	증가/NNG+)/SS+,/SP
+취약계층	취약계층/NNG
+지원이	지원/NNG+이/JKS
+1조5천488억원(11	1/SN+조/NR+5/SN+천/NR+488/SN+억/NR+원/NNB+(/SS+11/SN
+
+1%	1/SN+%/SW
+증가),	증가/NNG+)/SS+,/SP
+공적연금이	공적연금/NNG+이/JKS
+33조1천382억원(6	33/SN+조/NR+1/SN+천/NR+382/SN+억/NR+원/NNB+(/SS+6/SN
+
+0%	0/SN+%/SW
+증가),	증가/NNG+)/SS+,/SP
+보육·가족·여성이	보육/NNG+·/SP+가족/NNG+·/SP+여성/NNG+이/JKS
+3조7천786억원(11	3/SN+조/NR+7/SN+천/NR+786/SN+억/NR+원/NNB+(/SS+11/SN
+
+6%	6/SN+%/SW
+증가),	증가/NNG+)/SS+,/SP
+노인·청소년이	노인/NNG+·/SP+청소년/NNG+이/JKS
+4조4천327억원(9	4/SN+조/NR+4/SN+천/NR+327/SN+억/NR+원/NNB+(/SS+9/SN
+
+4%	4/SN+%/SW
+증가)이었다	증가/NNG+)/SS+이/VCP+었/EP+다/EC
+
+또	또/MAG
+사회복지	사회복지/NNG
+부문	부문/NNG
+중	중/NNB
+노동이	노동/NNG+이/JKS
+13조8천364억원(5	13/SN+조/NR+8/SN+천/NR+364/SN+억/NR+원/NNB+(/SS+5/SN
+
+4%	4/SN+%/SW
+증가),	증가/NNG+)/SS+,/SP
+보훈이	보훈/NNG+이/JKS
+4조2천825억원(5	4/SN+조/NR+2/SN+천/NR+825/SN+억/NR+원/NNB+(/SS+5/SN
+
+6%	6/SN+%/SW
+증가),	증가/NNG+)/SS+,/SP
+주택이	주택/NNG+이/JKS
+17조5천281억원(7	17/SN+조/NR+5/SN+천/NR+281/SN+억/NR+원/NNB+(/SS+7/SN
+
+8%	8/SN+%/SW
+감소),	감소/NNG+)/SS+,/SP
+사회복지일반이	사회복지일반/NNG+이/JKS
+6천838억원(18	6/SN+천/NR+838/SN+억/NR+원/NNB+(/SS+18/SN
+
+1%	1/SN+%/SW
+증가)을	증가/NNG+)/SS+을/JKO
+차지했다	차지하/VV+었/EP+다/EC
+
+보건	보건/NNG
+부문별	부문/NNG+별/XSN
+예산과	예산/NNG+과/JC
+올해	올해/NNG
+대비	대비/NNG
+증가율은	증가율/NNG+은/JX
+보건의료가	보건의료/NNG+가/JKS
+1조9천153억원(19	1/SN+조/NR+9/SN+천/NR+153/SN+억/NR+원/NNB+(/SS+19/SN
+
+4%	4/SN+%/SW
+증가),	증가/NNG+)/SS+,/SP
+건강보험이	건강보험/NNG+이/JKS
+6조8천520억원(14	6/SN+조/NR+8/SN+천/NR+520/SN+억/NR+원/NNB+(/SS+14/SN
+
+0%),	0/SN+%/SW+)/SS+,/SP
+식품의약안전이	식품의약안전/NNG+이/JKS
+2천653억원(8	2/SN+천/NR+653/SN+억/NR+원/NNB+(/SS+8/SN
+
+8%	8/SN+%/SW
+증가)이었다	증가/NNG+)/SS+이/VCP+었/EP+다/EC
+
+임채민	임채민/NNP
+보건복지부	보건복지부/NNG
+장관은	장관/NNG+은/JX
+브리핑에서	브리핑/NNG+에서/JKB
+"사회·경제적	"/SS+사회/NNG+·/SP+경제적/NNG
+여건과	여건/NNG+과/JC
+공적연금	공적연금/NNG
+제도의	제도/NNG+의/JKG
+성숙으로	성숙/NNG+으로/JKB
+복지	복지/NNG
+지출은	지출/NNG+은/JX
+급속하게	급속하/VA+게/EC
+증가할	증가하/VV+ㄹ/ETM
+전망이지만	전망/NNG+이/VCP+지만/EC
+국민	국민/NNG
+부담의	부담/NNG+의/JKG
+증가와	증가/NNG+와/JC
+재정악화	재정악화/NNG
+우려로	우려/NNG+로/JKB
+지출	지출/NNG
+효율화에	효율/NNG+화/XSN+에/JKB
+대한	대하/VV+ㄴ/ETM
+사회적	사회적/NNG
+요구도	요구/NNG+도/JX
+확대되고	확대되/VV+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+예산	예산/NNG
+책정	책정/NNG
+배경을	배경/NNG+을/JKO
+설명했다	설명하/VV+었/EP+다/EC
+
+급속한	급속하/VA+ㄴ/ETM
+고령화	고령화/NNG
+등에	등/NNB+에/JKB
+따라	따르/VV+아/EC
+복지분야	복지분야/NNG
+지출이	지출/NNG+이/JKS
+2010년	2010/SN+년/NNB
+81조원(총지출의	81/SN+조/NR+원/NNB+(/SS+총/XPN+지출/NNG+의/JKG
+27	27/SN
+
+7%)에서	7/SN+%/SW+)/SS+에서/JKB
+2050년	2050/SN+년/NNB
+995조원(총지출의	995/SN+조/NR+원/NNB+(/SS+총/XPN+지출/NNG+의/JKG
+47	47/SN
+
+9%)	9/SN+%/SW+)/SS
+수준으로	수준/NNG+으로/JKB
+늘어날	늘어나/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+전망하고	전망하/VV+고/EC
+지출	지출/NNG
+효율화에	효율/NNG+화/XSN+에/JKB
+역점을	역점/NNG+을/JKO
+뒀다는	두/VV+었/EP+다는/ETM
+것이	것/NNB+이/JKS
+정부의	정부/NNG+의/JKG
+설명이다	설명/NNG+이/VCP+다/EC
+
+solatido@yna	solatido/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

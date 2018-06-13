@@ -1,0 +1,185 @@
+공무원	공무원/NNG
+시험	시험/NNG
+대비	대비/NNG
+수화·음성	수화/NNG+·/SP+음성/NNP
+강의	강의/NNG
+제공	제공/NNG
+
+한국장애인고용공단(이사장	한국장애인고용공단/NNP+(/SS+이사장/NNG
+이성규,	이성규/NNP+,/SP
+이하	이하/NNG
+공단)이	공단/NNG+)/SS+이/JKS
+오는	오/VV+는/ETM
+30일부터	30/SN+일/NNB+부터/JX
+KEAD디지털능력개발원(http://digital	KEAD/SL+디지털능력개발/NNG+원/XSN+(/SS+http/SL+:///SP+digital/SL
+
+kead	kead/SL
+
+or	or/SL
+
+kr)을	kr/SL+)/SS+을/JKO
+통해	통하/VV+여/EC
+일반·교육	일반/NNG+·/SP+교육/NNG
+행정직	행정직/NNG
+공무원	공무원/NNG
+시험	시험/NNG
+대비를	대비/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+시·청각장애인용	시/NNG+·/SP+청각장애인용/NNG
+온라인	온라인/NNG
+교육콘텐츠를	교육콘텐츠/NNG+를/JKO
+제공한다	제공하/VV+ㄴ다/EF
+
+공단은	공단/NNG+은/JX
+장애인의	장애인/NNG+의/JKG
+공직	공직/NNG
+진출	진출/NNG
+수요가	수요/NNG+가/JKS
+증가함에	증가하/VV+ㅁ/ETN+에/JKB
+따라	따르/VV+아/EC
+외부	외부/NNG
+강의	강의/NNG
+업체와	업체/NNG+와/JKB
+연계해	연계하/VV+여/EC
+장애인을	장애인/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+공무원시험	공무원시험/NNG
+준비과정을	준비과정/NNG+을/JKO
+지원해	지원하/VV+여/EC
+왔으며,	오/VX+았/EP+으며/EC+,/SP
+시·청각	시/NNG+·/SP+청각/NNG
+장애인의	장애인/NNG+의/JKG
+접근성을	접근성/NNG+을/JKO
+향상시키기	향상/NNG+시키/XSV+기/ETN
+위해	위하/VV+여/EC
+이번	이번/NNG
+온라인용	온라인/NNG+용/XSN
+교육콘텐츠	교육콘텐츠/NNG
+제공	제공/NNG
+서비스를	서비스/NNG+를/JKO
+도입했다	도입하/VV+였/EP+다/EC
+
+이에	이/NP+에/JKB
+공단은	공단/NNG+은/JX
+한국교육방송공사(사장	한국교육방송공사/NNP+(/SS+사장/NNG
+곽덕훈,	곽덕훈/NNP+,/SP
+이하	이하/NNG
+EBS),	EBS/SL+)/SS+,/SP
+국립장애인도서관과	국립장애인도서관/NNG+과/JKB
+연계해	연계하/VV+여/EC
+중증의	중증/NNG+의/JKG
+시·청각	시/NNG+·/SP+청각/NNG
+장애인도	장애인/NNG+도/JX
+쉽게	쉽/VA+게/EC
+사용할	사용하/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+공무원시험	공무원시험/NNG
+준비를	준비/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+교육콘텐츠를	교육콘텐츠/NNG+를/JKO
+제작해	제작하/VV+여/EC
+제공하기로	제공하/VV+기/ETN+로/JKB
+했다	하/VV+였/EP+다/EC
+
+제공되는	제공되/VV+는/ETM
+콘텐츠는	콘텐츠/NNG+는/JX
+국어,	국어/NNG+,/SP
+영어,	영어/NNP+,/SP
+한국사,	한국사/NNG+,/SP
+행정학개론,	행정학개론/NNG+,/SP
+행정법총론,	행정법총론/NNG+,/SP
+교육학개론	교육학개론/NNG
+등	등/NNB
+6과목	6/SN+과목/NNG
+536강좌이며,	536/SN+강좌/NNG+이/VCP+며/EC+,/SP
+2013년	2013/SN+년/NNB
+도입되는	도입되/VV+는/ETM
+사회,	사회/NNG+,/SP
+과학,	과학/NNG+,/SP
+수학	수학/NNG
+등	등/NNB
+선택과목도	선택과목/NNG+도/JX
+EBS와	EBS/SL+와/JC
+개발	개발/NNG
+협의	협의/NNG
+중이다	중/NNB+이/VCP+다/EC
+
+강의	강의/NNG
+영상에는	영상/NNG+에/JKB+는/JX
+청각	청각/NNG
+장애인을	장애인/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+수화가	수화/NNG+가/JKS
+탑재되었으며,	탑재/NNG+되/XSV+었/EP+으며/EC+,/SP
+선택적으로	선택적/NNG+으로/JKB
+자막을	자막/NNG+을/JKO
+이용할	이용하/VV+ㄹ/ETM
+수도	수/NNB+도/JX
+있다	있/VA+다/EF
+
+또한	또한/MAG
+국립장애인도서관에서	국립장애인도서관/NNG+에서/JKB
+제작한	제작하/VV+ㄴ/ETM
+시각장애인용	시각장애인용/NNG
+디지털음성도서(DAISY)는	디지털음성도서/NNG+(/SS+DAISY/SL+)/SS+는/JX
+국립중앙도서관	국립중앙도서관/NNP
+장애인정보(http://able	장애인정보/NNG+(/SS+http/SL+:///SP+able/SL
+
+dibrary	dibrary/SL
+
+net)를	net/SL+)/SS+를/JKO
+통해	통하/VV+여/EC
+내려	내리/VV+어/EC
+받아	받/VV+아/EC
+이용할	이용하/VV+ㄹ/ETM
+수	수/NNB
+있다	있/VA+다/EC
+
+이와	이/NP+와/JKB
+관련	관련/NNG
+이성규	이성규/NNP
+이사장은	이사장/NNG+은/JX
+“장애	“/SN+장애/NNG
+친화적인	친화/NNG+적/XSN+이/VCP+ㄴ/ETM
+공무원시험과정	공무원시험과정/NNG
+교육콘텐츠	교육콘텐츠/NNG
+개발을	개발/NNG+을/JKO
+계기로	계기/NNG+로/JKB
+시·청각	시/NNG+·/SP+청각/NNG
+장애인이	장애인/NNG+이/JKS
+보다	보다/MAG
+편리하게	편리하/VA+게/EC
+공무원시험을	공무원시험/NNG+을/JKO
+준비할	준비하/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+하는	하/VX+는/ETM
+등	등/NNB
+장애인의	장애인/NNG+의/JKG
+공직	공직/NNG
+진출을	진출/NNG+을/JKO
+적극적으로	적극적/NNG+으로/JKB
+돕겠다”며	돕/VV+겠/EP+다/EC+”/VV+며/EC
+의지를	의지/NNG+를/JKO
+밝혔다	밝히/VV+었/EP+다/EC
+
+희망자는	희망자/NNG+는/JX
+KEAD디지털능력개발원(http://digital	KEAD/SL+디지털능력개발/NNG+원/XSN+(/SS+http/SL+:///SP+digital/SL
+
+kead	kead/SL
+
+or	or/SL
+
+kr)을	kr/SL+)/SS+을/JKO
+통해	통하/VV+여/EC
+이용할	이용하/VV+ㄹ/ETM
+수	수/NNB
+있다	있/VA+다/EC
+
+자세한	자세하/VA+ㄴ/ETM
+사항은	사항/NNG+은/JX
+한국장애인고용공단(☎	한국/NNP+장애인고용공단/NNG+(/SS+☎/SW
+031-728-7355)으로	031/SN+-/SO+728/SN+-/SO+7355/SN+)/SS+으로/JKB
+문의하면	문의하/VV+면/EC
+된다	되/VV+ㄴ다/EF

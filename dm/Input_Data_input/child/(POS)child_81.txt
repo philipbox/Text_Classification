@@ -1,0 +1,195 @@
+범죄에	범죄/NNG+에/JKB
+노출된	노출되/VV+ㄴ/ETM
+아동보호구역	아동보호구역/NNG
+
+아동보호구역에	아동보호구역/NNG+에/JKB
+CCTV가	CCTV/SL+가/JKS
+설치되지	설치되/VV+지/EC
+않아	않/VX+아/EC
+유괴나	유괴/NNG+나/JC
+범죄의	범죄/NNG+의/JKG
+위협으로부터	위협/NNG+으로부터/JKB
+가장	가장/MAG
+취약한	취약하/VA+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+드러났다	드러나/VV+았/EP+다/EC
+
+지난	지나/VV+ㄴ/ETM
+7일	7/SN+일/NNB
+보건복지부가	보건복지부/NNG+가/JKS
+국회	국회/NNG
+보건복지위원회	보건복지위원회/NNG
+소속	소속/NNG
+이학영	이학영/NNP
+의원(민주통합당)에	의원/NNG+(/SS+민주통합당/NNP+)/SS+에/JKB
+제출한	제출하/VV+ㄴ/ETM
+‘아동보호구역별	‘/SL+아동보호구역/NNG+별/XSN
+CCTV	CCTV/SL
+설치	설치/NNG
+현황’	현황/NNG+’/SL
+에	에/JKB
+따르면	따르/VV+면/EC
+어린이집,	어린이집/NNG+,/SP
+특수학교,	특수학교/NNG+,/SP
+초등학교	초등학교/NNG
+등	등/NNB
+전국	전국/NNG
+아동보호구역	아동보호구역/NNG
+CCTV	CCTV/SL
+설치율이	설치율/NNG+이/JKS
+전체	전체/NNG
+19	19/SN
+
+5%에	5/SN+%/SW+에/JKB
+불과했다	불과하/VA+었/EP+다/EC
+
+초등학교	초등학교/NNG
+주변	주변/NNG
+아동보호구역에는	아동보호구역/NNP+에/JKB+는/JX
+6076	6076/SN
+곳	곳/NNG
+중	중/NNB
+5059곳(83	5059/SN+곳/NNG+(/SS+83/SN
+
+3%)에	3/SN+%/SW+)/SS+에/JKB
+CCTV가	CCTV/SL+가/JKS
+설치돼	설치되/VV+어/EC
+있었고,	있/VX+었/EP+고/EC+,/SP
+특수학교	특수학교/NNG
+주변은	주변/NNG+은/JX
+162곳	162/SN+곳/NNG
+중	중/NNB
+68곳(42%),	68/SN+곳/NNG+(/SS+42/SN+%/SW+)/SS+,/SP
+유치원	유치원/NNG
+주변은	주변/NNG+은/JX
+7236곳	7236/SN+곳/NNG
+중	중/NNB
+2099곳(29%),	2099/SN+곳/NNG+(/SS+29/SN+%/SW+)/SS+,/SP
+도시공원	도시공원/NNG
+주변은	주변/NNG+은/JX
+1만969곳	1/SN+만/NR+969/SN+곳/NNG
+중	중/NNB
+2690곳(24	2690/SN+곳/NNG+(/SS+24/SN
+
+5%)순으로	5/SN+%/SW+)/SS+순/XSN+으로/JKB
+CCTV가	CCTV/SL+가/JKS
+설치되어	설치되/VV+어/EC
+있었다	있/VX+었/EP+다/EC
+
+특히	특히/MAG
+어린이집	어린이집/NNG
+주변	주변/NNG
+아동보호구역	아동보호구역/NNG
+3만6277곳	3/SN+만/NR+6277/SN+곳/NNG
+중에는	중/NNB+에/JKB+는/JX
+불과	불과/MAG
+1904곳(5	1904/SN+곳/NNG+(/SS+5/SN
+
+2%)밖에	2/SN+%/SW+)/SS+밖에/JX
+CCTV가	CCTV/SL+가/JKS
+설치되어	설치되/VV+어/EC
+있지	있/VX+지/EC
+않아	않/VX+아/EC
+범죄의	범죄/NNG+의/JKG
+위협으로부터	위협/NNG+으로부터/JKB
+가장	가장/MAG
+취약했다	취약하/VA+었/EP+다/EC
+
+전국	전국/NNG
+아동보호구역별	아동보호구역/NNG+별/XSN
+CCTV	CCTV/SL
+설치현황	설치현황/NNG
+
+ⓒ이학영	ⓒ/SL+이학영/NNG
+의원실	의원실/NNG
+어린이집	어린이집/NNG
+주변	주변/NNG
+아동보호구역의	아동보호구역/NNP+의/JKG
+지역별	지역/NNG+별/XSN
+CCTV	CCTV/SL
+설치율은	설치율/NNG+은/JX
+세종시가	세종시/NNP+가/JKS
+2곳	2/SN+곳/NNG
+중	중/NNB
+2곳	2/SN+곳/NNG
+모두,	모두/NNG+,/SP
+울산	울산/NNP
+43	43/SN
+
+9%,	9/SN+%/SW+,/SP
+부산	부산/NNP
+12	12/SN
+
+3%,	3/SN+%/SW+,/SP
+대구	대구/NNP
+10	10/SN
+
+5%,	5/SN+%/SW+,/SP
+충북	충북/NNP
+9	9/SN
+
+3%,	3/SN+%/SW+,/SP
+서울	서울/NNP
+8	8/SN
+
+5%에	5/SN+%/SW+에/JKB
+CCTV가	CCTV/SL+가/JKS
+설치되어	설치되/VV+어/EC
+있었다	있/VX+었/EP+다/EF
+
+이어	이어/MAG
+경기는	경기/NNG+는/JX
+1만395곳	1/SN+만/NR+395/SN+곳/NNG
+중	중/NNB
+247곳(2	247/SN+곳/NNG+(/SS+2/SN
+
+4%)에	4/SN+%/SW+)/SS+에/JKB
+불과했으며,	불과하/VA+였/EP+으며/EC+,/SP
+제주는	제주/NNP+는/JX
+573곳의	573/SN+곳/NNG+의/JKG
+설치율이	설치율/NNG+이/JKS
+0%였다	0/SN+%/SW+이/VCP+었/EP+다/EF
+
+이	이/NNP
+의원은	의원/NNG+은/JX
+“타	“/SL+타/NNG
+아동보호구역에	아동보호구역/NNG+에/JKB
+비해	비하/VV+여/EC
+어린이집	어린이집/NNG
+주변의	주변/NNG+의/JKG
+저조한	저조하/VA+ㄴ/ETM
+CCTV	CCTV/SL
+설치율은	설치율/NNG+은/JX
+그동안	그동안/NNG
+보건복지부와	보건복지부/NNG+와/JC
+지자체가	지자체/NNG+가/JKS
+영유아들의	영유아/NNG+들/XSN+의/JKG
+범죄안전에	범죄안전/NNG+에/JKB
+얼마나	얼마나/MAG
+소홀했는지	소홀하/VA+었/EP+는지/EC
+보여주는	보이/VV+어/EC+주/VX+는/ETM
+것”이라며	것/NNB+”/SL+이/VCP+라며/EC
+“지난	“/SL+지나/VV+ㄴ/ETM
+달	달/NNG
+27일	27/SN+일/NNB
+‘아동보호구역’에	‘/SL+아동보호구역/NNG+’/SL+에/JKB
+CCTV	CCTV/SL
+설치를	설치/NNG+를/JKO
+의무화한	의무화하/VV+ㄴ/ETM
+아동복지법	아동복지법/NNG
+일부개정안이	일부개정안/NNG+이/JKS
+국회	국회/NNG
+본회의를	본회의/NNG+를/JKO
+통과한	통과하/VV+ㄴ/ETM
+만큼	만큼/NNB
+어린이집	어린이집/NNG
+아동보호구역	아동보호구역/NNG
+내	내/NNB
+CCTV	CCTV/SL
+설치율을	설치율/NNG+을/JKO
+높이기	높이/VV+기/ETN
+위한	위하/VV+ㄴ/ETM
+방안을	방안/NNG+을/JKO
+강구할	강구하/VV+ㄹ/ETM
+것”을	것/NNB+”/SL+을/JKO
+촉구했다	촉구하/VV+였/EP+다/EC

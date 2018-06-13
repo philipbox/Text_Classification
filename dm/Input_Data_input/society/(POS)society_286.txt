@@ -1,0 +1,205 @@
+한화,	한화/NNP+,/SP
+점자달력·시각장애아동용	점자달력/NNG+·/SP+시각장애아동용/NNG
+특수도서	특수도서/NNG
+지원	지원/NNG
+
+CBS	CBS/SL
+신동진	신동진/NNP
+기자한화그룹은	기자한화그룹/NNP+은/JX
+시각장애아동들이	시각장애아동/NNG+들/XSN+이/JKS
+지혜와	지혜/NNG+와/JC
+지식을	지식/NNG+을/JKO
+습득하고	습득하/VV+고/EC
+발전시켜	발전/NNG+시키/XSV+어/EC
+꿈과	꿈/NNG+과/JC
+의지를	의지/NNG+를/JKO
+담을	담/VV+을/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+사회공헌을	사회공헌/NNG+을/JKO
+꾸준히	꾸준히/MAG
+전개하고	전개하/VV+고/EC
+있다	있/VX+다/EC
+
+한화그룹은	한화그룹/NNP+은/JX
+30일	30/SN+일/NNB
+서울맹학교(서울	서울맹학교/NNP+(/SS+서울/NNP
+종로구	종로구/NNP
+신교동	신교동/NNP
+소재)에서	소재/NNG+)/SS+에서/JKB
+한화그룹	한화그룹/NNP
+임직원,	임직원/NNG+,/SP
+서울맹학교	서울맹학교/NNP
+교사	교사/NNG
+및	및/MAG
+학생,	학생/NNG+,/SP
+도서출판	도서출판/NNG
+'점자',	'/SS+점자/NNG+'/SS+,/SP
+사회복지공동모금회	사회복지공동모금/NNG+회/XSN
+임직원들이	임직원/NNG+들/XSN+이/JKS
+참석한	참석하/VV+ㄴ/ETM
+가운데	가운데/NNG
+특수도서	특수도서/NNG
+전달식을	전달식/NNG+을/JKO
+진행했다고	진행하/VV+였/EP+다고/EC
+밝혔다	밝히/VV+었/EP+다/EC
+
+한화가	한화/NNP+가/JKS
+지원하는	지원하/VV+는/ETM
+특수도서는	특수도서/NNG+는/JX
+점자도서뿐	점자도서/MAG+뿐/JX
+아니라	아니/VCN+라/EC
+점자라벨도서,	점자라벨/NNG+도/JX+서/EC+,/SP
+큰글자도서,	크/VA+ㄴ/ETM+글자/NNG+도서/JX+,/SP
+촉각도서	촉각도서/NNG
+등	등/NNB
+다양한	다양하/VA+ㄴ/ETM
+종류로	종류/NNG+로/JKB
+구성돼	구성되/VV+어/EC
+있다	있/VX+다/EF
+
+총	총/MM
+5,000여권이	5,000/SN+여/XSN+권/NNB+이/JKS
+제작돼	제작되/VV+어/EC
+서울맹학교를	서울맹학교/NNP+를/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+대전맹학교,	대전맹학교/NNP+,/SP
+충청남도점자도서관	충청남/NNP+도점자도서관/NNG
+등	등/NNB
+전국의	전국/NNG+의/JKG
+50개의	50/SN+개/NNB+의/JKG
+기관과	기관/NNG+과/JC
+200명의	200/SN+명/NNB+의/JKG
+시각장애아동들에게	시각장애아동/NNG+들/XSN+에게/JKB
+배포될	배포되/VV+ㄹ/ETM
+예정이다	예정/NNG+이/VCP+다/EC
+
+이와함께	이/NP+와/JKB+함께/MAG
+한화	한화/NNG
+임직원들은	임직원/NNG+들/XSN+은/JX
+서울맹학교	서울맹학교/NNP
+1~2학년	1/SN+~/SO+2/SN+학년/NNG
+아동들과	아동/NNG+들/XSN+과/JKB
+함께	함께/MAG
+촉각도서를	촉각도서/NNG+를/JKO
+직접	직접/MAG
+만들어보는	만들/VV+어/EC+보/VX+는/ETM
+시간을	시간/NNG+을/JKO
+가졌다	가지/VV+었/EP+다/EC
+
+아울러	아울러/MAG
+올해도	올해/NNG+도/JX
+한화그룹은	한화그룹/NNP+은/JX
+시각장애인용	시각장애인용/NNG
+점자달력	점자달력/NNG
+5만부를	5/SN+만/NR+부/NNB+를/JKO
+무료로	무료/NNG+로/JKB
+배포한다	배포하/VV+ㄴ다/EF
+
+한화그룹의	한화그룹/NNP+의/JKG
+점자달력은	점자달력/NNG+은/JX
+지난	지나/VV+ㄴ/ETM
+2000년	2000/SN+년/NNB
+시각장애인의	시각장애인/NNG+의/JKG
+메일을	메일/NNG+을/JKO
+읽은	읽/VV+은/ETM
+김승연	김승연/NNP
+회장이	회장/NNG+이/JKS
+"시각장애인분들도	"/SS+시각장애인분/NNG+들/XSN+도/JX
+새해를	새해/NNG+를/JKO
+맞는	맞/VV+는/ETM
+기쁨을	기쁨/NNG+을/JKO
+함께할	함께하/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+하자"는	하/VX+자/EF+"/SS+는/JX
+발의로	발의/NNG+로/JKB
+5,000부로	5,000/SN+부/NNB+로/JKB
+시작해	시작하/VV+여/EC
+제작	제작/NNG
+10주년을	10/SN+주년/NNB+을/JKO
+맞은	맞/VV+은/ETM
+2009년부터	2009/SN+년/NNB+부터/JX
+50,000부를	50,000/SN+부/NNB+를/JKO
+제작해	제작하/VV+여/EC
+배포해	배포하/VV+여/EC
+오고	오/VX+고/EC
+있다	있/VX+다/EC
+
+이는	이/NP+는/JX
+국내	국내/NNG
+기업으로는	기업/NNG+으로/JKB+는/JX
+최대	최대/NNG
+규모로,	규모/NNG+로/JKB+,/SP
+날짜뿐	날짜/NNG+뿐/JX
+아니라	아니/VCN+라/EC
+기념일,	기념일/NNG+,/SP
+음력까지	음력/NNG+까지/JX
+점자로	점자/NNG+로/JKB
+표기해	표기하/VV+여/EC
+시각장애	시각장애/NNG
+관련	관련/NNG
+단체	단체/NNG
+및	및/MAG
+개인들에게	개인/NNG+들/XSN+에게/JKB
+인기있는	인기/NNG+있/VA+는/ETM
+품목	품목/NNG
+중	중/NNB
+하나다	하나/NNG+이/VCP+다/EC
+
+점자달력	점자달력/NNG
+신청은	신청/NNG+은/JX
+11월	11/SN+월/NNB
+1일부터	1/SN+일/NNB+부터/JX
+20일까지	20/SN+일/NNB+까지/JX
+한화그룹	한화그룹/NNP
+홈페이지(www	홈페이지/NNG+(/SS+www/SL
+
+hanwha	hanwha/SL
+
+co	co/SL
+
+kr)와	kr/SL+)/SS+와/JC
+한화사회봉사단	한화사회봉사/NNG+단/XSN
+홈페이지(welfare	홈페이지/NNG+(/SS+welfare/SL
+
+hanwha	hanwha/SL
+
+co	co/SL
+
+kr)를	kr/SL+)/SS+를/JKO
+통해	통하/VV+여/EC
+이뤄지며,	이루어/VV+지/VX+며/EC+,/SP
+12월	12/SN+월/NNB
+중에	중/NNB+에/JKB
+전국	전국/NNG
+시각장애인	시각장애인/NNG
+기관,	기관/NNG+,/SP
+단체	단체/NNG
+및	및/MAG
+학교	학교/NNG
+등	등/NNB
+필요한	필요하/VA+ㄴ/ETM
+곳에	곳/NNG+에/JKB
+배포될	배포되/VV+ㄹ/ETM
+예정이다	예정/NNG+이/VCP+다/EC
+
+sdjinny@cbs	sdjinny/SL+@/SW+cbs/SL
+
+co	co/SL
+
+kr/에이블뉴스제휴사*위	kr/SL+//SP+에이블뉴스제휴사/NNP+*/SW+위/NNG
+기사에	기사/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+모든	모든/MM
+법적	법적/NNG
+책임	책임/NNG
+및	및/MAG
+권한은	권한/NNG+은/JX
+저작권자인	저작권자/NNG+이/VCP+ㄴ/ETM
+노컷뉴(www	노컷뉴/NNP+(/SS+www/SL
+
+kdawu	kdawu/SL
+
+org)에	org/SL+)/SS+에/JKB
+있습니다	있/VA+습니다/EF

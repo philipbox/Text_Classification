@@ -1,0 +1,66 @@
+시각장애인	시각장애인/NNG
+무용단	무용단/NNG
+‘라루스’	‘/SN+라루스/NNP+’/SL
+단독공연	단독공연/NNG
+
+시각장애인여성회의	시각장애인여성회/NNG+의/JKG
+오래된	오래되/VV+ㄴ/ETM
+자랑거리인	자랑거리/NNG+이/VCP+ㄴ/ETM
+시각장애인	시각장애인/NNG
+무용단	무용단/NNG
+‘라루스’가	‘/SN+라루스/NNP+’/SL+가/JKS
+오는	오/VV+는/ETM
+28일	28/SN+일/NNB
+오후	오후/NNG
+7시	7/SN+시/NNB
+30분	30/SN+분/NNB
+중앙대학교아트센터	중앙대학교아트센터/NNP
+대극장에서	대/XPN+극장/NNG+에서/JKB
+1시간	1/SN+시간/NNB
+30분	30/SN+분/NNB
+동안	동안/NNG
+단독공연을	단독공연/NNG+을/JKO
+연다	열/VV+ㄴ다/EF
+
+‘세상의	‘/SN+세상/NNG+의/JKG
+빛이	빛/NNG+이/JKC
+되릴	되/VV+릴/EP
+시각장애인	시각장애인/NNG
+무용단	무용단/NNG
+2012	2012/SN
+아름다운	아름답/VA+ㄴ/ETM
+몸짓’이라는	몸짓’/NNG+이/VCP+라는/ETM
+이름	이름/NNG
+아래	아래/NNG
+열리는	열리/VV+는/ETM
+이번	이번/NNG
+공연에서는	공연/NNG+에서/JKB+는/JX
+라루스가	라루스/NNP+가/JKS
+‘에스파냐	‘/SL+에스파/NNG+이/VCP+냐/EC
+까니’,	까니/NNG+’/SL+,/SP
+‘룸	‘/SL+룸/NNG
+바’	바’/NNG
+등을	등/NNB+을/JKO
+선보인다	선보일/VV+ㄴ다/EF
+
+또한	또한/MAG
+누리봄	누리봄/NNP
+중창단,	중창단/NNG+,/SP
+도란떼	도란떼/NNP
+등의	등/NNB+의/JKG
+축하공연도	축하공연/NNG+도/JX
+펼쳐진다	펼치/VV+어/EC+지/VX+ㄴ다/EC
+
+관심	관심/NNG
+있는	있/VA+는/ETM
+사람이면	사람/NNG+이/VCP+면/EC
+누구나	누구/NP+나/JX
+공연장을	공연장/NNG+을/JKO
+방문하면,	방문하/VV+면/EC+,/SP
+무료로	무료/NNG+로/JKB
+관람할	관람하/VV+ㄹ/ETM
+수	수/NNB
+있다	있/VA+다/EC
+
+문의:	문의/NNG+:/SP
+시각장애인여성회(02-318-1672)	시각장애인여성회/NNG+(/SS+02/SN+-/SO+318/SN+-/SO+1672/SN+)/SS

@@ -1,0 +1,159 @@
+특수교사·장애학생	특수교사/NNG+·/SP+장애학생/NNG
+절박함에	절박하/VA+ㅁ/ETN+에/JKB
+거리로	거리/NNG+로/JKB
+
+17일	17/SN+일/NNB
+오전	오전/NNG
+11시	11/SN+시/NNB
+20분경	20/SN+분/NNB+경/XSN
+
+특수교사를	특수교사/NNG+를/JKO
+비롯해	비롯하/VV+여/EC
+특수교육학과	특수교육학과/NNG
+학생,	학생/NNG+,/SP
+특수교육학과	특수교육학과/NNG
+교수,	교수/NNG+,/SP
+장애학생,	장애학생/NNG+,/SP
+부모까지	부모/NNG+까지/JX
+약	약/MM
+600명의	600/SN+명/NNB+의/JKG
+인원이	인원/NNG+이/JKS
+중앙정부청사	중앙정부청사/NNG
+후문에	후문/NNG+에/JKB
+집결했다	집결하/VV+였/EP+다/EC
+
+이들은	이/NP+들/XSN+은/JX
+'장애인	'/SS+장애인/NNG
+교육권	교육권/NNG
+확보	확보/NNG
+및	및/MAG
+특수교사	특수교사/NNG
+확충을	확충/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+3차	3/SN+차/NNB
+결의대회'에	결의대회/NNG+'/SS+에/JKB
+참석해	참석하/VV+여/EC
+'장애학생의	'/SS+장애학생/NNG+의/JKG
+교육권을	교육권/NNG+을/JKO
+침해하는	침해하/VV+는/ETM
+행정안전부',	행정안전부/NNG+'/SS+,/SP
+'행정안전부는	'/SS+행정안전부/NNG+는/JX
+특수교사	특수교사/NNG
+확충해	확충하/VV+여/EC
+장애인교육권	장애인교육/NNG+권/XSN
+보장하라'고	보장하/VV+라/EF+'/SS+고/JKQ
+입을	입/NNG+을/JKO
+모아	모으/VV+아/EC
+외쳤다	외치/VV+었/EP+다/EC
+
+이	이/MM
+목소리는	목소리/NNG+는/JX
+광화문	광화문/NNP
+이순신	이순신/NNP
+광장	광장/NNG
+앞까지	앞/NNG+까지/JX
+널리	널리/MAG
+퍼져	퍼지/VV+어/EC
+나갔다	나가/VV+았/EP+다/EF
+
+이날	이날/NNG
+특수교사	특수교사/NNG
+충원을	충원/NNG+을/JKO
+향한	향하/VV+ㄴ/ETM
+이들의	이/NP+들/XSN+의/JKG
+절박한	절박하/VA+ㄴ/ETM
+외침을	외침/NNG+을/JKO
+담아봤다	담/VV+아/EC+보/VX+았/EP+다/EF
+
+결의대회에	결의대회/NNG+에/JKB
+참석한	참석하/VV+ㄴ/ETM
+장애학생의	장애학생/NNG+의/JKG
+부모가	부모/NNG+가/JKS
+'선생님이	'/SS+선생님/NNG+이/JKS
+필요해요'	필요하/VA+여요/EF+'/SS
+라는	이/VCP+라는/ETM
+손	손/NNG
+피켓을	피켓/NNG+을/JKO
+들고	들/VV+고/EC
+소리치고	소리치/VV+고/EC
+있다	있/VX+다/EC
+
+기자가	기자/NNG+가/JKS
+카메라로	카메라/NNG+로/JKB
+찍으려고	찍/VV+으려고/EC
+하자	하/VX+자/EC
+브이	브이/NNG
+포즈를	포즈/NNG+를/JKO
+취한	취하/VV+ㄴ/ETM
+장애학생과	장애학생/NNG+과/JC
+엄마	엄마/NNG
+
+이날	이날/NNG
+결의대회에는	결의대회/NNG+에/JKB+는/JX
+특수교육학과에	특수교육학과/NNG+에/JKB
+다니는	다니/VV+는/ETM
+장애학생이	장애학생/NNG+이/JKS
+참석해	참석하/VV+여/EC
+눈에	눈/NNG+에/JKB
+띄였다	띄이/VV+었/EP+다/EF
+
+결의대회	결의대회/NNG
+도중에	도중/NNG+에/JKB
+일어선	일어서/VV+ㄴ/ETM
+장애아이의	장애아이/NNG+의/JKG
+엄마가	엄마/NNG+가/JKS
+장애인교육권을	장애인교육/NNG+권/XSN+을/JKO
+보장하라고	보장하/VV+라고/EC
+외쳤다	외치/VV+었/EP+다/EC
+
+특수교육학과	특수교육학과/NNG
+학생들이	학생/NNG+들/XSN+이/JKS
+선보인	선보이/VV+ㄴ/ETM
+퍼포먼스	퍼포먼스/NNG
+
+이	이/MM
+퍼포먼스는	퍼포먼스/NNG+는/JX
+교과부와	교과부/NNG+와/JC
+행안부,	행안부/NNG+,/SP
+기재부,	기재부/NNG+,/SP
+이명박	이명박/NNP
+대통령을	대통령/NNG+을/JKO
+희화화	희화화/NNG
+한	한/MM
+내용이였다	내용/NNG+이/VCP+였/EP+다/EF
+
+결의대회에	결의대회/NNG+에/JKB
+참가한	참가하/VV+ㄴ/ETM
+장애아이와	장애아이/NNG+와/JC
+부모	부모/NNG
+
+아이가	아이/NNG+가/JKS
+소리에	소리/NNG+에/JKB
+민감해	민감하/VA+여/EC
+큰	크/VA+ㄴ/ETM
+소리에	소리/NNG+에/JKB
+놀라자	놀라/VV+자/EC
+엄마가	엄마/NNG+가/JKS
+아이를	아이/NNG+를/JKO
+꼭	꼭/MAG
+끌어안고	끌어안/VV+고/EC
+있다	있/VX+다/EC
+
+전국특수교육과대학생연합회	전국특수교육과대학생연합회/NNP
+소속의	소속/NNG+의/JKG
+특수교육과	특수교육/NNG+과/JC
+학생들이	학생/NNG+들/XSN+이/JKS
+결의문을	결의문/NNG+을/JKO
+낭독하고	낭독하/VV+고/EC
+있다	있/VX+다/EC
+
+이날	이날/NNG
+결의대회에서	결의대회/NNG+에서/JKB
+제일	제일/MAG
+열정적으로	열정적/NNG+으로/JKB
+특수교사	특수교사/NNG
+정원	정원/NNG
+확보를	확보/NNG+를/JKO
+외친	외치/VV+ㄴ/ETM
+장애아이의	장애아이/NNG+의/JKG
+엄마들이였다	엄마/NNG+들/XSN+이/JC+이/VCP+었/EP+다/EC

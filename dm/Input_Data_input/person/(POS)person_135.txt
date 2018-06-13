@@ -1,0 +1,210 @@
+KDI	KDI/SL
+"사회복지	"/SS+사회복지/NNG
+불공평하고	불공/NNG+평하/VA+고/EC
+이용자	이용자/NNG
+선택권	선택권/NNG
+박탈"	박탈/NNG+"/SS
+
+(서울=연합뉴스)	(/SS+서울/NNP+=/SW+연합뉴스/NNP+)/SS
+박수윤	박수윤/NNP
+기자=	기자/NNG+=/SW
+사회복지서비스	사회복지서비스/NNG
+전달	전달/NNG
+체계를	체계/NNG+를/JKO
+수요자	수요자/NNG
+중심으로	중심/NNG+으로/JKB
+바꾸자는	바꾸/VV+자는/ETM
+국책	국책/NNG
+연구기관의	연구기관/NNG+의/JKG
+제안이	제안/NNG+이/JKS
+나왔다	나오/VV+았/EP+다/EF
+
+한국개발연구원(KDI)	한국개발연구원/NNP+(/SS+KDI/SL+)/SS
+노기성	노기성/NNP
+연구위원은	연구위원/NNG+은/JX
+3일	3/SN+일/NNB
+`사회서비스	`/SW+사회서비스/NNG
+정책의	정책/NNG+의/JKG
+현황과	현황/NNG+과/JC
+과제'	과제/NNG+'/SS
+보고서에서	보고서/NNG+에서/JKB
+"사회복지서비스는	"/SS+사회복지서비스/NNG+는/JX
+공급자	공급자/NNG
+지원	지원/NNG
+방식과	방식/NNG+과/JC
+수요자	수요자/NNG
+지원	지원/NNG
+방식이	방식/NNG+이/JKS
+뒤섞여	뒤섞이/VV+어/EC
+이용자가	이용자/NNG+가/JKS
+혼란스러워한다"고	혼란스럽/VA+어/EC+하/XSV+ㄴ다/EF+"/SS+고/JKQ
+지적했다	지적하/VV+였/EP+다/EF
+
+사회복지서비스는	사회복지서비스/NNG+는/JX
+산모와	산모/NNG+와/JC
+신생아,	신생/NNG+아/JKV+,/SP
+아동,	아동/NNG+,/SP
+장애인,	장애인/NNG+,/SP
+노인을	노인/NNG+을/JKO
+돌보거나	돌보/VV+거나/EC
+보청기,	보청/VV+기/ETN+,/SP
+휠체어,	휠체어/NNG+,/SP
+어린이용	어린이/NNG+용/XSN
+책	책/NNG
+등을	등/NNB+을/JKO
+지원하는	지원하/VV+는/ETM
+서비스다	서비스/NNG+이/VCP+다/EF
+
+국내총생산(GDP)에서	국내/NNG+총/XPN+생산/NNG+(/SS+GDP/SL+)/SS+에서/JKB
+차지하는	차지하/VV+는/ETM
+비중이	비중/NNG+이/JKS
+2007년	2007/SN+년/NNB
+기준으로	기준/NNG+으로/JKB
+0	0/SN
+
+46%다	46/SN+%/SW+다/EF
+
+경제협력개발기구(OECD)	경제협력개발기구/NNG+(/SS+OECD/SL+)/SS
+평균(1	평균/NNG+(/SS+1/SN
+
+95%)에	95/SN+%/SW+)/SS+에/JKB
+크게	크/VA+게/EC
+못	못/MAG
+미친다	미치/VV+ㄴ다/EC
+
+2009년	2009/SN+년/NNB
+말	말/NNB
+현재	현재/MAG
+전국	전국/NNG
+사회복지서비스	사회복지서비스/NNG
+시설은	시설/NNG+은/JX
+4만8천872개,	4/SN+만/NR+8/SN+천/NR+872/SN+개/NNB+,/SP
+종사자는	종사자/NNG+는/JX
+35만1천45명이다	35/SN+만/NR+1/SN+천/NR+45/SN+명/NNB+이/VCP+다/EC
+
+산업	산업/NNG
+내	내/NNB
+기관당	기관당/NNG
+종사자는	종사자/NNG+는/JX
+7명	7/SN+명/NNB
+미만이다	미만/NNG+이/VCP+다/EC
+
+보고서는	보고서/NNG+는/JX
+사회복지서비스	사회복지서비스/NNG
+시스템을	시스템/NNG+을/JKO
+개선하려면	개선하/VV+려면/EC
+서비스	서비스/NNG
+전달체계의	전달체계/NNG+의/JKG
+이중구조를	이중구조/NNG+를/JKO
+바꿔	바꾸/VV+어/EC
+공급자	공급자/NNG
+지원방식을	지원방식/NNG+을/JKO
+가능한	가능하/VA+ㄴ/ETM
+한	한/MM
+수요자	수요자/NNG
+지원방식으로	지원방식/NNG+으로/JKB
+해야	하/VV+여야/EC
+한다고	하/VX+ㄴ다고/EC
+제언했다	제언하/VV+였/EP+다/EF
+
+공급자	공급자/NNG
+지원방식은	지원방식/NNG+은/JX
+지방정부가	지방정부/NNG+가/JKS
+노인,	노인/NNG+,/SP
+장애인,	장애인/NNG+,/SP
+아동시설	아동시설/NNG
+등에	등/NNB+에/JKB
+재정을	재정/NNG+을/JKO
+지원하면	지원하/VV+면/EC
+기관이	기관/NNG+이/JKS
+이용자를	이용자/NNG+를/JKO
+선발한다	선발하/VV+ㄴ다/EF
+
+이용자	이용자/NNG
+선택권이	선택권/NNG+이/JKS
+박탈되고	박탈되/VV+고/EC
+서비스가	서비스/NNG+가/JKS
+불공평하게	불공평하/VA+게/EC
+할당될	할당되/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+게	것/NNB+이/JKS
+문제다	문제/NNG+이/VCP+다/EF
+
+수요자	수요자/NNG
+지원방식은	지원방식/NNG+은/JX
+중앙정부가	중앙정부/NNG+가/JKS
+이용자에게	이용자/NNG+에게/JKB
+선택권을	선택권/NNG+을/JKO
+준다	주/VV+ㄴ다/EF
+
+소비자가	소비자/NNG+가/JKS
+직접	직접/MAG
+바우처(쿠폰)로	바우처/NNP+(/SS+쿠폰/NNG+)/SS+로/JKB
+서비스를	서비스/NNG+를/JKO
+구매하면	구매하/VV+면/EC
+공급기관이	공급기관/NNG+이/JKS
+경쟁해	경쟁하/VV+여/EC
+서비스	서비스/NNG
+질은	질/NNG+은/JX
+한층	한층/MAG
+높아질	높아지/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보고서는	보고서/NNG+는/JX
+내다봤다	내다보/VV+았/EP+다/EF
+
+보고서는	보고서/NNG+는/JX
+서비스	서비스/NNG
+기준을	기준/NNG+을/JKO
+마련하고	마련하/VV+고/EC
+품질감독기구를	품질감독기구/NNG+를/JKO
+설치하는	설치하/VV+는/ETM
+방안도	방안/NNG+도/JX
+제시했다	제시하/VV+였/EP+다/EC
+
+지자체가	지자체/NNG+가/JKS
+최근	최근/NNG
+만들어진	만들/VV+어/EC+지/VX+ㄴ/ETM
+사회복지통합관리시스템	사회복지통합관리시스템/NNG
+'행복e음'을	'/SS+행복/NNG+e/SL+음/NNG+'/SS+을/JKO
+적극적으로	적극적/NNG+으로/JKB
+활용해	활용하/VV+여/EC
+복지수급자별	복지수급/NNG+자별/XSN
+자격과	자격/NNG+과/JC
+서비스	서비스/NNG
+정보를	정보/NNG+를/JKO
+비교해	비교하/VV+여/EC
+부정ㆍ중복	부정/NNG+ㆍ/SP+중복/NNG
+지원을	지원/NNG+을/JKO
+막고,	막/VV+고/EC+,/SP
+필수	필수/NNG
+서비스가	서비스/NNG+가/JKS
+빠지지	빠지/VV+지/EC
+않도록	않/VX+도록/EC
+하는	하/VX+는/ETM
+방안도	방안/NNG+도/JX
+대안으로	대안/NNG+으로/JKB
+나왔다	나오/VV+았/EP+다/EF
+
+clap@yna	clap/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

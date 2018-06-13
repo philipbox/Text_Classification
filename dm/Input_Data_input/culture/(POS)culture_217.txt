@@ -1,0 +1,574 @@
+온	온/MM
+가족이	가족/NNG+이/JKS
+함께한	함께하/VV+ㄴ/ETM
+7080콘서트	7080/SN+콘서트/NNG
+
+386세대라는	386/SN+세대/NNG+이/VCP+라는/ETM
+말이	말/NNG+이/JKS
+유행했었다	유행하/VV+였었/EP+다/EF
+
+386세대란	386/SN+세대/NNG+란/JX
+60년대에	60/SN+년대/NNB+에/JKB
+태어나	태어나/VV+아/EC
+80년대에	80/SN+년대/NNB+에/JKB
+대학을	대학/NNG+을/JKO
+다녔던	다니/VV+었/EP+던/ETM
+30대를	30/SN+대/NNB+를/JKO
+가리키는	가리키/VV+는/ETM
+말이라고	말/NNG+이/VCP+라고/EC
+한다	하/VV+ㄴ다/EF
+
+그들이	그/NP+들/XSN+이/JKS
+30대였을	30/SN+대/NNB+이/VCP+었/EP+을/ETM
+때는	때/NNG+는/JX
+1990년대였다	1990/SN+년/NNB+대/XSN+이/VCP+었/EP+다/EF
+
+386세대가	386/SN+세/NNB+대/XSN+가/JKS
+젊었을	젊/VA+었/EP+을/ETM
+때는	때/NNG+는/JX
+70~80년쯤이었을까	70/SN+~/SO+80/SN+년/NNB+쯤/XSN+이/VCP+었/EP+을까/EC
+
+‘콘서트7080’	‘/SL+콘서트/NNG+7080’/SN
+입장권	입장권/NNG
+
+ⓒ이복남	ⓒ/SL+이복/NNP+남/NNG
+386세대와는	386/SN+세대/NNG+와/JKB+는/JX
+별도로	별도/NNG+로/JKB
+7080이라는	7080/SN+이/VCP+라는/ETM
+말이	말/NNG+이/JKS
+유행하기	유행하/VV+기/ETN
+시작했다	시작하/VV+였/EP+다/EF
+
+인터넷에서	인터넷/NNG+에서/JKB
+‘7080’이라고	‘7080’/SN+이/VCP+라고/EC
+검색을	검색/NNG+을/JKO
+해	하/VV+여/EC
+보면	보/VX+면/EC
+관련	관련/NNG
+단어들이	단어/NNG+들/XSN+이/JKS
+쭈르르	쭈르르/MAG
+뜨는데	뜨/VV+는데/EC
+제일	제일/MAG
+앞에	앞/NNG+에/JKB
+나오는	나오/VV+는/ETM
+것이	것/NNB+이/JKS
+7080콘서트	7080/SN+콘서트/NNG
+또는	또는/MAG
+7080노래듣기	7080/SN+노래듣기/NNG
+등이다	등/NNB+이/VCP+다/EC
+
+70~80년대에	70/SN+~/SO+80/SN+년대/NNB+에/JKB
+젊은	젊/VA+은/ETM
+시절을	시절/NNG+을/JKO
+보낸	보내/VV+ㄴ/ETM
+사람들을	사람/NNG+들/XSN+을/JKO
+일컫는	일컫/VV+는/ETM
+말이라고	말/NNG+이/VCP+라고/EC
+한다	하/VV+ㄴ다/EF
+
+7080노래는	7080/SN+노래/NNG+는/JX
+그	그/MM
+때	때/NNG
+그	그/MM
+시절	시절/NNG
+젊은이들에게	젊은이/NNG+들/XSN+에게/JKB
+유행했던	유행하/VV+였/EP+던/ETM
+노래였다	노래/NNG+이/VCP+었/EP+다/EF
+
+KBS	KBS/SL
+1TV에서는	1/SN+TV/SL+에서/JKB+는/JX
+2004년부터	2004/SN+년/NNB+부터/JX
+일요일	일요일/NNG
+밤	밤/NNG
+11시에	11/SN+시/NNB+에/JKB
+‘콘서트7080’을	‘/SL+콘서트/NNG+7080/SN+’/SL+을/JKO
+배철수의	배철수/NNP+의/JKG
+사회로	사회/NNG+로/JKB
+진행하고	진행하/VV+고/EC
+있는데	있/VX+는데/EC
+KBS	KBS/SL
+부산방송국	부산/NNP+방송국/NNG
+개국	개국/NNG
+77주년을	77/SN+주년/NNB+을/JKO
+기념하는	기념하/VV+는/ETM
+‘콘서트7080’	‘/SL+콘서트/NNG+7080/SN+’/SL
+9월	9/SN+월/NNB
+15일(토)	15/SN+일/NNB+(/SS+토/NNG+)/SS
+부산	부산/NNP
+수영만	수영만/NNP
+요트	요트/NNG
+경기장에서	경기장/NNG+에서/JKB
+개최한다고	개최하/VV+ㄴ다고/EC
+했다	하/VV+였/EP+다/EC
+
+부산	부산/NNP
+‘콘서트7080’의	‘/SL+콘서트/NNG+7080/SN+’/SL+의/JKG
+입장은	입장/NNG+은/JX
+무료지만	무료/NNG+이/VCP+지만/EC
+참가자는	참가자/NNG+는/JX
+KBS부산방송총국에서는	KBS/SL+부산방송총국/NNP+에서/JKB+는/JX
+미리	미리/MAG
+표를	표/NNG+를/JKO
+받아야	받/VV+아야/EC
+된다고	되/VV+ㄴ다고/EC
+했다	하/VV+였/EP+다/EC
+
+‘콘서트7080’	‘/SL+콘서트/NNG+7080’/SN
+입장권은	입장권/NNG+은/JX
+1인당	1/SN+인/NNG+당/XSN
+2장씩	2/SN+장/NNB+씩/XSN
+KBS부산방송총국	KBS/SL+부산방송총국/NNP
+매표소에서	매표소/NNG+에서/JKB
+배부를	배부르/VA+ㄹ/ETM
+했다	하/VV+였/EP+다/EF
+
+한	한/MM
+장애인이	장애인/NNG+이/JKS
+이런	이런/MM
+사실을	사실/NNG+을/JKO
+알고는	알/VV+고는/EC
+2장의	2/SN+장/NNB+의/JKG
+표를	표/NNG+를/JKO
+받아	받/VV+아/EC
+오면서	오/VX+면서/EC
+필자에게	필자/NNG+에게/JKB
+문의를	문의/NNG+를/JKO
+했다	하/VV+였/EP+다/EF
+
+“부산에서	“/SL+부산/NNP+에서/JKB
+7080콘서트를	7080/SN+콘서트/NNG+를/JKO
+하는데	하/VV+는데/EC
+장애인	장애인/NNG
+혜택은	혜택/NNG+은/JX
+없습니까?”	없/VA+습니까/EF+?/SF+”/SL
+필자도	필자/NNG+도/JX
+몰랐던	모르/VV+았/EP+던/ETM
+사실이었다	사실/NNG+이/VCP+었/EP+다/EF
+
+KBS부산총국에	KBS/SL+부산총국/NNP+에/JKB
+문의를	문의/NNG+를/JKO
+하니	하/VV+니/EC
+KBS에서도	KBS/SL+에서/JKB+도/JX
+몰랐던	모르/VV+았/EP+던/ETM
+사실	사실/NNG
+같았다	같/VA+았/EP+다/EC
+
+‘콘서트7080’	‘/SL+콘서트/NNG+7080/SN+’/SL
+MC	MC/SL
+배철수	배철수/NNP
+
+ⓒ이복남	ⓒ/SL+이복/NNP+남/NNG
+KBS에서도	KBS/SL+에서/JKB+도/JX
+의논을	의논/NNG+을/JKO
+해	하/VV+여/EC
+보고	보/VX+고/EC
+연락을	연락/NNG+을/JKO
+주겠다더니	주/VV+겠/EP+다더니/EC
+장애인표	장애인표/NNG
+20장과	20/SN+장/NNB+과/JC
+앞	앞/NNG
+자석을	자석/NNG+을/JKO
+마련해	마련하/VV+여/EC
+주겠다고	주/VX+겠/EP+다고/EC
+했다	하/VV+였/EP+다/EC
+
+KBS매표소에서는	KBS/SL+매표소/NNG+에서/JKB+는/JX
+1인당	1/SN+인/NNG+당/XSN
+2장	2/SN+장/NNG
+이상씩은	이상/NNG+씩/XSN+은/JX
+절대로	절대로/MAG
+안	안/MAG
+된다고	되/VV+ㄴ다고/EC
+해서	하/VV+여서/EC
+몇	몇/MM
+사람은	사람/NNG+은/JX
+매표소에	매표소/NNG+에/JKB
+가서	가/VV+아서/EC
+입장권을	입장권/NNG+을/JKO
+받아	받/VV+아/EC
+오기도	오/VX+기/ETN+도/JX
+해서	하/VX+여서/EC
+인원은	인원/NNG+은/JX
+그럭저럭	그럭저럭/MAG
+30여명이	30/SN+여/XSN+명/NNB+이/JKS
+되었다	되/VV+었/EP+다/EC
+
+그런데	그런데/MAJ
+태풍	태풍/NNG
+‘산바’가	‘/SL+산바’/NNG+가/JKS
+오고	오/VV+고/EC
+있었다	있/VX+었/EP+다/EF
+
+제16호	제/XPN+16/SN+호/NNB
+산바(SANBA)가	산바/NNP+(/SS+SANBA/SL+)/SS+가/JKS
+부산지방에	부산/NNP+지방/NNG+에/JKB
+상륙하는	상륙하/VV+는/ETM
+시간은	시간/NNG+은/JX
+17일	17/SN+일/NNB
+오전이라고	오전/NNG+이/VCP+라고/EC
+하는데	하/VV+는데/EC
+14일부터	14/SN+일/NNB+부터/JX
+비가	비/NNG+가/JKS
+내리고	내리/VV+고/EC
+있었다	있/VX+었/EP+다/EF
+
+‘비가	‘/SN+비/NNG+가/JKS
+오면	오/VV+면/EC
+어쩌나?’	어쩌/VV+나/EF+?/SF+’/SL
+7080콘서트를	7080/SN+콘서트/NNG+를/JKO
+기다리는	기다리/VV+는/ETM
+사람들은	사람/NNG+들/XSN+은/JX
+애가	애/NNG+가/JKS
+탔다	타/VV+았/EP+다/EF
+
+얼마나	얼마나/MAG
+기다렸던	기다리/VV+었/EP+던/ETM
+콘서트였던가	콘서트/NNG+이/VCP+었/EP+던가/EC
+
+‘콘서트7080’은	‘/SL+콘서트/NNG+7080/SN+’/SL+은/JX
+비가와도	비가/NNG+와/JKB+도/JX
+한다고	하/VV+ㄴ다고/EC
+했다	하/VV+였/EP+다/EC
+
+“큰	“/SN+크/VA+ㄴ/ETM
+비바람만	비/XPN+바람/NNG+만/JX
+아니라면,	아니/VCN+라면/EC+,/SP
+이슬비	이슬비/NNG
+정도라면	정도/NNG+이/VCP+라면/EC
+참석할	참석하/VV+ㄹ/ETM
+테니	터/NNB+이/VCP+니/EC
+내	나/NP+의/JKG
+표	표/NNG
+남겨	남기/VV+어/EC
+놓으세요	놓/VX+으/EF+시/EP+어요/EF
+
+”	”/SL
+야외이고	야외/NNG+이/VCP+고/EC
+바닷바람에	바닷바람/NNG+에/JKB
+추울	춥/VA+ㄹ/ETM
+테니	터/NNB+이/VCP+니/EC
+겉옷	겉옷/NNG
+준비하시고	준비하/VV+시/EP+고/EC
+비가	비/NNG+가/JKS
+올지도	오/VV+ㄹ지/EC+도/JX
+모르니까	모르/VV+니까/EC
+비옷도	비옷/NNG+도/JX
+준비하세요	준비하/VV+시/EP+어오/EF
+
+9월	9/SN+월/NNB
+15일에도	15/SN+일/NNB+에/JKB+도/JX
+아침부터	아침/NNG+부터/JX
+비가	비/NNG+가/JKS
+오락가락	오락가락/MAG
+했다	하/VV+였/EP+다/EC
+
+사실	사실/MAG
+비가	비/NNG+가/JKS
+오면	오/VV+면/EC
+장애인들은	장애인/NNG+들/XSN+은/JX
+정말	정말/MAG
+활동하기가	활동하/VV+기/ETN+가/JKS
+불편하다	불편하/VA+다/EC
+
+휠체어나	휠체어/NNG+나/JC
+목발장애인은	목발장애인/NNG+은/JX
+우산을	우산/NNG+을/JKO
+쓰지도	쓰/VV+지/EC+도/JX
+못할	못하/VX+ㄹ/ETM
+뿐더러,	뿐/NNB+더러/JKB+,/SP
+비가	비/NNG+가/JKS
+와서	오/VV+아서/EC
+땅이	땅/NNG+이/JKS
+미끄러우면	미끄러우/VV+면/EC
+다니기도	다니/VV+기/ETN+도/JX
+어려웠던	어렵/VA+었/EP+던/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+그럼에도	그렇/VA+ㅁ에도/EC
+이런	이런/MM
+기회가	기회/NNG+가/JKS
+다시	다시/MAG
+없을	없/VA+을/ETM
+테니	터/NNB+이/VCP+니/EC
+곡	곡/NNG
+참석하고	참석하/VV+고/EC
+싶다고	싶/VX+다고/EC
+했다	하/VV+였/EP+다/EC
+
+‘콘서트7080’	‘/SL+콘서트/NNG+7080/SN+’/SL
+출연가수	출연가수/NNG
+신효범	신효범/NNP
+
+ⓒ이복남	ⓒ/SL+이복/NNP+남/NNG
+9월	9/SN+월/NNB
+15일	15/SN+일/NNB
+오후	오후/NNG
+5시쯤부터	5/SN+시/NNB+쯤/XSN+부터/JX
+비가	비/NNG+가/JKS
+뜸해지기	뜸하/VA+여/EC+지/VX+기/ETN
+시작했다	시작하/VV+였/EP+다/EF
+
+늦게	늦/VA+게/EC
+도착하면	도착하/VV+면/EC
+주차	주차/NNG
+할	하/VV+ㄹ/ETM
+곳이	곳/NNG+이/JKS
+없을지도	없/VA+을지/EC+도/JX
+몰라서	모르/VV+아서/EC
+7시	7/SN+시/NNB
+전에	전/NNG+에/JKB
+도착하라고	도착하/VV+라고/EC
+신신당부했다	신신당부하/VA+었/EP+다/EC
+
+필자는	필자/NNG+는/JX
+다른	다른/MM
+장애인	장애인/NNG
+몇	몇/MM
+사람과	사람/NNG+과/JC
+6시	6/SN+시/NNB
+30분쯤에	30/SN+분/NNB+쯤/XSN+에/JKB
+도착했다	도착하/VV+였/EP+다/EF
+
+비장애인들은	비장애인/NNG+들/XSN+은/JX
+벌써	벌써/MAG
+길게	길/VA+게/EC
+줄을	줄/NNG+을/JKO
+서	서/VV+어/EC
+있었다	있/VX+었/EP+다/EF
+
+행사장	행사장/NNG
+입구에서	입구/NNG+에서/JKB
+진행자(?)에게	진행자/NNG+(/SS+?/SF+)/SS+에게/JKB
+장애인단체에서	장애인단체/NNG+에서/JKB
+왔다고	오/VV+았/EP+다고/EC
+하니까	하/VV+니까/EC
+앞에	앞/NNG+에/JKB
+자리가	자리/NNG+가/JKS
+마련되어	마련되/VV+어/EC
+있다고	있/VX+다고/EC
+했다	하/VV+였/EP+다/EC
+
+비가	비/NNG+가/JKS
+오고	오/VV+고/EC
+있었음인지	있/VX+었/EP+음/ETN+이/VCP+ㄴ지/EC
+의자	의자/NNG
+위에는	위/NNG+에/JKB+는/JX
+비옷이	비옷/NNG+이/JKS
+하나씩	하나/NR+씩/XSN
+놓여	놓이/VV+어/EC
+있었고,	있/VX+었/EP+고/EC+,/SP
+우리	우리/NP
+장애인석은	장애인석/NNG+은/JX
+무대	무대/NNG
+제일	제일/MAG
+오른쪽에	오른쪽/NNG+에/JKB
+마련되어	마련되/VV+어/EC
+있었다	있/VX+었/EP+다/EF
+
+줄을	줄/NNG+을/JKO
+선	서/VV+ㄴ/ETM
+사람들은	사람/NNG+들/XSN+은/JX
+안전을	안전/NNG+을/JKO
+염려해서인지	염려하/VV+여서/EC+이/VCP+ㄴ지/EC
+50명	50/SN+명/NNB
+또는	또는/MAG
+100명씩	100/SN+명/NNB+씩/XSN
+들여보내면서	들여보내/VV+면서/EC
+뛰지	뛰/VV+지/EC
+말라고	말/VX+라고/EC
+신신당부를	신신당부/NNG+를/JKO
+했다	하/VV+였/EP+다/EF
+
+뛰지	뛰/VV+지/EC
+말라고?	말/VX+라고/EF+?/SF
+뛸	뛰/VV+ㄹ/ETM
+수도	수/NNB+도/JX
+없는	없/VA+는/ETM
+사람들은	사람/NNG+들/XSN+은/JX
+
+비는	비/NNG+는/JX
+잠시	잠시/MAG
+소강상태를	소강상태/NNG+를/JKO
+보이는	보이/VV+는/ETM
+것	것/NNB
+같아	같/VA+아/EC
+무대	무대/NNG
+위	위/NNG
+천막은	천막/NNG+은/JX
+걷어내고	걷/VV+어/EC+내/VX+고/EC
+‘콘서트7080’이	‘/SL+콘서트/NNG+7080/SN+’/SL+이/JKS
+시작되었다	시작되/VV+었/EP+다/EC
+
+예정대로	예정/NNG+대로/JX
+배철수가	배철수/NNP+가/JKS
+나와서	나오/VV+아서/EC
+사회를	사회/NNG+를/JKO
+보고	보/VV+고/EC
+신효범이	신효범/NNP+이/JKS
+나와서	나오/VV+아서/EC
+‘님아’를	‘/SL+님아’/NNG+를/JKO
+불렀다	부르/VV+었/EP+다/EC
+
+부산에서는	부산/NNP+에서/JKB+는/JX
+보기가	보/VV+기/ETN+가/JKS
+쉽지	쉽/VA+지/EC
+않은	않/VX+은/ETM
+가수들이라서	가수/NNG+들/XSN+이/VCP+라서/EC
+그런지	그러/VV+ㄴ지/EC
+관객들은	관객/NNG+들/XSN+은/JX
+열광했다	열광하/VA+었/EP+다/EC
+
+높은음자리의	높/VA+은/ETM+음자리/NNG+의/JKG
+‘바다에	‘/SL+바다/NNG+에/JKB
+누워’에서는	눕/VV+어/EC+’/SL+에서/JKB+는/JX
+관객들은	관객/NNG+들/XSN+은/JX
+‘저	‘/SN+저/JX
+바다에	바다/NNG+에/JKB
+누워	눕/VV+어/EC
+외로운	외롭/VA+ㄴ/ETM
+물새	물새/NNG
+될까	되/VV+ㄹ까/EC
+물살의	물살/NNG+의/JKG
+깊은	깊/VA+은/ETM
+속을	속/NNG+을/JKO
+항구는	항구/NNG+는/JX
+알까’를	알까’/NNG+를/JKO
+따라	따르/VV+아/EC
+부르기도	부르/VV+기/ETN+도/JX
+했다	하/VX+였/EP+다/EF
+
+‘콘서트7080’	‘/SL+콘서트/NNG+7080/SN+’/SL
+출연가수	출연가수/NNG
+윤시내	윤시/NNG+내/NNB
+
+ⓒ이복남	ⓒ/SL+이복/NNP+남/NNG
+그	그/MM
+밖에도	밖/NNG+에/JKB+도/JX
+김종서,	김종서/NNP+,/SP
+소리새,	소리새/NNG+,/SP
+윤시내	윤시내/NNG
+다비치	다비치/NNG
+등의	등/NNB+의/JKG
+가수들이	가수/NNG+들/XSN+이/JKS
+나와서	나오/VV+아서/EC
+노래를	노래/NNG+를/JKO
+불렀는데	부르/VV+었/EP+는데/EC
+임태경이	임태경/NNP+이/JKS
+나왔을	나오/VV+았/EP+을/ETM
+때도	때/NNG+도/JX
+사람들은	사람/NNG+들/XSN+은/JX
+열광했다	열광하/VV+였/EP+다/EF
+
+특히	특히/MAG
+임태경이	임태경/NNP+이/JKS
+“꽃피는	“/SL+꽃피/NNG+는/JX
+동백섬에	동백섬/NNP+에/JKB
+봄이	봄/NNG+이/JKS
+왔건만	오/VV+았/EP+건/EC+만/JX
+
+‘으로	‘/SL+으로/JKB
+시작되는	시작되/VV+는/ETM
+‘돌아와요	‘/SL+돌아오/VV+아요/EC
+부산항’을	부산/NNP+항/NNG+’/SL+을/JKO
+부를	부르/VV+ㄹ/ETM
+때는	때/NNG+는/JX
+관객들도	관객/NNG+들/XSN+도/JX
+다같이	다같이/MAG
+신이	신/NNG+이/JKS
+나서	나서/VV+어/EC
+따라	따르/VV+아/EC
+불렀다	부르/VV+었/EP+다/EC
+
+그런데	그런데/MAJ
+밤	밤/NNG
+9시	9/SN+시/NNB
+쯤	쯤/XSN
+되자	되/VV+자/EC
+다시	다시/MAG
+빗줄기가	빗줄기/NNG+가/JKS
+굵어졌다	굵/VA+어/EC+지/VX+었/EP+다/EF
+
+돌아갈	돌아가/VV+ㄹ/ETM
+일이	일/NNG+이/JKS
+걱정되는	걱정되/VV+는/ETM
+사람들은	사람/NNG+들/XSN+은/JX
+하나	하나/NR
+둘	둘/NR
+자리를	자리/NNG+를/JKO
+뜨기	뜨/VV+기/ETN
+시작했다	시작하/VV+였/EP+다/EF
+
+그러나	그러나/MAJ
+대부분의	대부분/NNG+의/JKG
+사람들은	사람/NNG+들/XSN+은/JX
+벗어	벗/VV+어/EC
+놨던	놓/VX+았/EP+던/ETM
+비옷을	비옷/NNG+을/JKO
+다시	다시/MAG
+걸치며	걸치/VV+며/EC
+끝까지	끝/NNG+까지/JX
+자리를	자리/NNG+를/JKO
+지켰다	지키/VV+었/EP+다/EC
+
+‘콘서트7080’는	‘/SL+콘서트/NNG+7080/SN+’/SL+는/JX
+하사가의	하사가/NNG+의/JKG
+가을향기에	가을향기/NNG+에/JKB
+어울리는	어울리/VV+는/ETM
+재미있고	재미있/VA+고/EC
+신바람	신바람/NNG
+나는	나/VV+는/ETM
+자리였지만	자리/NNG+이/VCP+었/EP+지만/EC
+비가	비/NNG+가/JKS
+와서	오/VV+아서/EC
+더	더/MAG
+좋은	좋/VA+은/ETM
+추억거리를	추억/NNG+거리/NNB+를/JKO
+만든	만들/VV+ㄴ/ETM
+것	것/NNB
+같다	같/VA+다/EC
+
+특별히	특별히/MAG
+앞자리에	앞자리/NNG+에/JKB
+장애인석을	장애인석/NNG+을/JKO
+마련해	마련하/VV+여/EC
+준	주/VX+ㄴ/ETM
+KBS부산총국에	KBS/SL+부산총국/NNP+에/JKB
+감사를	감사/NNG+를/JKO
+드린다	드리/VV+ㄴ다/EF
+
+‘콘서트7080’	‘/SL+콘서트/NNG+7080/SN+’/SL
+출연가수	출연가수/NNG
+임태경	임태경/NNP
+
+ⓒ이복남	ⓒ/SL+이복남/NNG
+‘콘서트7080’	‘/SL+콘서트/NNG+7080/SN+’/SL
+출연가수	출연가수/NNG
+김종서	김종서/NNP
+
+ⓒ이복남	ⓒ/SL+이복남/NNG
+‘콘서트7080’	‘/SL+콘서트/NNG+7080/SN+’/SL
+3대가	3/SN+대/NNB+가/JKS
+함께	함께/MAG
+참석	참석/NNG
+
+ⓒ이복남	ⓒ/SL+이복남/NNG
+‘콘서트7080’	‘/SL+콘서트/NNG+7080/SN+’/SL
+비	비/NNG
+내리는	내리/VV+는/ETM
+무대와	무대/NNG+와/JC
+관객	관객/NNG
+
+ⓒ이복남	ⓒ/SL+이복/NNP+남/NNG
+*	*/SW
+이복남	이복남/NNP
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNP
+객원기자로	객원기자/NNG+로/JKB
+하사가장애인상담넷(www	하사가장애인상담넷/NNG+(/SS+www/SL
+
+gktkrk	gktkrk/SL
+
+net)	net/SL+)/SS
+원장으로	원장/NNG+으로/JKB
+활동하고	활동하/VV+고/EC
+있습니다	있/VX+습니다/EF

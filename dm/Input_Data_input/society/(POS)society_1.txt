@@ -1,0 +1,255 @@
+죽음	죽음/NNG
+앞둔	앞두/VV+ㄴ/ETM
+보호견과	보호견/NNG+과/JC
+주인	주인/NNG
+사연	사연/NNG
+‘뭉클’	‘/SN+뭉클/NNG+’/SN
+
+'너를	'/SS+너/NP+를/JKO
+알지도	알/VV+지/EC+도/JX
+못하는	못하/VX+는/ETM
+데	데/NNB
+너의	너/NP+의/JKG
+이야기를	이야기/NNG+를/JKO
+보고	보/VV+고/EC
+나는	나/NP+는/JX
+하염없이	하염없이/MAG
+눈물을	눈물/NNG+을/JKO
+흘리고	흘리/VV+고/EC
+있어	있/VX+어/EC
+
+"지난	"/SS+지나/VV+ㄴ/ETM
+8월	8/SN+월/NNB
+20일	20/SN+일/NNB
+애니멀	애니멀/VV+ㄹ/EC
+네이션에	네이션/NNG+에/JKB
+실린	실리/VV+ㄴ/ETM
+코올과	코올/NNG+과/JC
+그의	그/NP+의/JKG
+보호견	보호견/NNG
+빙고의	빙고/NNG+의/JKG
+기사를	기사/NNG+를/JKO
+읽은	읽/VV+은/ETM
+한	한/MM
+독자의	독자/NNG+의/JKG
+댓글이다	댓글/NNG+이/VCP+다/EC
+
+빙고는	빙고/NNP+는/JX
+특수	특수/NNG
+훈련을	훈련/NNG+을/JKO
+받은	받/VV+은/ETM
+개다	개/VV+다/EC
+
+캐나다에	캐나다/NNP+에/JKB
+거주하는	거주하/VV+는/ETM
+주인	주인/NNG
+코올은	코올/NNG+은/JX
+느닷없이	느닷없이/MAG
+숨이	숨/NNG+이/JKS
+멎는	멎/VV+는/ETM
+병을	병/NNG+을/JKO
+가지고	가지/VV+고/EC
+있다	있/VX+다/EC
+
+그	그/MM
+때	때/NNG
+적절하게	적절하/VA+게/EC
+인공호흡을	인공호흡/NNG+을/JKO
+해주지	하/VV+여/EC+주/VX+지/EC
+않으면	않/VX+으면/EC
+생명을	생명/NNG+을/JKO
+잃게	잃/VV+게/EC
+된다	되/VV+ㄴ다/EF
+
+빙고는	빙고/NNP+는/JX
+그를	그/NP+를/JKO
+위해	위하/VV+여/EC
+특수한	특수하/VA+ㄴ/ETM
+훈련을	훈련/NNG+을/JKO
+받아	받/VV+아/EC
+그가	그/NP+가/JKS
+숨을	숨/NNG+을/JKO
+못	못/MAG
+쉬면	쉬/VV+면/EC
+생명	생명/NNG
+구조원에게	구조원/NNG+에게/JKB
+알려	알리/VV+어/EC
+그를	그/NP+를/JKO
+구해	구하/VV+여/EC
+준다	주/VX+ㄴ다/EF
+
+지난	지나/VV+ㄴ/ETM
+6개월	6/SN+개월/NNB
+동안	동안/NNG
+코올은	코올/NNG+은/JX
+3번	3/SN+번/NNB
+발작을	발작/NNG+을/JKO
+일으켰고	일으키/VV+었/EP+고/EC
+빙고는	빙고/NNP+는/JX
+그때마다	그때/NNG+마다/JX
+사람을	사람/NNG+을/JKO
+불러	부르/VV+어/EC
+코올을	코올/NNG+을/JKO
+살려냈다	살리/VV+어/EC+내/VX+었/EP+다/EF
+
+코올에게는	코올/NNG+에게/JKB+는/JX
+진정한	진정하/VA+ㄴ/ETM
+생명의	생명/NNG+의/JKG
+은인이다	은인/NNG+이/VCP+다/EC
+
+빙고가	빙고/NNG+가/JKS
+불치의	불치/NNG+의/JKG
+병으로	병/NNG+으로/JKB
+시한부	시한부/NNG
+삶을	삶/NNG+을/JKO
+살고	살/VV+고/EC
+있다	있/VX+다/EC
+
+이제	이제/MAG
+몇주면	몇/MM+주면/NNG
+생명을	생명/NNG+을/JKO
+잃게	잃/VV+게/EC
+된다	되/VV+ㄴ다/EF
+
+빙고는	빙고/NNP+는/JX
+코올의	코올/NNG+의/JKG
+생명을	생명/NNG+을/JKO
+수없이	수없이/MAG
+구해	구하/VV+여/EC
+주었지만,	주/VX+었/EP+지만/EC+,/SP
+코올은	코올/NNG+은/JX
+그의	그/NP+의/JKG
+죽음	죽음/NNG
+앞에서	앞/NNG+에서/JKB
+속수무책이다	속수무책/NNG+이/VCP+다/EC
+
+그렇게	그렇/VA+게/EC
+슬플	슬프/VA+ㄹ/ETM
+수가	수/NNB+가/JKS
+없다	없/VA+다/EC
+
+그가	그/NP+가/JKS
+죽음을	죽음/NNG+을/JKO
+앞둔	앞두/VV+ㄴ/ETM
+빙고를	빙고/NNG+를/JKO
+위해서	위하/VV+여서/EC
+몇	몇/MM
+가지	가지/NNB
+해야할	하/VV+여야/EC+하/VX+ㄹ/ETM
+일	일/NNG
+리스트를	리스트/NNG+를/JKO
+만들었다	만들/VV+었/EP+다/EC
+
+1	1/SN
+
+세상의	세상/NNG+의/JKG
+모든	모든/MM
+강아지	강아지/NNG
+간식을	간식/NNG+을/JKO
+먹게	먹/VV+게/EC
+해보다	하/VX+여/EC+보/VX+다/EC
+
+2	2/SN
+
+마지막으로	마지막/NNG+으로/JKB
+음식점에	음식점/NNG+에/JKB
+가서	가/VV+아서/EC
+피자를	피자/NNG+를/JKO
+먹이자	먹이/VV+자/EC
+
+3	3/SN
+
+하루에	하루/NNG+에/JKB
+한번씩	한/MM+번/NNB+씩/XSN
+동네를	동네/NNG+를/JKO
+돌게	돌/VV+게/EC
+하자4	하/VX+자/EF+4/SN
+
+죽기	죽/VV+기/ETN
+전에	전/NNG+에/JKB
+함께	함께/MAG
+사진을	사진/NNG+을/JKO
+찍자	찍/VV+자/EC
+
+그가	그/NP+가/JKS
+올린	올리/VV+ㄴ/ETM
+페이스	페이스/NNG
+북을	북/NNG+을/JKO
+읽고	읽/VV+고/EC
+수	수/NNG
+많은	많/VA+은/ETM
+사람들이	사람/NNG+들/XSN+이/JKS
+눈물을	눈물/NNG+을/JKO
+흘리고	흘리/VV+고/EC
+있다	있/VX+다/EC
+
+빙고를	빙고/NNG+를/JKO
+잃고	잃/VV+고/EC
+코올이	코올/NNG+이/JKS
+어떻게	어떻/VA+게/EC
+살아갈	살아가/VV+ㄹ/ETM
+것인가	것/NNB+이/VCP+ㄴ가/EF
+
+그리고	그리고/MAJ
+그	그/MM
+동안	동안/NNG
+그렇게	그렇/VA+게/EC
+많은	많/VA+은/ETM
+도움을	도움/NNG+을/JKO
+주었는데	주/VV+었/EP+는데/EC
+저리	저리/MAG
+허무하게	허무하/VA+게/EC
+가다니	가/VV+다니/EC
+
+코올은	코올/NNG+은/JX
+페이스	페이스/NNG
+북에서	북/NNP+에서/JKB
+독자들에게	독자/NNG+들/XSN+에게/JKB
+요구했다	요구하/VV+었/EP+다/EC
+
+"돈을	"/SS+돈/NNG+을/JKO
+달라는	달/VV+라는/ETM
+것이	것/NNB+이/JKC
+아닙니다	아니/VCN+ㅂ니다/EC
+
+세상에서	세상/NNG+에서/JKB
+최고로	최고/NNG+로/JKB
+맛있는	맛있/VA+는/ETM
+강아지	강아지/NNG
+간식을	간식/NNG+을/JKO
+죽기	죽/VV+기/ETN
+전에	전/NNG+에/JKB
+빙고에게	빙고/NNG+에게/JKB
+모두	모두/MAG
+먹여	먹이/VV+어/EC
+주고	주/VX+고/EC
+싶습니다	싶/VX+습니다/EC
+
+정말	정말/MAG
+오랫동안	오랫동안/NNG
+나를	나/NP+를/JKO
+살려준	살리/VV+어/EC+주/VX+ㄴ/ETM
+은혜에	은혜/NNG+에/JKB
+보답하기	보답하/VV+기/ETN
+위해	위하/VV+여/EC
+
+"*	"/SS+*/SW
+샘	샘/NNG
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNP
+객원기자로	객원기자/NNG+로/JKB
+캘리포니아	캘리포니아/NNP
+버클리대학	버클리대학/NNP
+사회학과를	사회학과/NNG+를/JKO
+졸업하고,	졸업하/VV+고/EC+,/SP
+전	전/MM
+미상원	미/NNP+상원/NNG
+장애인국	장애인국/NNG
+인턴을	인턴/NNG+을/JKO
+지냈다	지내/VV+었/EP+다/EC
+
+현재	현재/MAG
+TEC	TEC/SL
+대표를	대표/NNG+를/JKO
+맡고	맡/VV+고/EC
+있다	있/VX+다/EC

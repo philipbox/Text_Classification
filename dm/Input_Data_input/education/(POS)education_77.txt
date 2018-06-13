@@ -1,0 +1,251 @@
+뒷걸음질	뒷걸음질/NNG
+치는	치/VV+는/ETM
+장애인	장애인/NNG
+교원	교원/NNG
+고용	고용/NNG
+
+17개	17/SN+개/NNB
+교육청의	교육청/NNG+의/JKG
+장애인교원	장애인교원/NNG
+고용률이	고용률/NNG+이/JKS
+평균	평균/NNG
+0	0/SN
+
+91%에	91/SN+%/SW+에/JKB
+불과한	불과하/VA+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+드러났다	드러나/VV+았/EP+다/EC
+
+이는	이/NP+는/JX
+지난해	지난해/NNG
+조사된	조사되/VV+ㄴ/ETM
+1	1/SN
+
+2%에	2/SN+%/SW+에/JKB
+비해서도	비하/VV+여서/EC+도/JX
+오히려	오히려/MAG
+더	더/MAG
+떨어진	떨어지/VV+ㄴ/ETM
+결과다	결과/NNG+이/VCP+다/EC
+
+국회	국회/NNG
+교육과학기술위원회	교육과학기술위원회/NNG
+유은혜	유은혜/NNP
+의원(민주통합당)은	의원/NNG+(/SS+민주통합당/NNP+)/SS+은/JX
+최근	최근/NNG
+4년간의	4/SN+년/NNB+간/XSN+의/JKG
+평균	평균/NNG
+장애인	장애인/NNG
+교원	교원/NNG
+고용률이	고용률/NNG+이/JKS
+2009년	2009/SN+년/NNB
+0	0/SN
+
+9%,	9/SN+%/SW+,/SP
+2010년	2010/SN+년/NNB
+1%,	1/SN+%/SW+,/SP
+2011년	2011/SN+년/NNB
+1	1/SN
+
+2%,	2/SN+%/SW+,/SP
+2012년	2012/SN+년/NNB
+0	0/SN
+
+91%로	91/SN+%/SW+로/JKB
+법정	법정/NNG
+의무	의무/NNG
+고용률에	고용률/NNG+에/JKB
+훨씬	훨씬/MAG
+미치지	미치/VV+지/EC
+못할	못하/VX+ㄹ/ETM
+뿐만	뿐/NNB+만/JX
+아니라,	아니/VCN+라/EC+,/SP
+전혀	전혀/MAG
+개선되지	개선되/VV+지/EC
+못했다고	못하/VX+였/EP+다고/EC
+지난	지나/VV+ㄴ/ETM
+7일	7/SN+일/NNB
+밝혔다	밝히/VV+었/EP+다/EC
+
+‘장애인고용촉진	‘/SL+장애인고용촉진/NNG
+및	및/MAG
+직업재활법’	직업재활법/NNG+’/SN
+제	제/XPN
+27조에	27/SN+조/NNB+에/JKB
+따르면	따르/VV+면/EC
+국가와	국가/NNG+와/JC
+지방자치단체는	지방자치단체/NNG+는/JX
+소속	소속/NNG
+공무원	공무원/NNG
+정원의	정원/NNG+의/JKG
+3%이상을	3/SN+%/SW+이상/NNG+을/JKO
+장애인으로	장애인/NNG+으로/JKB
+고용하도록	고용하/VV+도록/EC
+규정하고	규정하/VV+고/EC
+있다	있/VX+다/EC
+
+시도교육청별	시도교육청/NNG+별/XSN
+전체	전체/NNG
+교원	교원/NNG
+중	중/NNB
+장애인	장애인/NNG
+교원	교원/NNG
+비율	비율/NNG
+
+ⓒ유은혜	ⓒ/SL+유은혜/NNP
+의원실	의원실/NNG
+시도교육청별	시도교육청/NNG+별/XSN
+전체	전체/NNG
+교원	교원/NNG
+중,	중/NNB+,/SP
+장애인	장애인/NNG
+교원	교원/NNG
+비율	비율/NNG
+및	및/MAG
+교원	교원/NNG
+유형을	유형/NNG+을/JKO
+살펴보면,	살펴보/VV+면/EC+,/SP
+울산이	울산/NNP+이/JKS
+1	1/SN
+
+9%로	9/SN+%/SW+로/JKB
+가장	가장/MAG
+높게	높/VA+게/EC
+나타난	나타나/VV+ㄴ/ETM
+반면,	반면/NNG+,/SP
+세종	세종/NNP
+0	0/SN
+
+13%,	13/SN+%/SW+,/SP
+부산	부산/NNP
+0	0/SN
+
+69%	69/SN+%/SW
+등	등/NNB
+아직도	아직/MAG+도/JX
+1%에	1/SN+%/SW+에/JKB
+미달되는	미달되/VV+는/ETM
+교육청도	교육청/NNG+도/JX
+있었다	있/VA+었/EP+다/EF
+
+교사의	교사/NNG+의/JKG
+유형의	유형/NNG+의/JKG
+경우,	경우/NNG+,/SP
+특수교사	특수교사/NNG
+및	및/MAG
+상담교사는	상담교사/NNG+는/JX
+각각	각각/MAG
+2	2/SN
+
+87%,	87/SN+%/SW+,/SP
+2	2/SN
+
+53%인데	53/SN+%/SW+이/VCP+ㄴ/ETM+데/NNB
+반해,	반하/VV+여/EC+,/SP
+유치원	유치원/NNG
+및	및/MAG
+초등	초등/NNG
+교사의	교사/NNG+의/JKG
+경우는	경우/NNG+는/JX
+각각	각각/MAG
+0	0/SN
+
+63%,	63/SN+%/SW+,/SP
+0	0/SN
+
+48%로	48/SN+%/SW+로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+또한	또한/MAG
+최근	최근/NNG
+3년간	3/SN+년/NNB+간/XSN
+장애인	장애인/NNG
+교원	교원/NNG
+임용	임용/NNG
+현황	현황/NNG
+자료를	자료/NNG+를/JKO
+분석한	분석하/VV+ㄴ/ETM
+결과,	결과/NNG+,/SP
+지난	지나/VV+ㄴ/ETM
+3년	3/SN+년/NNB
+동안	동안/NNG
+장애인	장애인/NNG
+교원은	교원/NNG+은/JX
+총	총/MM
+1628명을	1628/SN+명/NNB+을/JKO
+모집했고,	모집하/VV+였/EP+고/EC+,/SP
+합격한	합격하/VV+ㄴ/ETM
+장애인은	장애인/NNG+은/JX
+540명인	540/SN+명/NNB+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+전체의	전체/NNG+의/JKG
+33	33/SN
+
+2%의	2/SN+%/SW+의/JKG
+인원만이	인원/NNG+만/JX+이/JKS
+채용된	채용되/VV+ㄴ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+이처럼	이/NP+처럼/JKB
+모집	모집/NNG
+인원에	인원/NNG+에/JKB
+비해	비하/VV+여/EC
+합격자	합격자/NNG
+수가	수/NNG+가/JKS
+작기	작/VA+기/ETN
+때문에	때문/NNB+에/JKB
+부족한	부족하/VA+ㄴ/ETM
+인원을	인원/NNG+을/JKO
+일반교사로	일반교사/NNG+로/JKB
+대체	대체/NNG
+선발한	선발하/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났는데	나타나/VV+았/EP+는데/EC
+그	그/MM
+인원은	인원/NNG+은/JX
+1069명에	1069/SN+명/NNB+에/JKB
+달했다	달하/VV+였/EP+다/EF
+
+유	유/NNP
+의원은	의원/NNG+은/JX
+“특히	“/SN+특히/MAG
+교육기관의	교육기관/NNG+의/JKG
+경우,	경우/NNG+,/SP
+장애인	장애인/NNG
+의무고용을	의무고용/NNG+을/JKO
+단지	단지/MAG
+고용차원의	고용차원/NNG+의/JKG
+문제뿐만	문제/NNG+뿐만/JX
+아니라	아니/VCN+라/EC
+아이들로	아이/NNG+들/XSN+로/JKB
+하여금	하여금/MAG
+장애에	장애/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+이해를	이해/NNG+를/JKO
+돕고	돕/VV+고/EC
+더불어	더불/VV+어/EC
+함께	함께/MAG
+사는	살/VV+는/ETM
+삶에	삶/NNG+에/JKB
+대해	대하/VV+여/EC
+자연스럽게	자연스럽/VA+게/EC
+익혀갈	익히/VV+어/EC+가/VX+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+더욱	더욱/MAG
+장려해야할	장려하/VV+여야/EC+하/VX+ㄹ/ETM
+시책”이라며	시책”/NNG+이/VCP+라며/EC
+“임용과정에서	“/SL+임용과정/NNG+에서/JKB
+최대한	최대한/NNG
+장애인교원을	장애인교원/NNG+을/JKO
+확보할	확보하/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+별도의	별도/NNG+의/JKG
+방안을	방안/NNG+을/JKO
+마련할	마련하/VV+ㄹ/ETM
+필요가	필요/NNG+가/JKS
+있다”고	있/VA+다”고/EC
+주문했다	주문하/VV+였/EP+다/EF

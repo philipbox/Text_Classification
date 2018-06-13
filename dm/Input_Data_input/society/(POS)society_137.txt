@@ -1,0 +1,216 @@
+칠곡서	칠곡/NNP+서/JKB
+흉기난동…여대생	흉기난동/NNG+…/SE+여대생/NNG
+숨져(종합2보)	숨지/VV+어/EC+(/SS+종합/NNG+2/SN+보/NNG+)/SS
+
+(칠곡=연합뉴스)	(/SS+칠곡/NNP+=/SW+연합뉴스/NNP+)/SS
+김선형	김선형/NNP
+기자	기자/NNG
+=	=/SW
+1일	1/SN+일/NNB
+낮	낮/NNG
+12시10분께	12/SN+시/NNB+10/SN+분/NNB+께/JKB
+경북	경북/NNP
+칠곡군	칠곡군/NNP
+왜관읍	왜관읍/NNP
+왜관시장	왜관시장/NNG
+지하도에서	지하도/NNG+에서/JKB
+윤모(34)씨가	윤/NNP+모/NP+(/SS+34/SN+)/SS+씨/NNB+가/JKS
+여대생을	여대생/NNG+을/JKO
+흉기로	흉기/NNG+로/JKB
+찔러	찌르/VV+어/EC
+숨지게	숨지/VV+게/EC
+했다	하/VX+였/EP+다/EC
+
+지적장애	지적장애/NNG
+2급인	2/SN+급/NNG+이/VCP+ㄴ/ETM
+윤씨는	윤/NNP+씨/NNB+는/JX
+아무런	아무런/MM
+관계가	관계/NNG+가/JKS
+없는	없/VA+는/ETM
+행인	행인/NNG
+신모(21·대학3학년)	신/NNP+모/NP+(/SS+21/SN+·/SP+대학/NNG+3/SN+학년/NNG+)/SS
+양에게	양/NNB+에게/JKB
+미리	미리/MAG
+갖고	갖/VV+고/EC
+있던	있/VX+던/ETM
+흉기를	흉기/NNG+를/JKO
+휘둘렀다	휘두르/VV+었/EP+다/EF
+
+신양은	신양/NNP+은/JX
+배와	배/NNG+와/JC
+가슴	가슴/NNG
+등	등/NNB
+5군데를	5/SN+군데/NNB+를/JKO
+찔려	찔리/VV+어/EC
+병원으로	병원/NNG+으로/JKB
+옮겨졌으나	옮기/VV+어/EC+지/VX+었/EP+으나/EC
+숨졌다	숨지/VV+었/EP+다/EF
+
+평소	평소/NNG
+지하도로에는	지하도로/NNG+에/JKB+는/JX
+행인들이	행인/NNG+들/XSN+이/JKS
+제법	제법/MAG
+다녔으나	다니/VV+었/EP+으나/EC
+범행	범행/NNG
+당시에는	당시/NNG+에/JKB+는/JX
+윤씨와	윤/NNP+씨/NNB+와/JC
+신양만	신양/NNG+만/JX
+있었다	있/VA+었/EP+다/EF
+
+범행	범행/NNG
+직후	직후/NNG
+윤씨는	윤/NNP+씨/NNB+는/JX
+지나가던	지나가/VV+던/ETM
+A(18)군에게	A/SL+(/SS+18/SN+)/SS+군/NNB+에게/JKB
+"경찰에	"/SS+경찰/NNG+에/JKB
+신고해달라"고	신고하/VA+여/EC+달/VX+라/EF+"/SS+고/JKQ
+말했다	말하/VV+였/EP+다/EC
+
+신고자	신고자/NNG
+A씨는	A/SL+씨/NNB+는/JX
+"신씨의	"/SS+신/NNP+씨/NNB+의/JKG
+비명소리를	비명소리/NNG+를/JKO
+듣고	듣/VV+고/EC
+지하차도에	지하차도/NNG+에/JKB
+내려가보니	내려가/VV+아/EC+보/VX+니/EC
+(윤씨가)	(/SS+윤/NNP+씨/NNB+가/JKS+)/SS
+칼을	칼/NNG+을/JKO
+바닥에	바닥/NNG+에/JKB
+내려두며	내려두/VV+며/EC
+'사람을	'/SS+사람/NNG+을/JKO
+죽였으니	죽이/VV+었/EP+으니/EC
+경찰에	경찰/NNG+에/JKB
+신고해달라'고	신고하/VV+여/EC+달/VX+라/EF+'/SS+고/JKQ
+했다"고	하/VV+였/EP+다/EF+"/SS+고/JKQ
+진술했다	진술하/VV+였/EP+다/EC
+
+경찰은	경찰/NNG+은/JX
+범행	범행/NNG
+5분만에	5/SN+분만/NNB+에/JKB
+현장에	현장/NNG+에/JKB
+출동해	출동하/VV+여/EC
+가만히	가만히/MAG
+서있던	서/VV+어/EC+있/VX+던/ETM
+윤씨를	윤/NNP+씨/NNB+를/JKO
+현행범으로	현행범/NNG+으로/JKB
+체포했다	체포하/VV+였/EP+다/EC
+
+윤씨는	윤/NNP+씨/NNB+는/JX
+범행	범행/NNG
+뒤	뒤/NNG
+다른	다른/MM
+행인들에게는	행인/NNG+들/XSN+에게/JKB+는/JX
+더	더/MAG
+이상	이상/NNG
+흉기를	흉기/NNG+를/JKO
+휘두르지	휘두르/VV+지/EC
+않은	않/VX+은/ETM
+것으로	것/NNB+으로/JKB
+전해졌다	전하/VV+여/EC+지/VX+었/EP+다/EF
+
+경찰	경찰/NNG
+한	한/MM
+관계자는	관계자/NNG+는/JX
+"윤씨는	"/SS+윤/NNP+씨/NNB+는/JX
+2008년	2008/SN+년/NNB
+지적장애	지적장애/NNG
+진단을	진단/NNG+을/JKO
+받았다	받/VV+았/EP+다/EC
+
+직업도	직업/NNG+도/JX
+친구도	친구/NNG+도/JX
+없이	없이/MAG
+가족과	가족/NNG+과/JKB
+지내온	지내/VV+어/EC+오/VX+ㄴ/ETM
+외톨이형"이라고	외톨이/NNG+형/XSN+"/SS+이라고/JKQ
+전했다	전하/VV+었/EP+다/EC
+
+윤씨는	윤/NNP+씨/NNB+는/JX
+지난달	지난달/NNG
+28일	28/SN+일/NNB
+가출한	가출하/VV+ㄴ/ETM
+뒤	뒤/NNG
+여관	여관/NNG
+등	등/NNB
+왜관	왜관/MAG
+주변을	주변/NNG+을/JKO
+배회해온	배회하/VV+여/EC+오/VX+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다	알려지/VV+었/EP+다/EF
+
+경찰은	경찰/NNG+은/JX
+지적장애자인	지적장애자/NNG+이/VCP+ㄴ/ETM
+윤씨의	윤/NNP+씨/NNB+의/JKG
+범행	범행/NNG
+동기	동기/NNG
+조사에	조사/NNG+에/JKB
+어려움을	어려움/NNG+을/JKO
+겪고	겪/VV+고/EC
+있다고	있/VX+다고/EC
+밝혔다	밝히/VV+었/EP+다/EC
+
+숨진	숨지/VV+ㄴ/ETM
+신양은	신양/NNP+은/JX
+이날	이날/NNG
+왜관역에	왜관역/NNG+에/JKB
+여동생을	여동생/NNG+을/JKO
+배웅한	배웅하/VV+ㄴ/ETM
+후	후/NNG
+집으로	집/NNG+으로/JKB
+돌아오던	돌아오/VV+던/ETM
+길이었다	길/NNG+이/VCP+었/EP+다/EF
+
+신양이	신/NNP+양/NNB+이/JKS
+다니는	다니/VV+는/ETM
+대학	대학/NNG
+학과의	학과/NNG+의/JKG
+교수는	교수/NNG+는/JX
+"평소	"/SS+평소/NNG
+학교와	학교/NNG+와/JC
+집만	집/NNG+만/JX
+오가고	오가/VV+고/EC
+공부을	공부/NNG+을/JKO
+열심히	열심히/MAG
+하는	하/VV+는/ETM
+모범	모범/NNG
+대학생인데	대학생/NNG+이/VCP+ㄴ데/EC
+변을	변/NNG+을/JKO
+당해	당하/VV+여/EC
+너무	너무/MAG
+안타깝다"고	안타깝/VA+다/EF+"/SS+고/JKQ
+말했다	말하/VV+였/EP+다/EC
+
+경찰은	경찰/NNG+은/JX
+정확한	정확하/VA+ㄴ/ETM
+사건	사건/NNG
+경위를	경위/NNG+를/JKO
+조사한	조사하/VV+ㄴ/ETM
+후	후/NNG
+윤씨에	윤/NNP+씨/NNB+에/JKB
+대한	대하/VV+ㄴ/ETM
+정신감정을	정신감정/NNG+을/JKO
+의뢰할	의뢰하/VV+ㄹ/ETM
+방침이다	방침/NNG+이/VCP+다/EC
+
+sunhyung@yna	sunhyung/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

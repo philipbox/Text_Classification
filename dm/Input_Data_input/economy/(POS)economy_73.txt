@@ -1,0 +1,518 @@
+미국에	미국/NNP+에/JKB
+혁신적인	혁신적/NNG+이/VCP+ㄴ/ETM
+휠체어들	휠체어/NNG+들/XSN
+등장	등장/NNG
+
+기자가	기자/NNG+가/JKS
+사용하는	사용하/VV+는/ETM
+전동	전동/NNP
+휠체어는	휠체어/NNG+는/JX
+가격이	가격/NNG+이/JKS
+한국	한국/NNP
+돈으로	돈/NNG+으로/JKB
+2천만원에	2/SN+천만/NR+원/NNB+에/JKB
+가깝다	가깝/VA+다/EC
+
+빠르기는	빠르/VA+기/ETN+는/JX
+약	약/NNG
+시속	시속/NNG
+11km	11/SN+km/SL
+
+한번	한/MM+번/NNB
+충전으로	충전/NNG+으로/JKB
+며칠씩	며칠/NNG+씩/XSN
+간다	가/VV+ㄴ다/EC
+
+무겁고,	무겁/VA+고/EC+,/SP
+일반	일반/NNG
+차에	차/NNG+에/JKB
+실을	싣/VV+을/ETM
+수	수/NNB
+없으며	없/VA+으며/EC
+항상	항상/MAG
+모터를	모터/NNG+를/JKO
+사용하기	사용하/VV+기/ETN
+때문에	때문/NNB+에/JKB
+운동이	운동/NNG+이/JKS
+부족한	부족하/VA+ㄴ/ETM
+점이	점/NNG+이/JKS
+불편한	불편하/VA+ㄴ/ETM
+점이다	점/NNG+이/VCP+다/EC
+
+수동	수동/NNG
+휠체어를	휠체어/NNG+를/JKO
+타고	타/VV+고/EC
+싶지만	싶/VX+지만/EC
+힘이	힘/NNG+이/JKS
+들고	들/VV+고/EC
+언덕을	언덕/NNG+을/JKO
+오를	오르/VV+ㄹ/ETM
+수가	수/NNB+가/JKS
+없다	없/VA+다/EC
+
+이에	이/NP+에/JKB
+따라	따르/VV+아/EC
+저렴한	저렴하/VA+ㄴ/ETM
+가격에	가격/NNG+에/JKB
+전동과	전동/NNG+과/JC
+수동	수동/NNG
+변환이	변환/NNG+이/JKS
+가능하고,	가능하/VA+고/EC+,/SP
+아무	아무/MM
+차에나	차/NNG+에/JKB+나/JX
+실을	싣/VV+을/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+가벼운	가볍/VA+ㄴ/ETM
+휠체어가	휠체어/NNG+가/JKS
+없을까라는	없/VA+을까라는/ETM
+고민을	고민/NNG+을/JKO
+하기도	하/VV+기/ETN+도/JX
+했다	하/VX+였/EP+다/EF
+
+이	이/MM
+모두를	모두/NNG+를/JKO
+한꺼번에	한꺼번에/MAG
+충족시키는	충족/NNG+시키/XSV+는/ETM
+휠체어가	휠체어/NNG+가/JKS
+오는	오/VV+는/ETM
+11월	11/SN+월/NNB
+선보인다	선보/NNG+이/VCP+ㄴ다/EF
+
+시먼의	시먼/NNG+의/JKG
+드릴이용	드릴이/NNG+용/XSN
+휠체어다	휠체어/NNG+이/VCP+다/EF
+
+이제	이제/MAG
+수동휠체어를	수동휠체어/NNG+를/JKO
+새로	새로/MAG
+구입할	구입하/VV+ㄹ/ETM
+필요가	필요/NNG+가/JKS
+없다	없/VA+다/EF
+
+단지	단지/MAG
+가지고	가지/VV+고/EC
+있는	있/VX+는/ETM
+휠체어에	휠체어/NNG+에/JKB
+가볍게	가볍/VA+게/EC
+별도의	별도/NNG+의/JKG
+기계를	기계/NNG+를/JKO
+장착만	장착/NNG+만/JX
+하면	하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+특별한	특별하/VA+ㄴ/ETM
+기계가	기계/NNG+가/JKC
+아니라	아니/VCN+라/EC
+우리가	우리/NP+가/JKS
+나사를	나사/NNG+를/JKO
+박거나	박/VV+거나/EC
+풀	풀/VV+ㄹ/ETM
+때,	때/NNG+,/SP
+그리고	그리고/MAJ
+구멍을	구멍/NNG+을/JKO
+뚫을	뚫/VV+을/ETM
+때	때/NNG
+사용하는	사용하/VV+는/ETM
+드릴이다	드릴/NNG+이/VCP+다/EC
+
+이	이/MM
+드릴을	드릴/NNG+을/JKO
+이용한	이용하/VV+ㄴ/ETM
+획기적인	획기적/NNG+이/VCP+ㄴ/ETM
+휠체어	휠체어/NNG
+보조	보조/NNG
+장치가	장치/NNG+가/JKS
+선을	선/NNG+을/JKO
+보이게	보이/VV+게/EC
+되는	되/VV+는/ETM
+것으로	것/NNB+으로/JKB
+‘휠체어의	‘/SL+휠체어/NNG+의/JKG
+혁명’이라고	혁명’/NNG+이/VCP+라고/EC
+해도	하/VV+여도/EC
+무방할	무방하/VA+ㄹ/ETM
+듯하다	듯하/VX+다/EC
+
+이	이/MM
+기계는	기계/NNG+는/JX
+디피엑스	디피엑스/NNG
+시스템에서	시스템/NNG+에서/JKB
+개발했다	개발하/VV+였/EP+다/EC
+
+드릴을	드릴/NNG+을/JKO
+이용해	이용하/VV+여/EC
+거기에서	거기/NP+에서/JKB
+나오는	나오/VV+는/ETM
+강력한	강력하/VA+ㄴ/ETM
+힘을	힘/NNG+을/JKO
+휠체어로	휠체어/NNG+로/JKB
+전해	전하/VV+여/EC
+주는	주/VX+는/ETM
+장치다	장치/NNG+이/VCP+다/EF
+
+드릴이	드릴/NNP+이/JKS
+달려	달리/VV+어/EC
+있는	있/VX+는/ETM
+휠체어는	휠체어/NNG+는/JX
+웬만한	웬만하/VA+ㄴ/ETM
+경사도	경사/NNG+도/JX
+힘들이지	힘들이/VV+지/EC
+않고	않/VX+고/EC
+올라갈	올라가/VV+ㄹ/ETM
+수가	수/NNB+가/JKS
+있다(출처:	있/VA+다/EF+(/SS+출처/NNG+:/SP
+DPX	DPX/SL
+시스템	시스템/NNG
+홈페이지	홈페이지/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SN+샘/NNG
+그	그/MM
+기계를	기계/NNG+를/JKO
+이용해	이용하/VV+여/EC
+휠체어로	휠체어/NNG+로/JKB
+동력을	동력/NNG+을/JKO
+전해	전하/VV+여/EC
+주는	주/VX+는/ETM
+구체적인	구체적/NNG+이/VCP+ㄴ/ETM
+장치는	장치/NNG+는/JX
+시먼이	시먼/NNG+이/JKS
+디피엑스에서	디피엑스/NNG+에서/JKB
+기술을	기술/NNG+을/JKO
+도입해	도입하/VV+여/EC
+만들게	만들/VV+게/EC
+된다	되/VV+ㄴ다/EF
+
+생산될	생산되/VV+ㄹ/ETM
+기계는	기계/NNG+는/JX
+구입해	구입하/VV+여/EC
+자기	자기/NP
+휠체어에	휠체어/NNG+에/JKB
+고정만	고정/NNG+만/JX
+시키면	시키/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+가격,	가격/NNG+,/SP
+성능,	성능/NNG+,/SP
+빠르기,	빠르/VA+기/ETN+,/SP
+무게	무게/NNG
+등	등/NNB
+모두가	모두/NNG+가/JKS
+만족이다	만족/NNG+이/VCP+다/EC
+
+가격은	가격/NNG+은/JX
+아직	아직/MAG
+정해져	정하/VV+여/EC+지/VX+어/EC
+있지는	있/VX+지/EC+는/JX
+않지만	않/VX+지만/EC
+동력	동력/NNG
+전달기가	전달기/NNG+가/JKS
+300달러	300/SN+달러/NNB
+약간	약간/MAG
+넘는	넘/VV+는/ETM
+정도다	정도/NNG+이/VCP+다/EF
+
+거기에	거기/NP+에/JKB
+간단한	간단하/VA+ㄴ/ETM
+장치가	장치/NNG+가/JKS
+더	더/MAG
+하면	하/VV+면/EC
+되니까	되/VV+니까/EC
+한국	한국/NNP
+돈으로	돈/NNG+으로/JKB
+60만원이	60/SN+만/NR+원/NNB+이/JKS
+조금	조금/MAG
+넘는다	넘/VV+는다/EC
+
+빠르기는	빠르/VA+기/ETN+는/JX
+상당하다	상당하/VA+다/EC
+
+시속	시속/NNG
+20km	20/SN+km/SL
+가까이	가까이/MAG
+낼	내/VV+ㄹ/ETM
+수가	수/NNB+가/JKS
+있으니까	있/VA+으니까/EC
+내	나/NP+의/JKG
+휠체어와	휠체어/NNG+와/JC
+비교가	비교/NNG+가/JKC
+되지를	되/VV+지/EC+를/JX
+않는다	않/VX+는다/EC
+
+무엇보다도	무엇/NP+보다/JKB+도/JX
+장애인에게	장애인/NNG+에게/JKB
+좋은	좋/VA+은/ETM
+것은	것/NNB+은/JX
+수동과	수동/NNG+과/JC
+전동의	전동/NNG+의/JKG
+전환이	전환/NNG+이/JKS
+가능하다는	가능하/VA+다는/ETM
+점이다	점/NNG+이/VCP+다/EC
+
+이제	이제/MAG
+평소에는	평소/NNG+에/JKB+는/JX
+얼마든지	얼마/NNG+든지/JX
+팔	팔/NNG
+운동을	운동/NNG+을/JKO
+하다가	하/VV+다가/EC
+경사를	경사/NNG+를/JKO
+만나거나	만나/VV+거나/EC
+먼	멀/VA+ㄴ/ETM
+거리	거리/NNG
+일	일/NR
+경우에는	경우/NNG+에/JKB+는/JX
+전동으로	전동/NNG+으로/JKB
+바꾸면	바꾸/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+배터리	배터리/NNG
+하나면	하나/NNG+이/VCP+면/EC
+보통	보통/MAG
+6km	6/SN+km/SL
+정도	정도/NNG
+간다	가/VV+ㄴ다/EF
+
+시간이	시간/NNG+이/JKS
+부족할	부족하/VA+ㄹ/ETM
+경우	경우/NNG
+몇	몇/MM
+개의	개/NNB+의/JKG
+배터리만	배터리/NNG+만/JX
+가지고	가지/VV+고/EC
+있으면	있/VX+으면/EC
+거리에	거리/NNG+에/JKB
+구애	구애/NNG
+받지	받/VV+지/EC
+않고	않/VX+고/EC
+마음껏	마음껏/MAG
+다닐	다니/VV+ㄹ/ETM
+수가	수/NNB+가/JKS
+있다	있/VA+다/EC
+
+착탈식인	착탈식/NNG+이/VCP+ㄴ/ETM
+만큼	만큼/NNB
+이제	이제/MAG
+승용차로도	승용차/NNG+로/JKB+도/JX
+운반이	운반/NNG+이/JKS
+가능하다는	가능하/VA+다는/ETM
+점도	점/NNG+도/JX
+큰	크/VA+ㄴ/ETM
+장점	장점/NNG
+중의	중/NNB+의/JKG
+하나다	하나/NNG+이/VCP+다/EC
+
+탱크	탱크/NNG
+휠체어는	휠체어/NNG+는/JX
+해변도	해변/NNG+도/JX
+달리고,	달리/VV+고/EC+,/SP
+계단도	계단/NNG+도/JX
+올라가는데	올라가/VV+는데/EC
+문제가	문제/NNG+가/JKS
+없다	없/VA+다/EC
+
+(출처:	(/SS+출처/NNG+:/SP
+TC	TC/SL
+모빌리티	모빌리티/NNG
+홈페이지	홈페이지/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SN+샘/NNB
+또	또/MAG
+하나의	하나/NNG+의/JKG
+혁신적인	혁신적/NNG+이/VCP+ㄴ/ETM
+휠체어가	휠체어/NNG+가/JKS
+있다	있/VA+다/EC
+
+우리가	우리/NP+가/JKS
+타는	타/VV+는/ETM
+휠체어의	휠체어/NNG+의/JKG
+치명적인	치명적/NNG+이/VCP+ㄴ/ETM
+약점은	약점/NNG+은/JX
+도시형이라는	도시형/NNG+이/VCP+라는/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+도시에서는	도시/NNG+에서/JKB+는/JX
+비장애인과	비장애인/NNG+과/JC
+휠체어로	휠체어/NNG+로/JKB
+함께	함께/MAG
+하는	하/VV+는/ETM
+것이	것/NNB+이/JKS
+가능하다	가능하/VA+다/EC
+
+그러나	그러나/MAJ
+도시를	도시/NNG+를/JKO
+조금만	조금/NNG+만/JX
+벗어나도	벗어나/VV+아도/EC
+휠체어는	휠체어/NNG+는/JX
+맥을	맥/NNG+을/JKO
+못	못/MAG
+춘다	추/VV+ㄴ다/EC
+
+얼마전	얼마전/NNG
+공원	공원/NNG
+한인축제에	한인축제/NNG+에/JKB
+갔다가	가/VV+았/EP+다가/EC
+자갈밭에	자갈밭/NNG+에/JKB
+빠져	빠지/VV+어/EC
+여러	여러/MM
+사람이	사람/NNG+이/JKS
+와서	오/VV+아서/EC
+건져	건지/VV+어/EC
+준적이	준적/NNG+이/JKS
+있다	있/VA+다/EC
+
+바다에	바다/NNG+에/JKB
+가면	가/VV+면/EC
+모래밭에	모래밭/NNG+에/JKB
+들어가지	들어가/VV+지/EC
+못하고	못하/VX+고/EC
+눈이	눈/NNG+이/JKS
+조금만	조금/NNG+만/JX
+쌓여도	쌓이/VV+어도/EC
+휠체어는	휠체어/NNG+는/JX
+무용지물이다	무용지물/NNG+이/VCP+다/EC
+
+2년	2/SN+년/NNB
+전	전/NNG
+폭설에	폭설/NNG+에/JKB
+갇혀	갇히/VV+어/EC
+꼼짝	꼼짝/MAG
+못했던	못하/VV+였/EP+던/ETM
+공포스러운	공포스럽/VA+ㄴ/ETM
+밤의	밤/NNG+의/JKG
+기억이	기억/NNG+이/JKS
+아직도	아직/MAG+도/JX
+생생하다	생생하/VA+다/EC
+
+게다가	게다가/MAG
+비장애인과	비장애인/NNG+과/JKB
+함께	함께/MAG
+등산을	등산/NNG+을/JKO
+한다는	하/VV+ㄴ다는/ETM
+것은	것/NNB+은/JX
+꿈도	꿈/NNG+도/JX
+꾸지를	꾸지르/VV+ㄹ/ETM
+못한다	못하/VX+ㄴ다/EF
+
+계단도	계단/NNG+도/JX
+못	못/MAG
+오른다	오르/VV+ㄴ다/EC
+
+그럴	그렇/VA+ㄹ/ETM
+때마다	때/NNG+마다/JX
+이	이/MM
+도시형	도시/NNG+형/XSN
+휠체어에	휠체어/NNG+에/JKB
+분통이	분통/NNG+이/JKS
+터진다	터지/VV+ㄴ다/EC
+
+누가	누구/NP+가/JKS
+바퀴를	바퀴/NNG+를/JKO
+이렇게	이렇/VA+게/EC
+작게	작/VA+게/EC
+만들었고,	만들/VV+었/EP+고/EC+,/SP
+타이어를	타이어/NNG+를/JKO
+매끄럽게	매끄럽/VA+게/EC
+만들었는지	만들/VV+었/EP+는지/EC
+
+이런	이런/MM
+문제를	문제/NNG+를/JKO
+한꺼번에	한꺼번에/MAG
+해결한	해결하/VV+ㄴ/ETM
+휠체어가	휠체어/NNG+가/JKS
+있다	있/VA+다/EC
+
+그	그/MM
+이름도	이름/NNG+도/JX
+무지막지한	무지막지하/VA+ㄴ/ETM
+탱크	탱크/NNG
+휠체어	휠체어/NNG
+
+이	이/MM
+휠체어로는	휠체어/NNG+로/JKB+는/JX
+못가는	못/MAG+가/VV+는/ETM
+데가	데/NNB+가/JKS
+없다	없/VA+다/EF
+
+이	이/MM
+휠체어는	휠체어/NNG+는/JX
+바퀴대신	바퀴대신/NNG
+탱크처럼	탱크/NNG+처럼/JKB
+릴이	릴이/NNG
+돌아간다	돌아가/VV+ㄴ다/EC
+
+이제	이제/MAG
+거칠게	거칠/VA+게/EC
+없다	없/VA+다/EF
+
+거친	거치/VV+ㄴ/ETM
+것을	것/NNB+을/JKO
+좋아하는	좋아하/VV+는/ETM
+장애인들에게	장애인/NNG+들/XSN+에게/JKB
+이것처럼	이것/NP+처럼/JKB
+좋은	좋/VA+은/ETM
+것은	것/NNB+은/JX
+없다	없/VA+다/EF
+
+이	이/MM
+휠체어는	휠체어/NNG+는/JX
+아내가	아내/NNG+가/JKS
+일반	일반/NNG
+휠체어로	휠체어/NNG+로/JKB
+제약이	제약/NNG+이/JKS
+많은	많/VA+은/ETM
+것을	것/NNB+을/JKO
+본	보/VV+ㄴ/ETM
+브레드가	브레드/NNP+가/JKS
+만들었다	만들/VV+었/EP+다/EC
+
+그는	그/NP+는/JX
+이제	이제/MAG
+그의	그/NP+의/JKG
+아내	아내/NNG
+리즈와	리즈/NNG+와/JC
+어디든지	어디/NP+든지/JX
+함께	함께/MAG
+갈	가/VV+ㄹ/ETM
+수가	수/NNB+가/JKS
+있다	있/VA+다/EC
+
+부인을	부인/NNG+을/JKO
+끔찍하게	끔찍하/VA+게/EC
+사랑하면	사랑하/VV+면/EC
+이런	이런/MM
+획기적인	획기적/NNG+이/VCP+ㄴ/ETM
+제품도	제품/NNG+도/JX
+만들어	만들/VV+어/EC
+냈나보다	내/VX+었/EP+나/EC+보/VX+다/EC
+
+브레드와	브레드/NNP+와/JC
+리즈	리즈/NNP
+부부(출처:	부부/NNG+(/SS+출처/NNG+:/SP
+TC	TC/SL
+모빌리티	모빌리티/NNG
+홈페이지	홈페이지/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ샘/SN
+*	*/SW
+샘	샘/NNG
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNP
+객원기자로	객원기자/NNG+로/JKB
+캘리포니아	캘리포니아/NNP
+버클리대학	버클리대학/NNP
+사회학과를	사회학과/NNG+를/JKO
+졸업하고,	졸업하/VV+고/EC+,/SP
+전	전/MM
+미상원	미/NNP+상원/NNG
+장애인국	장애인국/NNG
+인턴을	인턴/NNG+을/JKO
+지냈다	지내/VV+었/EP+다/EC
+
+현재	현재/MAG
+TEC	TEC/SL
+대표를	대표/NNG+를/JKO
+맡고	맡/VV+고/EC
+있다	있/VX+다/EC

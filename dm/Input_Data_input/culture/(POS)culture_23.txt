@@ -1,0 +1,124 @@
+-패럴림픽-	-/SO+패럴림픽/NNG+-/SO
+사격	사격/NNG
+심영집,	심영집/NNG+,/SP
+소총	소총/NNG
+50ｍ	50/SN+ｍ/SL
+3자세	3/SN+자세/NNG
+4위	4/SN+위/NNB
+
+(런던=연합뉴스)	(/SS+런던/NNP+=/SW+연합뉴스/NNP+)/SS
+전명훈	전명훈/NNP
+기자	기자/NNG
+=	=/SW
+패럴림픽	패럴림픽/NNG
+사격	사격/NNG
+대표팀의	대표팀/NNG+의/JKG
+심영집(39)이	심영집/NNG+(/SS+39/SN+)/SS+이/JKS
+메달을	메달/NNG+을/JKO
+추가하지	추가하/VV+지/EC
+못했다	못하/VX+였/EP+다/EC
+
+심영집은	심영집/NNP+은/JX
+5일	5/SN+일/NNB
+영국	영국/NNP
+런던	런던/NNP
+왕립	왕립/NNG
+포병대에서	포병대/NNG+에서/JKB
+열린	열리/VV+ㄴ/ETM
+2012	2012/SN
+런던	런던/NNP
+패럴림픽	패럴림픽/NNG
+사격	사격/NNG
+남자	남자/NNG
+50ｍ	50/SN+ｍ/SL
+소총	소총/NNG
+3자세	3/SN+자세/NNG
+SH1(절단	SH/SL+1/SN+(/SS+절단/NNG
+및	및/MAG
+기타장애)	기타장애/NNG+)/SS
+결승에서	결승/NNG+에서/JKB
+함계	함계/MAG
+1천245	1/SN+천/NR+245/SN
+
+7점으로	7/SN+점/NNB+으로/JKB
+4위에	4/SN+위/NNB+에/JKB
+올랐다	오르/VV+았/EP+다/EC
+
+함께	함께/MAG
+결승에	결승/NNG+에/JKB
+오른	오르/VV+ㄴ/ETM
+심재용(48)은	심재용/NNP+(/SS+48/SN+)/SS+은/JX
+결승	결승/NNG
+합계	합계/NNG
+1천235	1/SN+천/NR+235/SN
+
+9점을	9/SN+점/NNB+을/JKO
+쏴	쏴/SL
+5위를	5/SN+위/NNB+를/JKO
+차지했다	차지하/VV+었/EP+다/EC
+
+1천255	1/SN+천/NR+255/SN
+
+9점을	9/SN+점/NNB+을/JKO
+쏜	쏘/VV+ㄴ/ETM
+요나스	요나스/NNP
+야콥슨(스웨덴)이	야콥슨/NNP+(/SS+스웨덴/NNP+)/SS+이/JKS
+금메달을	금메달/NNG+을/JKO
+차지했고	차지하/VV+였/EP+고/EC
+이스라엘의	이스라엘/NNP+의/JKG
+도론	도론/NNP
+샤지리는	샤지리/NNP+는/JX
+1천252	1/SN+천/NR+252/SN
+
+4점으로	4/SN+점/NNB+으로/JKB
+은메달을	은메달/NNG+을/JKO
+땄다	따/VV+았/EP+다/EF
+
+한편	한편/MAG
+휠체어	휠체어/NNG
+펜싱	펜싱/NNG
+종목의	종목/NNG+의/JKG
+유일한	유일하/VA+ㄴ/ETM
+한국	한국/NNP
+선수인	선수/NNG+이/VCP+ㄴ/ETM
+김선미(23)는	김선미/NNP+(/SS+23/SN+)/SS+는/JX
+엑셀	엑셀/NNG
+노스	노스/NNG
+아레나에서	아레나/NNP+에서/JKB
+열린	열리/VV+ㄴ/ETM
+휠체어	휠체어/NNG
+펜싱	펜싱/NNG
+여자	여자/NNG
+개인	개인/NNG
+에페	에페/NNG
+카테고리A(상대적으로	카테고리/NNG+A/SL+(/SS+상대적/NNG+으로/JKB
+가벼운	가볍/VA+ㄴ/ETM
+장애)	장애/NNG+)/SS
+8강전에서	8/SN+강/NNG+전/XSN+에서/JKB
+중국의	중국/NNP+의/JKG
+위취이(28)에게	위취/NNG+이/JKS+(/SS+28/SN+)/SS+에게/JKB
+9-15로	9/SN+-/SO+15/SN+로/JKB
+패했다	패하/VV+였/EP+다/EF
+
+junmk@yna	junmk/SL+@/SW+yna/SL
+
+co	co/SL
+
+kr<저	kr/SL+</SS+저/MM
+작	작/NNG
+권	권/NNP
+자(c)연	자/NP+(/SS+c/SL+)/SS+연/NNG
+합	합/NNG
+뉴	뉴/NNG
+스	스/NNG
+
+무	무/NNG
+단	단/MM
+전	전/NNG
+재-재	재/NNG+-/SO+재/NNG
+배	배/NNG
+포	포/NNG
+금	금/VV
+지	짓/VV
+
+>	>/SS

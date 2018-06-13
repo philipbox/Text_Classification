@@ -1,0 +1,132 @@
+장애인,	장애인/NNG+,/SP
+비장애인보다	비장애인/NNG+보다/JKB
+건강	건강/NNG
+위험	위험/NNG
+
+장애인의	장애인/NNG+의/JKG
+고혈압,	고혈압/NNG+,/SP
+당뇨벙	당뇨벙/NNG
+질환의심율이	질환의심율/NNG+이/JKS
+비장애인에	비장애인/NNG+에/JKB
+비해	비하/VV+여/EC
+두	두/MM
+배	배/NNG
+가까이	가까이/MAG
+높게	높/VA+게/EC
+나타나	나타나/VV+아/EC
+대안마련이	대안마련/NNG+이/JKS
+필요하다는	필요하/VA+다는/ETM
+지적이	지적/NNG+이/JKS
+나왔다	나오/VV+았/EP+다/EF
+
+9일	9/SN+일/NNB
+국회	국회/NNG
+보건복지위원회	보건복지위원회/NNG
+소속	소속/NNG
+새누리당	새누리당/NNP
+김정록	김정록/NNP
+의원이	의원/NNG+이/JKS
+국민건강보험공단이	국민건강보험공단/NNG+이/JKS
+제출한	제출하/VV+ㄴ/ETM
+국정감사	국정감사/NNG
+자료를	자료/NNG+를/JKO
+분석한	분석하/VV+ㄴ/ETM
+결과	결과/NNG
+고혈압	고혈압/NNG
+질환의심율은	질환의심율/NNG+은/JX
+장애인	장애인/NNG
+24	24/SN
+
+3%,	3/SN+%/SW+,/SP
+비장애인	비/XPN+장애인/NNG
+9	9/SN
+
+5%였고,	5/SN+%/SW+이/VCP+었/EP+고/EC+,/SP
+당뇨병은	당뇨병/NNG+은/JX
+장애인	장애인/NNG
+10	10/SN
+
+4%,	4/SN+%/SW+,/SP
+비장애인	비/XPN+장애인/NNG
+3	3/SN
+
+8%	8/SN+%/SW
+이었다	잇/VV+었/EP+다/EF
+
+또한	또한/MAG
+체질량지수	체질량지수/NNG
+비만율은	비만율/NNG+은/JX
+장애인	장애인/NNG
+42%,	42/SN+%/SW+,/SP
+비장애인	비/XPN+장애인/NNG
+32	32/SN
+
+2%	2/SN+%/SW
+복부비만율은	복부비만율/NNG+은/JX
+장애인	장애인/NNG
+32	32/SN
+
+6%,	6/SN+%/SW+,/SP
+비장애인	비/XPN+장애인/NNG
+19	19/SN
+
+6%	6/SN+%/SW
+이상지지혈증은	이상지지혈증/NNG+은/JX
+장애인	장애인/NNG
+3%,	3/SN+%/SW+,/SP
+비장애인	비/XPN+장애인/NNG
+1	1/SN
+
+4%였다	4/SN+%/SW+이/VCP+었/EP+다/EF
+
+이외에도	이외/NNG+에/JKB+도/JX
+장애인들의	장애인/NNG+들/XSN+의/JKG
+건강검진	건강검진/NNG
+수검율이	수검율/NNG+이/JKS
+지난해	지난해/NNG
+65%이었고,	65/SN+%/SW+이/VCP+었/EP+고/EC+,/SP
+올해	올해/NNG
+7월말까지는	7/SN+월말/NNB+까지는/JX
+26%로	26/SN+%/SW+로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+올해	올해/NNG
+장애유형별	장애유형별/NNG
+검진율을	검진/NNG+율/XSN+을/JKO
+보면	보/VV+면/EC
+지체장애인이	지체장애인/NNG+이/JKS
+28%,	28/SN+%/SW+,/SP
+정신장애인	정신장애인/NNG
+18%,	18/SN+%/SW+,/SP
+신장장애인	신장장애인/NNG
+10%	10/SN+%/SW
+순이었다	순/XSN+이/VCP+었/EP+다/EF
+
+김정록	김정록/NNP
+의원은	의원/NNG+은/JX
+“질병으로	“/SL+질병/NNG+으로/JKB
+이환되기	이환되/VV+기/ETN
+전	전/NNG
+건강검진을	건강검진/NNG+을/JKO
+통해	통하/VV+여/EC
+조기에	조기/NNG+에/JKB
+발견하는	발견하/VV+는/ETM
+것은	것/NNB+은/JX
+환자의	환자/NNG+의/JKG
+삶과	삶/NNG+과/JC
+질병	질병/NNG
+치료에	치료/NNG+에/JKB
+있어	있/VA+어/EC
+무엇보다	무엇/NP+보다/JKB
+중요하다”며	중요하/VA+다/EC+”/VX+며/EC
+“장애인의	“/SN+장애인/NNG+의/JKG
+수검율	수검율/NNG
+향상과	향상/NNG+과/JC
+장애인을	장애인/NNG+을/JKO
+배려한	배려하/VV+ㄴ/ETM
+맞춤형	맞춤/NNG+형/XSN
+건강개선	건강개선/NNG
+프로그램	프로그램/NNG
+마련이	마련/NNG+이/JKS
+절실하다”고	절실하/VA+다”고/EC
+강조했다	강조하/VV+였/EP+다/EC

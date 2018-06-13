@@ -1,0 +1,62 @@
+‘제1회	‘/SL+제/XPN+1/SN+회/NNB
+서울시	서울시/NNP
+3대3	3/SN+대/NNB+3/SN
+휠체어농구대회’	휠체어농구대회/NNG+’/SN
+18일	18/SN+일/NNB
+개최	개최/NNG
+
+‘제1회	‘/SL+제/XPN+1/SN+회/NNB
+서울특별시장애인농구협회장배	서울/NNP+특별시장애인농구협회장배/NNG
+3대3	3/SN+대/NNB+3/SN
+휠체어농구대회’가	휠체어농구대회/NNG+’/SL+가/JKS
+오는	오/VV+는/ETM
+18일	18/SN+일/NNB
+오전	오전/NNG
+9시	9/SN+시/NNB
+30분부터	30/SN+분/NNB+부터/JX
+강동구	강동구/NNP
+고덕동	고덕동/NNP
+소재	소재/NNG
+온조대왕문화체육관에서	온조대왕문화체육관/NNP+에서/JKB
+열린다	열리/VV+ㄴ다/EF
+
+서울특별시장애인농구협회가	서울/NNP+특별시장애인농구협회/NNG+가/JKS
+주최하는	주최하/VV+는/ETM
+이번	이번/NNG
+대회는	대회/NNG+는/JX
+지난해	지난해/NNG
+초	초/NNB
+국제휠체어농구연맹(IWBF)이	국제휠체어농구연맹/NNG+(/SS+IWBF/SL+)/SS+이/JKS
+3대3	3/SN+대/NNB+3/SN
+휠체어농구	휠체어농구/NNG
+규칙을	규칙/NNG+을/JKO
+제정한데	제정하/VV+ㄴ/ETM+데/NNB
+따른	따르/VV+ㄴ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+지금까지는	지금/NNG+까지는/JX
+공인된	공인되/VV+ㄴ/ETM
+규칙이	규칙/NNG+이/JKS
+없었다	없/VA+었/EP+다/EF
+
+이번	이번/NNG
+대회는	대회/NNG+는/JX
+여자부와	여자부/NNG+와/JC
+남자부로	남자/NNG+부/NNB+로/JKB
+나뉘어	나뉘/VV+어/EC
+진행된다	진행되/VV+ㄴ다/EC
+
+여자부에는	여자부/NNG+에/JKB+는/JX
+‘플로라’	‘/SL+플로라/NNP+’/SL
+팀을	팀/NNG+을/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+6개팀,	6/SN+개/NNB+팀/NNG+,/SP
+남자부에는	남자/NNG+부/NNB+에/JKB+는/JX
+‘막무가내’팀을	‘/SL+막무가내/NNG+’/SL+팀/NNG+을/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+12개팀이	12/SN+개/NNB+팀/NNG+이/JKS
+참가해	참가하/VV+여/EC
+열띤	열띠/VA+ㄴ/ETM
+경쟁을	경쟁/NNG+을/JKO
+펼치게	펼치/VV+게/EC
+된다	되/VV+ㄴ다/EF

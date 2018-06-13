@@ -1,0 +1,158 @@
+22일	22/SN+일/NNB
+토요일은	토요일/NNG+은/JX
+‘연탄나눔	‘/SN+연탄/NNG+나누/VV+ㅁ/ETN
+실천의	실천/NNG+의/JKG
+날’	날/NNG+’/SN
+
+서울시는	서울시/NNP+는/JX
+시	시/NNG
+대표	대표/NNG
+페이스북(https://www	페이스북/NNG+(/SS+https/SL+:///SP+www/SL
+
+facebook	facebook/SL
+
+com/seoul	com/SL+//SP+seoul/SL
+
+kr/)에서	kr/SL+//SP+)/SS+에서/JKB
+지난	지나/VV+ㄴ/ETM
+3일부터	3/SN+일/NNB+부터/JX
+진행한	진행하/VV+ㄴ/ETM
+연탄	연탄/NNG
+기부	기부/NNG
+캠페인	캠페인/NNG
+‘희망마을을	‘/SL+희망마을/NNG+을/JKO
+밝혀주세요~!’를	밝허/VV+어/EF+주/VX+세요/EF+~/SO+!/SF+’/SL+를/JKO
+통해	통하/VV+여/EC
+모아진	모으/VV+아/EC+지/VX+ㄴ/ETM
+연탄을	연탄/NNG+을/JKO
+상계	상계/NNG
+3,	3/SN+,/SP
+4동	4/SN+동/NNG
+일대	일대/NNG
+50여	50/SN+여/XSN
+가구에	가구/NNG+에/JKB
+직접	직접/MAG
+전달하는	전달하/VV+는/ETM
+‘연탄나눔	‘/SN+연탄/NNG+나누/VV+ㅁ/ETN
+실천의	실천/NNG+의/JKG
+날’	날/NNG+’/SL
+행사를	행사/NNG+를/JKO
+오는	오/VV+는/ETM
+22일	22/SN+일/NNB
+연다	열/VV+ㄴ다/EF
+
+페이스북	페이스북/NNG
+캠페인에	캠페인/NNG+에/JKB
+참여하고,	참여하/VV+고/EC+,/SP
+자원봉사를	자원봉사/NNG+를/JKO
+신청한	신청하/VV+ㄴ/ETM
+300여명의	300/SN+여/XSN+명/NNB+의/JKG
+시민과	시민/NNG+과/JC
+우리은행	우리은행/NNP
+엠포스	엠포스/NNP
+등	등/NNB
+캠페인	캠페인/NNG
+후원기업	후원기업/NNG
+임직원	임직원/NNG
+등	등/NNB
+직접	직접/MAG
+연탄을	연탄/NNG+을/JKO
+전달할	전달하/VV+ㄹ/ETM
+계획이다	계획/NNG+이/VCP+다/EC
+
+‘희망마을을	‘/SL+희망마을/NNG+을/JKO
+밝혀주세요~!’	밝허/VV+어/EF+주/VX+세요/EF+~/SO+!/SF+’/SL
+페이스북	페이스북/NNG
+캠페인을	캠페인/NNG+을/JKO
+통해	통하/VV+여/EC
+21일	21/SN+일/NNB
+오전	오전/NNG
+11시	11/SN+시/NNB
+현재,	현재/NNG+,/SP
+기업후원으로	기업후원/NNG+으로/JKB
+연탄	연탄/NNG
+7만장이	7/SN+만/NR+장/NNB+이/JKS
+기부되었으며,	기부되/VV+었/EP+으며/EC+,/SP
+시민자원봉사자	시민자원봉사자/NNG
+150여명이	150/SN+여/XSN+명/NNB+이/JKS
+접수됐다	접수되/VV+었/EP+다/EF
+
+한번	한/MM+번/NNB
+클릭으로	클릭/NNG+으로/JKB
+연탄	연탄/NNG
+한	한/MM
+장(600원)이	장/NNB+(/SS+600/SN+원/NNB+)/SS+이/JKS
+기부되는	기부/NNG+되/XSV+는/ETM
+시민참여로는	시민참여/NNG+로/JKB+는/JX
+4508장의	4508/SN+장/NNB+의/JKG
+연탄이	연탄/NNG+이/JKS
+모아졌다	모으/VV+아/EC+지/VX+었/EP+다/EF
+
+페이스북	페이스북/NNG
+캠페인	캠페인/NNG
+종료	종료/NNG
+후에도	후/NNG+에/JKB+도/JX
+캠페인을	캠페인/NNG+을/JKO
+함께	함께/MAG
+추진한	추진하/VV+ㄴ/ETM
+‘사회복지공동모금회’(http://www	‘/SN+사회복지공동모금회’/NNG+(/SS+http/SL+:///SP+www/SL
+
+chest	chest/SL
+
+or	or/SL
+
+kr/)와	kr/SL+//SP+)/SS+와/JC
+‘사랑의	‘/SN+사랑/NNG+의/JKG
+연탄나눔운동(사)’(http://www	연탄나눔운동/NNG+(/SS+사/NNG+)/SS+’/SN+(/SS+http/SL+:///SP+www/SL
+
+lovecoal	lovecoal/SL
+
+org/)은	org/SL+//SP+)/SS+은/JX
+기부와	기부/NNG+와/JC
+자원봉사신청을	자원봉사신청/NNG+을/JKO
+계속	계속/MAG
+받을	받/VV+을/ETM
+예정이다	예정/NNG+이/VCP+다/EC
+
+또한,	또한/MAG+,/SP
+서울시는	서울시/NNP+는/JX
+어려운	어렵/VA+ㄴ/ETM
+이웃들이	이웃/NNG+들/XSN+이/JKS
+따뜻한	따뜻하/VA+ㄴ/ETM
+겨울을	겨울/NNG+을/JKO
+날	나/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+‘희망온돌’(http://ondol	‘/SN+희망온돌/NNG+’/SN+(/SS+http/SL+:///SP+ondol/SL
+
+welfare	welfare/SL
+
+seoul	seoul/SL
+
+kr/)프로젝트를	kr/SL+//SP+)/SS+프로젝트/NNG+를/JKO
+진행하고	진행하/VV+고/EC
+있다	있/VX+다/EC
+
+기동민	기동민/NNG
+서울시	서울시/NNP
+정무부시장은	정무부시장/NNG+은/JX
+“나눔은	“/SN+나누/VV+ㅁ/ETN+은/JX
+단순히	단순히/MAG
+누군가를	누구/NP+이/VCP+ㄴ가/EC+를/JKO
+돕는	돕/VV+는/ETM
+것이	것/NNB+이/JKC
+아니라	아니/VCN+라/EC
+나를	나/NP+를/JKO
+포함한	포함하/VV+ㄴ/ETM
+사회를	사회/NNG+를/JKO
+변화시키는	변화/NNG+시키/XSV+는/ETM
+소중한	소중하/VA+ㄴ/ETM
+사랑의	사랑/NNG+의/JKG
+시작”이라면서	시작”/NNG+이/VCP+라면서/EC
+“시민들이	“/SL+시민/NNG+들/XSN+이/JKS
+나눔에	나누/VV+ㅁ/ETN+에/JKB
+적극	적극/NNG
+동참해	동참하/VV+여/EC
+줄	주/VX+ㄹ/ETM
+것”을	것/NNB+”/SL+을/JKO
+당부했다	당부하/VV+였/EP+다/EC

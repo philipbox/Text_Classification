@@ -1,0 +1,253 @@
+대형마트	대형마트/NNG
+홈페이지	홈페이지/NNG
+웹	웹/NNG
+접근성	접근성/NNG
+'엉망'	'/SS+엉망/NNG+'/SS
+
+대형마트	대형마트/NNG
+홈페이지가	홈페이지/NNG+가/JKS
+장애인들이	장애인/NNG+들/XSN+이/JKS
+사용하기에	사용하/VV+기/ETN+에/JKB
+어려운	어렵/VA+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+한국시각장애인연합회	한국/NNP+시각장애인연합회/NNG
+부설	부설/NNG
+한국웹접근성평가센터는	한국웹접근성평가센터/NNP+는/JX
+국내	국내/NNG
+대표	대표/NNG
+대형마트	대형마트/NNG
+4곳의	4/SN+곳/NNG+의/JKG
+홈페이지에	홈페이지/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+웹접근성을	웹접근성/NNG+을/JKO
+평가해	평가하/VV+여/EC
+보니	보/VX+니/EC
+평균이	평균/NNG+이/JKS
+39	39/SN
+
+4점으로	4/SN+점/NNB+으로/JKB
+매우	매우/MAG
+낮았다고	낮/VA+았/EP+다고/EC
+31일	31/SN+일/NNB
+밝혔다	밝히/VV+었/EP+다/EC
+
+가장	가장/MAG
+웹접근성이	웹접근성/NNG+이/JKS
+낮은	낮/VA+은/ETM
+곳은	곳/NNG+은/JX
+홈플러스(http://www	홈플러스/NNP+(/SS+http/SL+:///SP+www/SL
+
+homeplus	homeplus/SL
+
+co	co/SL
+
+kr)로	kr/SL+)/SS+로/JKB
+겨우	겨우/MAG
+25	25/SN
+
+9점을	9/SN+점/NNB+을/JKO
+받았다	받/VV+았/EP+다/EC
+
+롯데마트몰(http://www	롯데마트몰/NNP+(/SS+http/SL+:///SP+www/SL
+
+lottemart	lottemart/SL
+
+com)이	com/SL+)/SS+이/JKS
+최고	최고/NNG
+점수를	점수/NNG+를/JKO
+받았지만	받/VV+았/EP+지만/EC
+가까스로	가까스로/MAG
+50점을	50/SN+점/NNB+을/JKO
+넘긴	넘기/VV+ㄴ/ETM
+51	51/SN
+
+5점에	5/SN+점/NNB+에/JKB
+불과했다	불과하/VA+었/EP+다/EC
+
+이마트(http://www	이마트/NNP+(/SS+http/SL+:///SP+www/SL
+
+emartmall	emartmall/SL
+
+com)는	com/SL+)/SS+는/JX
+46	46/SN
+
+9점,	9/SN+점/NNB+,/SP
+NH쇼핑(http://www	NH/SL+쇼핑/NNG+(/SS+http/SL+:///SP+www/SL
+
+nhshopping	nhshopping/SL
+
+co	co/SL
+
+kr)은	kr/SL+)/SS+은/JX
+33	33/SN
+
+1점이	1/SN+점/NNB+이/JKS
+나왔다	나오/VV+았/EP+다/EF
+
+이들	이/NP+들/XSN
+홈페이지는	홈페이지/NNG+는/JX
+주메뉴	주메뉴/NNG
+및	및/MAG
+카테고리를	카테고리/NNG+를/JKO
+웹접근성	웹접근성/NNG
+기준에	기준/NNG+에/JKB
+맞게	맞/VV+게/EC
+제공하지	제공하/VV+지/EC
+않아	않/VX+아/EC
+시각장애인이나	시각장애인/NNG+이나/JC
+상지	상지/NNP
+지체장애인	지체장애인/NNG
+및	및/MAG
+뇌병변	뇌병변/NNG
+장애인	장애인/NNG
+모두가	모두/NNG+가/JKS
+주메뉴를	주메뉴/NNG+를/JKO
+통해	통하/VV+여/EC
+홈페이지의	홈페이지/NNG+의/JKG
+콘텐츠를	콘텐츠/NNG+를/JKO
+개략적으로	개략적/NNG+으로/JKB
+이해하고	이해하/VV+고/EC
+키보드	키보드/NNG
+포커스를	포커스/NNG+를/JKO
+이동시켜	이동/NNG+시키/XSV+어/EC
+탐색하는	탐색하/VV+는/ETM
+데	데/NNB
+어려움이	어려움/NNG+이/JKS
+많았다	많/VA+았/EP+다/EC
+
+특히	특히/MAG
+홈플러스와	홈플러스/NNP+와/JC
+NH쇼핑은	NH/SL+쇼핑/NNG+은/JX
+주메뉴	주메뉴/NNG
+영역으로	영역/NNG+으로/JKB
+아예	아예/MAG
+키보드	키보드/NNG
+포커스가	포커스/NNG+가/JKS
+이동하지	이동하/VV+지/EC
+않았으며,	않/VX+았/EP+으며/EC+,/SP
+롯데마트몰은	롯데마트몰/NNP+은/JX
+키보드로	키보드/NNG+로/JKB
+메인메뉴의	메인메뉴/NNG+의/JKG
+하위메뉴	하위메뉴/NNG
+영역을	영역/NNG+을/JKO
+열	열/VV+ㄹ/ETM
+수	수/NNB
+없었다	없/VA+었/EP+다/EF
+
+또한	또한/MAG
+주메뉴,	주메뉴/NNP+,/SP
+하위메뉴,	하위메뉴/NNP+,/SP
+본문	본문/NNG
+등	등/NNB
+페이지의	페이지/NNG+의/JKG
+주요	주요/NNG
+영역으로	영역/NNG+으로/JKB
+빠르게	빠르/VA+게/EC
+이동하도록	이동하/VV+도록/EC
+하는	하/VX+는/ETM
+바로가기	바로가/VV+기/ETN
+링크를	링크/NNG+를/JKO
+네	너/NP+의/JKG
+곳	곳/NNG
+모두	모두/MAG
+전혀	전혀/MAG
+제공하지	제공하/VV+지/EC
+않았다	않/VX+았/EP+다/EF
+
+무엇보다	무엇/NP+보다/JKB
+상품	상품/NNG
+정보의	정보/NNG+의/JKG
+일부	일부/NNG
+내용을	내용/NNG+을/JKO
+이미지로	이미지/NNG+로/JKB
+제시하고	제시하/VV+고/EC
+있으면서도	있/VX+으면서/EC+도/JX
+시각장애인이	시각장애인/NNG+이/JKS
+화면읽기프로그램으로	화면읽기프로그램/NNG+으로/JKB
+이미지에	이미지/NNG+에/JKB
+표현된	표현되/VV+ㄴ/ETM
+내용을	내용/NNG+을/JKO
+파악할	파악하/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+대체텍스트를	대체텍스트/NNG+를/JKO
+제공하지	제공하/VV+지/EC
+않았는데	않/VX+았/EP+는데/EC
+이로	이/NP+로/JKB
+인해	인하/VV+여/EC
+시각장애인은	시각장애인/NNG+은/JX
+상품에	상품/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+정확한	정확하/VA+ㄴ/ETM
+정보를	정보/NNG+를/JKO
+알기가	알/VV+기/ETN+가/JKS
+어려운	어렵/VA+ㄴ/ETM
+것	것/NNB
+
+한국웹접근성평가센터	한국/NNP+웹접근성평가센터/NNG
+강완식	강완식/NNP
+소장은	소장/NNG+은/JX
+“인터넷	“/SN+인터넷/NNG
+쇼핑	쇼핑/NNG
+사이트의	사이트/NNG+의/JKG
+경우	경우/NNG
+접근성이	접근성/NNG+이/JKS
+부족하면	부족하/VA+면/EC
+화면을	화면/NNG+을/JKO
+논리적으로	논리적/NNG+으로/JKB
+이해할	이해하/VV+ㄹ/ETM
+수	수/NNB
+없고	없/VA+고/EC
+제시된	제시되/VV+ㄴ/ETM
+정보를	정보/NNG+를/JKO
+오해할	오해하/VV+ㄹ/ETM
+소지가	소지/NNG+가/JKS
+높아	높/VA+아/EC
+장애인은	장애인/NNG+은/JX
+올바른	올바르/VA+ㄴ/ETM
+소비를	소비/NNG+를/JKO
+할	하/VV+ㄹ/ETM
+수	수/NNB
+없다”면서	없/VA+다”면서/EC
+“장애인	“/SL+장애인/NNG
+소비자들이	소비자/NNG+들/XSN+이/JKS
+손해를	손해/NNG+를/JKO
+보지	보/VV+지/EC
+않도록	않/VX+도록/EC
+웹접근성을	웹접근성/NNG+을/JKO
+고려해줄	고려하/VV+여/EC+주/VX+ㄹ/EC
+것을	것/NNB+을/JKO
+요청”했다	요청”하/VV+였/EP+다/EF
+
+한편	한편/MAG
+이번	이번/NNG
+평가는	평가/NNG+는/JX
+7월	7/SN+월/NNB
+16일부터	16/SN+일/NNB+부터/JX
+7월	7/SN+월/NNB
+27일,	27/SN+일/NNB+,/SP
+전맹	전맹/NNG
+시각장애인,	시각장애인/NNG+,/SP
+저시력	저시력/NNG
+시각장애인,	시각장애인/NNG+,/SP
+지체/뇌병변	지체/NNG+//SP+뇌병변/NNP
+장애인	장애인/NNG
+각	각/MM
+1인이	1/SN+인/NNG+이/JKS
+참여했으며,	참여하/VV+였/EP+으며/EC+,/SP
+국가표준인	국가표준/NNG+이/VCP+ㄴ/ETM
+'한국형	'/SS+한국/NNP+형/XSN
+웹	웹/NNG
+콘텐츠	콘텐츠/NNG
+접근성	접근성/NNG
+지침	지침/NNG
+2	2/SN
+
+0'에	0/SN+'/SS+에/JKB
+근거해	근거하/VV+여/EC
+만족도를	만족도/NNG+를/JKO
+평가하는	평가하/VV+는/ETM
+방식으로	방식/NNG+으로/JKB
+실시됐다	실시되/VV+었/EP+다/EF

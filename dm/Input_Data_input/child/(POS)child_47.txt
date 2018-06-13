@@ -1,0 +1,349 @@
+손가락	손가락/NNG
+없는	없/VA+는/ETM
+체조선수	체조선수/NNG
+'베일리'	'/SS+베일리/NNP+'/SS
+
+미국	미국/NNP
+최고의	최고/NNG+의/JKG
+교육	교육/NNG
+방송	방송/NNG
+PBS에서는	PBS/SL+에서/JKB+는/JX
+어린이들에게	어린이/NNG+들/XSN+에게/JKB
+가장	가장/MAG
+큰	크/VA+ㄴ/ETM
+영향을	영향/NNG+을/JKO
+줄	주/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+어린이들을	어린이/NNG+들/XSN+을/JKO
+뽑아	뽑/VV+아/EC
+피비에스	피비에스/NNG
+킷츠라는	킷츠/NNG+이/VCP+라는/ETM
+30초짜리	30/SN+초/NNB+짜리/XSN
+방송을	방송/NNG+을/JKO
+내보낸다	내보내/VV+ㄴ다/EF
+
+이	이/MM
+방송의	방송/NNG+의/JKG
+목적은	목적/NNG+은/JX
+어린이들을	어린이/NNG+들/XSN+을/JKO
+고무시켜	고무/NNG+시키/XSV+어/EC
+훌륭한	훌륭하/VA+ㄴ/ETM
+어린이로	어린이/NNG+로/JKB
+자라게	자라/VV+게/EC
+하려는	하/VX+려는/ETM
+목적이다	목적/NNG+이/VCP+다/EC
+
+모든	모든/MM
+아이들이	아이/NNG+들/XSN+이/JKS
+놀라고	놀라/VV+고/EC
+도전을	도전/NNG+을/JKO
+받아야	받/VV+아야/EC
+하기	하/VX+기/ETN
+때문에	때문/NNB+에/JKB
+미	미/NNP
+전국에서	전국/NNG+에서/JKB
+귀감이	귀감/NNG+이/JKC
+될만한	되/VV+ㄹ/ETM+만하/VX+ㄴ/ETM
+어린이들을	어린이/NNG+들/XSN+을/JKO
+선정해	선정하/VV+여/EC
+내보낸다	내보내/VV+ㄴ다/EF
+
+그	그/MM
+어린이	어린이/NNG
+중에	중/NNB+에/JKB
+베일리는	베일리/NNP+는/JX
+유독	유독/MAG
+눈에	눈/NNG+에/JKB
+띈다	띄/VV+ㄴ다/EF
+
+손가락이	손가락/NNG+이/JKS
+없는	없/VA+는/ETM
+어린이가	어린이/NNG+가/JKS
+체조를	체조/NNG+를/JKO
+하기	하/VV+기/ETN
+때문이다	때문/NNB+이/VCP+다/EC
+
+그녀는	그녀/NP+는/JX
+체조하기에는	체조하/VV+기/ETN+에/JKB+는/JX
+엄청나게	엄청나/VA+게/EC
+불리한	불리하/VA+ㄴ/ETM
+신체	신체/NNG
+조건을	조건/NNG+을/JKO
+가지고	가지/VV+고/EC
+있다	있/VX+다/EC
+
+오른	오르/VV+ㄴ/ETM
+손	손/NNG
+기형으로	기형/NNG+으로/JKB
+손가락들이	손가락/NNG+들/XSN+이/JKS
+없다	없/VA+다/EF
+
+그런	그런/MM
+조건으로	조건/NNG+으로/JKB
+다른	다른/MM
+운동은	운동/NNG+은/JX
+그럭저럭	그럭저럭/MAG
+해	하/VV+여/EC
+낸다해도	내/VX+ㄴ다/EC+하/VV+여도/EC
+철봉	철봉/NNG
+부분에	부분/NNG+에/JKB
+있어서는	있/VA+어서/EC+는/JX
+불가능에	불가능/NNG+에/JKB
+가깝다	가깝/VA+다/EC
+
+두	두/MM
+손으로	손/NNG+으로/JKB
+꼭	꼭/MAG
+잡아도	잡/VV+아도/EC
+철봉을	철봉/NNG+을/JKO
+잡고	잡/VV+고/EC
+뱅글뱅글	뱅글뱅글/MAG
+도는	돌/VV+는/ETM
+것이	것/NNB+이/JKS
+여간	여간/MAG
+힘드는	힘들/VA+는/ETM
+일이	일/NNG+이/JKC
+아니라는	아니/VCN+라는/ETM
+것은	것/NNB+은/JX
+모두	모두/MAG
+알고	알/VV+고/EC
+있는	있/VX+는/ETM
+사실이다	사실/NNG+이/VCP+다/EC
+
+그런데	그런데/MAJ
+그녀는	그녀/NP+는/JX
+철봉을	철봉/NNG+을/JKO
+무리없이	무리/NNG+없이/MAG
+해내고	해내/VV+고/EC
+있다	있/VX+다/EC
+
+아니	아니/IC
+단순히	단순히/MAG
+해	하/VV+여/EC
+내는	내/VX+는/ETM
+것이	것/NNB+이/JKC
+아니라	아니/VCN+라/EC
+미국	미국/NNP
+국내	국내/NNG
+최고의	최고/NNG+의/JKG
+실력의	실력/NNG+의/JKG
+자리에	자리/NNG+에/JKB
+우뚝	우뚝/MAG
+섰다	서/VV+었/EP+다/EC
+
+수많은	수많/VA+은/ETM
+메달들이	메달/NNG+들/XSN+이/JKS
+증명하고	증명하/VV+고/EC
+있다	있/VX+다/EC
+
+"저와	"/SS+저/NP+와/JKB
+친해지기	친하/VA+여/EC+지/VX+기/ETN
+전까지는	전/NNG+까지는/JX
+제가	제/NP+가/JKS
+손이	손/NNG+이/JKS
+이렇다는	이렇/VA+다는/ETM
+것을	것/NNB+을/JKO
+모르지요	모르/VV+지요/EC
+
+"그렇다	"/SS+그렇/VA+다/EC
+
+좀	좀/MAG
+멀리	멀리/MAG
+자리한	자리하/VV+ㄴ/ETM
+관중은	관중/NNG+은/JX
+그녀의	그녀/NP+의/JKG
+손에	손/NNG+에/JKB
+가지고	가지/VV+고/EC
+있는	있/VX+는/ETM
+핸디캡을	핸디캡/NNG+을/JKO
+모른다	모르/VV+ㄴ다/EF
+
+"제	"/SS+저/NP+의/JKG
+손이	손/NNG+이/JKS
+좀	좀/MAG
+불편하지요?	불편하/VA+지요/EF+?/SF
+하지만	하지만/MAJ
+저는	저/NP+는/JX
+그까짓	그까짓/MM
+것	것/NNB
+상관	상관/NNG
+안해요	안/MAG+해요/VV
+
+그냥	그냥/MAG
+열심히	열심히/MAG
+할	하/VV+ㄹ/ETM
+뿐이예요	뿐/NNB+이/VCP+예오/EF
+
+"그렇다	"/SS+그렇/VA+다/EC
+
+그녀는	그녀/NP+는/JX
+체조	체조/NNG
+선수에게는	선수/NNG+에게/JKB+는/JX
+치명적인	치명적/NNG+이/VCP+ㄴ/ETM
+손에	손/NNG+에/JKB
+장애를	장애/NNG+를/JKO
+가지고	가지/VV+고/EC
+있지만	있/VX+지만/EC
+그	그/MM
+장애를	장애/NNG+를/JKO
+'그까짓	'/SS+그까짓/MAG
+거'라고	거/NNG+'/SS+라고/JKQ
+표현한다	표현하/VV+ㄴ다/EF
+
+미국	미국/NNP
+어린이들이	어린이/NNG+들/XSN+이/JKS
+자라면서	자라/VV+면서/EC
+그녀가	그녀/NP+가/JKS
+한	하/VV+ㄴ/ETM
+말을	말/NNG+을/JKO
+기억할	기억하/VV+ㄹ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+삶이	삶/NNG+이/JKS
+어려울	어렵/VA+ㄹ/ETM
+때마다	때/NNG+마다/JX
+'그까짓	'/SS+그까짓/MAG
+거'라고	거/NNG+'/SS+라고/JKQ
+말할	말하/VV+ㄹ/ETM
+것이다	것/NNB+이/VCP+다/EC
+
+그녀는	그녀/NP+는/JX
+어려운	어렵/VA+ㄴ/ETM
+미국	미국/NNP
+사회에	사회/NNG+에/JKB
+끝없는	끝없/VA+는/ETM
+희망을	희망/NNG+을/JKO
+던져	던지/VV+어/EC
+주고	주/VX+고/EC
+있다	있/VX+다/EC
+
+'그까짓	'/SS+그까짓/MAG
+거'라는	거/NNG+'/SS+이/VCP+라는/ETM
+말이	말/NNG+이/JKS
+세상을	세상/NNG+을/JKO
+덮었으면	덮/VV+었/EP+으면/EC
+좋겠다	좋/VA+겠/EP+다/EC
+
+그녀는	그녀/NP+는/JX
+힘차게	힘차/VA+게/EC
+외친다	외치/VV+ㄴ다/EF
+
+'고'라고	'/SS+고/NNG+'/SS+라고/JKQ
+
+그래	그리하/VV+여/EC
+세상이	세상/NNG+이/JKS
+힘들어도	힘들/VA+어도/EC
+가자	가/VV+아자/EC
+
+그녀의	그녀/NP+의/JKG
+힘찬	힘차/VA+ㄴ/ETM
+호령에	호령/NNG+에/JKB
+따라	따르/VV+아/EC
+
+손가락이	손가락/NNG+이/JKS
+없는	없/VA+는/ETM
+오른	오르/VV+ㄴ/ETM
+손(출처:	손/NNG+(/SS+출처/NNG+:/SP
+피비에스	피비에스/NNG
+킷츠	킷츠/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SN+샘/NNG
+체조를	체조/NNG+를/JKO
+하고	하/VV+고/EC
+있는	있/VX+는/ETM
+베일리(출처:	베일리/NNP+(/SS+출처/NNG+:/SP
+피비에스	피비에스/NNP
+킷츠	킷츠/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+도움닫기를	도움닫기/NNG+를/JKO
+하고	하/VV+고/EC
+있는	있/VX+는/ETM
+베일리(출처:	베일리/NNP+(/SS+출처/NNG+:/SP
+피비에스	피비에스/NNP
+킷츠	킷츠/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+잠시	잠시/MAG
+쉬는	쉬/VV+는/ETM
+베일리(출처:	베일리/NNP+(/SS+출처/NNG+:/SP
+피비에스	피비에스/NNP
+킷츠	킷츠/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+철봉을	철봉/NNG+을/JKO
+잡은	잡/VV+은/ETM
+베일리(출처:	베일리/NNP+(/SS+출처/NNG+:/SP
+피비에스	피비에스/NNP
+킷츠	킷츠/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+철봉을	철봉/NNG+을/JKO
+잡고	잡/VV+고/EC
+올라선	올라서/VV+ㄴ/ETM
+베일리(출처:	베일리/NNP+(/SS+출처/NNG+:/SP
+피비에스	피비에스/NNG
+킷츠	킷츠/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+스트레칭	스트레칭/NNG
+모습	모습/NNG
+
+(출처:	(/SS+출처/NNG+:/SP
+피비에스	피비에스/NNG
+킷츠	킷츠/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SN+샘/NNB
+그동안	그동안/NNG
+받은	받/VV+은/ETM
+메달들(출처:	메달/NNG+들/XSN+(/SS+출처/NNG+:/SP
+피비에스	피비에스/NNG
+킷츠	킷츠/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ/SL+샘/NNG
+'고'를	'/SS+고/NNG+'/SS+를/JKO
+외치는	외치/VV+는/ETM
+베일리(출처:	베일리/NNP+(/SS+출처/NNG+:/SP
+피비에스	피비에스/NNG
+킷츠	킷츠/NNG
+동영상	동영상/NNG
+캡처)	캡처/NNG+)/SS
+
+ⓒ샘	ⓒ샘/SN
+*	*/SW
+샘	샘/NNG
+기자는	기자/NNG+는/JX
+에이블뉴스	에이블뉴스/NNP
+객원기자로	객원기자/NNG+로/JKB
+캘리포니아	캘리포니아/NNP
+버클리대학	버클리대학/NNP
+사회학과를	사회학과/NNG+를/JKO
+졸업하고,	졸업하/VV+고/EC+,/SP
+전	전/MM
+미상원	미/NNP+상원/NNG
+장애인국	장애인국/NNG
+인턴을	인턴/NNG+을/JKO
+지냈다	지내/VV+었/EP+다/EC
+
+현재	현재/MAG
+TEC	TEC/SL
+대표를	대표/NNG+를/JKO
+맡고	맡/VV+고/EC
+있다	있/VX+다/EC

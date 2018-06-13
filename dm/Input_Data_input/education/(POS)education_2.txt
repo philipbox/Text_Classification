@@ -1,0 +1,95 @@
+장애학생	장애학생/NNG
+직장생활	직장생활/NNG
+위한	위하/VV+ㄴ/ETM
+매뉴얼	매뉴얼/NNG
+발간	발간/NNG
+
+경기도교육청과	경기도교육청/NNP+과/JC
+부천혜림학교	부천혜림학교/NNP
+직업교육연구회는	직업교육연구회/NNG+는/JX
+장애학생의	장애학생/NNG+의/JKG
+안정적인	안정적/NNG+이/VCP+ㄴ/ETM
+직장생활과	직장생활/NNG+과/JC
+성공적인	성공적/NNG+이/VCP+ㄴ/ETM
+취업을	취업/NNG+을/JKO
+위해	위하/VV+여/EC
+장애학생용	장애학생/NNG+용/XSN
+'직장예절	'/SS+직장예절/NNG
+지도	지도/NNG
+매뉴얼'을	매뉴얼/NNG+'/SS+을/JKO
+전국	전국/NNG
+최초로	최초/NNG+로/JKB
+개발	개발/NNG
+보급한다고	보급하/VV+ㄴ다고/EC
+12일	12/SN+일/NNB
+밝혔다	밝히/VV+었/EP+다/EC
+
+매뉴얼은	매뉴얼/NNG+은/JX
+장애학생의	장애학생/NNG+의/JKG
+직업교육에서	직업교육/NNG+에서/JKB
+상대적으로	상대적/NNG+으로/JKB
+취약한	취약하/VA+ㄴ/ETM
+직장에서의	직장/NNG+에서/JKB+의/JKG
+태도와	태도/NNG+와/JC
+예절	예절/NNG
+부분에	부분/NNG+에/JKB
+초점을	초점/NNG+을/JKO
+맞췄다	맞추/VV+었/EP+다/EF
+
+장애학생이	장애학생/NNG+이/JKS
+직장에	직장/NNG+에/JKB
+취업했을	취업하/VV+였/EP+을/ETM
+때	때/NNG
+경험하게	경험하/VV+게/EC
+되는	되/VV+는/ETM
+다양한	다양하/VA+ㄴ/ETM
+관계	관계/NNG
+및	및/MAG
+태도와	태도/NNG+와/JKB
+관련해	관련하/VV+여/EC
+전화	전화/NNG
+및	및/MAG
+휴대폰	휴대폰/NNG
+예절	예절/NNG
+등	등/NNB
+7개	7/SN+개/NNB
+영역에	영역/NNG+에/JKB
+걸쳐	걸치/VV+어/EC
+응대	응대/NNG
+원칙이나	원칙/NNG+이나/JC
+지침	지침/NNG
+등을	등/NNB+을/JKO
+담고	담/VV+고/EC
+있다	있/VX+다/EC
+
+부록으로	부록/NNG+으로/JKB
+성공적인	성공적/NNG+이/VCP+ㄴ/ETM
+직장생활을	직장생활/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+조언과	조언/NNG+과/JC
+경조사	경조사/NNG
+문구를	문구/NNG+를/JKO
+수록했다	수록하/VV+였/EP+다/EC
+
+매뉴얼은	매뉴얼/NNG+은/JX
+도내	도내/NNG
+특수학교,	특수학교/NNG+,/SP
+특수학급	특수학급/NNG
+설치	설치/NNG
+고등학교에	고등학교/NNG+에/JKB
+배부되며,	배부되/VV+며/EC+,/SP
+경기도교육청	경기도교육청/NNP
+홈페이지	홈페이지/NNG
+(www	(/SS+www/SL
+
+goe	goe/SL
+
+go	go/SL
+
+kr)에도	kr/SL+)/SS+에/JKB+도/JX
+탑재,	탑재/NNG+,/SP
+누구나	누구/NP+나/JX
+활용할	활용하/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+했다	하/VX+였/EP+다/EF

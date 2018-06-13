@@ -1,0 +1,119 @@
+제주DPI,	제주/NNP+DPI/SL+,/SP
+'제7회	'/SS+제/XPN+7/SN+회/NNB
+장애인영화	장애인영화/NNG
+제작지원'	제작지원/NNG+'/SS
+공모	공모/NNG
+
+제주DPI가	제주/NNP+DPI/SL+가/JKS
+오는	오/VV+는/ETM
+16일까지	16/SN+일/NNB+까지/JX
+‘제7회	‘/SN+제/NNB+7/SN+회/NNB
+장애인영화	장애인영화/NNG
+사전제작지원작’을	사전제작지원작’/NNG+을/JKO
+공모한다	공모하/VV+ㄴ다/EF
+
+장애인	장애인/NNG
+인권을	인권/NNG+을/JKO
+주제로	주제/NNG+로/JKB
+한	하/VV+ㄴ/ETM
+다큐멘터리,	다큐멘터리/NNG+,/SP
+애니메이션,	애니메이션/NNG+,/SP
+극영화,	극영화/NNG+,/SP
+실험영화	실험영화/NNG
+등	등/NNB
+모든	모든/MM
+장르는	장르/NNG+는/JX
+신청이	신청/NNG+이/JKS
+가능하다	가능하/VA+다/EC
+
+출품	출품/NNG
+자격	자격/NNG
+또한	또한/MAG
+제한이	제한/NNG+이/JKS
+없다	없/VA+다/EF
+
+제주DPI는	제주/NNP+DPI/SL+는/JX
+공모를	공모/NNG+를/JKO
+통해	통하/VV+여/EC
+1~2편	1/SN+~/SO+2/SN+편/NNB
+이내의	이내/NNG+의/JKG
+작품을	작품/NNG+을/JKO
+선정,	선정/NNG+,/SP
+각각	각각/MAG
+최대	최대/NNG
+100만원을	100/SN+만/NR+원/NNB+을/JKO
+지원할	지원하/VV+ㄹ/ETM
+계획이다	계획/NNG+이/VCP+다/EC
+
+이번	이번/NNG
+공모를	공모/NNG+를/JKO
+통해	통하/VV+여/EC
+선정된	선정되/VV+ㄴ/ETM
+작품은	작품/NNG+은/JX
+오는	오/VV+는/ETM
+2013년에	2013/SN+년/NNB+에/JKB
+개최되는	개최되/VV+는/ETM
+‘제14회	‘/SL+제/XPN+14/SN+회/NNB
+제주장애인인권영화제’를	제주장애인인권영화제’/NNG+를/JKO
+통해	통하/VV+여/EC
+상영된다	상영되/VV+ㄴ다/EF
+
+희망자는	희망자/NNG+는/JX
+제주장애인인권영화제	제주/NNP+장애인인권영화제/NNG
+홈페이지(www	홈페이지/NNG+(/SS+www/SL
+
+dhff	dhff/SL
+
+or	or/SL
+
+kr)에서	kr/SL+)/SS+에서/JKB
+신청서를	신청서/NNG+를/JKO
+다운로드	다운로드/NNG
+받아	받/VV+아/EC
+작성한	작성하/VV+ㄴ/ETM
+뒤	뒤/NNG
+이력서,	이력서/NNG+,/SP
+시나리오	시나리오/NNG
+등의	등/NNB+의/JKG
+제출서류와	제출서류/NNG+와/JKB
+함께	함께/MAG
+우편	우편/NNG
+또는	또는/MAG
+방문해	방문하/VV+여/EC
+접수하면	접수하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+단,	단/NNG+,/SP
+촬영	촬영/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+작품에	작품/NNG+에/JKB
+대해	대하/VV+여/EC
+제작비를	제작비/NNG+를/JKO
+지원받고자	지원/NNG+받/VV+고자/EC
+하는	하/VX+는/ETM
+경우	경우/NNG
+제작계획서	제작계획서/NNG
+및	및/MAG
+제작비	제작비/NNG
+명세서에	명세서/NNG+에/JKB
+(예상)총제작비	(/SS+예상/NNG+)/SS+총제작비/NNG
+대비	대비/NNG
+현재까지	현재/NNG+까지/JX
+집행된	집행되/VV+ㄴ/ETM
+제작비	제작비/NNG
+규모·내역	규모/NNG+·/SP+내역/NNG
+등을	등/NNB+을/JKO
+구체적으로	구체적/NNG+으로/JKB
+명시하고,	명시하/VV+고/EC+,/SP
+현재까지	현재/NNG+까지/JX
+촬영된	촬영되/VV+ㄴ/ETM
+부분을	부분/NNG+을/JKO
+테이프·DVD로	테이프/NNG+·/SP+DVD/SL+로/JKB
+제출해야	제출하/VV+여야/EC
+한다	하/VX+ㄴ다/EF
+
+*문의:	*/SW+문의/NNG+:/SP
+제주DPI	제주/NNP+DPI/SL
+부설	부설/NNG
+장애인영상미디어지원센터	장애인영상미디어지원센터/NNG
+064-757-9897	064/SN+-/SO+757/SN+-/SO+9897/SN

@@ -1,0 +1,82 @@
+‘제32회	‘/SN+제/XPN+32/SN+회/NNB
+다양한시선	다양한시선/NNP
+사진전’	사진/NNG+전/XSN+’/SN
+작품	작품/NNG
+공모	공모/NNG
+
+2012	2012/SN
+장애인문화예술축제	장애인문화예술축제/NNG
+조직위원회와	조직위원회/NNG+와/JC
+한국장애인사진협회는	한국/NNP+장애인사진협회/NNG+는/JX
+오는	오/VV+는/ETM
+31일까지	31/SN+일/NNB+까지/JX
+‘제32회	‘/SN+제/XPN+32/SN+회/NNB
+다양한시선	다양한시선/NNG
+사진전’	사진/NNG+전/XSN+’/SN
+작품을	작품/NNG+을/JKO
+공모한다	공모하/VV+ㄴ다/EF
+
+이번	이번/NNG
+사진전에는	사진/NNG+전/XSN+에/JKB+는/JX
+‘생활의	‘/SL+생활/NNG+의/JKG
+발견’이라는	발견’/NNG+이/VCP+라는/ETM
+주제	주제/NNG
+아래	아래/NNG
+일상생활에	일상생활/NNG+에/JKB
+장애인	장애인/NNG
+스스로의	스스로/NNG+의/JKG
+모습이나	모습/NNG+이나/JC
+접근성,	접근성/NNG+,/SP
+이동성,	이동성/NNG+,/SP
+차별성을	차별/NNG+성/XSN+을/JKO
+사진으로	사진/NNG+으로/JKB
+표현한	표현하/VV+ㄴ/ETM
+작품이면	작품/NNG+이/VCP+면/EC
+응모할	응모하/VV+ㄹ/ETM
+수	수/NNB
+있다	있/VA+다/EC
+
+신청자격은	신청자격/NNG+은/JX
+장애인,	장애인/NNG+,/SP
+비장애인	비/XPN+장애인/NNG
+모두	모두/MAG
+가능하며	가능하/VA+며/EC
+1인당	1/SN+인/NNG+당/XSN
+3장의	3/SN+장/NNB+의/JKG
+디지털·아날로그	디지털/NNG+·/SP+아날로그/NNG
+사진	사진/NNG
+모두	모두/MAG
+신청	신청/NNG
+가능하다	가능하/VA+다/EC
+
+단	단/MM
+아날로그	아날로그/NNG
+사진은	사진/NNG+은/JX
+스캔해	스캔하/VA+여/EC
+JPG파일로	JPG/SL+파일/NNG+로/JKB
+변환해야	변환하/VV+여야/EC
+한다	하/VX+ㄴ다/EF
+
+희망자는	희망자/NNG+는/JX
+한국장애인사진협회	한국/NNP+장애인사진협회/NNG
+다음카페(http://cafe	다음카페/NNG+(/SS+http/SL+:///SP+cafe/SL
+
+daum	daum/SL
+
+net/kdppa)에	net/SL+//SP+kdppa/SL+)/SS+에/JKB
+접속해	접속하/VV+여/EC
+신청서를	신청서/NNG+를/JKO
+내려받아	내리/VV+어/EC+받/VV+아/EC
+작성한	작성하/VV+ㄴ/ETM
+뒤	뒤/NNG
+이메일(kdppa2011@nate	이메일/NNG+(/SS+kdppa/SL+2011/SN+@/SW+nate/SL
+
+com)로	com/SL+)/SS+로/JKB
+접수하면	접수하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+자세한	자세하/VA+ㄴ/ETM
+사항은	사항/NNG+은/JX
+한국장애인사진협회(☎02-975-7888)에	한국/NNP+장애인사진협회/NNG+(/SS+☎/SW+02/SN+-/SO+975/SN+-/SO+7888/SN+)/SS+에/JKB
+문의하면	문의하/VV+면/EC
+된다	되/VV+ㄴ다/EF

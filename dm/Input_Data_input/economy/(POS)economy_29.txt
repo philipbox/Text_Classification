@@ -1,0 +1,113 @@
+삼성코닝정밀소재,	삼성코닝정밀소재/NNP+,/SP
+장애인고용에	장애인고용/NNG+에/JKB
+앞장	앞장/NNG
+
+삼성코닝정밀소재가	삼성코닝정밀소재/NNP+가/JKS
+장애인고용에	장애인고용/NNG+에/JKB
+앞장선다	앞장서/VV+ㄴ다/EF
+
+한국장애인고용공단(이하	한국장애인고용공단/NNP+(/SS+이하/NNG
+공단)은	공단/NNG+)/SS+은/JX
+24일	24/SN+일/NNB
+삼성코닝정밀소재와	삼성코닝정밀소재/NNP+와/JC
+천안사업장에서	천안사업장/NNG+에서/JKB
+장애인고용증진	장애인고용증진/NNG
+협약식을	협약/NNG+식/XSN+을/JKO
+가졌다고	가지/VV+었/EP+다고/EC
+밝혔다	밝히/VV+었/EP+다/EC
+
+이번	이번/NNG
+협약을	협약/NNG+을/JKO
+토대로	토대/NNG+로/JKB
+삼성코닝정밀소재는	삼성코닝정밀소재/NNP+는/JX
+장애인에게	장애인/NNG+에게/JKB
+알맞은	알맞/VA+은/ETM
+직무를	직무/NNG+를/JKO
+찾아	찾/VV+아/EC
+장애인고용의	장애인고용/NNG+의/JKG
+문을	문/NNG+을/JKO
+넓힐	넓히/VV+ㄹ/ETM
+계획이다	계획/NNG+이/VCP+다/EC
+
+공단은	공단/NNG+은/JX
+적합	적합/NNG
+인력을	인력/NNG+을/JKO
+추천하고,	추천하/VV+고/EC+,/SP
+채용	채용/NNG
+시	시/NNG
+입사지원자	입사지원자/NNG
+모집을	모집/NNG+을/JKO
+대행하는	대행하/VV+는/ETM
+등	등/NNB
+다양한	다양하/VA+ㄴ/ETM
+고용서비스를	고용서비스/NNG+를/JKO
+지원할	지원하/VV+ㄹ/ETM
+방침이다	방침/NNG+이/VCP+다/EC
+
+이에	이/NP+에/JKB
+따라	따르/VV+아/EC
+삼성코닝정밀소재는	삼성코닝정밀소재/NNP+는/JX
+사무직과	사무직/NNG+과/JC
+제조기술직에	제조기술직/NNG+에/JKB
+장애인	장애인/NNG
+20여명	20/SN+여/XSN+명/NNB
+채용을	채용/NNG+을/JKO
+목표로	목표/NNG+로/JKB
+8월	8/SN+월/NNB
+말부터	말/NNB+부터/JX
+공단과	공단/NNG+과/JKB
+함께	함께/MAG
+모집	모집/NNG
+전형을	전형/NNG+을/JKO
+시작한다	시작하/VV+ㄴ다/EC
+
+입사를	입사/NNG+를/JKO
+희망하는	희망하/VV+는/ETM
+장애인은	장애인/NNG+은/JX
+공단	공단/NNG
+홈페이지(www	홈페이지/NNG+(/SS+www/SL
+
+kead	kead/SL
+
+or	or/SL
+
+kr)	kr/SL+)/SS
+채용	채용/NNG
+공고문을	공고문/NNG+을/JKO
+참고하고,	참고하/VV+고/EC+,/SP
+공단	공단/NNG
+충남지사와	충남/NNP+지사/NNG+와/JC
+경북지사를	경북/NNP+지사/NNG+를/JKO
+통해	통하/VV+여/EC
+입사지원서를	입사지원서/NNG+를/JKO
+제출하면	제출하/VV+면/EC
+된다	되/VV+ㄴ다/EF
+
+조종란	조종/NNP+란/JX
+공단	공단/NNG
+고용촉진이사는	고용촉진이사/NNG+는/JX
+“한국의	“/SL+한국/NNP+의/JKG
+디스플레이	디스플레이/NNG
+산업을	산업/NNG+을/JKO
+선도하고	선도하/VV+고/EC
+있는	있/VX+는/ETM
+삼성코닝정밀소재가	삼성코닝정밀소재/NNP+가/JKS
+장애인고용을	장애인고용/NNG+을/JKO
+확대하면	확대하/VV+면/EC
+장애인이	장애인/NNG+이/JKS
+첨단산업	첨단산업/NNG
+일자리에	일자리/NNG+에/JKB
+진출하게	진출하/VV+게/EC
+되는	되/VV+는/ETM
+것”이라며	것/NNB+”/SL+이/VCP+라며/EC
+“공단은	“/SL+공단/NNG+은/JX
+장애인이	장애인/NNG+이/JKS
+안정적으로	안정적/NNG+으로/JKB
+일할	일하/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+삼성코닝정밀소재의	삼성코닝정밀소재/NNP+의/JKG
+장애인고용을	장애인고/NNG+용/XSN+을/JKO
+적극	적극/NNG
+지원하겠다”고	지원하/VV+겠/EP+다/EC+”/VV+고/EC
+밝혔다	밝히/VV+었/EP+다/EC

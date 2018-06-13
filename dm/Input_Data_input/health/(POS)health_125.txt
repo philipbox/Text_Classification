@@ -1,0 +1,281 @@
+국민	국민/NNG
+100명	100/SN+명/NNB
+중	중/NNB
+6명이	6/SN+명/NNB+이/JKS
+‘만성콩팥병’	‘/SN+만/NR+성콩팥병/NNG+’/SN
+앓아	앓/VV+아/EC
+
+우리나라	우리나라/NNG
+국민	국민/NNG
+100명	100/SN+명/NNB
+중	중/NNB
+6명이	6/SN+명/NNB+이/JKS
+만성콩팥병(만성신부전증)을	만성콩팥병/NNG+(/SS+만성신부전증/NNG+)/SS+을/JKO
+앓고	앓/VV+고/EC
+있는	있/VX+는/ETM
+것으로	것/NNB+으로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+11일	11/SN+일/NNB
+질병관리본부와	질병관리본부/NNG+와/JC
+대한신장학회가	대한신장학회/NNP+가/JKS
+오는	오/VV+는/ETM
+13일	13/SN+일/NNB
+만성콩팥병	만성콩팥병/NNG
+예방과	예방/NNG+과/JC
+관리	관리/NNG
+국제심포지엄을	국제심포지엄/NNG+을/JKO
+앞두고	앞두/VV+고/EC
+발표한	발표하/VV+ㄴ/ETM
+2008년	2008/SN+년/NNB
+국민건강영양조사	국민건강영양/NNP+조사/NNG
+제4기	제/XPN+4/SN+기/NNG
+2차년도	2/SN+차년/NNB+도/JX
+국민건강통계에	국민건강통계/NNP+에/JKB
+따르면	따르/VV+면/EC
+만성콩팥병	만성콩팥병/NNG
+유병률은	유병률/NNG+은/JX
+전체	전체/NNG
+5	5/SN
+
+7%였다	7/SN+%/SW+이/VCP+었/EP+다/EF
+
+성별로는	성별/NNG+로/JKB+는/JX
+남자가	남자/NNG+가/JKS
+4	4/SN
+
+5%,	5/SN+%/SW+,/SP
+여자가	여자/NNG+가/JKS
+6	6/SN
+
+5%로	5/SN+%/SW+로/JKB
+나타났다	나타나/VV+았/EP+다/EC
+
+만성콩팥병	만성콩팥병/NNG
+유병률이란	유병률/NNG+이란/JX
+만	만/MM
+30세	30/SN+세/NNB
+이상을	이상/NNG+을/JKO
+기준으로	기준/NNG+으로/JKB
+사구체여과율이	사구체여과율/NNG+이/JKS
+기준(60㎖/min/1	기준/NNG+(/SS+60/SN+㎖/SW+//SP+min/SL+//SP+1/SN
+
+73㎡)에	73/SN+㎡/SW+)/SS+에/JKB
+못	못/MAG
+미치는	미치/VV+는/ETM
+경우를	경우/NNG+를/JKO
+말한다	말하/VV+ㄴ다/EF
+
+연령별로는	연령/NNG+별/XSN+로/JKB+는/JX
+70대에서	70/SN+대/NNB+에서/JKB
+23	23/SN
+
+7%로	7/SN+%/SW+로/JKB
+가장	가장/MAG
+높았고,	높/VA+았/EP+고/EC+,/SP
+60~69세	60/SN+~/SO+69/SN+세/NNB
+11	11/SN
+
+5%,	5/SN+%/SW+,/SP
+50~59세	50/SN+~/SO+59/SN+세/NNB
+4	4/SN
+
+9%,	9/SN+%/SW+,/SP
+40~49세	40/SN+~/SO+49/SN+세/NNB
+2	2/SN
+
+7%,	7/SN+%/SW+,/SP
+30~39세	30/SN+~/SO+39/SN+세/NNB
+0	0/SN
+
+9%를	9/SN+%/SW+를/JKO
+보였다	보이/VV+었/EP+다/EF
+
+특히	특히/MAG
+70대에서는	70/SN+대/NNB+에서/JKB+는/JX
+여성이	여성/NNG+이/JKS
+28	28/SN
+
+9%로	9/SN+%/SW+로/JKB
+남성	남성/NNG
+15,5%보다	15,5/SN+%/SW+보다/JKB
+두	두/MM
+배	배/NNG
+가까이	가까이/MAG
+높았다	높/VA+았/EP+다/EC
+
+하지만	하지만/MAJ
+대한신장학회는	대한신장학회/NNP+는/JX
+1~2기	1/SN+~/SO+2/SN+기/NNG
+등	등/NNB
+초기	초기/NNG
+환자까지	환자/NNG+까지/JX
+포함할	포함하/VV+ㄹ/ETM
+경우	경우/NNG
+국민의	국민/NNG+의/JKG
+13%	13/SN+%/SW
+정도가	정도/NNG+가/JKS
+만성콩팥병을	만성콩팥병/NNG+을/JKO
+앓는	앓/VV+는/ETM
+것으로	것/NNB+으로/JKB
+추정하고	추정하/VV+고/EC
+있다	있/VX+다/EC
+
+또한	또한/MAG
+만성신부전증	만성신부전/NNG+증/XSN
+환자의	환자/NNG+의/JKG
+진료비는	진료비/NNG+는/JX
+2006년	2006/SN+년/NNB
+8,953억원에서	8,953/SN+억/NR+원/NNB+에서/JKB
+2010년	2010/SN+년/NNB
+1조3,212억원으로	1/SN+조/NR+3,212/SN+억/NR+원/NNB+으로/JKB
+47	47/SN
+
+6%	6/SN+%/SW
+급증했다	급증하/VV+였/EP+다/EF
+
+투석	투석/NNG
+및	및/MAG
+이식환자의	이식환자/NNG+의/JKG
+외래	외래/NNG
+요양급여비용도	요양급여비용/NNG+도/JX
+2008년	2008/SN+년/NNB
+기준	기준/NNG
+약	약/MM
+7,000억원으로	7,000/SN+억/NR+원/NNB+으로/JKB
+2003년과	2003/SN+년/NNB+과/JKB
+비교해	비교하/VV+여/EC
+81%나	81/SN+%/SW+나/JX
+늘었다	늘/VV+었/EP+다/EF
+
+2009년	2009/SN+년/NNB
+기준	기준/NNG
+‘대한신장학회	‘/SL+대한신장학회/NNP
+말기신부전	말기신부전/NNG
+환자	환자/NNG
+등록사업’을	등록사업’/NNG+을/JKO
+통해	통하/VV+여/EC
+이식	이식/NNG
+또는	또는/MAG
+투석	투석/NNG
+등	등/NNB
+신대체요법	신대체요법/NNG
+대상으로	대상/NNG+으로/JKB
+보고된	보고되/VV+ㄴ/ETM
+환자만	환자/NNG+만/JX
+5만6,000명이	5/SN+만/NR+6,000/SN+명/NNB+이/JKS
+넘는다	넘/VV+는다/EC
+
+한편	한편/MAG
+질병관리본부와	질병관리본부/NNG+와/JC
+대한신장학회는	대한신장학회/NNP+는/JX
+만성콩팥병	만성콩팥병/NNG
+유병율이	유병율/NNG+이/JKS
+비교적	비교적/NNG
+높은	높/VA+은/ETM
+편인	편/NNB+이/VCP+ㄴ/ETM
+반면	반면/NNG
+질환에	질환/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+인지도가	인지도/NNG+가/JKS
+낮아	낮/VA+아/EC
+조기	조기/NNG
+발견이	발견/NNG+이/JKS
+잘	잘/MAG
+이뤄지지	이루어지/VV+지/EC
+않는다는	않/VX+는다는/ETM
+판단에	판단/NNG+에/JKB
+따라	따르/VV+아/EC
+‘만성콩팥병	‘/SN+만/NR+성콩팥병/NNG
+예방과	예방/NNG+과/JC
+관리를	관리/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+9대	9/SN+대/NNB
+생활수칙’을	생활수칙/NNG+’/SL+을/JKO
+발표했다	발표하/VV+였/EP+다/EC
+
+1	1/SN
+
+음식은	음식/NNG+은/JX
+싱겁게	싱겁/VA+게/EC
+먹고	먹/VV+고/EC
+단백질은	단백질/NNG+은/JX
+가급적	가급적/MAG
+섭취를	섭취/NNG+를/JKO
+줄인다	줄일/VV+ㄴ다/EF
+
+2	2/SN
+
+칼륨이	칼륨/NNG+이/JKS
+많은	많/VA+은/ETM
+과일과	과일/NNG+과/JC
+채소의	채소/NNG+의/JKG
+지나친	지나치/VA+ㄴ/ETM
+섭취를	섭취/NNG+를/JKO
+피한다	피하/VV+ㄴ다/EC
+
+3	3/SN
+
+콩팥의	콩팥/NNG+의/JKG
+상태에	상태/NNG+에/JKB
+따라	따르/VV+아/EC
+수분을	수분/NNG+을/JKO
+적절히	적절히/MAG
+섭취한다	섭취하/VV+ㄴ다/EC
+
+4	4/SN
+
+담배는	담배/NNG+는/JX
+반드시	반드시/MAG
+끊고	끊/VV+고/EC
+술은	술/NNG+은/JX
+하루에	하루/NNG+에/JKB
+한두	한두/MM
+잔	잔/NNG
+이하로	이하/NNG+로/JKB
+줄인다	줄일/VV+ㄴ다/EF
+
+5	5/SN
+
+적정	적정/NNG
+체중을	체중/NNG+을/JKO
+유지한다	유지하/VV+ㄴ다/EC
+
+6	6/SN
+
+주	주/NNG
+3일	3/SN+일/NNB
+이상	이상/NNG
+30분에서	30/SN+분/NNB+에서/JKB
+1시간	1/SN+시간/NNB
+정도	정도/NNG
+적절한	적절하/VA+ㄴ/ETM
+운동을	운동/NNG+을/JKO
+한다	하/VV+ㄴ다/EF
+
+7	7/SN
+
+고혈압과	고혈압/NNG+과/JC
+당뇨병을	당뇨병/NNG+을/JKO
+꾸준히	꾸준히/MAG
+치료한다	치료하/VV+ㄴ다/EF
+
+8	8/SN
+
+정기적으로	정기적/NNG+으로/JKB
+소변	소변/NNG
+단백뇨와	단백뇨/NNG+와/JC
+혈액	혈액/NNG
+크레아티닌	크레아티닌/NNG
+검사를	검사/NNG+를/JKO
+한다	하/VV+ㄴ다/EF
+
+9	9/SN
+
+꼭	꼭/MAG
+필요한	필요하/VA+ㄴ/ETM
+약을	약/NNG+을/JKO
+콩팥	콩팥/NNG
+기능에	기능/NNG+에/JKB
+맞게	맞/VV+게/EC
+복용한다	복용하/VV+ㄴ다/EF
