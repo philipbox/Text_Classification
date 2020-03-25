@@ -1,4 +1,4 @@
-# Text_Classification
+# Text_Classification(Data Minining PJT)
 ![Demo](https://github.com/PhilipBox/Text_Classification/blob/master/dm/img/dm_tp_1.PNG).<br>
 
 - Assigning a document as one or more than one class.
